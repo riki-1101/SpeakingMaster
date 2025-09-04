@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>スマホ</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+    <header id="practice_header"></header>
+    <main>
+        <h1>スマホ</h1>
+        <div id="radio">
+            <input type="radio" name="category" id="基本操作" value="基本操作" checked>
+            <label for="基本操作">基本操作</label>
+            <input type="radio" name="category" id="設定" value="設定">
+            <label for="設定">設定</label>
+            <input type="radio" name="category" id="連絡" value="連絡">
+            <label for="連絡">連絡</label>
+            <input type="radio" name="category" id="アプリ" value="アプリ">
+            <label for="アプリ">アプリ</label>
+        </div>
+        <ul id="phrase-list"></ul>
+        <div id="popup">
+            <div class="modal-content">
+                <p id="en"></p>
+                <p id="ja"></p>
+                <ul id="example"></ul>
+            </div>
+        </div>
+    </main>
+    <footer id="footer"></footer>
+    <script src="../js/practice_header.js"></script>
+    <script src="../js/footer.js"></script>
+    <script src="../js/script.js"></script>
+    <script src="js/scan.js"></script>
+</body>
+</html>

@@ -1,0 +1,599 @@
+[
+    {
+        "category": "満足",
+        "en_present": "I'm glad to (do)",
+        "ja_present": "～して嬉しい",
+        "en_past": "I was glad to (do)",
+        "ja_past": "～して嬉しかった",
+        "en_will": "I'll be glad to (do)",
+        "ja_will": "～して嬉しいだろう"
+    },
+    {
+        "category": "満足",
+        "en_present": "I'm happy to (do)",
+        "ja_present": "～して幸せだ",
+        "en_past": "I was happy to (do)",
+        "ja_past": "～して幸せだった",
+        "en_will": "I'll be happy to (do)",
+        "ja_will": "喜んで～する"
+    },
+    {
+        "category": "満足",
+        "en_present": "I'm pleased to (do)",
+        "ja_present": "～して喜んでいる",
+        "en_past": "I was pleased to (do)",
+        "ja_past": "～して喜んでいた",
+        "en_will": "I'll be pleased to (do)",
+        "ja_will": "～して喜ぶだろう"
+    },
+    {
+        "category": "満足",
+        "en_present": "I'm delighted to (do)",
+        "ja_present": "～して大喜びである",
+        "en_past": "I was delighted to (do)",
+        "ja_past": "～して大喜びだった",
+        "en_will": "I'll be delighted to (do)",
+        "ja_will": "～して大喜びだろう"
+    },
+    {
+        "category": "満足",
+        "en_present": "I'm thrilled to (do)",
+        "ja_present": "～してワクワクしている",
+        "en_past": "I was thrilled to (do)",
+        "ja_past": "～してワクワクしていた",
+        "en_will": "I'll be thrilled to (do)",
+        "ja_will": "～してワクワクするだろう"
+    },
+    {
+        "category": "満足",
+        "en_present": "I'm overjoyed to (do)",
+        "ja_present": "～して大変喜んでいる",
+        "en_past": "I was overjoyed to (do)",
+        "ja_past": "～して大変喜んでいた",
+        "en_will": "I'll be overjoyed to (do)",
+        "ja_will": "～して大変喜ぶだろう"
+    },
+    {
+        "category": "満足",
+        "en_present": "I'm proud to (do)",
+        "ja_present": "～するのを誇りに思う",
+        "en_past": "I was proud to (do)",
+        "ja_past": "～するのを誇りに思った",
+        "en_will": "I'll be proud to (do)",
+        "ja_will": "～するのを誇りに思うだろう"
+    },
+    {
+        "category": "満足",
+        "en_present": "I'm lucky to (do)",
+        "ja_present": "～するとは運がいい",
+        "en_past": "I was lucky to (do)",
+        "ja_past": "～するとは運がよかった",
+        "en_will": "I'll be lucky to (do)",
+        "ja_will": "～するとは運がいいだろう"
+    },
+    {
+        "category": "満足",
+        "en_present": "I'm thankful to (do)",
+        "ja_present": "～して感謝している",
+        "en_past": "I was thankful to (do)",
+        "ja_past": "～して感謝していた",
+        "en_will": "I'll be thankful to (do)",
+        "ja_will": "～して感謝するだろう"
+    },
+    {
+        "category": "満足",
+        "en_present": "I'm pleased with (sth)",
+        "ja_present": "～に喜んでいる",
+        "en_past": "I was pleased with (sth)",
+        "ja_past": "～に喜んでいた",
+        "en_will": "I'll be pleased with (sth)",
+        "ja_will": "～に喜ぶだろう"
+    },
+
+    
+
+
+
+    {
+        "category": "驚き",
+        "en_present": "I'm surprised to (do)",
+        "ja_present": "～して驚いている",
+        "en_past": "I was surprised to (do)",
+        "ja_past": "～して驚いた",
+        "en_will": "I'll be surprised to (do)",
+        "ja_will": "～して驚くだろう"
+    },
+    {
+        "category": "驚き",
+        "en_present": "I'm astonished to (do)",
+        "ja_present": "～して非常に驚いている",
+        "en_past": "I was astonished to (do)",
+        "ja_past": "～して非常に驚いた",
+        "en_will": "I'll be astonished to (do)",
+        "ja_will": "～して非常に驚くだろう"
+    },
+    {
+        "category": "驚き",
+        "en_present": "I'm surprised at (sth)",
+        "ja_present": "～に驚いている",
+        "en_past": "I was surprised at (sth)",
+        "ja_past": "～に驚いた",
+        "en_will": "I'll be surprised at (sth)",
+        "ja_will": "～に驚くだろう"
+    },
+    {
+        "category": "驚き",
+        "en_present": "I'm amazed at (sth)",
+        "ja_present": "～にひどく驚いている",
+        "en_past": "I was amazed at (sth)",
+        "ja_past": "～にひどく驚いた",
+        "en_will": "I'll be amazed at (sth)",
+        "ja_will": "～にひどく驚くだろう"
+    },
+    {
+        "category": "驚き",
+        "en_present": "I'm astonished at (sth)",
+        "ja_present": "～に非常に驚いている",
+        "en_past": "I was astonished at (sth)",
+        "ja_past": "～に非常に驚いた",
+        "en_will": "I'll be astonished at (sth)",
+        "ja_will": "～に非常に驚くだろう"
+    },
+    {
+        "category": "驚き",
+        "en_present": "I'm shocked at (sth)",
+        "ja_present": "～にショックを受けている",
+        "en_past": "I was shocked at (sth)",
+        "ja_past": "～にショックを受けた",
+        "en_will": "I'll be shocked at (sth)",
+        "ja_will": "～にショックを受けるだろう"
+    },
+
+
+
+
+
+    {
+        "category": "悲しみ",
+        "en_present": "I'm sorry to (do)",
+        "ja_present": "～して残念だ",
+        "en_past": "I was sorry to (do)",
+        "ja_past": "～して残念だった",
+        "en_will": "I'll be sorry to (do)",
+        "ja_will": "～して残念だろう"
+    },
+    {
+        "category": "悲しみ",
+        "en_present": "I'm sad to (do)",
+        "ja_present": "～して悲しい",
+        "en_past": "I was sad to (do)",
+        "ja_past": "～して悲しかった",
+        "en_will": "I'll be sad to (do)",
+        "ja_will": "～して悲しむだろう"
+    },
+    {
+        "category": "悲しみ",
+        "en_present": "I'm disappointed to (do)",
+        "ja_present": "～してがっかりだ",
+        "en_past": "I was disappointed to (do)",
+        "ja_past": "～してがっかりした",
+        "en_will": "I'll be disappointed to (do)",
+        "ja_will": "～してがっかりするだろう"
+    },
+    {
+        "category": "悲しみ",
+        "en_present": "I'm regretful to (do)",
+        "ja_present": "～して後悔している",
+        "en_past": "I was regretful to (do)",
+        "ja_past": "～して後悔していた",
+        "en_will": "I'll be regretful to (do)",
+        "ja_will": "～して後悔するだろう"
+    },
+    {
+        "category": "悲しみ",
+        "en_present": "I'm upset to (do)",
+        "ja_present": "～してうろたえた",
+        "en_past": "I was upset to (do)",
+        "ja_past": "～してうろたえた",
+        "en_will": "I'll be upset to (do)",
+        "ja_will": "～してうろたえるだろう"
+    },
+    {
+        "category": "悲しみ",
+        "en_present": "I'm disappointed at (sth)",
+        "ja_present": "～にがっかりしている",
+        "en_past": "I was disappointed at (sth)",
+        "ja_past": "～にがっかりした",
+        "en_will": "I'll be disappointed at (sth)",
+        "ja_will": "～にがっかりするだろう"
+    },
+    {
+        "category": "悲しみ",
+        "en_present": "I'm regretful about (sth)",
+        "ja_present": "～を後悔している",
+        "en_past": "I was regretful about (sth)",
+        "ja_past": "～を後悔していた",
+        "en_will": "I'll be regretful about (sth)",
+        "ja_will": "～を後悔するだろう"
+    },
+    {
+        "category": "悲しみ",
+        "en_present": "I'm heartbroken over (sth)",
+        "ja_present": "～に悲嘆にくれる",
+        "en_past": "I was heartbroken over (sth)",
+        "ja_past": "～に悲嘆にくれた",
+        "en_will": "I'll be heartbroken over (sth)",
+        "ja_will": "～に悲嘆にくれるだろう"
+    },
+
+
+
+
+    
+    {
+        "category": "興奮",
+        "en_present": "I'm fond of (sth)",
+        "ja_present": "～が好きである",
+        "en_past": "I was fond of (sth)",
+        "ja_past": "～が好きだった",
+        "en_will": "I'll be fond of (sth)",
+        "ja_will": "～が好きだろう"
+    },
+    {
+        "category": "興奮",
+        "en_present": "I'm interested in (sth)",
+        "ja_present": "～に興味がある",
+        "en_past": "I was interested in (sth)",
+        "ja_past": "～に興味があった",
+        "en_will": "I'll be interested in (sth)",
+        "ja_will": "～に興味があるだろう"
+    },
+    {
+        "category": "興奮",
+        "en_present": "I'm curious about (sth)",
+        "ja_present": "～に好奇心がある",
+        "en_past": "I was curious about (sth)",
+        "ja_past": "～に好奇心があった",
+        "en_will": "I'll be curious about (sth)",
+        "ja_will": "～に好奇心があるだろう"
+    },
+    {
+        "category": "興奮",
+        "en_present": "I feel like (sth)",
+        "ja_present": "～な気分である",
+        "en_past": "I felt like (sth)",
+        "ja_past": "～な気分だった",
+        "en_will": "I'll feel like (sth)",
+        "ja_will": "～な気分だろう"
+    },
+    {
+        "category": "興奮",
+        "en_present": "I'm looking forward to (sth)",
+        "ja_present": "～を楽しみにしている（丁寧）",
+        "en_past": "I was looking forward to (sth)",
+        "ja_past": "～を楽しみにしていた（丁寧）",
+        "en_will": "I'll be looking forward to (sth)",
+        "ja_will": "～を楽しみにするだろう（丁寧）"
+    },
+    {
+        "category": "興奮",
+        "en_present": "I'm excited at (sth)",
+        "ja_present": "～に興奮している",
+        "en_past": "I was excited at (sth)",
+        "ja_past": "～に興奮していた",
+        "en_will": "I'll be excited at (sth)",
+        "ja_will": "～に興奮するだろう"
+    },
+    {
+        "category": "興奮",
+        "en_present": "I'm thrilled about (sth)",
+        "ja_present": "～にとても興奮している",
+        "en_past": "I was thrilled about (sth)",
+        "ja_past": "～にとても興奮していた",
+        "en_will": "I'll be thrilled about (sth)",
+        "ja_will": "～にとても興奮するだろう"
+    },
+
+
+
+
+
+    {
+        "category": "不安",
+        "en_present": "I'm careful about (sth)",
+        "ja_present": "～に気をつけている",
+        "en_past": "I was careful about (sth)",
+        "ja_past": "～に気をつけていた",
+        "en_will": "I'll be careful about (sth)",
+        "ja_will": "～に気をつけるだろう"
+    },
+    {
+        "category": "不安",
+        "en_present": "I'm concerned about (sth)",
+        "ja_present": "～を気にしている",
+        "en_past": "I was concerned about (sth)",
+        "ja_past": "～を気にしていた",
+        "en_will": "I'll be concerned about (sth)",
+        "ja_will": "～を気にするだろう"
+    },
+    {
+        "category": "不安",
+        "en_present": "I'm worried about (sth)",
+        "ja_present": "～を心配している",
+        "en_past": "I was worried about (sth)",
+        "ja_past": "～を心配していた",
+        "en_will": "I'll be worried about (sth)",
+        "ja_will": "～を心配するだろう"
+    },
+    {
+        "category": "不安",
+        "en_present": "I'm uneasy about (sth)",
+        "ja_present": "～に落ち着かない",
+        "en_past": "I was uneasy about (sth)",
+        "ja_past": "～に落ち着かなかった",
+        "en_will": "I'll be uneasy about (sth)",
+        "ja_will": "～に落ち着かないだろう"
+    },
+    {
+        "category": "不安",
+        "en_present": "I'm nervous about (sth)",
+        "ja_present": "～に緊張している",
+        "en_past": "I was nervous about (sth)",
+        "ja_past": "～に緊張していた",
+        "en_will": "I'll be nervous about (sth)",
+        "ja_will": "～に緊張するだろう"
+    },
+    {
+        "category": "不安",
+        "en_present": "I'm anxious about (sth)",
+        "ja_present": "～について不安に感じている",
+        "en_past": "I was anxious about (sth)",
+        "ja_past": "～について不安に感じていた",
+        "en_will": "I'll be anxious about (sth)",
+        "ja_will": "～について不安に感じるだろう"
+    },
+    {
+        "category": "不安",
+        "en_present": "I'm worried sick about (sth)",
+        "ja_present": "～が心配でたまらない",
+        "en_past": "I was worried sick about (sth)",
+        "ja_past": "～が心配でたまらなかった",
+        "en_will": "I'll be worried sick about (sth)",
+        "ja_will": "～が心配でたまらないだろう"
+    },
+    {
+        "category": "不安",
+        "en_present": "I'm frightened of (sth)",
+        "ja_present": "～に怖がっている",
+        "en_past": "I was frightened of (sth)",
+        "ja_past": "～に怖がっていた",
+        "en_will": "I'll be frightened of (sth)",
+        "ja_will": "～に怖がるだろう"
+    },
+    {
+        "category": "不安",
+        "en_present": "I'm scared of (sth)",
+        "ja_present": "～に怖がっている",
+        "en_past": "I was scared of (sth)",
+        "ja_past": "～に怖がっていた",
+        "en_will": "I'll be scared of (sth)",
+        "ja_will": "～に怖がるだろう"
+    },
+    {
+        "category": "不安",
+        "en_present": "I'm terrified of (sth)",
+        "ja_present": "～をひどく恐れている",
+        "en_past": "I was terrified of (sth)",
+        "ja_past": "～をひどく恐れていた",
+        "en_will": "I'll be terrified of (sth)",
+        "ja_will": "～をひどく恐れるだろう"
+    },
+    {
+        "category": "不安",
+        "en_present": "I'm panicking about (sth)",
+        "ja_present": "～でパニックになっている",
+        "en_past": "I was panicking about (sth)",
+        "ja_past": "～でパニックになっていた",
+        "en_will": "I'll be panicking about (sth)",
+        "ja_will": "～でパニックになるだろう"
+    },
+
+
+
+
+
+    {
+        "category": "能力",
+        "en_present": "I'm used to (sth)",
+        "ja_present": "～に慣れている",
+        "en_past": "I was used to (sth)",
+        "ja_past": "～に慣れていた",
+        "en_will": "I'll be used to (sth)",
+        "ja_will": "～に慣れているだろう"
+    },
+    {
+        "category": "能力",
+        "en_present": "I'm accustomed to (sth)",
+        "ja_present": "～に慣れている",
+        "en_past": "I was accustomed to (sth)",
+        "ja_past": "～に慣れていた",
+        "en_will": "I'll be accustomed to (sth)",
+        "ja_will": "～に慣れているだろう"
+    },
+    {
+        "category": "能力",
+        "en_present": "I'm good at (sth)",
+        "ja_present": "～が得意である",
+        "en_past": "I was good at (sth)",
+        "ja_past": "～が得意だった",
+        "en_will": "I'll be good at (sth)",
+        "ja_will": "～が得意だろう"
+    },
+    {
+        "category": "能力",
+        "en_present": "I'm capable of (sth)",
+        "ja_present": "～ができる（能力がある）",
+        "en_past": "I was capable of (sth)",
+        "ja_past": "～ができた（能力があった）",
+        "en_will": "I'll be capable of (sth)",
+        "ja_will": "～ができるだろう（能力がある）"
+    },
+    {
+        "category": "能力",
+        "en_present": "I'm skilled at (sth)",
+        "ja_present": "～に熟練している（技術・実務）",
+        "en_past": "I was skilled at (sth)",
+        "ja_past": "～に熟練していた（技術・実務）",
+        "en_will": "I'll be skilled at (sth)",
+        "ja_will": "～に熟練しているだろう（技術・実務）"
+    },
+    {
+        "category": "能力",
+        "en_present": "I'm proficient in (sth)",
+        "ja_present": "～に堪能である（言語・専門）",
+        "en_past": "I was proficient in (sth)",
+        "ja_past": "～に堪能だった（言語・専門）",
+        "en_will": "I'll be proficient in (sth)",
+        "ja_will": "～に堪能であるだろう（言語・専門）"
+    },
+
+
+
+
+
+    {
+        "category": "姿勢",
+        "en_present": "I'm willing to (do)",
+        "ja_present": "～しても構わない（望んではないが）",
+        "en_past": "I was willing to (do)",
+        "ja_past": "～しても構わなかった（望んではなかったが）",
+        "en_will": "I'll be willing to (do)",
+        "ja_will": "～しても構わないだろう（望んではないが）"
+    },
+    {
+        "category": "姿勢",
+        "en_present": "I'm unwilling to (do)",
+        "ja_present": "～する気がない",
+        "en_past": "I was unwilling to (do)",
+        "ja_past": "～する気がなかった",
+        "en_will": "I'll be unwilling to (do)",
+        "ja_will": "～する気がないだろう"
+    },
+    {
+        "category": "姿勢",
+        "en_present": "I'm reluctant to (do)",
+        "ja_present": "～するのに気が進まない",
+        "en_past": "I was reluctant to (do)",
+        "ja_past": "～するのに気が進まなかった",
+        "en_will": "I'll be reluctant to (do)",
+        "ja_will": "～するのに気が進まないだろう"
+    },
+    {
+        "category": "姿勢",
+        "en_present": "I'm eager to (do)",
+        "ja_present": "～したくてたまらない（前向き）",
+        "en_past": "I was eager to (do)",
+        "ja_past": "～したくてたまらなかった（前向き）",
+        "en_will": "I'll be eager to (do)",
+        "ja_will": "～したくてたまらないだろう（前向き）"
+    },
+    {
+        "category": "姿勢",
+        "en_present": "I'm anxious to (do)",
+        "ja_present": "～したくてたまらない（焦り気味）",
+        "en_past": "I was anxious to (do)",
+        "ja_past": "～したくてたまらなかった（焦り気味）",
+        "en_will": "I'll be anxious to (do)",
+        "ja_will": "～したくてたまらないだろう（焦り気味）"
+    },
+    {
+        "category": "姿勢",
+        "en_present": "I'm aiming to (do)",
+        "ja_present": "～するのを目指している",
+        "en_past": "I was aiming to (do)",
+        "ja_past": "～するのを目指していた",
+        "en_will": "I'll be aiming to (do)",
+        "ja_will": "～するのを目指すだろう"
+    },
+    {
+        "category": "I",
+        "en_present": "I'm trying to (do)",
+        "ja_present": "～しようと頑張っている",
+        "en_past": "I was trying to (do)",
+        "ja_past": "～しようと頑張っていた",
+        "en_will": "I'll be trying to (do)",
+        "ja_will": "～しようと頑張るだろう"
+    },
+    {
+        "category": "姿勢",
+        "en_present": "I'm determined to (do)",
+        "ja_present": "～するのを決意している",
+        "en_past": "I was determined to (do)",
+        "ja_past": "～するのを決意していた",
+        "en_will": "I'll be determined to (do)",
+        "ja_will": "～するのを決意するだろう"
+    },
+    {
+        "category": "姿勢",
+        "en_present": "I'm ready to (do)",
+        "ja_present": "～する用意ができている",
+        "en_past": "I was ready to (do)",
+        "ja_past": "～する用意ができていた",
+        "en_will": "I'll be ready to (do)",
+        "ja_will": "～する用意ができているだろう"
+    },
+    {
+        "category": "姿勢",
+        "en_present": "I'm into (sth)",
+        "ja_present": "～にハマっている",
+        "en_past": "I was into (sth)",
+        "ja_past": "～にハマっていた",
+        "en_will": "I'll be into (sth)",
+        "ja_will": "～にハマっているだろう"
+    },
+    {
+        "category": "姿勢",
+        "en_present": "I'm up for (sth)",
+        "ja_present": "～に乗り気である",
+        "en_past": "I was up for (sth)",
+        "ja_past": "～に乗り気だった",
+        "en_will": "I'll be up for (sth)",
+        "ja_will": "～に乗り気だろう"
+    },
+    {
+        "category": "姿勢",
+        "en_present": "I'm focused on (sth)",
+        "ja_present": "～に集中している",
+        "en_past": "I was focused on (sth)",
+        "ja_past": "～に集中していた",
+        "en_will": "I'll be focused on (sth)",
+        "ja_will": "～に集中するだろう"
+    },
+    {
+        "category": "姿勢",
+        "en_present": "I'm committed to (sth)",
+        "ja_present": "～に熱心に取り組んでいる",
+        "en_past": "I was committed to (sth)",
+        "ja_past": "～に熱心に取り組んでいた",
+        "en_will": "I'll be committed to (sth)",
+        "ja_will": "～に熱心に取り組むだろう"
+    },
+    {
+        "category": "姿勢",
+        "en_present": "I'm dedicated to (sth)",
+        "ja_present": "～に専念している、打ち込んでいる",
+        "en_past": "I was dedicated to (sth)",
+        "ja_past": "～に専念していた、打ち込んでいた",
+        "en_will": "I'll be dedicated to (sth)",
+        "ja_will": "～に専念するだろう、打ち込むだろう"
+    },
+    {
+        "category": "姿勢",
+        "en_present": "I'm devoted to (sth)",
+        "ja_present": "～に身を捧げている",
+        "en_past": "I was devoted to (sth)",
+        "ja_past": "～に身を捧げていた",
+        "en_will": "I'll be devoted to (sth)",
+        "ja_will": "～に身を捧げるだろう"
+    }
+]

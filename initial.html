@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Initial Phrase</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header id="header"></header>
+    <main>
+        <h1>Initial Phrase</h1>
+        <div id="radio">
+            <input type="radio" name="category" id="認識" value="認識" checked>
+            <label for="認識">認識</label>
+            <input type="radio" name="category" id="意見" value="意見">
+            <label for="意見">意見</label>
+            <input type="radio" name="category" id="感情" value="感情">
+            <label for="感情">感情</label>
+            <input type="radio" name="category" id="発言" value="発言">
+            <label for="発言">発言</label>
+            <input type="radio" name="category" id="評価" value="評価">
+            <label for="評価">評価</label>
+        </div>
+        <ul id="phrase-list"></ul>
+        <div id="popup">
+            <div class="modal-content">
+                <p id="en"></p>
+                <p id="ja"></p>
+                <ul id="example"></ul>
+            </div>
+        </div>
+    </main>
+    <footer id="footer"></footer>
+    <script src="js/header.js"></script>
+    <script src="js/footer.js"></script>
+    <script src="js/script.js"></script>
+    <script src="js/scan.js"></script>
+</body>
+</html>

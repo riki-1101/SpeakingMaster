@@ -1,0 +1,197 @@
+[
+    {
+        "category": "体調管理",
+        "en": "check my temperature",
+        "ja": "体温を測る"
+    },
+    {
+        "category": "体調管理",
+        "en": "monitor my health",
+        "ja": "健康状態をチェックする"
+    },
+    {
+        "category": "体調管理",
+        "en": "put on a mask",
+        "ja": "マスクをつける"
+    },
+    {
+        "category": "体調管理",
+        "en": "wash my hands",
+        "ja": "手を洗う"
+    },
+    {
+        "category": "体調管理",
+        "en": "take medicine",
+        "ja": "薬を飲む"
+    },
+    {
+        "category": "体調管理",
+        "en": "take a vitamin",
+        "ja": "ビタミンを取る"
+    },
+    {
+        "category": "体調管理",
+        "en": "stay hydrated",
+        "ja": "水分補給した状態を保つ"
+    },
+    {
+        "category": "体調管理",
+        "en": "take a break",
+        "ja": "休憩する"
+    },
+    {
+        "category": "体調管理",
+        "en": "take a deep breath",
+        "ja": "深呼吸する"
+    },
+    {
+        "category": "体調管理",
+        "en": "practice mindfulness",
+        "ja": "瞑想する"
+    },
+    {
+        "category": "体調管理",
+        "en": "reduce stress",
+        "ja": "ストレスを減らす"
+    },
+    {
+        "category": "体調管理",
+        "en": "rest well",
+        "ja": "しっかり休む"
+    },
+    {
+        "category": "体調管理",
+        "en": "sleep well",
+        "ja": "よく眠る"
+    },
+    {
+        "category": "体調管理",
+        "en": "get enough sleep",
+        "ja": "十分寝る"
+    },
+    {
+        "category": "体調管理",
+        "en": "recover from illness",
+        "ja": "病気から回復する"
+    },
+
+
+
+
+
+    {
+        "category": "症状",
+        "en": "catch a cold",
+        "ja": "風邪をひく"
+    },
+    {
+        "category": "症状",
+        "en": "feel tired",
+        "ja": "疲れている"
+    },
+    {
+        "category": "症状",
+        "en": "feel exhausted",
+        "ja": "疲れ切っている"
+    },
+    {
+        "category": "症状",
+        "en": "feel dizzy",
+        "ja": "めまいがする"
+    },
+    {
+        "category": "症状",
+        "en": "have a fever",
+        "ja": "熱がある"
+    },
+    {
+        "category": "症状",
+        "en": "have a cough",
+        "ja": "咳が出る"
+    },
+    {
+        "category": "症状",
+        "en": "have a runny nose",
+        "ja": "鼻水が出る"
+    },
+    {
+        "category": "症状",
+        "en": "have a sore throat",
+        "ja": "喉が痛い"
+    },
+    {
+        "category": "症状",
+        "en": "have a headache",
+        "ja": "頭が痛い"
+    },
+    {
+        "category": "症状",
+        "en": "have a stomachache",
+        "ja": "お腹が痛い"
+    },
+
+
+
+
+
+    {
+        "category": "栄養",
+        "en": "eat a healthy diet",
+        "ja": "健康食を食べる"
+    },
+    {
+        "category": "栄養",
+        "en": "take supplements",
+        "ja": "サプリを摂る"
+    },
+    {
+        "category": "栄養",
+        "en": "avoid junk food",
+        "ja": "ジャンクフードを避ける"
+    },
+    {
+        "category": "栄養",
+        "en": "cut down on sugar",
+        "ja": "砂糖を控える"
+    },
+
+
+
+
+
+    {
+        "category": "医療",
+        "en": "see a doctor",
+        "ja": "医者に診てもらう"
+    },
+    {
+        "category": "医療",
+        "en": "go to a dentist",
+        "ja": "歯医者に行く"
+    },
+    {
+        "category": "医療",
+        "en": "consult a pharmacist",
+        "ja": "薬剤師に相談する"
+    },
+    {
+        "category": "医療",
+        "en": "get a check-up",
+        "ja": "健康診断を受ける"
+    },
+    {
+        "category": "医療",
+        "en": "get vaccinated",
+        "ja": "予防接種を受ける"
+    },
+    {
+        "category": "医療",
+        "en": "get tested",
+        "ja": "検査を受ける"
+    },
+    {
+        "category": "医療",
+        "en": "pick up medicine",
+        "ja": "薬を受け取る"
+    }
+]

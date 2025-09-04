@@ -1,0 +1,182 @@
+[
+    {
+        "category": "勉強",
+        "en": "study for a test",
+        "ja": "テスト勉強をする"
+    },
+    {
+        "category": "勉強",
+        "en": "prepare for an exam",
+        "ja": "試験の準備をする"
+    },
+    {
+        "category": "勉強",
+        "en": "cram for an exam",
+        "ja": "試験のために必死に詰め込む"
+    },
+    {
+        "category": "勉強",
+        "en": "review the lesson",
+        "ja": "復習する"
+    },
+    {
+        "category": "勉強",
+        "en": "preview the lesson",
+        "ja": "予習する"
+    },
+    {
+        "category": "勉強",
+        "en": "practice (sth)",
+        "ja": "～を練習する"
+    },
+    {
+        "category": "勉強",
+        "en": "take notes",
+        "ja": "ノートを取る"
+    },
+    {
+        "category": "勉強",
+        "en": "underline the key points",
+        "ja": "重要な箇所に線を引く"
+    },
+    {
+        "category": "勉強",
+        "en": "highlight the important parts",
+        "ja": "重要部分をマーカーする"
+    },
+    {
+        "category": "勉強",
+        "en": "correct mistakes",
+        "ja": "間違いを直す"
+    },
+    {
+        "category": "勉強",
+        "en": "read aloud",
+        "ja": "声に出して読む"
+    },
+    {
+        "category": "勉強",
+        "en": "memorize vocabulary",
+        "ja": "単語を暗記する"
+    },
+    {
+        "category": "勉強",
+        "en": "look up a word in the dictionary",
+        "ja": "辞書で単語を調べる"
+    },
+    {
+        "category": "勉強",
+        "en": "write an essay",
+        "ja": "作文を書く"
+    },
+    {
+        "category": "勉強",
+        "en": "summarize the text",
+        "ja": "要約する"
+    },
+    {
+        "category": "勉強",
+        "en": "make a mind map",
+        "ja": "マインドマップを作る"
+    },
+    {
+        "category": "勉強",
+        "en": "improve (sth) skills",
+        "ja": "～力を高める"
+    },
+    {
+        "category": "勉強",
+        "en": "focus on (sth)",
+        "ja": "～に集中する"
+    },
+    {
+        "category": "勉強",
+        "en": "lose concentration",
+        "ja": "集中力が切れる"
+    },
+
+
+
+
+
+    {
+        "category": "研究",
+        "en": "search for information online",
+        "ja": "ネットで情報を調べる"
+    },
+    {
+        "category": "研究",
+        "en": "browse academic papers",
+        "ja": "論文を閲覧する"
+    },
+    {
+        "category": "研究",
+        "en": "quote a reference",
+        "ja": "参考文献を引用する"
+    },
+    {
+        "category": "研究",
+        "en": "collect data",
+        "ja": "データを集める"
+    },
+    {
+        "category": "研究",
+        "en": "analyze data",
+        "ja": "データを分析する"
+    },
+    {
+        "category": "研究",
+        "en": "run an experiment",
+        "ja": "実験を行う"
+    },
+    {
+        "category": "研究",
+        "en": "write a report",
+        "ja": "レポートを書く"
+    },
+
+
+
+
+
+    {
+        "category": "学校",
+        "en": "attend a lecture",
+        "ja": "講義に出席する"
+    },
+    {
+        "category": "学校",
+        "en": "skip a class",
+        "ja": "授業をサボる"
+    },
+    {
+        "category": "学校",
+        "en": "hand in homework",
+        "ja": "宿題を提出する"
+    },
+    {
+        "category": "学校",
+        "en": "get good grades",
+        "ja": "良い成績を取る"
+    },
+    {
+        "category": "学校",
+        "en": "get a scholarship",
+        "ja": "奨学金をもらう"
+    },
+    {
+        "category": "学校",
+        "en": "pass the exam",
+        "ja": "試験に合格する"
+    },
+    {
+        "category": "学校",
+        "en": "fail the exam",
+        "ja": "試験に落ちる"
+    },
+    {
+        "category": "学校",
+        "en": "graduate from university",
+        "ja": "大学を卒業する"
+    }
+]

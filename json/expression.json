@@ -1,0 +1,824 @@
+[
+    {
+        "tense": "現在",
+        "category": "I",
+        "en": "I'm (C)",
+        "ja": "今～状態である"
+    },
+    {
+        "tense": "現在",
+        "category": "I",
+        "en": "I'm being (C)",
+        "ja": "今～な態度をとっている（一時的）"
+    },
+    {
+        "tense": "現在",
+        "category": "I",
+        "en": "I (do)",
+        "ja": "普段～する"
+    },
+    {
+        "tense": "現在",
+        "category": "I",
+        "en": "I do (do)",
+        "ja": "普段～するんだよ（強調）"
+    },
+    {
+        "tense": "現在",
+        "category": "I",
+        "en": "I've (done)",
+        "ja": "今までに～している"
+    },
+    {
+        "tense": "現在",
+        "category": "I",
+        "en": "I've just (done)",
+        "ja": "ちょうど～したところだ"
+    },
+    {
+        "tense": "現在",
+        "category": "I",
+        "en": "I've never (done)",
+        "ja": "今までに一度も～したことがない"
+    },
+    {
+        "tense": "現在",
+        "category": "I",
+        "en": "I can (do)",
+        "ja": "～できる可能性がある"
+    },
+    {
+        "tense": "現在",
+        "category": "I",
+        "en": "I should (do)",
+        "ja": "～した方がいい"
+    },
+    {
+        "tense": "現在",
+        "category": "I",
+        "en": "I will (do)",
+        "ja": "～する意志があるよ"
+    },
+    {
+        "tense": "現在",
+        "category": "I",
+        "en": "I try to (do)",
+        "ja": "～するようにしている"
+    },
+    {
+        "tense": "現在",
+        "category": "I",
+        "en": "I tend to (do)",
+        "ja": "～しがちである"
+    },
+    {
+        "tense": "現在",
+        "category": "I",
+        "en": "I refuse to (do)",
+        "ja": "～するのを拒む"
+    },
+    {
+        "tense": "現在",
+        "category": "I",
+        "en": "I promise to (do)",
+        "ja": "～すると約束する"
+    },
+    {
+        "tense": "現在",
+        "category": "I",
+        "en": "I manage to (do)",
+        "ja": "なんとか～できる"
+    },
+    {
+        "tense": "現在",
+        "category": "I",
+        "en": "I fail to (do)",
+        "ja": "～できない"
+    },
+    {
+        "tense": "現在",
+        "category": "I",
+        "en": "I have to (do)",
+        "ja": "～しなければならない（客観的に見て）"
+    },
+    {
+        "tense": "現在",
+        "category": "I",
+        "en": "I don't have to (do)",
+        "ja": "～しなくてよい（客観的に見て）"
+    },
+    {
+        "tense": "現在",
+        "category": "I",
+        "en": "I've got to (do) / I gotta (do)",
+        "ja": "～しなきゃ"
+    },
+    {
+        "tense": "現在",
+        "category": "I",
+        "en": "I need to (do)",
+        "ja": "～する必要がある"
+    },
+    {
+        "tense": "現在",
+        "category": "I",
+        "en": "I want to (do) / I wanna (do)",
+        "ja": "～したい"
+    },
+    {
+        "tense": "現在",
+        "category": "I",
+        "en": "I'd like to (do)",
+        "ja": "～したいのですが（丁寧）"
+    },
+    {
+        "tense": "現在",
+        "category": "I",
+        "en": "I can't wait to (do)",
+        "ja": "～するのが待ちきれない"
+    },
+    {
+        "tense": "現在",
+        "category": "I",
+        "en": "I hope to (do)",
+        "ja": "～できたらいいな"
+    },
+    {
+        "tense": "現在",
+        "category": "I",
+        "en": "I wish to (do)",
+        "ja": "～したいです（とても丁寧）"
+    },
+    {
+        "tense": "現在",
+        "category": "I",
+        "en": "I'd rather (do)",
+        "ja": "むしろ～したい"
+    },
+    {
+        "tense": "現在",
+        "category": "I",
+        "en": "I plan to (do)",
+        "ja": "～する予定だ"
+    },
+    {
+        "tense": "現在",
+        "category": "I",
+        "en": "I expect to (do)",
+        "ja": "～すると思う"
+    },
+    {
+        "tense": "現在",
+        "category": "I",
+        "en": "I mean to (do)",
+        "ja": "～するつもりだ"
+    },
+    {
+        "tense": "現在",
+        "category": "I",
+        "en": "I'm going to (do) / I'm gonna (do)",
+        "ja": "～する予定である",
+        "examples": [
+            {
+                "en": "I'm going to study English tonight.",
+                "ja": "今夜英語を勉強する予定だ。"
+            }
+        ]
+    },
+    {
+        "tense": "現在",
+        "category": "I",
+        "en": "I'm planning to (do)",
+        "ja": "～するのを予定している",
+        "examples": [
+            {
+                "en": "I'm planning to go abroad.",
+                "ja": "海外に行くのを予定している。"
+            }
+        ]
+    },
+    {
+        "tense": "現在",
+        "category": "I",
+        "en": "I'm supposed to (do)",
+        "ja": "～することになっている"
+    },
+    {
+        "tense": "現在",
+        "category": "I",
+        "en": "I'm about to (do)",
+        "ja": "今まさに～しようとしている",
+        "examples": [
+            {
+                "en": "I'm about to eat lunch.",
+                "ja": "今まさに昼食を食べるところだ。"
+            }
+        ]
+    },
+
+
+
+
+    
+    {
+        "tense": "現在",
+        "category": "I'll",
+        "en": "I'll just go (do)",
+        "ja": "ちょっと～しにいくよ"
+    },
+    {
+        "tense": "現在",
+        "category": "I'll",
+        "en": "I'll try to (do)",
+        "ja": "～するように努力するよ"
+    },
+    {
+        "tense": "現在",
+        "category": "I'll",
+        "en": "I'll make an effort to (do)",
+        "ja": "～するよう努力するよ"
+    },
+    {
+        "tense": "現在",
+        "category": "I'll",
+        "en": "I'll promise to (do)",
+        "ja": "～することを約束するよ"
+    },
+    {
+        "tense": "現在",
+        "category": "I'll",
+        "en": "I'll manage to (do)",
+        "ja": "なんとか～するよ"
+    },
+    {
+        "tense": "現在",
+        "category": "I'll",
+        "en": "I'll do my best to (do)",
+        "ja": "～するために最善を尽くすよ"
+    },
+    {
+        "tense": "現在",
+        "category": "I'll",
+        "en": "I'll try my best to (do)",
+        "ja": "～するために最善を尽くしてみるよ"
+    },
+    {
+        "tense": "現在",
+        "category": "I'll",
+        "en": "I'll attempt to (do)",
+        "ja": "～しようと試みるよ"
+    },
+    {
+        "tense": "現在",
+        "category": "I'll",
+        "en": "I'll strive to (do)",
+        "ja": "～するよう全力を尽くすよ（強い決意）"
+    },
+    {
+        "tense": "現在",
+        "category": "I'll",
+        "en": "I'll endeavor to (do)",
+        "ja": "～するよう努力いたします（丁寧で堅い）"
+    },
+
+
+
+
+
+    
+
+
+
+
+    {
+        "tense": "現在",
+        "category": "You",
+        "en": "You're (C)",
+        "ja": "今～状態だね"
+    },
+    {
+        "tense": "現在",
+        "category": "You",
+        "en": "You're being (C)",
+        "ja": "今～っぽいよ（いつもと違う）"
+    },
+    {
+        "tense": "現在",
+        "category": "You",
+        "en": "You seem (C)",
+        "ja": "～のように思えるよ"
+    },
+    {
+        "tense": "現在",
+        "category": "You",
+        "en": "You look (C)",
+        "ja": "～のように見えるよ"
+    },
+    {
+        "tense": "現在",
+        "category": "You",
+        "en": "You sound (C)",
+        "ja": "～のように聞こえるよ"
+    },
+    {
+        "tense": "現在",
+        "category": "You",
+        "en": "You feel (C)",
+        "ja": "～に感じているようだね"
+    },
+    {
+        "tense": "現在",
+        "category": "You",
+        "en": "You seem to (do)",
+        "ja": "～しているようだね"
+    },
+    {
+        "tense": "現在",
+        "category": "You",
+        "en": "You can (do)",
+        "ja": "～していいよ"
+    },
+    {
+        "tense": "現在",
+        "category": "You",
+        "en": "You could've (done)",
+        "ja": "～しとけよ！（していなかった）"
+    },
+    {
+        "tense": "現在",
+        "category": "You",
+        "en": "You should (do)",
+        "ja": "～した方がいいよ"
+    },
+    {
+        "tense": "現在",
+        "category": "You",
+        "en": "You might want to (do)",
+        "ja": "～した方がいいかもよ"
+    },
+    {
+        "tense": "現在",
+        "category": "You",
+        "en": "You had better (do)",
+        "ja": "～しなさいよ"
+    },
+    {
+        "tense": "現在",
+        "category": "You",
+        "en": "You had better not (do)",
+        "ja": "～するな"
+    },
+    {
+        "tense": "現在",
+        "category": "You",
+        "en": "You must (do)",
+        "ja": "～しないといけないよ"
+    },
+    {
+        "tense": "現在",
+        "category": "You",
+        "en": "You mustn't (do)",
+        "ja": "～してはいけないよ"
+    },
+    {
+        "tense": "現在",
+        "category": "You",
+        "en": "You have to (do)",
+        "ja": "～しなければならないよ（客観的に見て）"
+    },
+    {
+        "tense": "現在",
+        "category": "You",
+        "en": "You'll have to (do)",
+        "ja": "～しなければならないだろうね（客観的に見て）"
+    },
+    {
+        "tense": "現在",
+        "category": "You",
+        "en": "You don't have to (do)",
+        "ja": "～しなくていいよ（客観的に見て）"
+    },
+    {
+        "tense": "現在",
+        "category": "You",
+        "en": "You only have to (do)",
+        "ja": "～しさえすればいいよ"
+    },
+    {
+        "tense": "現在",
+        "category": "You",
+        "en": "All you  have to do is (do)",
+        "ja": "～しさえすればいいよ"
+    },
+    {
+        "tense": "現在",
+        "category": "You",
+        "en": "You need to (do)",
+        "ja": "～する必要があるよ"
+    },
+
+
+
+
+
+
+
+
+
+
+    {
+        "tense": "過去",
+        "category": "I",
+        "en": "I was (C)",
+        "ja": "～状態だった"
+    },
+    {
+        "tense": "過去",
+        "category": "I",
+        "en": "I was being (C)",
+        "ja": "そのとき～状態だった（一時的）"
+    },
+    {
+        "tense": "過去",
+        "category": "I",
+        "en": "I (did)",
+        "ja": "～した"
+    },
+    {
+        "tense": "過去",
+        "category": "I",
+        "en": "I did (do)",
+        "ja": "～したんだよ（強調）"
+    },
+    {
+        "tense": "過去",
+        "category": "I",
+        "en": "I had (done)",
+        "ja": "過去に～していた"
+    },
+    {
+        "tense": "過去",
+        "category": "I",
+        "en": "I could've (done)",
+        "ja": "～できたかも（できていない）"
+    },
+    {
+        "tense": "過去",
+        "category": "I",
+        "en": "I couldn't have (done)",
+        "ja": "～できなかったかも（できた）"
+    },
+    {
+        "tense": "過去",
+        "category": "I",
+        "en": "I might've (done)",
+        "ja": "～したかもしれない"
+    },
+    {
+        "tense": "過去",
+        "category": "I",
+        "en": "I should've (done)",
+        "ja": "～すべきだった"
+    },
+    {
+        "tense": "過去",
+        "category": "I",
+        "en": "I shouldn't have (done)",
+        "ja": "～しなきゃよかった"
+    },
+    {
+        "tense": "過去",
+        "category": "I",
+        "en": "I would've (done)",
+        "ja": "～する意志があったのに（していない）"
+    },
+    {
+        "tense": "過去",
+        "category": "I",
+        "en": "I would often (do)",
+        "ja": "～したものだ"
+    },
+    {
+        "tense": "過去",
+        "category": "I",
+        "en": "I used to (do)",
+        "ja": "昔～したものだ（今はしていない）"
+    },
+    {
+        "tense": "過去",
+        "category": "I",
+        "en": "I tended to (do)",
+        "ja": "～しがちだった"
+    },
+    {
+        "tense": "過去",
+        "category": "I",
+        "en": "I tried to (do)",
+        "ja": "～しようとした"
+    },
+    {
+        "tense": "過去",
+        "category": "I",
+        "en": "I attempted to (do)",
+        "ja": "～するのを試みた"
+    },
+    {
+        "tense": "過去",
+        "category": "I",
+        "en": "I sought to (do)",
+        "ja": "～しようと努めた"
+    },
+    {
+        "tense": "過去",
+        "category": "I",
+        "en": "I endeavored to (do)",
+        "ja": "～しようと努力した（少し堅い）"
+    },
+    {
+        "tense": "過去",
+        "category": "I",
+        "en": "I pretended to (do)",
+        "ja": "～するふりをした"
+    },
+    {
+        "tense": "過去",
+        "category": "I",
+        "en": "I managed to (do)",
+        "ja": "なんとか～できた"
+    },
+    {
+        "tense": "過去",
+        "category": "I",
+        "en": "I failed to (do)",
+        "ja": "～できなかった"
+    },
+    {
+        "tense": "過去",
+        "category": "I",
+        "en": "I learned to (do)",
+        "ja": "～できるようになった"
+    },
+    {
+        "tense": "過去",
+        "category": "I",
+        "en": "I decided to (do)",
+        "ja": "～することに決めた"
+    },
+    {
+        "tense": "過去",
+        "category": "I",
+        "en": "I promised to (do)",
+        "ja": "～すると約束した"
+    },
+    {
+        "tense": "過去",
+        "category": "I",
+        "en": "I offered to (do)",
+        "ja": "～すると申し出た"
+    },
+    {
+        "tense": "過去",
+        "category": "I",
+        "en": "I asked to (do)",
+        "ja": "～させてほしいと頼んだ"
+    },
+    {
+        "tense": "過去",
+        "category": "I",
+        "en": "I agreed to (do)",
+        "ja": "～することに同意した"
+    },
+    {
+        "tense": "過去",
+        "category": "I",
+        "en": "I refused to (do)",
+        "ja": "～するのを拒んだ"
+    },
+    {
+        "tense": "過去",
+        "category": "I",
+        "en": "I prepared to (do)",
+        "ja": "～する準備をした"
+    },
+    {
+        "tense": "過去",
+        "category": "I",
+        "en": "I happened to (do)",
+        "ja": "たまたま～した"
+    },
+    {
+        "tense": "過去",
+        "category": "I",
+        "en": "I had to (do)",
+        "ja": "～しなければならなかった（客観的に見て）"
+    },
+    {
+        "tense": "過去",
+        "category": "I",
+        "en": "I didn't have to (do)",
+        "ja": "～しなくてよかった（客観的に見て）"
+    },
+    {
+        "tense": "過去",
+        "category": "I",
+        "en": "I needed to (do)",
+        "ja": "～する必要があった"
+    },
+    {
+        "tense": "過去",
+        "category": "I",
+        "en": "I wanted to (do)",
+        "ja": "～したかった"
+    },
+    {
+        "tense": "過去",
+        "category": "I",
+        "en": "I couldn't wait to (do)",
+        "ja": "～するのが待ちきれなかった"
+    },
+    {
+        "tense": "過去",
+        "category": "I",
+        "en": "I hoped to (do)",
+        "ja": "～できたらいいなと思った"
+    },
+    {
+        "tense": "過去",
+        "category": "I",
+        "en": "I wished to (do)",
+        "ja": "～したいと思った（とても丁寧）"
+    },
+    {
+        "tense": "過去",
+        "category": "I",
+        "en": "I expected to (do)",
+        "ja": "～するつもりだった"
+    },
+    {
+        "tense": "過去",
+        "category": "I",
+        "en": "I planned to (do)",
+        "ja": "～する予定だった"
+    },
+    {
+        "tense": "過去",
+        "category": "I",
+        "en": "I meant to (do)",
+        "ja": "～するつもりだった"
+    },
+    {
+        "tense": "過去",
+        "category": "I",
+        "en": "I was going to (do)",
+        "ja": "～する予定だった"
+    },
+    {
+        "tense": "過去",
+        "category": "I",
+        "en": "I was planning to (do)",
+        "ja": "～するのを予定していた"
+    },
+    {
+        "tense": "過去",
+        "category": "I",
+        "en": "I was supposed to (do)",
+        "ja": "～することになっていた"
+    },
+    {
+        "tense": "過去",
+        "category": "I",
+        "en": "I'm about to (do)",
+        "ja": "まさに～しようとしていた"
+    },
+
+
+
+
+    
+    {
+        "tense": "過去",
+        "category": "You",
+        "en": "You were (C)",
+        "ja": "～状態だったよ"
+    },
+    {
+        "tense": "過去",
+        "category": "You",
+        "en": "You were being (C)",
+        "ja": "そのとき～態度だったよ（一時的）"
+    },
+    {
+        "tense": "過去",
+        "category": "You",
+        "en": "You seem (C)",
+        "ja": "～のように思えるよ"
+    },
+    {
+        "tense": "過去",
+        "category": "You",
+        "en": "You look (C)",
+        "ja": "～のように見えるよ"
+    },
+    {
+        "tense": "過去",
+        "category": "You",
+        "en": "You sound (C)",
+        "ja": "～のように聞こえるよ"
+    },
+    {
+        "tense": "過去",
+        "category": "You",
+        "en": "You feel (C)",
+        "ja": "～に感じているようだね"
+    },
+    {
+        "tense": "過去",
+        "category": "You",
+        "en": "You seem to (do)",
+        "ja": "～しているようだね"
+    },
+    {
+        "tense": "過去",
+        "category": "You",
+        "en": "You can (do)",
+        "ja": "～していいよ"
+    },
+    {
+        "tense": "過去",
+        "category": "You",
+        "en": "You could've (done)",
+        "ja": "～しとけよ！（していなかった）"
+    },
+    {
+        "tense": "過去",
+        "category": "You",
+        "en": "You should (do)",
+        "ja": "～した方がいいよ"
+    },
+    {
+        "tense": "過去",
+        "category": "You",
+        "en": "You might want to (do)",
+        "ja": "～した方がいいかもよ"
+    },
+    {
+        "tense": "過去",
+        "category": "You",
+        "en": "You had better (do)",
+        "ja": "～しなさいよ"
+    },
+    {
+        "tense": "過去",
+        "category": "You",
+        "en": "You had better not (do)",
+        "ja": "～するな"
+    },
+    {
+        "tense": "過去",
+        "category": "You",
+        "en": "You must (do)",
+        "ja": "～しないといけないよ"
+    },
+    {
+        "tense": "過去",
+        "category": "You",
+        "en": "You mustn't (do)",
+        "ja": "～してはいけないよ"
+    },
+    {
+        "tense": "過去",
+        "category": "You",
+        "en": "You have to (do)",
+        "ja": "～しなければならないよ（客観的に見て）"
+    },
+    {
+        "tense": "過去",
+        "category": "You",
+        "en": "You'll have to (do)",
+        "ja": "～しなければならないだろうね（客観的に見て）"
+    },
+    {
+        "tense": "過去",
+        "category": "You",
+        "en": "You don't have to (do)",
+        "ja": "～しなくていいよ（客観的に見て）"
+    },
+    {
+        "tense": "過去",
+        "category": "You",
+        "en": "You only have to (do)",
+        "ja": "～しさえすればいいよ"
+    },
+    {
+        "tense": "過去",
+        "category": "You",
+        "en": "All you  have to do is (do)",
+        "ja": "～しさえすればいいよ"
+    },
+    {
+        "tense": "過去",
+        "category": "You",
+        "en": "You need to (do)",
+        "ja": "～する必要があるよ"
+    }
+]

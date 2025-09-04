@@ -1,0 +1,662 @@
+[
+    {
+        "category": "難易度",
+        "en_present": "It's easy to (do)",
+        "ja_present": "～するのは簡単である",
+        "en_past": "It was easy to (do)",
+        "ja_past": "～するのは簡単だった",
+        "en_will": "It will be easy to (do)",
+        "ja_will": "～するのは簡単だろう"
+    },
+    {
+        "category": "難易度",
+        "en_present": "It's safe to (do)",
+        "ja_present": "～するのは安全である",
+        "en_past": "It was safe to (do)",
+        "ja_past": "～するのは安全だった",
+        "en_will": "It will be safe to (do)",
+        "ja_will": "～するのは安全だろう"
+    },
+    {
+        "category": "難易度",
+        "en_present": "It's tricky to (do)",
+        "ja_present": "～するのはやや難しい（扱いづらい）",
+        "en_past": "It was tricky to (do)",
+        "ja_past": "～するのはやや難しかった（扱いづらかった）",
+        "en_will": "It will be tricky to (do)",
+        "ja_will": "～するのはやや難しいだろう（扱いづらい）"
+    },
+    {
+        "category": "難易度",
+        "en_present": "It's challenging to (do)",
+        "ja_present": "～するのはやりがいがある",
+        "en_past": "It was challenging to (do)",
+        "ja_past": "～するのはやりがいがあった",
+        "en_will": "It will be challenging to (do)",
+        "ja_will": "～するのはやりがいがあるだろう"
+    },
+    {
+        "category": "難易度",
+        "en_present": "It's hard to (do)",
+        "ja_present": "～するのは難しい",
+        "en_past": "It was hard to (do)",
+        "ja_past": "～するのは難しかった",
+        "en_will": "It will be hard to (do)",
+        "ja_will": "～するのは難しいだろう"
+    },
+
+
+
+
+
+    {
+        "category": "可能性",
+        "en_present": "It's possible to (do)",
+        "ja_present": "～するのは可能である",
+        "en_past": "It was possible to (do)",
+        "ja_past": "～するのは可能だった",
+        "en_will": "It will be possible to (do)",
+        "ja_will": "～するのは可能だろう"
+    },
+    {
+        "category": "可能性",
+        "en_present": "It's impossible to (do)",
+        "ja_present": "～するのは不可能である",
+        "en_past": "It was impossible to (do)",
+        "ja_past": "～するのは不可能だった",
+        "en_will": "It will be impossible to (do)",
+        "ja_will": "～するのは不可能だろう"
+    },
+    {
+        "category": "可能性",
+        "en_present": "It's likely to (do)",
+        "ja_present": "～しそうである",
+        "en_past": "It was likely to (do)",
+        "ja_past": "～しそうだった",
+        "en_will": "It will be likely to (do)",
+        "ja_will": "～しそうだろう"
+    },
+    {
+        "category": "可能性",
+        "en_present": "It's unlikely to (do)",
+        "ja_present": "～しそうにない",
+        "en_past": "It was unlikely to (do)",
+        "ja_past": "～しそうになかった",
+        "en_will": "It will be unlikely to (do)",
+        "ja_will": "～しそうにないだろう"
+    },
+    {
+        "category": "可能性",
+        "en_present": "It's certain to (do)",
+        "ja_present": "～するのは確実だ",
+        "en_past": "It was certain to (do)",
+        "ja_past": "～するのは確実だった",
+        "en_will": "It will be certain to (do)",
+        "ja_will": "～するのは確実だろう"
+    },
+    {
+        "category": "可能性",
+        "en_present": "It's bound to (do)",
+        "ja_present": "必ず～するだろう（口語）",
+        "en_past": "It was bound to (do)",
+        "ja_past": "必ず～しただろう（口語）",
+        "en_will": "It will be bound to (do)",
+        "ja_will": "必ず～するだろう（口語）"
+    },
+    {
+        "category": "可能性",
+        "en_present": "It's inevitable to (do)",
+        "ja_present": "～するのは避けられない",
+        "en_past": "It was inevitable to (do)",
+        "ja_past": "～するのは避けられなかった",
+        "en_will": "It will be inevitable to (do)",
+        "ja_will": "～するのは避けられないだろう"
+    },
+    {
+        "category": "可能性",
+        "en_present": "It's common to (do)",
+        "ja_present": "～するのはよくある",
+        "en_past": "It was common to (do)",
+        "ja_past": "～するのはよくあった",
+        "en_will": "It will be common to (do)",
+        "ja_will": "～するのはよくあるだろう"
+    },
+    {
+        "category": "可能性",
+        "en_present": "It's rare to (do)",
+        "ja_present": "～するのは珍しい",
+        "en_past": "It was rare to (do)",
+        "ja_past": "～するのは珍しかった",
+        "en_will": "It will be rare to (do)",
+        "ja_will": "～するのは珍しいだろう"
+    },
+    {
+        "category": "可能性",
+        "en_present": "It's unusual to (do)",
+        "ja_present": "～するのは普通じゃない",
+        "en_past": "It was unusual to (do)",
+        "ja_past": "～するのは普通じゃなかった",
+        "en_will": "It will be unusual to (do)",
+        "ja_will": "～するのは普通じゃないだろう"
+    },
+
+
+
+
+
+    {
+        "category": "有用性",
+        "en_present": "It's convenient to (do)",
+        "ja_present": "～するのは便利だ",
+        "en_past": "It was convenient to (do)",
+        "ja_past": "～するのは便利だった",
+        "en_will": "It will be convenient to (do)",
+        "ja_will": "～するのは便利だろう"
+    },
+    {
+        "category": "有用性",
+        "en_present": "It's comfortable to (do)",
+        "ja_present": "～するのは快適だ",
+        "en_past": "It was comfortable to (do)",
+        "ja_past": "～するのは快適だった",
+        "en_will": "It will be comfortable to (do)",
+        "ja_will": "～するのは快適だろう"
+    },
+    {
+        "category": "有用性",
+        "en_present": "It's uncomfortable to (do)",
+        "ja_present": "～するのは不快だ",
+        "en_past": "It was uncomfortable to (do)",
+        "ja_past": "～するのは不快だった",
+        "en_will": "It will be uncomfortable to (do)",
+        "ja_will": "～するのは不快だろう"
+    },
+    {
+        "category": "有用性",
+        "en_present": "It's useful to (do)",
+        "ja_present": "～するのは役に立つ",
+        "en_past": "It was useful to (do)",
+        "ja_past": "～するのは役に立った",
+        "en_will": "It will be useful to (do)",
+        "ja_will": "～するのは役に立つだろう"
+    },
+    {
+        "category": "有用性",
+        "en_present": "It's helpful to (do)",
+        "ja_present": "～するのは役に立つ",
+        "en_past": "It was helpful to (do)",
+        "ja_past": "～するのは役に立った",
+        "en_will": "It will be helpful to (do)",
+        "ja_will": "～するのは役に立つだろう"
+    },
+    {
+        "category": "有用性",
+        "en_present": "It's beneficial to (do)",
+        "ja_present": "～するのは有益だ",
+        "en_past": "It was beneficial to (do)",
+        "ja_past": "～するのは有益だった",
+        "en_will": "It will be beneficial to (do)",
+        "ja_will": "～するのは有益だろう"
+    },
+    {
+        "category": "有用性",
+        "en_present": "It's practical to (do)",
+        "ja_present": "～するのは実用的だ",
+        "en_past": "It was practical to (do)",
+        "ja_past": "～するのは実用的だった",
+        "en_will": "It will be practical to (do)",
+        "ja_will": "～するのは実用的だろう"
+    },
+    {
+        "category": "有用性",
+        "en_present": "It's efficient to (do)",
+        "ja_present": "～するのは効率的だ",
+        "en_past": "It was efficient to (do)",
+        "ja_past": "～するのは効率的だった",
+        "en_will": "It will be efficient to (do)",
+        "ja_will": "～するのは効率的だろう"
+    },
+    {
+        "category": "有用性",
+        "en_present": "It's productive to (do)",
+        "ja_present": "～するのは生産的だ",
+        "en_past": "It was productive to (do)",
+        "ja_past": "～するのは生産的だった",
+        "en_will": "It will be productive to (do)",
+        "ja_will": "～するのは生産的だろう"
+    },
+    {
+        "category": "有用性",
+        "en_present": "It's ineffective to (do)",
+        "ja_present": "～するのは効果がない",
+        "en_past": "It was ineffective to (do)",
+        "ja_past": "～するのは効果がなかった",
+        "en_will": "It will be ineffective to (do)",
+        "ja_will": "～するのは効果がないだろう"
+    },
+    {
+        "category": "有用性",
+        "en_present": "It's pointless to (do)",
+        "ja_present": "～するのは無意味だ",
+        "en_past": "It was pointless to (do)",
+        "ja_past": "～するのは無意味だった",
+        "en_will": "It will be pointless to (do)",
+        "ja_will": "～するのは無意味だろう"
+    },
+
+
+
+
+
+    {
+        "category": "重要度",
+        "en_present": "It's necessary to (do)",
+        "ja_present": "～するのは必要だ",
+        "en_past": "It was necessary to (do)",
+        "ja_past": "～するのは必要だった",
+        "en_will": "It will be necessary to (do)",
+        "ja_will": "～するのは必要だろう"
+    },
+    {
+        "category": "重要度",
+        "en_present": "It's unnecessary to (do)",
+        "ja_present": "～する必要はない",
+        "en_past": "It was unnecessary to (do)",
+        "ja_past": "～する必要はなかった",
+        "en_will": "It will be unnecessary to (do)",
+        "ja_will": "～する必要はないだろう"
+    },
+    {
+        "category": "重要度",
+        "en_present": "It's essential to (do)",
+        "ja_present": "～するのは不可欠だ",
+        "en_past": "It was essential to (do)",
+        "ja_past": "～するのは不可欠だった",
+        "en_will": "It will be essential to (do)",
+        "ja_will": "～するのは不可欠だろう"
+    },
+    {
+        "category": "重要度",
+        "en_present": "It's important to (do)",
+        "ja_present": "～するのは重要だ",
+        "en_past": "It was important to (do)",
+        "ja_past": "～するのは重要だった",
+        "en_will": "It will be important to (do)",
+        "ja_will": "～するのは重要だろう"
+    },
+    {
+        "category": "重要度",
+        "en_present": "It's vital to (do)",
+        "ja_present": "～するのは極めて重要だ",
+        "en_past": "It was vital to (do)",
+        "ja_past": "～するのは極めて重要だった",
+        "en_will": "It will be vital to (do)",
+        "ja_will": "～するのは極めて重要だろう"
+    },
+    {
+        "category": "重要度",
+        "en_present": "It's crucial to (do)",
+        "ja_present": "～するのは決定的に重要だ",
+        "en_past": "It was crucial to (do)",
+        "ja_past": "～するのは決定的に重要だった",
+        "en_will": "It will be crucial to (do)",
+        "ja_will": "～するのは決定的に重要だろう"
+    },
+    {
+        "category": "重要度",
+        "en_present": "It's mandatory to (do)",
+        "ja_present": "～するのは義務だ",
+        "en_past": "It was mandatory to (do)",
+        "ja_past": "～するのは義務だった",
+        "en_will": "It will be mandatory to (do)",
+        "ja_will": "～するのは義務だろう"
+    },
+    {
+        "category": "重要度",
+        "en_present": "It's optional to (do)",
+        "ja_present": "～するのは任意だ",
+        "en_past": "It was optional to (do)",
+        "ja_past": "～するのは任意だった",
+        "en_will": "It will be optional to (do)",
+        "ja_will": "～するのは任意だろう"
+    },
+    {
+        "category": "重要度",
+        "en_present": "It's worth it to (do)",
+        "ja_present": "～する価値がある",
+        "en_past": "It was worth it to (do)",
+        "ja_past": "～する価値があった",
+        "en_will": "It will be worth it to (do)",
+        "ja_will": "～する価値があるだろう"
+    },
+    {
+        "category": "重要度",
+        "en_present": "It's advisable to (do)",
+        "ja_present": "～するのが望ましい",
+        "en_past": "It was advisable to (do)",
+        "ja_past": "～するのが望ましかった",
+        "en_will": "It will be advisable to (do)",
+        "ja_will": "～するのが望ましいだろう"
+    },
+    {
+        "category": "重要度",
+        "en_present": "It's preferable to (do)",
+        "ja_present": "～する方が好ましい",
+        "en_past": "It was preferable to (do)",
+        "ja_past": "～する方が好ましかった",
+        "en_will": "It will be preferable to (do)",
+        "ja_will": "～する方が好ましいだろう"
+    },
+
+
+
+
+
+    {
+        "category": "適否",
+        "en_present": "It's wrong to (do)",
+        "ja_present": "～するのは間違っている",
+        "en_past": "It was wrong to (do)",
+        "ja_past": "～するのは間違っていた",
+        "en_will": "It will be wrong to (do)",
+        "ja_will": "～するのは間違っているだろう"
+    },
+    {
+        "category": "適否",
+        "en_present": "It's legal to (do)",
+        "ja_present": "～するのは合法だ",
+        "en_past": "It was legal to (do)",
+        "ja_past": "～するのは合法だった",
+        "en_will": "It will be legal to (do)",
+        "ja_will": "～するのは合法だろう"
+    },
+    {
+        "category": "適否",
+        "en_present": "It's illegal to (do)",
+        "ja_present": "～するのは違法だ",
+        "en_past": "It was illegal to (do)",
+        "ja_past": "～するのは違法だった",
+        "en_will": "It will be illegal to (do)",
+        "ja_will": "～するのは違法だろう"
+    },
+    {
+        "category": "適否",
+        "en_present": "It's useless to (do)",
+        "ja_present": "～するのは無駄である",
+        "en_past": "It was useless to (do)",
+        "ja_past": "～するのは無駄だった",
+        "en_will": "It will be useless to (do)",
+        "ja_will": "～するのは無駄だろう"
+    },
+    {
+        "category": "適否",
+        "en_present": "It's wise to (do)",
+        "ja_present": "～するのは賢明だ",
+        "en_past": "It was wise to (do)",
+        "ja_past": "～するのは賢明だった",
+        "en_will": "It will be wise to (do)",
+        "ja_will": "～するのは賢明だろう"
+    },
+    {
+        "category": "適否",
+        "en_present": "It's foolish to (do)",
+        "ja_present": "～するのは愚かだ",
+        "en_past": "It was foolish to (do)",
+        "ja_past": "～するのは愚かだった",
+        "en_will": "It will be foolish to (do)",
+        "ja_will": "～するのは愚かだろう"
+    },
+    {
+        "category": "適否",
+        "en_present": "It's acceptable to (do)",
+        "ja_present": "～するのは許容される",
+        "en_past": "It was acceptable to (do)",
+        "ja_past": "～するのは許容された",
+        "en_will": "It will be acceptable to (do)",
+        "ja_will": "～するのは許容されるだろう"
+    },
+    {
+        "category": "適否",
+        "en_present": "It's appropriate to (do)",
+        "ja_present": "～するのは適切だ",
+        "en_past": "It was appropriate to (do)",
+        "ja_past": "～するのは適切だった",
+        "en_will": "It will be appropriate to (do)",
+        "ja_will": "～するのは適切だろう"
+    },
+    {
+        "category": "適否",
+        "en_present": "It's inappropriate to (do)",
+        "ja_present": "～するのは不適切だ",
+        "en_past": "It was inappropriate to (do)",
+        "ja_past": "～するのは不適切だった",
+        "en_will": "It will be inappropriate to (do)",
+        "ja_will": "～するのは不適切だろう"
+    },
+
+
+
+
+
+    {
+        "category": "感情",
+        "en_present": "It's nice to (do)",
+        "ja_present": "～するのはいいね",
+        "en_past": "It was nice to (do)",
+        "ja_past": "～するのはよかった",
+        "en_will": "It will be nice to (do)",
+        "ja_will": "～するのはいいだろう"
+    },
+    {
+        "category": "感情",
+        "en_present": "It's surprising to (do)",
+        "ja_present": "～するのは驚くべきことだ",
+        "en_past": "It was surprising to (do)",
+        "ja_past": "～するのは驚くべきことだった",
+        "en_will": "It will be surprising to (do)",
+        "ja_will": "～するのは驚くべきことだろう"
+    },
+    {
+        "category": "感情",
+        "en_present": "It's amazing to (do)",
+        "ja_present": "～するのはすごい",
+        "en_past": "It was amazing to (do)",
+        "ja_past": "～するのはすごかった",
+        "en_will": "It will be amazing to (do)",
+        "ja_will": "～するのはすごいだろう"
+    },
+    {
+        "category": "感情",
+        "en_present": "It's wonderful to (do)",
+        "ja_present": "～するのは素晴らしい",
+        "en_past": "It was wonderful to (do)",
+        "ja_past": "～するのは素晴らしかった",
+        "en_will": "It will be wonderful to (do)",
+        "ja_will": "～するのは素晴らしいだろう"
+    },
+    {
+        "category": "感情",
+        "en_present": "It's exciting to (do)",
+        "ja_present": "～するのはわくわくする",
+        "en_past": "It was exciting to (do)",
+        "ja_past": "～するのはわくわくした",
+        "en_will": "It will be exciting to (do)",
+        "ja_will": "～するのはわくわくするだろう"
+    },
+    {
+        "category": "感情",
+        "en_present": "It's fun to (do)",
+        "ja_present": "～するのは楽しい",
+        "en_past": "It was fun to (do)",
+        "ja_past": "～するのは楽しかった",
+        "en_will": "It will be fun to (do)",
+        "ja_will": "～するのは楽しいだろう"
+    },
+    {
+        "category": "感情",
+        "en_present": "It's pleasant to (do)",
+        "ja_present": "～するのは楽しい",
+        "en_past": "It was pleasant to (do)",
+        "ja_past": "～するのは楽しかった",
+        "en_will": "It will be pleasant to (do)",
+        "ja_will": "～するのは楽しいだろう"
+    },
+    {
+        "category": "感情",
+        "en_present": "It's delightful to (do)",
+        "ja_present": "～するのは嬉しい",
+        "en_past": "It was delightful to (do)",
+        "ja_past": "～するのは嬉しかった",
+        "en_will": "It will be delightful to (do)",
+        "ja_will": "～するのは嬉しいだろう"
+    },
+    {
+        "category": "感情",
+        "en_present": "It's thrilling to (do)",
+        "ja_present": "～するのはスリルがある",
+        "en_past": "It was thrilling to (do)",
+        "ja_past": "～するのはスリルがあった",
+        "en_will": "It will be thrilling to (do)",
+        "ja_will": "～するのはスリルがあるだろう"
+    },
+    {
+        "category": "感情",
+        "en_present": "It's sad to (do)",
+        "ja_present": "～するのは悲しい",
+        "en_past": "It was sad to (do)",
+        "ja_past": "～するのは悲しかった",
+        "en_will": "It will be sad to (do)",
+        "ja_will": "～するのは悲しいだろう"
+    },
+    {
+        "category": "感情",
+        "en_present": "It's unpleasant to (do)",
+        "ja_present": "～するのは不愉快だ",
+        "en_past": "It was unpleasant to (do)",
+        "ja_past": "～するのは不愉快だった",
+        "en_will": "It will be unpleasant to (do)",
+        "ja_will": "～するのは不愉快だろう"
+    },
+    {
+        "category": "感情",
+        "en_present": "It's terrible to (do)",
+        "ja_present": "～するのはひどい",
+        "en_past": "It was terrible to (do)",
+        "ja_past": "～するのはひどかった",
+        "en_will": "It will be terrible to (do)",
+        "ja_will": "～するのはひどいだろう"
+    },
+    {
+        "category": "感情",
+        "en_present": "It's awful to (do)",
+        "ja_present": "～するのはひどい",
+        "en_past": "It was awful to (do)",
+        "ja_past": "～するのはひどかった",
+        "en_will": "It will be awful to (do)",
+        "ja_will": "～するのはひどいだろう"
+    },
+    {
+        "category": "感情",
+        "en_present": "It's embarrassing to (do)",
+        "ja_present": "～するのは恥ずかしい",
+        "en_past": "It was embarrassing to (do)",
+        "ja_past": "～するのは恥ずかしかった",
+        "en_will": "It will be embarrassing to (do)",
+        "ja_will": "～するのは恥ずかしいだろう"
+    },
+    {
+        "category": "感情",
+        "en_present": "It's boring to (do)",
+        "ja_present": "～するのは退屈だ",
+        "en_past": "It was boring to (do)",
+        "ja_past": "～するのは退屈だった",
+        "en_will": "It will be boring to (do)",
+        "ja_will": "～するのは退屈だろう"
+    },
+    {
+        "category": "感情",
+        "en_present": "It's frustrating to (do)",
+        "ja_present": "～するのはイライラする",
+        "en_past": "It was frustrating to (do)",
+        "ja_past": "～するのはイライラした",
+        "en_will": "It will be frustrating to (do)",
+        "ja_will": "～するのはイライラするだろう"
+    },
+    {
+        "category": "感情",
+        "en_present": "It's annoying to (do)",
+        "ja_present": "～するのはうっとうしい",
+        "en_past": "It was annoying to (do)",
+        "ja_past": "～するのはうっとうしかった",
+        "en_will": "It will be annoying to (do)",
+        "ja_will": "～するのはうっとうしいだろう"
+    },
+    {
+        "category": "感情",
+        "en_present": "It's strange to (do)",
+        "ja_present": "～するのは変だ",
+        "en_past": "It was strange to (do)",
+        "ja_past": "～するのは変だった",
+        "en_will": "It will be strange to (do)",
+        "ja_will": "～するのは変だろう"
+    },
+    {
+        "category": "感情",
+        "en_present": "It's odd to (do)",
+        "ja_present": "～するのは変だ",
+        "en_past": "It was odd to (do)",
+        "ja_past": "～するのは変だった",
+        "en_will": "It will be odd to (do)",
+        "ja_will": "～するのは変だろう"
+    },
+
+    
+
+
+
+    {
+        "category": "時間",
+        "en_present": "It's time to (do)",
+        "ja_present": "～する時間だ",
+        "en_past": "It was time to (do)",
+        "ja_past": "～する時間だった",
+        "en_will": "It will be time to (do)",
+        "ja_will": "～する時間だろう"
+    },
+    {
+        "category": "時間",
+        "en_present": "It's about time to (do)",
+        "ja_present": "そろそろ～する頃だ",
+        "en_past": "It was about time to (do)",
+        "ja_past": "そろそろ～する頃だった",
+        "en_will": "It will be about time to (do)",
+        "ja_will": "そろそろ～する頃だろう"
+    },
+    {
+        "category": "時間",
+        "en_present": "It's the right time to (do)",
+        "ja_present": "～するのにちょうどよい時だ",
+        "en_past": "It was the right time to (do)",
+        "ja_past": "～するのにちょうどよい時だった",
+        "en_will": "It will be the right time to (do)",
+        "ja_will": "～するのにちょうどよい時だろう"
+    },
+    {
+        "category": "時間",
+        "en_present": "It's too late to (do)",
+        "ja_present": "～するには遅すぎる",
+        "en_past": "It was too late to (do)",
+        "ja_past": "～するには遅すぎた",
+        "en_will": "It will be too late to (do)",
+        "ja_will": "～するには遅すぎるだろう"
+    },
+    {
+        "category": "時間",
+        "en_present": "It's too early to (do)",
+        "ja_present": "～するには早すぎる",
+        "en_past": "It was too early to (do)",
+        "ja_past": "～するには早すぎた",
+        "en_will": "It will be too early to (do)",
+        "ja_will": "～するには早すぎるだろう"
+    }
+]

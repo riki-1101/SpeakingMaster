@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>健康</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+    <header id="practice_header"></header>
+    <main>
+        <h1>健康</h1>
+        <div id="radio">
+            <input type="radio" name="category" id="体調管理" value="体調管理" checked>
+            <label for="体調管理">体調管理</label>
+            <input type="radio" name="category" id="症状" value="症状">
+            <label for="症状">症状</label>
+            <input type="radio" name="category" id="栄養" value="栄養">
+            <label for="栄養">栄養</label>
+            <input type="radio" name="category" id="医療" value="医療">
+            <label for="医療">医療</label>
+        </div>
+        <ul id="phrase-list"></ul>
+        <div id="popup">
+            <div class="modal-content">
+                <p id="en"></p>
+                <p id="ja"></p>
+                <ul id="example"></ul>
+            </div>
+        </div>
+    </main>
+    <footer id="footer"></footer>
+    <script src="../js/practice_header.js"></script>
+    <script src="../js/footer.js"></script>
+    <script src="../js/script.js"></script>
+    <script src="js/scan.js"></script>
+</body>
+</html>

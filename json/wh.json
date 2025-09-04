@@ -1,0 +1,142 @@
+[
+    {
+        "en": "what to (do)",
+        "ja": "～するべきこと[もの]",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "who to (do)",
+        "ja": "～するべき人",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "which to (do)",
+        "ja": "～するべき方",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "when to (do)",
+        "ja": "～するべき時",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "where to (do)",
+        "ja": "～するべき場所",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "whether to (do)",
+        "ja": "～するべきかどうか",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "how to (do)",
+        "ja": "～するべき方法",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "what (SV) / what (V)",
+        "ja": "SVすること[もの] / Vすること[もの]",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "(X) who (SV)",
+        "ja": "SVするX(人)",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "(X) which (SV)",
+        "ja": "SVするX(もの)",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "when (SV) / (X) when (SV) ",
+        "ja": "いつSVするか / SVするX(時)",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "where (SV) / (X) where (SV)",
+        "ja": "どこでSVするか / SVするX(場所)",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "why (SV)",
+        "ja": "なぜSVするか",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "how (SV)",
+        "ja": "どうやってSVするか",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    }
+]

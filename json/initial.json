@@ -1,0 +1,896 @@
+[
+    {
+        "category": "認識",
+        "en": "I know",
+        "ja": "～と知っている",
+        "examples": [
+            {
+                "en": "I know she's from Canada.",
+                "ja": "彼女はカナダ出身だと知っている。"
+            }
+        ]
+    },
+    {
+        "category": "認識",
+        "en": "I understand",
+        "ja": "～と理解している",
+        "examples": [
+            {
+                "en": "I understand you need more time.",
+                "ja": "あなたがもっと時間が必要なことを理解している。"
+            }
+        ]
+    },
+    {
+        "category": "認識",
+        "en": "I remember",
+        "ja": "～を覚えている",
+        "examples": [
+            {
+                "en": "I remember you told me that.",
+                "ja": "あなたがそれを私に言ったことを覚えている。"
+            }
+        ]
+    },
+    {
+        "category": "認識",
+        "en": "I forget",
+        "ja": "～を忘れてしまう",
+        "examples": [
+            {
+                "en": "I forget you don't drink coffee.",
+                "ja": "あなたがコーヒーを飲まないのを忘れてしまう。"
+            },
+            {
+                "en": "I forgot we had a meeting this morning.",
+                "ja": "今朝会議があったことを忘れていた。"
+            }
+        ]
+    },
+    {
+        "category": "認識",
+        "en": "I noticed",
+        "ja": "～と気づいた（五感で）",
+        "examples": [
+            {
+                "en": "I noticed he was upset.",
+                "ja": "彼は動揺していると気づいた。"
+            }
+        ]
+    },
+    {
+        "category": "認識",
+        "en": "I realized",
+        "ja": "～と気づいた（心の中で）",
+        "examples": [
+            {
+                "en": "I realized I made a mistake.",
+                "ja": "間違えたと気づいた。"
+            }
+        ]
+    },
+    {
+        "category": "認識",
+        "en": "I found",
+        "ja": "～とわかる（経験・観察して、そうだと知る）",
+        "examples": [
+            {
+                "en": "I found the book was very interesting.",
+                "ja": "その本がとても面白いことがわかった。"
+            }
+        ]
+    },
+    {
+        "category": "認識",
+        "en": "I recognize",
+        "ja": "～と認識する（知っていたことを改めて認める）",
+        "examples": [
+            {
+                "en": "I recognize not everyone agrees with me.",
+                "ja": "全員が私に同意しているわけではないと認識している。"
+            }
+        ]
+    },
+    {
+        "category": "認識",
+        "en": "I discovered",
+        "ja": "～を発見した（知らなかったことを新しく知る）",
+        "examples": [
+            {
+                "en": "I discovered the store was closed on Mondays.",
+                "ja": "その店が月曜日に閉まっているのを知った。"
+            }
+        ]
+    },
+    {
+        "category": "認識",
+        "en": "I heard",
+        "ja": "～と聞いた",
+        "examples": [
+            {
+                "en": "I heard you got a new job.",
+                "ja": "新しい仕事に就いたと聞いた。"
+            }
+        ]
+    },
+    {
+        "category": "認識",
+        "en": "I'm aware",
+        "ja": "～と気づいている",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "認識",
+        "en": "I'm conscious",
+        "ja": "～と気づいている",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+
+
+
+
+
+    {
+        "category": "意見",
+        "en": "I think",
+        "ja": "～だと主観的に思う",
+        "examples": [
+            {
+                "en": "I think it's a good idea.",
+                "ja": "それはいい考えだと思う。"
+            }
+        ]
+    },
+    {
+        "category": "意見",
+        "en": "I believe",
+        "ja": "～だと信じる",
+        "examples": [
+            {
+                "en": "I believe we can win.",
+                "ja": "私たちは勝てると信じる。"
+            }
+        ]
+    },
+    {
+        "category": "意見",
+        "en": "I assume",
+        "ja": "～だと勝手に思い込む",
+        "examples": [
+            {
+                "en": "I assumed you knew.",
+                "ja": "あなたは知っていると勝手に思い込んだ。"
+            }
+        ]
+    },
+    {
+        "category": "意見",
+        "en": "I suppose",
+        "ja": "～だと推測する",
+        "examples": [
+            {
+                "en": "I suppose he's right.",
+                "ja": "彼は正しいと推測する。"
+            }
+        ]
+    },
+    {
+        "category": "意見",
+        "en": "I guess",
+        "ja": "多分～だと思う",
+        "examples": [
+            {
+                "en": "I guess you're busy.",
+                "ja": "多分あなたは忙しいだろうと思う。"
+            }
+        ]
+    },
+    {
+        "category": "意見",
+        "en": "I bet",
+        "ja": "絶対～だと思う",
+        "examples": [
+            {
+                "en": "I bet you'll do great on the exam.",
+                "ja": "絶対あなたは試験が上手くいくと思う。"
+            }
+        ]
+    },
+    {
+        "category": "意見",
+        "en": "I hope",
+        "ja": "～だといいな",
+        "examples": [
+            {
+                "en": "I hope you have a great day.",
+                "ja": "素敵な一日になるといいね。"
+            }
+        ]
+    },
+    {
+        "category": "意見",
+        "en": "I expect",
+        "ja": "～だと予想する",
+        "examples": [
+            {
+                "en": "I expect it'll rain.",
+                "ja": "雨が降ると予想する。"
+            }
+        ]
+    },
+    {
+        "category": "意見",
+        "en": "I imagine",
+        "ja": "～だと想像する",
+        "examples": [
+            {
+                "en": "I imagine that he's busy today.",
+                "ja": "彼は今日忙しいのだろうと思う。"
+            }
+        ]
+    },
+    {
+        "category": "意見",
+        "en": "I suspect",
+        "ja": "～だと疑う",
+        "examples": [
+            {
+                "en": "I suspect he's lying.",
+                "ja": "彼が嘘をついていると疑う。"
+            }
+        ]
+    },
+    {
+        "category": "意見",
+        "en": "I doubt",
+        "ja": "～だとは思えない",
+        "examples": [
+            {
+                "en": "I doubt this plan wll work.",
+                "ja": "この計画がうまくいくとは思えない。"
+            }
+        ]
+    },
+    {
+        "category": "意見",
+        "en": "I promise",
+        "ja": "～だと約束する",
+        "examples": [
+            {
+                "en": "I promise I won't be late.",
+                "ja": "遅れないと約束する。"
+            }
+        ]
+    },
+    {
+        "category": "意見",
+        "en": "I swear",
+        "ja": "～だと誓う",
+        "examples": [
+            {
+                "en": "I swear I'll tell the truth.",
+                "ja": "真実を話すと誓う。"
+            }
+        ]
+    },
+    {
+        "category": "意見",
+        "en": "I'm sure",
+        "ja": "～だと確信している（直感的）",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "意見",
+        "en": "I'm certain",
+        "ja": "～だと確信している（根拠がある）",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "意見",
+        "en": "I'm afraid",
+        "ja": "～だと残念ながら思う",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+
+
+
+
+
+    {
+        "category": "感情",
+        "en": "I feel",
+        "ja": "～と感じる",
+        "examples": [
+            {
+                "en": "I feel something is wrong.",
+                "ja": "何かが間違っていると感じる。"
+            }
+        ]
+    },
+    {
+        "category": "感情",
+        "en": "I appreciate",
+        "ja": "～に感謝する",
+        "examples": [
+            {
+                "en": "I appreciate you came.",
+                "ja": "来てくれて感謝する。"
+            }
+        ]
+    },
+    {
+        "category": "感情",
+        "en": "I regret",
+        "ja": "～を残念に思う",
+        "examples": [
+            {
+                "en": "I regret the event has been canceled.",
+                "ja": "イベントが中止になっているのを残念に思う。"
+            }
+        ]
+    },
+    {
+        "category": "感情",
+        "en": "I wonder if [whether]",
+        "ja": "～かなと思う",
+        "examples": [
+            {
+                "en": "I wonder if it's going to rain tomorrow.",
+                "ja": "明日雨が降るのかなあ。"
+            }
+        ]
+    },
+    {
+        "category": "感情",
+        "en": "I wish (仮定法)",
+        "ja": "～であればいいのにと思う",
+        "examples": [
+            {
+                "en": "I wish I had more time.",
+                "ja": "もっと時間があればいいのにと思う。"
+            }
+        ]
+    },
+    {
+        "category": "感情",
+        "en": "I'm glad",
+        "ja": "～で嬉しい",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "感情",
+        "en": "I'm happy",
+        "ja": "～で幸せだ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "感情",
+        "en": "I'm pleased",
+        "ja": "～で喜んでいる",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "感情",
+        "en": "I'm delighted",
+        "ja": "～で大喜びである",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "感情",
+        "en": "I'm proud",
+        "ja": "～を誇りに思っている",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "感情",
+        "en": "I'm thankful",
+        "ja": "～に感謝している",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "感情",
+        "en": "I'm grateful",
+        "ja": "～に感謝している（少し改まった感謝）",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "感情",
+        "en": "I'm relieved",
+        "ja": "～にほっとしている",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "感情",
+        "en": "I'm surprised",
+        "ja": "～に驚いている",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "感情",
+        "en": "I'm amazed",
+        "ja": "～にとても驚いている",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "感情",
+        "en": "I'm astonished",
+        "ja": "～にとても驚いている",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "感情",
+        "en": "I'm shocked",
+        "ja": "～にとても驚いている",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "感情",
+        "en": "I'm lucky",
+        "ja": "～とは運がいい",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "感情",
+        "en": "I'm fortunate",
+        "ja": "～とは幸運だ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "感情",
+        "en": "I'm sad",
+        "ja": "～で悲しい",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "感情",
+        "en": "I'm worried",
+        "ja": "～に心配している",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "感情",
+        "en": "I'm concerned",
+        "ja": "～に心配している",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "感情",
+        "en": "I'm disappointed",
+        "ja": "～とはがっかりだ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "感情",
+        "en": "I'm upset",
+        "ja": "～とは不快だ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    
+
+
+
+
+
+    {
+        "category": "発言",
+        "en": "S say",
+        "ja": "～と言う（中立的で誰に言ったかまでは強調しない）",
+        "examples": [
+            {
+                "en": "He said she was tired.",
+                "ja": "彼女は疲れていると言った。"
+            }
+        ]
+    },
+    {
+        "category": "発言",
+        "en": "S tell sb",
+        "ja": "(人)に～と伝える",
+        "examples": [
+            {
+                "en": "He told me the meeting was canceled.",
+                "ja": "彼は私に会議は中止だと伝えた。"
+            }
+        ]
+    },
+    {
+        "category": "発言",
+        "en": "S mention",
+        "ja": "～に軽く言及する、触れる",
+        "examples": [
+            {
+                "en": "They mentioned the restaurant had just opened.",
+                "ja": "彼らはそのレストランが開店したばかりだと軽く触れた。"
+            }
+        ]
+    },
+    {
+        "category": "発言",
+        "en": "S state",
+        "ja": "～と述べる、明言する",
+        "examples": [
+            {
+                "en": "The teacher stated the exam would be next week.",
+                "ja": "先生は試験が来週だと明言した。"
+            }
+        ]
+    },
+    {
+        "category": "発言",
+        "en": "S announce",
+        "ja": "～と発表する",
+        "examples": [
+            {
+                "en": "The company announced it would be launch a new product.",
+                "ja": "会社は新製品を発売すると発表した。"
+            }
+        ]
+    },
+    {
+        "category": "発言",
+        "en": "S claim",
+        "ja": "～と言い張る（真偽不明）",
+        "examples": [
+            {
+                "en": "He claimed he had never seen her before.",
+                "ja": "彼は彼女に会ったことがないと言い張った。"
+            }
+        ]
+    },
+    {
+        "category": "発言",
+        "en": "S argue",
+        "ja": "～と主張する（根拠あり）",
+        "examples": [
+            {
+                "en": "The lawyer argued his client was innocent.",
+                "ja": "弁護士は依頼人が無罪だと主張した。"
+            }
+        ]
+    },
+    {
+        "category": "発言",
+        "en": "S explain",
+        "ja": "～と説明する",
+        "examples": [
+            {
+                "en": "She explained she couldn't come becouse of the rain.",
+                "ja": "彼女は雨のせいで来られなかったと説明した。"
+            }
+        ]
+    },
+
+
+
+
+
+    {
+        "category": "評価",
+        "en": "It seems",
+        "ja": "～のように思える",
+        "examples": [
+            {
+                "en": "It seems he is busy.",
+                "ja": "彼は忙しいように思う。"
+            }
+        ]
+    },
+    {
+        "category": "評価",
+        "en": "It seems like",
+        "ja": "～のように思える",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "評価",
+        "en": "It feels like",
+        "ja": "～のように感じる",
+        "examples": [
+            {
+                "en": "It feels like time is flying.",
+                "ja": "時間があっという間に過ぎている感じがする。"
+            }
+        ]
+    },
+    {
+        "category": "評価",
+        "en": "It looks like",
+        "ja": "見た感じ～のようだ",
+        "examples": [
+            {
+                "en": "It looks like it's going to rain.",
+                "ja": "見た感じ、雨が降りそうだ。"
+            }
+        ]
+    },
+    {
+        "category": "評価",
+        "en": "It sounds like",
+        "ja": "～のように聞こえる",
+        "examples": [
+            {
+                "en": "It sounds like she's crying.",
+                "ja": "彼女、泣いているみたい。"
+            }
+        ]
+    },
+    {
+        "category": "評価",
+        "en": "It smells like",
+        "ja": "～ような匂いがする",
+        "examples": [
+            {
+                "en": "It smells like something is burning.",
+                "ja": "何かが焦げているような匂いがする。"
+            }
+        ]
+    },
+    {
+        "category": "評価",
+        "en": "It's like",
+        "ja": "～みたいだ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "評価",
+        "en": "It's not like",
+        "ja": "別に～ってわけじゃない",
+        "examples": [
+            {
+                "en": "It's not like I don't trust you.",
+                "ja": "別に君を信じていないわけじゃないよ。"
+            }
+        ]
+    },
+    {
+        "category": "評価",
+        "en": "It's as if",
+        "ja": "まるで～かのようだ",
+        "examples": [
+            {
+                "en": "It's as if we're back in high school.",
+                "ja": "まるで高校時代に戻ったみたいだ。"
+            }
+        ]
+    },
+    {
+        "category": "評価",
+        "en": "It's as though",
+        "ja": "～かのようだ",
+        "examples": [
+            {
+                "en": "It's as though we've met before.",
+                "ja": "まるで前に会ったことがあるみたい。"
+            }
+        ]
+    },
+    {
+        "category": "評価",
+        "en": "It's said",
+        "ja": "～と言われている",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "評価",
+        "en": "It's true",
+        "ja": "～なのは事実だ",
+        "examples": [
+            {
+                "en": "It's true I don't have much experience, but I'm willing to learn.",
+                "ja": "経験が少ないのは事実だけど、学ぶ意欲はある。"
+            }
+        ]
+    },
+    {
+        "category": "評価",
+        "en": "It's clear",
+        "ja": "～なのは明らかだ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "評価",
+        "en": "It's obvious",
+        "ja": "～なのは明らかだ",
+        "examples": [
+            {
+                "en": "It's obvious he likes her.",
+                "ja": "彼が彼女を好きなのは明らかだ。"
+            }
+        ]
+    },
+    {
+        "category": "評価",
+        "en": "It's natural",
+        "ja": "～なのは当然だ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "評価",
+        "en": "It's strange",
+        "ja": "～なのは奇妙だ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "評価",
+        "en": "It's possible",
+        "ja": "～の可能性がある",
+        "examples": [
+            {
+                "en": "It's possible the project will be delayed.",
+                "ja": "そのプロジェクトが遅れる可能性がある。"
+            }
+        ]
+    },
+    {
+        "category": "評価",
+        "en": "It's likely",
+        "ja": "～な気がする",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "評価",
+        "en": "It's unlikely",
+        "ja": "～な気がしない",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    }
+]

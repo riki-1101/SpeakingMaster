@@ -1,0 +1,127 @@
+[
+    {
+        "category": "鑑賞",
+        "en": "watch TV",
+        "ja": "テレビを見る"
+    },
+    {
+        "category": "鑑賞",
+        "en": "watch a drama",
+        "ja": "ドラマを見る"
+    },
+    {
+        "category": "鑑賞",
+        "en": "watch a movie",
+        "ja": "映画を見る"
+    },
+    {
+        "category": "鑑賞",
+        "en": "stream a video",
+        "ja": "動画を配信サービスで見る"
+    },
+    {
+        "category": "鑑賞",
+        "en": "listen to music",
+        "ja": "音楽を聴く"
+    },
+    {
+        "category": "鑑賞",
+        "en": "listen to a podcast",
+        "ja": "ポッドキャストを聴く"
+    },
+    {
+        "category": "鑑賞",
+        "en": "go to the cinema",
+        "ja": "映画館に行く"
+    },
+    {
+        "category": "鑑賞",
+        "en": "go to a concert",
+        "ja": "コンサートに行く"
+    },
+    {
+        "category": "鑑賞",
+        "en": "go to a museum",
+        "ja": "美術館に行く"
+    },
+
+
+
+
+
+    {
+        "category": "運動",
+        "en": "play (sport)",
+        "ja": "（スポーツ）をする"
+    },
+    {
+        "category": "運動",
+        "en": "go jogging",
+        "ja": "ジョギングする"
+    },
+    {
+        "category": "運動",
+        "en": "go running",
+        "ja": "ランニングする"
+    },
+    {
+        "category": "運動",
+        "en": "go cycling",
+        "ja": "サイクリングする"
+    },
+    {
+        "category": "運動",
+        "en": "go swimming",
+        "ja": "泳ぎに行く"
+    },
+    {
+        "category": "運動",
+        "en": "go hiking",
+        "ja": "ハイキングに行く"
+    },
+    {
+        "category": "運動",
+        "en": "go to the gym",
+        "ja": "ジムに行く"
+    },
+    {
+        "category": "運動",
+        "en": "work out",
+        "ja": "トレーニングする"
+    },
+    {
+        "category": "運動",
+        "en": "do stretching",
+        "ja": "ストレッチをする"
+    },
+    {
+        "category": "運動",
+        "en": "do yoga",
+        "ja": "ヨガをする"
+    },
+    {
+        "category": "運動",
+        "en": "dance to music",
+        "ja": "音楽に合わせて踊る"
+    },
+
+
+
+
+
+    {
+        "category": "交流",
+        "en": "hang out with friends",
+        "ja": "友達と遊ぶ"
+    },
+    {
+        "category": "交流",
+        "en": "chat with friends",
+        "ja": "友達とおしゃべりする"
+    },
+    {
+        "category": "交流",
+        "en": "hang out with friends",
+        "ja": "友達と遊ぶ"
+    }
+]
