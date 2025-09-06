@@ -113,8 +113,6 @@
     },
     {
         "category": "意志",
-        "en_present": "I decide to (do)",
-        "ja_present": "～することに決める",
         "en_past": "I decided to (do)",
         "ja_past": "～することに決めた",
         "en_have": "I've decided to (do)",
@@ -191,8 +189,6 @@
     },
     {
         "category": "達成",
-        "en_present": "I learn to (do)",
-        "ja_present": "～できるようになる",
         "en_past": "I learned to (do)",
         "ja_past": "～できるようになった",
         "en_have": "I've learned to (do)",
@@ -265,9 +261,7 @@
     {
         "category": "願望",
         "en_present": "I wish to (do)",
-        "ja_present": "～したいです（とても丁寧）",
-        "en_past": "I wished to (do)",
-        "ja_past": "～したいと思った（とても丁寧）"
+        "ja_present": "～したいです（とても丁寧）"
     },
     {
         "category": "願望",

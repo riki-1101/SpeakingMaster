@@ -1,0 +1,459 @@
+[
+    {
+        "category": "時間",
+        "en": "after you eat",
+        "ja": "食べた後に"
+    },
+    {
+        "category": "時間",
+        "en": "afterwards",
+        "ja": "その後"
+    },
+    {
+        "category": "時間",
+        "en": "all day",
+        "ja": "一日中"
+    },
+    {
+        "category": "時間",
+        "en": "as I entered the room",
+        "ja": "部屋に入った時に"
+    },
+    {
+        "category": "時間",
+        "en": "at the sight of the new machine",
+        "ja": "その新しい機械を見たとき"
+    },
+    {
+        "category": "時間",
+        "en": "back then",
+        "ja": "当時"
+    },
+    {
+        "category": "時間",
+        "en": "before the meeting",
+        "ja": "会議の前に"
+    },
+    {
+        "category": "時間",
+        "en": "before you eat",
+        "ja": "食べる前に"
+    },
+    {
+        "category": "時間",
+        "en": "by the time we arrive",
+        "ja": "私たちが着くころには"
+    },
+    {
+        "category": "時間",
+        "en": "directly he arrived",
+        "ja": "彼は到着してすぐに（～した）"
+    },
+    {
+        "category": "時間",
+        "en": "during summer vacation",
+        "ja": "夏休みの間に"
+    },
+    {
+        "category": "時間",
+        "en": "during the day",
+        "ja": "日中"
+    },
+    {
+        "category": "時間",
+        "en": "each time I visit the park",
+        "ja": "公園を訪れるたびに"
+    },
+    {
+        "category": "時間",
+        "en": "even after hearing the bad news",
+        "ja": "悪い知らせを聞いた後でも"
+    },
+    {
+        "category": "時間",
+        "en": "even before the game started",
+        "ja": "試合が始まる前でも"
+    },
+    {
+        "category": "時間",
+        "en": "every time I see her",
+        "ja": "彼女に会うたびに"
+    },
+    {
+        "category": "時間",
+        "en": "finally",
+        "ja": "ついに、ようやく"
+    },
+    {
+        "category": "時間",
+        "en": "first of all",
+        "ja": "まず第一に"
+    },
+    {
+        "category": "時間",
+        "en": "immediately she saw the message",
+        "ja": "彼女はメッセージを見てすぐに（～した）"
+    },
+    {
+        "category": "時間",
+        "en": "in five minutes",
+        "ja": "5分後に"
+    },
+    {
+        "category": "時間",
+        "en": "in the meantime",
+        "ja": "その間に"
+    },
+    {
+        "category": "時間",
+        "en": "in the short run",
+        "ja": "短期的には"
+    },
+    {
+        "category": "時間",
+        "en": "in the long run",
+        "ja": "長い目で見れば"
+    },
+    {
+        "category": "時間",
+        "en": "next time I see you",
+        "ja": "次にあなたに会った時に"
+    },
+    {
+        "category": "時間",
+        "en": "now that the test is over",
+        "ja": "今や試験が終わったので"
+    },
+    {
+        "category": "時間",
+        "en": "On arriving at the station",
+        "ja": "駅に着くとすぐに"
+    },
+    {
+        "category": "時間",
+        "en": "once I finish this book",
+        "ja": "いったんこの本を読み終えたら"
+    },
+    {
+        "category": "時間",
+        "en": "the first time I went to Tokyo",
+        "ja": "初めて東京に行った時に"
+    },
+    {
+        "category": "時間",
+        "en": "the instant I entered the room",
+        "ja": "部屋に入った瞬間に"
+    },
+    {
+        "category": "時間",
+        "en": "the last time I saw him",
+        "ja": "この前彼に会った時に"
+    },
+    {
+        "category": "時間",
+        "en": "the minute you get home",
+        "ja": "家に着いたらすぐに"
+    },
+    {
+        "category": "時間",
+        "en": "the moment they stepped outside",
+        "ja": "彼らが外に出た瞬間に"
+    },
+    {
+        "category": "時間",
+        "en": "while I was eating dinner",
+        "ja": "夕食を食べていた間に"
+    },
+    {
+        "category": "時間",
+        "en": "throughout a week",
+        "ja": "一週間の間ずっと"
+    },
+    {
+        "category": "時間",
+        "en": "till I get sleepy",
+        "ja": "眠くなるまでずっと"
+    },
+    {
+        "category": "時間",
+        "en": "until it stops raining",
+        "ja": "雨が止むまでずっと"
+    },
+    {
+        "category": "時間",
+        "en": "until midnight",
+        "ja": "深夜までずっと"
+    },
+
+
+
+
+    {
+        "category": "条件",
+        "en": "as long as it doesn't rain",
+        "ja": "雨が降らなければ"
+    },
+    {
+        "category": "条件",
+        "en": "assuming everything goes well",
+        "ja": "すべてが上手くいくと仮定して"
+    },
+    {
+        "category": "条件",
+        "en": "even if it doesn't go as planned",
+        "ja": "たとえ計画通りに進まなくても"
+    },
+    {
+        "category": "条件",
+        "en": "if any",
+        "ja": "もしあれば"
+    },
+    {
+        "category": "条件",
+        "en": "if anything",
+        "ja": "どちらかと言えば、むしろ"
+    },
+    {
+        "category": "条件",
+        "en": "if necessary",
+        "ja": "必要であれば"
+    },
+    {
+        "category": "条件",
+        "en": "if needed",
+        "ja": "必要なら"
+    },
+    {
+        "category": "条件",
+        "en": "if possible",
+        "ja": "もし可能なら"
+    },
+    {
+        "category": "条件",
+        "en": "if that's the case",
+        "ja": "もしそうなら"
+    },
+    {
+        "category": "条件",
+        "en": "if you don't mind",
+        "ja": "もしご迷惑でなければ"
+    },
+    {
+        "category": "条件",
+        "en": "if you need any help",
+        "ja": "もし何かお手伝いが必要ならば"
+    },
+    {
+        "category": "条件",
+        "en": "if you please",
+        "ja": "よろしければ（古風）"
+    },
+    {
+        "category": "条件",
+        "en": "if you want",
+        "ja": "お望みなら、もしよかったら"
+    },
+    {
+        "category": "条件",
+        "en": "if you will",
+        "ja": "いわば"
+    },
+    {
+        "category": "条件",
+        "en": "if you'd like",
+        "ja": "もしよろしければ"
+    },
+    {
+        "category": "条件",
+        "en": "only if it stops raining",
+        "ja": "雨が止んだ場合に限って"
+    },
+    {
+        "category": "条件",
+        "en": "provided you're available",
+        "ja": "もし都合がつくならば"
+    },
+    {
+        "category": "条件",
+        "en": "providing the weather is good",
+        "ja": "天気が良ければ"
+    },
+    {
+        "category": "条件",
+        "en": "unless it stops raining",
+        "ja": "雨が止まない限り"
+    },
+    {
+        "category": "条件",
+        "en": "weather permitting",
+        "ja": "天気がよければ"
+    },
+    {
+        "category": "条件",
+        "en": "suppose he doesn't show up",
+        "ja": "もし彼が現れなかったら"
+    },
+    {
+        "category": "条件",
+        "en": "supposing this is true",
+        "ja": "もしこれが本当なら"
+    },
+
+
+
+
+
+    {
+        "category": "目的",
+        "en": "by doing so",
+        "ja": "そうすることによって"
+    },
+    {
+        "category": "目的",
+        "en": "for the purpose of this agreement",
+        "ja": "本契約書の目的として"
+    },
+    {
+        "category": "目的",
+        "en": "for the sake of gaining international experience",
+        "ja": "国際的な経験を得るために"
+    },
+    {
+        "category": "目的",
+        "en": "in an effort to meet the deadline",
+        "ja": "締め切りに間に合わせようと努力して"
+    },
+    {
+        "category": "目的",
+        "en": "in order for the machine to work properly",
+        "ja": "その機械が正常に動作するためには"
+    },
+    {
+        "category": "目的",
+        "en": "in order not to miss the train",
+        "ja": "その電車に遅れないように"
+    },
+    {
+        "category": "目的",
+        "en": "in order that he can travel abroad",
+        "ja": "彼は海外旅行に行けるように"
+    },
+    {
+        "category": "目的",
+        "en": "in order to pass the exam",
+        "ja": "試験に合格するために"
+    },
+    {
+        "category": "目的",
+        "en": "so as not to forget the details",
+        "ja": "詳細を忘れないように"
+    },
+    {
+        "category": "目的",
+        "en": "so as to succeed in the market",
+        "ja": "市場で成功するために"
+    },
+    {
+        "category": "目的",
+        "en": "with a view to finding a better job",
+        "ja": "より良い仕事を見つけるのを見据えて"
+    },
+    {
+        "category": "目的",
+        "en": "with the aim of increasing sales",
+        "ja": "売り上げを伸ばすことを目的として"
+    },
+
+
+
+
+
+    {
+        "category": "理由",
+        "en": "because I was sick",
+        "ja": "体調が悪かったので"
+    },
+    {
+        "category": "理由",
+        "en": "because of the rain",
+        "ja": "雨のせいで"
+    },
+    {
+        "category": "理由",
+        "en": "due to my carelessness",
+        "ja": "私の不注意により"
+    },
+    {
+        "category": "理由",
+        "en": "on account of the traffic jam",
+        "ja": "渋滞のために"
+    },
+    {
+        "category": "理由",
+        "en": "owing to bad weather",
+        "ja": "悪天候のために（フォーマル）"
+    },
+    {
+        "category": "理由",
+        "en": "what with the heat and the lack of sleep",
+        "ja": "暑さや寝不足のせいで（カジュアル）"
+    },
+    {
+        "category": "理由",
+        "en": "what with the rain and heavy traffic",
+        "ja": "雨や渋滞のせいで"
+    },
+    {
+        "category": "理由",
+        "en": "thanks to your support",
+        "ja": "あなたの支援のおかげで"
+    },
+
+
+
+
+
+    {
+        "category": "結論",
+        "en": "as a result",
+        "ja": "結果として"
+    },
+    {
+        "category": "結論",
+        "en": "eventually",
+        "ja": "やがて、いずれは"
+    },
+    {
+        "category": "結論",
+        "en": "in conclusion",
+        "ja": "結論として"
+    },
+    {
+        "category": "結論",
+        "en": "in short",
+        "ja": "要するに"
+    },
+    {
+        "category": "結論",
+        "en": "in summary",
+        "ja": "要約すると"
+    },
+    {
+        "category": "結論",
+        "en": "to sum up",
+        "ja": "要するに"
+    },
+    {
+        "category": "結論",
+        "en": "at the end of the day",
+        "ja": "結局のところ"
+    },
+    {
+        "category": "結論",
+        "en": "all things considered",
+        "ja": "すべてを考慮すると"
+    }
+
+
+
+]
