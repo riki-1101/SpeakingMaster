@@ -17,6 +17,30 @@
         "json": "life",
         "categories": ["睡眠", "洗濯", "掃除", "食事", "支度"]
     },
+    {
+        "subject": "I",
+        "genre": "ビジネス",
+        "json": "business",
+        "categories": ["連絡"]
+    },
+    {
+        "subject": "I",
+        "genre": "学習",
+        "json": "learning",
+        "categories": ["勉強", "研究", "学校"]
+    },
+    {
+        "subject": "I",
+        "genre": "健康",
+        "json": "health",
+        "categories": ["体調管理", "症状", "栄養", "医療"]
+    },
+    {
+        "subject": "I",
+        "genre": "娯楽",
+        "json": "amusement",
+        "categories": ["鑑賞", "運動", "交流"]
+    },
 
 
 
