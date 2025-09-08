@@ -107,6 +107,60 @@
         "ja": "～できたのに（できていない）",
         "next": "done"
     },
+    {
+        "subject": "I",
+        "en": "I'm going to (do) [I'm gonna (do)]",
+        "ja": "～する予定である",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "I was going to (do)",
+        "ja": "～する予定だった",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "I'm about to (do)",
+        "ja": "今まさに～しようとしている",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "I was about to (do)",
+        "ja": "まさに～しようとしていた",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "I'm supposed to (do)",
+        "ja": "～することになっている",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "I was supposed to (do)",
+        "ja": "～することになっていた",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "I can't wait to (do)",
+        "ja": "～するのが待ちきれない",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "I couldn't wait to (do)",
+        "ja": "～するのが待ちきれなかった",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "I've got to (do) [I gotta (do)]",
+        "ja": "～しなきゃ",
+        "next": "do"
+    },
 
 
 

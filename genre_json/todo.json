@@ -76,7 +76,9 @@
     },
     {
         "category": "意見",
+        "do": "agree to (do)",
         "did": "agreed to (do)",
+        "done": "agreed to (do)",
         "ja": "～することに同意する"
     },
     {
@@ -100,15 +102,17 @@
     },
     {
         "category": "達成",
-        "en_present": "I fail to (do)",
-        "ja_present": "～できない",
-        "en": "I failed to (do)",
-        "ja": "～できなかった"
+        "do": "fail to (do)",
+        "did": "failed to (do)",
+        "done": "failed to (do)",
+        "ja": "～できない"
     },
     {
         "category": "達成",
-        "en": "I learned to (do)",
-        "ja": "～できるようになった"
+        "do": "learn to (do)",
+        "did": "learned to (do)",
+        "done": "learned to (do)",
+        "ja": "～できるようになる"
     },
 
 
@@ -117,31 +121,17 @@
 
     {
         "category": "必要",
-        "en_present": "I have to (do)",
-        "ja_present": "～しなければならない（客観的に見て）",
-        "en": "I had to (do)",
-        "ja": "～しなければならなかった（客観的に見て）",
-        "en_will": "I'll have to (do)",
-        "ja_will": "～しなければならないだろう（客観的に見て）"
+        "do": "have to (do)",
+        "did": "had to (do)",
+        "done": "had to (do)",
+        "ja": "～しなければならない（客観的に見て）"
     },
     {
         "category": "必要",
-        "en_present": "I don't have to (do)",
-        "ja_present": "～しなくてよい（客観的に見て）",
-        "en": "I didn't have to (do)",
-        "ja": "～しなくてよかった（客観的に見て）"
-    },
-    {
-        "category": "必要",
-        "en_have": "I've got to (do) / I gotta (do)",
-        "ja_have": "～しなきゃ"
-    },
-    {
-        "category": "必要",
-        "en_present": "I need to (do)",
-        "ja_present": "～する必要がある",
-        "en": "I needed to (do)",
-        "ja": "～する必要があった"
+        "do": "need to (do)",
+        "did": "needed to (do)",
+        "done": "needed to (do)",
+        "ja": "～する必要がある"
     },
 
 
@@ -150,41 +140,24 @@
 
     {
         "category": "願望",
-        "en_present": "I want to (do) / I wanna (do)",
-        "ja_present": "～したい",
-        "en": "I wanted to (do)",
-        "ja": "～したかった"
+        "do": "want to (do) [wanna (do)]",
+        "did": "wanted to (do)",
+        "done": "wanted to (do)",
+        "ja": "～したい"
     },
     {
         "category": "願望",
-        "en_present": "I'd like to (do)",
-        "ja_present": "～したいのですが（丁寧）"
+        "do": "hope to (do)",
+        "did": "hoped to (do)",
+        "c": "hoping to (do)",
+        "ja": "～できたらいいなと思う"
     },
     {
         "category": "願望",
-        "en_present": "I can't wait to (do)",
-        "ja_present": "～するのが待ちきれない",
-        "en": "I couldn't wait to (do)",
-        "ja": "～するのが待ちきれなかった"
-    },
-    {
-        "category": "願望",
-        "en_present": "I hope to (do)",
-        "ja_present": "～できたらいいな",
-        "en": "I hoped to (do)",
-        "ja": "～できたらいいなと思った"
-    },
-    {
-        "category": "願望",
-        "en_present": "I wish to (do)",
-        "ja_present": "～したいです（とても丁寧）",
-        "en": "I wished to (do)",
-        "ja": "～したいと思った（とても丁寧）"
-    },
-    {
-        "category": "願望",
-        "en_present": "I'd rather (do)",
-        "ja_present": "むしろ～したい"
+        "do": "wish to (do)",
+        "did": "wished to (do)",
+        "done": "wished to (do)",
+        "ja": "～したいです（とても丁寧）"
     },
 
 
@@ -193,76 +166,55 @@
 
     {
         "category": "予定",
-        "en_present": "I plan to (do)",
-        "ja_present": "～する予定だ",
-        "en": "I planed to (do)",
-        "ja": "～する予定だった"
+        "do": "plan to (do)",
+        "did": "planed to (do)",
+        "done": "planed to (do)",
+        "c": "planning to (do)",
+        "ja": "～する予定だ"
     },
     {
         "category": "予定",
-        "en_present": "I expect to (do)",
-        "ja_present": "～すると思う",
-        "en": "I expected to (do)",
-        "ja": "～すると思っていた"
+        "do": "expect to (do)",
+        "did": "expected to (do)",
+        "ja": "～すると思う"
     },
     {
         "category": "予定",
-        "en_present": "I mean to (do)",
-        "ja_present": "～するつもりだ",
-        "en": "I meant to (do)",
-        "ja": "～するつもりだった"
+        "do": "mean to (do)",
+        "did": "meant to (do)",
+        "ja": "～するつもりだ"
     },
-    {
-        "category": "予定",
-        "en_present": "I'm going to (do) / I'm gonna (do)",
-        "ja_present": "～する予定である",
-        "en": "I was going to (do)",
-        "ja": "～する予定だった"
-    },
-    {
-        "category": "予定",
-        "en_present": "I'm planning to (do)",
-        "ja_present": "～するのを予定している",
-        "en": "I was planning to (do)",
-        "ja": "～するのを予定していた"
-    },
-    {
-        "category": "予定",
-        "en_present": "I'm supposed to (do)",
-        "ja_present": "～することになっている",
-        "en": "I was supposed to (do)",
-        "ja": "～することになっていた"
-    },
-    {
-        "category": "予定",
-        "en_present": "I'm about to (do)",
-        "ja_present": "今まさに～しようとしている",
-        "en": "I was about to (do)",
-        "ja": "まさに～しようとしていた"
-    },
+
+
 
 
 
     {
         "category": "その他",
-        "en": "I prepared to (do)",
-        "ja": "～する準備をした"
+        "do": "prepared to (do)",
+        "did": "prepared to (do)",
+        "done": "prepared to (do)",
+        "ja": "～する準備をする"
     },
     {
         "category": "その他",
-        "en": "I happened to (do)",
-        "ja": "たまたま～した"
+        "do": "happened to (do)",
+        "did": "happened to (do)",
+        "done": "happened to (do)",
+        "ja": "たまたま～する"
     },
     {
         "category": "その他",
-        "en": "I pretended to (do)",
-        "ja": "～するふりをした"
+        "do": "pretend to (do)",
+        "did": "pretended to (do)",
+        "done": "pretended to (do)",
+        "ja": "～するふりをする"
     },
     {
         "category": "その他",
-        "en_present": "I tend to (do)",
-        "ja_present": "～しがちである",
-        "en": "I tended to (do)",
-        "ja": "～しがちだった"
+        "do": "tend to (do)",
+        "did": "tended to (do)",
+        "done": "tended to (do)",
+        "ja": "～しがちである"
     }
 ]
