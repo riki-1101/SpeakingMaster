@@ -48,6 +48,20 @@
 
 
 
+    {
+        "category": "読書",
+        "do": "flip through a magazine",
+        "ja": "雑誌をパラパラめくる"
+    },
+    {
+        "category": "読書",
+        "do": "browse a magazine",
+        "ja": "雑誌を立ち読みする"
+    },
+
+
+
+
 
     {
         "category": "運動",

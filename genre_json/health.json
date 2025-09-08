@@ -6,6 +6,11 @@
     },
     {
         "category": "体調管理",
+        "do": "weigh myself",
+        "ja": "体重を測る"
+    },
+    {
+        "category": "体調管理",
         "do": "monitor my health",
         "ja": "健康状態をチェックする"
     },
@@ -21,6 +26,11 @@
     },
     {
         "category": "体調管理",
+        "do": "gargle",
+        "ja": "うがいをする"
+    },
+    {
+        "category": "体調管理",
         "do": "take medicine",
         "ja": "薬を飲む"
     },
@@ -33,6 +43,11 @@
         "category": "体調管理",
         "do": "stay hydrated",
         "ja": "水分補給した状態を保つ"
+    },
+    {
+        "category": "体調管理",
+        "do": "blow my nose",
+        "ja": "鼻をかむ"
     },
     {
         "category": "体調管理",
@@ -98,6 +113,21 @@
         "category": "症状",
         "do": "feel dizzy",
         "ja": "めまいがする"
+    },
+    {
+        "category": "症状",
+        "do": "sweat",
+        "ja": "汗をかく"
+    },
+    {
+        "category": "症状",
+        "do": "get out of breath",
+        "ja": "息が切れる"
+    },
+    {
+        "category": "症状",
+        "do": "have chills",
+        "ja": "寒気がする"
     },
     {
         "category": "症状",

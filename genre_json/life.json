@@ -2,71 +2,155 @@
     {
         "category": "睡眠",
         "do": "wake up",
+        "did": "woke up",
+        "done": "woken up",
         "ja": "目を覚ます"
     },
     {
         "category": "睡眠",
         "do": "get up",
+        "did": "got up",
+        "done": "gotten/got up",
         "ja": "起きる"
     },
     {
         "category": "睡眠",
         "do": "go to bed",
+        "did": "went to bed",
+        "done": "gone to bed",
         "ja": "寝る"
     },
     {
         "category": "睡眠",
+        "do": "hit the hay",
+        "did": "hit the hay",
+        "done": "hit the hay",
+        "ja": "寝る（くだけた言い方）"
+    },
+    {
+        "category": "睡眠",
+        "do": "sleep tight",
+        "did": "slept tight",
+        "done": "slept tight",
+        "ja": "ぐっすり眠る"
+    },
+    {
+        "category": "睡眠",
         "do": "take a nap",
+        "did": "took a nap",
+        "done": "taken a nap",
         "ja": "昼寝をする"
     },
     {
         "category": "睡眠",
         "do": "stay up late",
+        "did": "stayed up late",
+        "done": "stayed up late",
         "ja": "夜更かしする"
     },
     {
         "category": "睡眠",
         "do": "stay up all night",
+        "did": "stayed up all night",
+        "done": "stayed up all night",
         "ja": "徹夜する"
     },
     {
         "category": "睡眠",
         "do": "oversleep",
+        "did": "overslept",
+        "done": "overslept",
         "ja": "寝過ごす"
     },
     {
         "category": "睡眠",
         "do": "sleep in",
+        "did": "slept in",
+        "done": "slept in",
         "ja": "朝寝坊する、遅くまで寝る"
     },
     {
         "category": "睡眠",
+        "do": "lie on my back",
+        "did": "lay on my back",
+        "done": "lain on my back",
+        "ja": "仰向けに寝る"
+    },
+    {
+        "category": "睡眠",
+        "do": "snore",
+        "did": "snored",
+        "done": "snored",
+        "ja": "いびきをかく"
+    },
+    {
+        "category": "睡眠",
+        "do": "have a bad dream",
+        "did": "had a bad dream",
+        "done": "had a bad dream",
+        "ja": "悪い夢を見る"
+    },
+    {
+        "category": "睡眠",
+        "do": "roll over",
+        "did": "rolled over",
+        "done": "rolled over",
+        "ja": "寝返りをうつ"
+    },
+    {
+        "category": "睡眠",
+        "do": "toss and turn",
+        "did": "tossed and turned",
+        "done": "tossed and turned",
+        "ja": "寝返りを打って眠れない"
+    },
+    {
+        "category": "睡眠",
+        "do": "rub my eye",
+        "did": "rubbed my eye",
+        "done": "rubbed my eye",
+        "ja": "目をこする"
+    },
+    {
+        "category": "睡眠",
         "do": "put on my pajamas",
+        "did": "put on my pajamas",
+        "done": "put on my pajamas",
         "ja": "パジャマを着る"
     },
     {
         "category": "睡眠",
         "do": "take off my pajamas",
+        "did": "took off my pajamas",
+        "done": "taken off my pajamas",
         "ja": "パジャマを脱ぐ"
     },
     {
         "category": "睡眠",
         "do": "hit the snooze button",
+        "did": "hit the snooze button",
+        "done": "hit the snooze button",
         "ja": "スヌーズを押す"
     },
     {
         "category": "睡眠",
         "do": "turn on/off the light",
+        "did": "turned on/off the light",
+        "done": "turned on/off the light",
         "ja": "電気をつける / 消す"
     },
     {
         "category": "睡眠",
         "do": "open/close the window",
+        "did": "opened/closed the window",
+        "done": "opened/closed the window",
         "ja": "窓を開ける / 閉める"
     },
     {
         "category": "睡眠",
         "do": "draw/close the curtains",
+        "did": "drew/closed the curtains",
+        "done": "drawn/closed the curtains",
         "ja": "カーテンを開ける / 閉める"
     },
 
@@ -77,42 +161,65 @@
     {
         "category": "洗濯",
         "do": "do the laundry",
+        "did": "did the laundry",
+        "done": "done the laundry",
         "ja": "洗濯する"
     },
     {
         "category": "洗濯",
         "do": "load the washing machine",
+        "did": "loaded the washing machine",
+        "done": "loaded the washing machine",
         "ja": "洗濯機に入れる"
     },
     {
         "category": "洗濯",
         "do": "unload the washing machine",
+        "did": "unloaded the washing machine",
+        "done": "unloaded the washing machine",
         "ja": "洗濯機から出す"
     },
     {
         "category": "洗濯",
         "do": "hang the laundry",
+        "did": "hung the laundry",
+        "done": "hung the laundry",
         "ja": "洗濯物を干す"
     },
     {
         "category": "洗濯",
         "do": "fold the laundry",
+        "did": "folded the laundry",
+        "done": "folded the laundry",
         "ja": "洗濯物をたたむ"
     },
     {
         "category": "洗濯",
         "do": "separate the laundry",
+        "did": "separated the laundry",
+        "done": "separated the laundry",
         "ja": "洗濯物を分ける"
     },
     {
         "category": "洗濯",
         "do": "put away the laundry",
+        "did": "put away the laundry",
+        "done": "put away the laundry",
         "ja": "洗濯物をしまう"
     },
     {
         "category": "洗濯",
         "do": "do the ironing",
+        "did": "did the ironing",
+        "done": "done the ironing",
         "ja": "アイロンをかける"
+    },
+    {
+        "category": "洗濯",
+        "do": "iron a shirt",
+        "did": "ironed a shirt",
+        "done": "ironed a shirt",
+        "ja": "シャツにアイロンをかける"
     },
 
 
@@ -121,57 +228,122 @@
 
     {
         "category": "掃除",
+        "do": "do the cleaning",
+        "did": "did the cleaning",
+        "done": "done the cleaning",
+        "ja": "家事として掃除をする"
+    },
+    {
+        "category": "掃除",
+        "do": "tidy up",
+        "did": "tidied up",
+        "done": "tidied up",
+        "ja": "片付ける"
+    },
+    {
+        "category": "掃除",
         "do": "clean up the room",
+        "did": "cleaned up the room",
+        "done": "cleaned up the room",
         "ja": "部屋を片付ける"
     },
     {
         "category": "掃除",
-        "do": "organize the closet/shelf",
-        "ja": "クローゼット / 棚を整理する"
+        "do": "organize the closet[shelf]",
+        "did": "organized the closet[shelf]",
+        "done": "organized the closet[shelf]",
+        "ja": "クローゼット[棚]を整理する"
+    },
+    {
+        "category": "掃除",
+        "do": "sweep up dust",
+        "did": "swept up dust",
+        "done": "swept up dust",
+        "ja": "ほこりを掃除する"
     },
     {
         "category": "掃除",
         "do": "dust the furniture",
+        "did": "dusted the furniture",
+        "done": "dusted the furniture",
         "ja": "家具のほこりを払う"
     },
     {
         "category": "掃除",
         "do": "wipe the table",
+        "did": "wiped the table",
+        "done": "wiped the table",
         "ja": "テーブルを拭く"
     },
     {
         "category": "掃除",
         "do": "polish the mirror",
+        "did": "polished the mirror",
+        "done": "polished the mirror",
         "ja": "鏡を磨く"
     },
     {
         "category": "掃除",
         "do": "sweep the floor",
+        "did": "swept the floor",
+        "done": "swept the floor",
         "ja": "床を掃く"
     },
     {
         "category": "掃除",
         "do": "mop the floor",
+        "did": "mopped the floor",
+        "done": "mopped the floor",
         "ja": "床を拭く"
     },
     {
         "category": "掃除",
+        "do": "wring out the towel",
+        "did": "wrung out the towel",
+        "done": "wrung out the towel",
+        "ja": "タオルを絞る"
+    },
+    {
+        "category": "掃除",
+        "do": "do the vacuuming",
+        "did": "did the vacuuming",
+        "done": "done the vacuuming",
+        "ja": "家事として掃除機をかける"
+    },
+    {
+        "category": "掃除",
         "do": "vacuum the carpet",
+        "did": "vacuumed the carpet",
+        "done": "vacuumed the carpet",
         "ja": "掃除機をかける"
     },
     {
         "category": "掃除",
         "do": "change the sheets",
+        "did": "changed the sheets",
+        "done": "changed the sheets",
         "ja": "シーツを替える"
     },
     {
         "category": "掃除",
         "do": "make the bed",
+        "did": "made the bed",
+        "done": "made the bed",
         "ja": "ベッドを整える"
     },
     {
         "category": "掃除",
+        "do": "put away the trash",
+        "did": "put away the trash",
+        "done": "put away the trash",
+        "ja": "ゴミを片付ける"
+    },
+
+    {
+        "category": "掃除",
         "do": "take out the trash",
+        "did": "took out the trash",
+        "done": "taken out the trash",
         "ja": "ゴミを出す"
     },
 
@@ -180,83 +352,176 @@
 
 
     {
+        "category": "料理",
+        "do": "do the cooking",
+        "did": "did the cooking",
+        "done": "done the cooking",
+        "ja": "家事として料理をする"
+    },
+    {
+        "category": "料理",
+        "do": "make breakfast[lunch/dinner]",
+        "did": "made breakfast[lunch/dinner]",
+        "done": "made breakfast[lunch/dinner]",
+        "ja": "朝食[昼食/夕食]を作る"
+    },
+    {
+        "category": "料理",
+        "do": "tie my apron",
+        "did": "tied my apron",
+        "done": "tied my apron",
+        "ja": "エプロンを結ぶ"
+    },
+    {
+        "category": "料理",
+        "do": "cook rice",
+        "did": "cooked rice",
+        "done": "cooked rice",
+        "ja": "ご飯を炊く"
+    },
+    {
+        "category": "料理",
+        "do": "chop vegetables",
+        "did": "chopped vegetables",
+        "done": "chopped vegetables",
+        "ja": "野菜を刻む"
+    },
+    {
+        "category": "料理",
+        "do": "peel an orange",
+        "did": "peeled an orange",
+        "done": "peeled an orange",
+        "ja": "みかんの皮をむく"
+    },
+    {
+        "category": "料理",
+        "do": "boil water",
+        "did": "boiled water",
+        "done": "boiled water",
+        "ja": "お湯を沸かす"
+    },
+
+
+
+
+
+    {
         "category": "食事",
-        "do": "make breakfast/linch/dinner",
-        "ja": "朝食 / 昼食 / 夕食を作る"
+        "do": "set the table",
+        "did": "set the table",
+        "done": "set the table",
+        "ja": "食卓の準備をする"
     },
     {
         "category": "食事",
-        "do": "order takeout / order in",
+        "do": "have breakfast[lunch/dinner]",
+        "did": "had breakfast[lunch/dinner]",
+        "done": "had breakfast[lunch/dinner]",
+        "ja": "朝食[昼食/夕食]を食べる"
+    },
+    {
+        "category": "食事",
+        "do": "order in",
+        "did": "ordered in",
+        "done": "ordered in",
         "ja": "出前を頼む"
     },
     {
         "category": "食事",
         "do": "heat up leftovers",
+        "did": "heated up leftovers",
+        "done": "heated up leftovers",
         "ja": "残り物を温める"
     },
     {
         "category": "食事",
-        "do": "set the table",
-        "ja": "食卓の準備をする"
-    },
-    {
-        "category": "食事",
-        "do": "have breakfast/linch/dinner",
-        "ja": "朝食 / 昼食 / 夕食を食べる"
+        "do": "pour some water",
+        "did": "poured some water",
+        "done": "poured some water",
+        "ja": "水を注ぐ"
     },
     {
         "category": "食事",
         "do": "skip breakfast",
+        "did": "skipped breakfast",
+        "done": "skipped breakfast",
         "ja": "朝食を抜く"
     },
     {
         "category": "食事",
-        "do": "make coffee/tea",
-        "ja": "コーヒー / 紅茶を淹れる"
+        "do": "make coffee[tea]",
+        "did": "made coffee[tea]",
+        "done": "made coffee[tea]",
+        "ja": "コーヒー[紅茶]を淹れる"
     },
     {
         "category": "食事",
         "do": "grab a drink",
+        "did": "grabbed a drink",
+        "done": "grabbed a drink",
         "ja": "軽く飲む"
     },
     {
         "category": "食事",
         "do": "grab a bite",
+        "did": "grabbed a bite",
+        "done": "grabbed a bite",
         "ja": "軽く食べる"
     },
     {
         "category": "食事",
         "do": "have a snack",
+        "did": "had a snack",
+        "done": "had a snack",
         "ja": "おやつを食べる"
     },
     {
         "category": "食事",
         "do": "eat between meals",
+        "did": "ate between meals",
+        "done": "eaten between meals",
         "ja": "間食をする"
     },
     {
         "category": "食事",
         "do": "eat too much",
+        "did": "ate too much",
+        "done": "eaten too much",
         "ja": "食べ過ぎる"
     },
     {
         "category": "食事",
         "do": "overeat",
+        "did": "overate",
+        "done": "overeaten",
         "ja": "食べ過ぎる"
     },
     {
         "category": "食事",
         "do": "clear the table",
+        "did": "cleared the table",
+        "done": "cleared the table",
         "ja": "食卓を片付ける"
     },
     {
         "category": "食事",
         "do": "do the dishes",
+        "did": "did the dishes",
+        "done": "done the dishes",
         "ja": "皿を洗う"
     },
     {
         "category": "食事",
+        "do": "dry the dishes",
+        "did": "dried the dishes",
+        "done": "dried the dishes",
+        "ja": "皿を拭く"
+    },
+    {
+        "category": "食事",
         "do": "make a shopping list",
+        "did": "made a shopping list",
+        "done": "made a shopping list",
         "ja": "買い物リストを作る"
     },
 
@@ -267,61 +532,167 @@
     {
         "category": "支度",
         "do": "brush my teeth",
+        "did": "brushed my teeth",
+        "done": "brushed my teeth",
         "ja": "歯を磨く"
     },
     {
         "category": "支度",
         "do": "rinse my mouth",
+        "did": "rinsed my mouth",
+        "done": "rinsed my mouth",
         "ja": "口をすすぐ"
     },
     {
         "category": "支度",
         "do": "wash my face",
+        "did": "washed my face",
+        "done": "washed my face",
         "ja": "顔を洗う"
     },
     {
         "category": "支度",
         "do": "run a bath",
+        "did": "ran a bath",
+        "done": "run a bath",
         "ja": "お風呂に湯を入れる"
     },
     {
         "category": "支度",
         "do": "take a shower",
+        "did": "took a shower",
+        "done": "taken a shower",
         "ja": "シャワーを浴びる"
     },
     {
         "category": "支度",
         "do": "take a bath",
+        "did": "took a bath",
+        "done": "taken a bath",
         "ja": "お風呂に入る"
     },
     {
         "category": "支度",
         "do": "dry my hair",
+        "did": "dried my hair",
+        "done": "dried my hair",
         "ja": "髪を乾かす"
     },
     {
         "category": "支度",
         "do": "comb my hair",
+        "did": "combed my hair",
+        "done": "combed my hair",
         "ja": "髪をとかす"
     },
     {
         "category": "支度",
-        "do": "shave my face/legs",
-        "ja": "顔 / 脚を剃る"
+        "do": "do my hair",
+        "did": "did my hair",
+        "done": "done my hair",
+        "ja": "髪を整える"
     },
     {
         "category": "支度",
-        "do": "put on makeup",
+        "do": "shave my face",
+        "did": "shaved my face",
+        "done": "shaved my face",
+        "ja": "顔を剃る"
+    },
+    {
+        "category": "支度",
+        "do": "do my makeup",
+        "did": "did my makeup",
+        "done": "done my makeup",
         "ja": "化粧をする"
     },
     {
         "category": "支度",
+        "do": "put on makeup",
+        "did": "put on makeup",
+        "done": "put on makeup",
+        "ja": "化粧をする"
+    },
+    {
+        "category": "支度",
+        "do": "do my nails",
+        "did": "did my nails",
+        "done": "done my nails",
+        "ja": "ネイルをする"
+    },
+    {
+        "category": "支度",
+        "do": "clip my nails",
+        "did": "clipped my nails",
+        "done": "clipped my nails",
+        "ja": "爪を切る"
+    },
+    {
+        "category": "支度",
+        "do": "change clothes",
+        "did": "changed clothes",
+        "done": "changed clothes",
+        "ja": "着替える"
+    },
+    {
+        "category": "支度",
+        "do": "button up my shirt",
+        "did": "buttoned up my shirt",
+        "done": "buttoned up my shirt",
+        "ja": "シャツのボタンを留める"
+    },
+    {
+        "category": "支度",
+        "do": "fold my clothes",
+        "did": "folded my clothes",
+        "done": "folded my clothes",
+        "ja": "服をたたむ"
+    },
+    {
+        "category": "支度",
+        "do": "wear a T-shirt",
+        "did": "wore a T-shirt",
+        "done": "worn a T-shirt",
+        "ja": "Tシャツを着る"
+    },
+    {
+        "category": "支度",
         "do": "get dressed",
+        "did": "got dressed",
+        "done": "gotten[got] dressed",
         "ja": "服を着る"
     },
     {
         "category": "支度",
         "do": "put on my jacket",
+        "did": "put on my jacket",
+        "done": "put on my jacket",
         "ja": "上着を着る"
+    },
+    {
+        "category": "支度",
+        "do": "zip up my jacket",
+        "did": "zipped up my jacket",
+        "done": "zipped up my jacket",
+        "ja": "ジャケットのファスナーを閉める"
+    },
+    {
+        "category": "支度",
+        "do": "tie my shoelaces",
+        "did": "tied my shoelaces",
+        "done": "tied my shoelaces",
+        "ja": "靴紐を結ぶ"
+    },
+
+
+
+
+
+    {
+        "category": "その他",
+        "do": "flush the toilet",
+        "did": "",
+        "done": "",
+        "ja": "トイレを流す"
     }
 ]
