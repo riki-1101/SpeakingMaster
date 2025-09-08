@@ -43,5 +43,146 @@
         "category": "連絡",
         "do": "sign a contract",
         "ja": "契約書にサインする"
+    },
+
+
+
+
+
+
+    {
+        "category": "会議",
+        "do": "attend a meeting",
+        "ja": "会議に出席する"
+    },
+    {
+        "category": "会議",
+        "do": "join a meeting",
+        "ja": "会議に参加する"
+    },
+    {
+        "category": "会議",
+        "do": "join a conference call",
+        "ja": "電話会議に参加する"
+    },
+    {
+        "category": "会議",
+        "do": "join a video call",
+        "ja": "ビデオ会議に参加する"
+    },
+    {
+        "category": "会議",
+        "do": "miss a meeting",
+        "ja": "会議を欠席する、遅れる"
+    },
+    {
+        "category": "会議",
+        "do": "lead a meeting",
+        "ja": "会議を主導する"
+    },
+    {
+        "category": "会議",
+        "do": "chair a meeting",
+        "ja": "会議の議長を務める"
+    },
+    {
+        "category": "会議",
+        "do": "run a meeting",
+        "ja": "会議を進める"
+    },
+    {
+        "category": "会議",
+        "do": "moderate the discussion",
+        "ja": "議論をまとめる"
+    },
+    {
+        "category": "会議",
+        "do": "facilitate a discussion",
+        "ja": "話し合いを促進する"
+    },
+    {
+        "category": "会議",
+        "do": "give feedback",
+        "ja": "フィードバックをする"
+    },
+    {
+        "category": "会議",
+        "do": "provide input",
+        "ja": "意見を出す"
+    },
+    {
+        "category": "会議",
+        "do": "share ideas",
+        "ja": "アイデアを共有する"
+    },
+    {
+        "category": "会議",
+        "do": "brainstorm ideas",
+        "ja": "ブレインストーミングする"
+    },
+    {
+        "category": "会議",
+        "do": "raise a point",
+        "ja": "議題を出す"
+    },
+    {
+        "category": "会議",
+        "do": "bring up an issue",
+        "ja": "問題を提起する"
+    },
+    {
+        "category": "会議",
+        "do": "ask questions",
+        "ja": "質問する"
+    },
+    {
+        "category": "会議",
+        "do": "clarify points",
+        "ja": "不明点を確認する"
+    },
+    {
+        "category": "会議",
+        "do": "agree with (sb)",
+        "ja": "誰かに同意する"
+    },
+    {
+        "category": "会議",
+        "do": "disagree with (sb)",
+        "ja": "誰かに反対する"
+    },
+    {
+        "category": "会議",
+        "do": "take notes",
+        "ja": "メモを取る"
+    },
+    {
+        "category": "会議",
+        "do": "write minutes",
+        "ja": "議事録を書く"
+    },
+    {
+        "category": "会議",
+        "do": "summarize the discussion",
+        "ja": "議論をまとめる"
+    },
+    {
+        "category": "会議",
+        "do": "follow up after the meeting",
+        "ja": "会議後にフォローする"
+    },
+    {
+        "category": "会議",
+        "do": "stick to the agenda",
+        "ja": "議題に沿って進める"
+    },
+    {
+        "category": "会議",
+        "do": "schedule a follow-up meeting",
+        "ja": "次回の会議を設定する"
+    },
+    {
+        "category": "会議",
+        "do": "allocate time for each topic",
+        "ja": "各議題に時間を割り当てる"
     }
 ]

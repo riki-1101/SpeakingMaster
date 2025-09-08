@@ -11,8 +11,23 @@
     },
     {
         "category": "体調管理",
+        "do": "measure my blood pressure",
+        "ja": "血圧を測る"
+    },
+    {
+        "category": "体調管理",
+        "do": "take a pulse",
+        "ja": "脈を測る"
+    },
+    {
+        "category": "体調管理",
         "do": "monitor my health",
         "ja": "健康状態をチェックする"
+    },
+    {
+        "category": "体調管理",
+        "do": "track my steps",
+        "ja": "歩数を記録する"
     },
     {
         "category": "体調管理",
@@ -111,6 +126,11 @@
     },
     {
         "category": "症状",
+        "do": "feel under the weather",
+        "ja": "体調がすぐれない"
+    },
+    {
+        "category": "症状",
         "do": "feel dizzy",
         "ja": "めまいがする"
     },
@@ -146,6 +166,11 @@
     },
     {
         "category": "症状",
+        "do": "have nausea",
+        "ja": "吐き気がする"
+    },
+    {
+        "category": "症状",
         "do": "have a sore throat",
         "ja": "喉が痛い"
     },
@@ -165,24 +190,24 @@
 
 
     {
-        "category": "栄養",
+        "category": "食生活",
         "do": "eat a healthy diet",
         "ja": "健康食を食べる"
     },
     {
-        "category": "栄養",
+        "category": "食生活",
         "do": "take supplements",
         "ja": "サプリを摂る"
     },
     {
-        "category": "栄養",
+        "category": "食生活",
         "do": "avoid junk food",
         "ja": "ジャンクフードを避ける"
     },
     {
-        "category": "栄養",
-        "do": "cut down on sugar",
-        "ja": "砂糖を控える"
+        "category": "食生活",
+        "do": "cut down on sugar[salt]",
+        "ja": "砂糖[塩分]を控える"
     },
 
 
@@ -201,6 +226,11 @@
     },
     {
         "category": "医療",
+        "do": "visit the clinic",
+        "ja": "クリニックに行く"
+    },
+    {
+        "category": "医療",
         "do": "consult a pharmacist",
         "ja": "薬剤師に相談する"
     },
@@ -211,13 +241,18 @@
     },
     {
         "category": "医療",
-        "do": "get vaccinated",
-        "ja": "予防接種を受ける"
+        "do": "get tested",
+        "ja": "検査を受ける"
     },
     {
         "category": "医療",
-        "do": "get tested",
-        "ja": "検査を受ける"
+        "do": "get an X-ray",
+        "ja": "レントゲン検査を受ける"
+    },
+    {
+        "category": "医療",
+        "do": "get vaccinated",
+        "ja": "予防接種を受ける"
     },
     {
         "category": "医療",
