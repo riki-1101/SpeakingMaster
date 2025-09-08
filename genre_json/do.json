@@ -79,21 +79,9 @@
         "do": "do one's best",
         "ja": "最善を尽くす"
     },
-    {
-        "category": "基本",
-        "do": "do one's hair",
-        "ja": "髪を整える"
-    },
-    {
-        "category": "基本",
-        "do": "do one's makeup",
-        "ja": "化粧をする"
-    },
-    {
-        "category": "基本",
-        "do": "do one's nails",
-        "ja": "ネイルをする"
-    },
+    
+    
+    
     {
         "category": "基本",
         "do": "do overtime",
@@ -114,35 +102,12 @@
         "do": "do someone a favor",
         "ja": "（人）のために何かをする"
     },
-    {
-        "category": "基本",
-        "do": "do the cleaning",
-        "ja": "掃除する（家事として）"
-    },
-    {
-        "category": "基本",
-        "do": "do the cooking",
-        "ja": "料理をする（家事として）"
-    },
-    {
-        "category": "基本",
-        "do": "do the dishes",
-        "ja": "皿洗いをする"
-    },
+    
+   
     {
         "category": "基本",
         "do": "do the gardening",
         "ja": "庭仕事をする"
-    },
-    {
-        "category": "基本",
-        "do": "do the ironing",
-        "ja": "アイロンをかける"
-    },
-    {
-        "category": "基本",
-        "do": "do the laundry",
-        "ja": "洗濯する"
     },
     {
         "category": "基本",
@@ -154,11 +119,7 @@
         "do": "do the shopping",
         "ja": "買い物をする（家事として）"
     },
-    {
-        "category": "基本",
-        "do": "do the vacuuming",
-        "ja": "掃除機をかける（家事として）"
-    },
+
     {
         "category": "基本",
         "do": "do time",

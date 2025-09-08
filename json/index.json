@@ -49,7 +49,7 @@
     {
         "subject": "It",
         "genre": "評価",
-        "json": "evaluaion",
+        "json": "evaluation",
         "categories": ["難易度", "可能性", "有用性", "重要度", "適否", "感情", "時間"]
     }
 ]
