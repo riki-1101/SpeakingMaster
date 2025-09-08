@@ -37,6 +37,18 @@
     },
     {
         "subject": "I",
+        "en": "I do (do)",
+        "ja": "～するんだよ（強調）",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "I did (do)",
+        "ja": "～したんだよ（強調）",
+        "next": "do"
+    },
+    {
+        "subject": "I",
         "en": "I've (done)",
         "ja": "今までに～している",
         "next": "done"
@@ -49,14 +61,14 @@
     },
     {
         "subject": "I",
-        "en": "I do (do)",
-        "ja": "～するんだよ（強調）",
+        "en": "I'd like to (do)",
+        "ja": "～したいのですが",
         "next": "do"
     },
     {
         "subject": "I",
-        "en": "I did (do)",
-        "ja": "～したんだよ（強調）",
+        "en": "I'd rather (do)",
+        "ja": "むしろ～したい",
         "next": "do"
     },
     {
@@ -94,6 +106,40 @@
         "en": "I could've (done)",
         "ja": "～できたのに（できていない）",
         "next": "done"
+    },
+
+
+
+
+    {
+        "subject": "You",
+        "en": "You can (do)",
+        "ja": "～していいよ",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "en": "You must (do)",
+        "ja": "～しなければならないよ",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "en": "You mustn't (do)",
+        "ja": "～してはいけないよ",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "en": "You should (do)",
+        "ja": "～したほうがいいよ",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "en": "You had better (do)",
+        "ja": "～しなさいよ",
+        "next": "do"
     },
 
 
