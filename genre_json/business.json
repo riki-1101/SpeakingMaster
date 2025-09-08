@@ -1,47 +1,47 @@
 [
     {
         "category": "連絡",
-        "en": "check emails",
+        "do": "check emails",
         "ja": "メールを確認する"
     },
     {
         "category": "連絡",
-        "en": "reply to emails",
+        "do": "reply to emails",
         "ja": "メールに返信する"
     },
     {
         "category": "連絡",
-        "en": "make a phone call",
+        "do": "make a phone call",
         "ja": "電話を掛ける"
     },
     {
         "category": "連絡",
-        "en": "answer the phone",
+        "do": "answer the phone",
         "ja": "電話に出る"
     },
     {
         "category": "連絡",
-        "en": "make an appointment",
+        "do": "make an appointment",
         "ja": "アポイントを取る"
     },
     {
         "category": "連絡",
-        "en": "cancel an appointment",
+        "do": "cancel an appointment",
         "ja": "アポイントをキャンセルする"
     },
     {
         "category": "連絡",
-        "en": "deal with a client",
+        "do": "deal with a client",
         "ja": "顧客に対応する"
     },
     {
         "category": "連絡",
-        "en": "negotiate a contract",
+        "do": "negotiate a contract",
         "ja": "契約を交渉する"
     },
     {
         "category": "連絡",
-        "en": "sign a contract",
+        "do": "sign a contract",
         "ja": "契約書にサインする"
     }
 ]

@@ -1,47 +1,47 @@
 [
     {
         "category": "基本操作",
-        "en": "scroll up [down]",
+        "do": "scroll up [down]",
         "ja": "上に[下に]スクロールする"
     },
     {
         "category": "基本操作",
-        "en": "swipe left [right]",
+        "do": "swipe left [right]",
         "ja": "左に[右に]スワイプする"
     },
     {
         "category": "基本操作",
-        "en": "zoom in [out]",
+        "do": "zoom in [out]",
         "ja": "画面を拡大[縮小]する"
     },
     {
         "category": "基本操作",
-        "en": "lock the screen",
+        "do": "lock the screen",
         "ja": "ロックをかける"
     },
     {
         "category": "基本操作",
-        "en": "unlock the screen",
+        "do": "unlock the screen",
         "ja": "ロックを解除する"
     },
     {
         "category": "基本操作",
-        "en": "take a screenshot",
+        "do": "take a screenshot",
         "ja": "スクショを撮る"
     },
     {
         "category": "基本操作",
-        "en": "charge the phone",
+        "do": "charge the phone",
         "ja": "充電する"
     },
     {
         "category": "基本操作",
-        "en": "power off",
+        "do": "power off",
         "ja": "電源を切る"
     },
     {
         "category": "基本操作",
-        "en": "restart",
+        "do": "restart",
         "ja": "再起動する"
     },
 
@@ -52,42 +52,42 @@
 
     {
         "category": "設定",
-        "en": "adjust the brightness",
+        "do": "adjust the brightness",
         "ja": "明るさを調整する"
     },
     {
         "category": "設定",
-        "en": "adjust the volume",
+        "do": "adjust the volume",
         "ja": "音量を調整する"
     },
     {
         "category": "設定",
-        "en": "set an alarm",
+        "do": "set an alarm",
         "ja": "アラームをセットする"
     },
     {
         "category": "設定",
-        "en": "set a reminder",
+        "do": "set a reminder",
         "ja": "リマインダーを設定する"
     },
     {
         "category": "設定",
-        "en": "turn on [off] Wi-Fi",
+        "do": "turn on [off] Wi-Fi",
         "ja": "Wi-Fiをオン[オフ]にする"
     },
     {
         "category": "設定",
-        "en": "turn on [off] airplane mode",
+        "do": "turn on [off] airplane mode",
         "ja": "機内モードをオン[オフ]にする"
     },
     {
         "category": "設定",
-        "en": "pair with Bluetooth",
+        "do": "pair with Bluetooth",
         "ja": "Bluetoothでペアリングする"
     },
     {
         "category": "設定",
-        "en": "mute",
+        "do": "mute",
         "ja": "サイレントにする"
     },
 
@@ -97,52 +97,52 @@
 
     {
         "category": "連絡",
-        "en": "make a call",
+        "do": "make a call",
         "ja": "電話をかける"
     },
     {
         "category": "連絡",
-        "en": "pick up the phone",
+        "do": "pick up the phone",
         "ja": "電話に出る"
     },
     {
         "category": "連絡",
-        "en": "answer the phone",
+        "do": "answer the phone",
         "ja": "電話に出る（フォーマル寄り）"
     },
     {
         "category": "連絡",
-        "en": "hang up",
+        "do": "hang up",
         "ja": "電話を切る"
     },
     {
         "category": "連絡",
-        "en": "miss a call",
+        "do": "miss a call",
         "ja": "着信を逃す"
     },
     {
         "category": "連絡",
-        "en": "leave a message",
+        "do": "leave a message",
         "ja": "留守電を残す"
     },
     {
         "category": "連絡",
-        "en": "call back",
+        "do": "call back",
         "ja": "かけ直す"
     },
     {
         "category": "連絡",
-        "en": "text (sb)",
+        "do": "text (sb)",
         "ja": "～にメッセージを送る"
     },
     {
         "category": "連絡",
-        "en": "check messages",
+        "do": "check messages",
         "ja": "メッセージを確認する"
     },
     {
         "category": "連絡",
-        "en": "check notifications",
+        "do": "check notifications",
         "ja": "通知を確認する"
     },
 
@@ -152,47 +152,47 @@
 
     {
         "category": "アプリ",
-        "en": "download an app",
+        "do": "download an app",
         "ja": "アプリをダウンロードする"
     },
     {
         "category": "アプリ",
-        "en": "install an app",
+        "do": "install an app",
         "ja": "アプリをインストールする"
     },
     {
         "category": "アプリ",
-        "en": "uninstall [delete] an app",
+        "do": "uninstall [delete] an app",
         "ja": "アプリを削除する"
     },
     {
         "category": "アプリ",
-        "en": "update an app",
+        "do": "update an app",
         "ja": "アプリを更新する"
     },
     {
         "category": "アプリ",
-        "en": "open [run] an app",
+        "do": "open [run] an app",
         "ja": "アプリを開く"
     },
     {
         "category": "アプリ",
-        "en": "close [quit] an app",
+        "do": "close [quit] an app",
         "ja": "アプリを閉じる"
     },
     {
         "category": "アプリ",
-        "en": "search for (sth)",
+        "do": "search for (sth)",
         "ja": "～を検索する"
     },
     {
         "category": "アプリ",
-        "en": "browse the web",
+        "do": "browse the web",
         "ja": "ネットを見る"
     },
     {
         "category": "アプリ",
-        "en": "stream music [video]",
+        "do": "stream music [video]",
         "ja": "音楽[動画]をストリーミングする"
     }
 ]

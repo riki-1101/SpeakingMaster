@@ -1,202 +1,202 @@
 [
     {
         "category": "基本",
-        "en": "make a call",
+        "do": "make a call",
         "ja": "電話をかける"
     },
     {
         "category": "基本",
-        "en": "make a change",
+        "do": "make a change",
         "ja": "変更する"
     },
     {
         "category": "基本",
-        "en": "make a choice",
+        "do": "make a choice",
         "ja": "選択する"
     },
     {
         "category": "基本",
-        "en": "make a comment",
+        "do": "make a comment",
         "ja": "コメントする"
     },
     {
         "category": "基本",
-        "en": "make a complaint",
+        "do": "make a complaint",
         "ja": "苦情を言う"
     },
     {
         "category": "基本",
-        "en": "make a decision",
+        "do": "make a decision",
         "ja": "決断する"
     },
     {
         "category": "基本",
-        "en": "make a difference",
+        "do": "make a difference",
         "ja": "変化をもたらす"
     },
     {
         "category": "基本",
-        "en": "make a fortune",
+        "do": "make a fortune",
         "ja": "大儲けする"
     },
     {
         "category": "基本",
-        "en": "make a list",
+        "do": "make a list",
         "ja": "リストを作る"
     },
     {
         "category": "基本",
-        "en": "make a living",
+        "do": "make a living",
         "ja": "生計を立てる"
     },
     {
         "category": "基本",
-        "en": "make a mess",
+        "do": "make a mess",
         "ja": "散らかす、めちゃくちゃにする"
     },
     {
         "category": "基本",
-        "en": "make a mistake",
+        "do": "make a mistake",
         "ja": "間違える"
     },
     {
         "category": "基本",
-        "en": "make a move",
+        "do": "make a move",
         "ja": "行動を起こす"
     },
     {
         "category": "基本",
-        "en": "make a payment",
+        "do": "make a payment",
         "ja": "支払いをする"
     },
     {
         "category": "基本",
-        "en": "make a plan",
+        "do": "make a plan",
         "ja": "計画を立てる"
     },
     {
         "category": "基本",
-        "en": "make a profit",
+        "do": "make a profit",
         "ja": "利益を出す"
     },
     {
         "category": "基本",
-        "en": "make a promise",
+        "do": "make a promise",
         "ja": "約束する"
     },
     {
         "category": "基本",
-        "en": "make a request",
+        "do": "make a request",
         "ja": "依頼する"
     },
     {
         "category": "基本",
-        "en": "make a reservation",
+        "do": "make a reservation",
         "ja": "予約を取る"
     },
      {
         "category": "基本",
-        "en": "make a scene",
+        "do": "make a scene",
         "ja": "大騒ぎする"
     },
     {
         "category": "基本",
-        "en": "make a start",
+        "do": "make a start",
         "ja": "始める"
     },
     {
         "category": "基本",
-        "en": "make a suggestion",
+        "do": "make a suggestion",
         "ja": "提案する"
     },
     {
         "category": "基本",
-        "en": "make a wish",
+        "do": "make a wish",
         "ja": "願いをかける"
     },
     {
         "category": "基本",
-        "en": "make an announcement",
+        "do": "make an announcement",
         "ja": "発表する"
     },
     {
         "category": "基本",
-        "en": "make an appointment",
+        "do": "make an appointment",
         "ja": "予約する"
     },
     {
         "category": "基本",
-        "en": "make an effort",
+        "do": "make an effort",
         "ja": "努力する"
     },
     {
         "category": "基本",
-        "en": "make an excuse",
+        "do": "make an excuse",
         "ja": "言い訳する"
     },
     {
         "category": "基本",
-        "en": "make an impression",
+        "do": "make an impression",
         "ja": "印象を与える"
     },
     {
         "category": "基本",
-        "en": "make an improvement",
+        "do": "make an improvement",
         "ja": "改善する"
     },
     {
         "category": "基本",
-        "en": "make an offer",
+        "do": "make an offer",
         "ja": "申し出をする"
     },
     {
         "category": "基本",
-        "en": "make breakfast [lunch/dinner]",
+        "do": "make breakfast [lunch/dinner]",
         "ja": "朝食[昼食/夕食]を作る"
     },
     {
         "category": "基本",
-        "en": "make friends",
+        "do": "make friends",
         "ja": "友達を作る"
     },
     {
         "category": "基本",
-        "en": "make it",
+        "do": "make it",
         "ja": "（予定に）間に合う"
     },
     {
         "category": "基本",
-        "en": "make money",
+        "do": "make money",
         "ja": "お金を稼ぐ"
     },
     {
         "category": "基本",
-        "en": "make peace",
+        "do": "make peace",
         "ja": "和解する、平和を築く"
     },
     {
         "category": "基本",
-        "en": "make progress (in sth)",
+        "do": "make progress (in sth)",
         "ja": "（～において）進歩する"
     },
     {
         "category": "基本",
-        "en": "make sense",
+        "do": "make sense",
         "ja": "筋が通る"
     },
     {
         "category": "基本",
-        "en": "make the bed",
+        "do": "make the bed",
         "ja": "ベッドを整える"
     },
     {
         "category": "基本",
-        "en": "make trouble",
+        "do": "make trouble",
         "ja": "トラブルを起こす"
     },
     {
         "category": "基本",
-        "en": "make way",
+        "do": "make way",
         "ja": "道をあける、道を譲る"
     },
 
@@ -206,12 +206,12 @@
 
     {
         "category": "句動詞",
-        "en": "make up one's mind",
+        "do": "make up one's mind",
         "ja": "決心する"
     },
     {
         "category": "句動詞",
-        "en": "make up for (sth)",
+        "do": "make up for (sth)",
         "ja": "〜を埋め合わせる"
     }
 ]

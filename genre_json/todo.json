@@ -1,0 +1,268 @@
+[
+    {
+        "category": "意志",
+        "do": "try to (do)",
+        "did": "tried to (do)",
+        "done": "tried to (do)",
+        "ja": "～しようとする"
+    },
+    {
+        "category": "意志",
+        "do": "make an effort to (do)",
+        "did": "made an effort to (do)",
+        "done": "made an effort to (do)",
+        "ja": "～するように努力する"
+    },
+    {
+        "category": "意志",
+        "do": "attempt to (do)",
+        "did": "attempted to (do)",
+        "done": "attempted to (do)",
+        "ja": "～するのを試みる"
+    },
+    {
+        "category": "意志",
+        "do": "seek to (do)",
+        "did": "sought to (do)",
+        "done": "sought to (do)",
+        "ja": "～しようと努める"
+    },
+    {
+        "category": "意志",
+        "do": "strive to (do)",
+        "did": "strove to (do)",
+        "done": "striven to (do)",
+        "ja": "～しようと全力を尽くす（強い決意）"
+    },
+    {
+        "category": "意志",
+        "do": "endeavor to (do)",
+        "did": "endeavored to (do)",
+        "done": "endeavored to (do)",
+        "ja": "～しようと努力する（堅い）"
+    },
+    {
+        "category": "意志",
+        "do": "decide to (do)",
+        "did": "decided to (do)",
+        "done": "decided to (do)",
+        "ja": "～することに決める"
+    },
+    {
+        "category": "意志",
+        "do": "promise to (do)",
+        "did": "promised to (do)",
+        "done": "promised to (do)",
+        "ja": "～すると約束する"
+    },
+
+
+
+
+
+    {
+        "category": "意見",
+        "do": "offer to (do)",
+        "did": "offered to (do)",
+        "done": "offered to (do)",
+        "ja": "～すると申し出る"
+    },
+    {
+        "category": "意見",
+        "do": "ask to (do)",
+        "did": "asked to (do)",
+        "done": "asked to (do)",
+        "ja": "～させてほしいと頼む"
+    },
+    {
+        "category": "意見",
+        "did": "agreed to (do)",
+        "ja": "～することに同意する"
+    },
+    {
+        "category": "意見",
+        "do": "refuse to (do)",
+        "did": "refused to (do)",
+        "done": "refused to (do)",
+        "ja": "～するのを拒む"
+    },
+
+
+
+
+
+    {
+        "category": "達成",
+        "do": "manage to (do)",
+        "did": "managed to (do)",
+        "done": "managed to (do)",
+        "ja": "なんとか～できる"
+    },
+    {
+        "category": "達成",
+        "en_present": "I fail to (do)",
+        "ja_present": "～できない",
+        "en": "I failed to (do)",
+        "ja": "～できなかった"
+    },
+    {
+        "category": "達成",
+        "en": "I learned to (do)",
+        "ja": "～できるようになった"
+    },
+
+
+
+
+
+    {
+        "category": "必要",
+        "en_present": "I have to (do)",
+        "ja_present": "～しなければならない（客観的に見て）",
+        "en": "I had to (do)",
+        "ja": "～しなければならなかった（客観的に見て）",
+        "en_will": "I'll have to (do)",
+        "ja_will": "～しなければならないだろう（客観的に見て）"
+    },
+    {
+        "category": "必要",
+        "en_present": "I don't have to (do)",
+        "ja_present": "～しなくてよい（客観的に見て）",
+        "en": "I didn't have to (do)",
+        "ja": "～しなくてよかった（客観的に見て）"
+    },
+    {
+        "category": "必要",
+        "en_have": "I've got to (do) / I gotta (do)",
+        "ja_have": "～しなきゃ"
+    },
+    {
+        "category": "必要",
+        "en_present": "I need to (do)",
+        "ja_present": "～する必要がある",
+        "en": "I needed to (do)",
+        "ja": "～する必要があった"
+    },
+
+
+
+
+
+    {
+        "category": "願望",
+        "en_present": "I want to (do) / I wanna (do)",
+        "ja_present": "～したい",
+        "en": "I wanted to (do)",
+        "ja": "～したかった"
+    },
+    {
+        "category": "願望",
+        "en_present": "I'd like to (do)",
+        "ja_present": "～したいのですが（丁寧）"
+    },
+    {
+        "category": "願望",
+        "en_present": "I can't wait to (do)",
+        "ja_present": "～するのが待ちきれない",
+        "en": "I couldn't wait to (do)",
+        "ja": "～するのが待ちきれなかった"
+    },
+    {
+        "category": "願望",
+        "en_present": "I hope to (do)",
+        "ja_present": "～できたらいいな",
+        "en": "I hoped to (do)",
+        "ja": "～できたらいいなと思った"
+    },
+    {
+        "category": "願望",
+        "en_present": "I wish to (do)",
+        "ja_present": "～したいです（とても丁寧）",
+        "en": "I wished to (do)",
+        "ja": "～したいと思った（とても丁寧）"
+    },
+    {
+        "category": "願望",
+        "en_present": "I'd rather (do)",
+        "ja_present": "むしろ～したい"
+    },
+
+
+
+
+
+    {
+        "category": "予定",
+        "en_present": "I plan to (do)",
+        "ja_present": "～する予定だ",
+        "en": "I planed to (do)",
+        "ja": "～する予定だった"
+    },
+    {
+        "category": "予定",
+        "en_present": "I expect to (do)",
+        "ja_present": "～すると思う",
+        "en": "I expected to (do)",
+        "ja": "～すると思っていた"
+    },
+    {
+        "category": "予定",
+        "en_present": "I mean to (do)",
+        "ja_present": "～するつもりだ",
+        "en": "I meant to (do)",
+        "ja": "～するつもりだった"
+    },
+    {
+        "category": "予定",
+        "en_present": "I'm going to (do) / I'm gonna (do)",
+        "ja_present": "～する予定である",
+        "en": "I was going to (do)",
+        "ja": "～する予定だった"
+    },
+    {
+        "category": "予定",
+        "en_present": "I'm planning to (do)",
+        "ja_present": "～するのを予定している",
+        "en": "I was planning to (do)",
+        "ja": "～するのを予定していた"
+    },
+    {
+        "category": "予定",
+        "en_present": "I'm supposed to (do)",
+        "ja_present": "～することになっている",
+        "en": "I was supposed to (do)",
+        "ja": "～することになっていた"
+    },
+    {
+        "category": "予定",
+        "en_present": "I'm about to (do)",
+        "ja_present": "今まさに～しようとしている",
+        "en": "I was about to (do)",
+        "ja": "まさに～しようとしていた"
+    },
+
+
+
+    {
+        "category": "その他",
+        "en": "I prepared to (do)",
+        "ja": "～する準備をした"
+    },
+    {
+        "category": "その他",
+        "en": "I happened to (do)",
+        "ja": "たまたま～した"
+    },
+    {
+        "category": "その他",
+        "en": "I pretended to (do)",
+        "ja": "～するふりをした"
+    },
+    {
+        "category": "その他",
+        "en_present": "I tend to (do)",
+        "ja_present": "～しがちである",
+        "en": "I tended to (do)",
+        "ja": "～しがちだった"
+    }
+]

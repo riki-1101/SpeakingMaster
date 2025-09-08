@@ -1,0 +1,169 @@
+[
+    {
+        "subject": "I",
+        "en": "I'm (C)",
+        "ja": "今～状態である",
+        "next": "C"
+    },
+    {
+        "subject": "I",
+        "en": "I was (C)",
+        "ja": "～状態だった",
+        "next": "C"
+    },
+    {
+        "subject": "I",
+        "en": "I'm being (C)",
+        "ja": "今～な態度をとっている（一時的）",
+        "next": "C"
+    },
+    {
+        "subject": "I",
+        "en": "I was being (C)",
+        "ja": "そのとき～状態だった（一時的）",
+        "next": "C"
+    },
+    {
+        "subject": "I",
+        "en": "I (do)",
+        "ja": "普段～する",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "I (did)",
+        "ja": "～した",
+        "next": "did"
+    },
+    {
+        "subject": "I",
+        "en": "I've (done)",
+        "ja": "今までに～している",
+        "next": "done"
+    },
+    {
+        "subject": "I",
+        "en": "I'll (do)",
+        "ja": "～するよ",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "I do (do)",
+        "ja": "～するんだよ（強調）",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "I did (do)",
+        "ja": "～したんだよ（強調）",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "I should (do)",
+        "ja": "～した方がいい",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "I should've (done)",
+        "ja": "～すべきだった",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "I might (do)",
+        "ja": "～するかもしれない",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "I might've (done)",
+        "ja": "～したかもしれない",
+        "next": "done"
+    },
+    {
+        "subject": "I",
+        "en": "I can (do)",
+        "ja": "～できる可能性がある",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "I could've (done)",
+        "ja": "～できたのに（できていない）",
+        "next": "done"
+    },
+
+
+
+
+
+    {
+        "subject": "It",
+        "en": "It's (C)",
+        "ja": "～だ",
+        "next": "C"
+    },
+    {
+        "subject": "It",
+        "en": "It can be (C)",
+        "ja": "～になり得る",
+        "next": "C"
+    },
+    {
+        "subject": "It",
+        "en": "It may be (C)",
+        "ja": "～であるかもしれない",
+        "next": "C"
+    },
+    {
+        "subject": "It",
+        "en": "It might be (C)",
+        "ja": "～であるかもしれないなぁ",
+        "next": "C"
+    },
+    {
+        "subject": "It",
+        "en": "It must be (C)",
+        "ja": "～であるに違いない",
+        "next": "C"
+    },
+    {
+        "subject": "It",
+        "en": "It must've been (C)",
+        "ja": "～だったに違いない",
+        "next": "C"
+    },
+    {
+        "subject": "It",
+        "en": "It should be (C)",
+        "ja": "～であるはずだ",
+        "next": "C"
+    },
+    {
+        "subject": "It",
+        "en": "It should've been (C)",
+        "ja": "～だったはずだ",
+        "next": "C"
+    },
+    {
+        "subject": "It",
+        "en": "It'll be (C)",
+        "ja": "～であるだろう",
+        "next": "C"
+    },
+    {
+        "subject": "It",
+        "en": "It would be (C)",
+        "ja": "～だろうなぁ（仮定）",
+        "next": "C"
+    },
+    {
+        "subject": "It",
+        "en": "It would've been (C)",
+        "ja": "～だっただろう",
+        "next": "C"
+    }
+]

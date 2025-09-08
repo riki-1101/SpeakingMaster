@@ -1,177 +1,177 @@
 [
     {
         "category": "基本",
-        "en": "do a deal",
+        "do": "do a deal",
         "ja": "取引をする"
     },
     {
         "category": "基本",
-        "en": "do a job",
+        "do": "do a job",
         "ja": "仕事をする"
     },
     {
         "category": "基本",
-        "en": "do a presentation",
+        "do": "do a presentation",
         "ja": "プレゼンをする"
     },
     {
         "category": "基本",
-        "en": "do a project",
+        "do": "do a project",
         "ja": "プロジェクトを行う"
     },
     {
         "category": "基本",
-        "en": "do a report",
+        "do": "do a report",
         "ja": "レポートを書く"
     },
     {
         "category": "基本",
-        "en": "do a task",
+        "do": "do a task",
         "ja": "作業をする"
     },
     {
         "category": "基本",
-        "en": "do an experiment",
+        "do": "do an experiment",
         "ja": "実験をする"
     },
     {
         "category": "基本",
-        "en": "do an interview",
+        "do": "do an interview",
         "ja": "面接をする"
     },
     {
         "category": "基本",
-        "en": "do business",
+        "do": "do business",
         "ja": "商売をする"
     },
     {
         "category": "基本",
-        "en": "do damage",
+        "do": "do damage",
         "ja": "損害を与える"
     },
     {
         "category": "基本",
-        "en": "do exercise",
+        "do": "do exercise",
         "ja": "運動する"
     },
     {
         "category": "基本",
-        "en": "do good",
+        "do": "do good",
         "ja": "役に立つ"
     },
     {
         "category": "基本",
-        "en": "do harm",
+        "do": "do harm",
         "ja": "害を与える"
     },
     {
         "category": "基本",
-        "en": "do homework",
+        "do": "do homework",
         "ja": "宿題をする"
     },
     {
         "category": "基本",
-        "en": "do housework",
+        "do": "do housework",
         "ja": "家事をする"
     },
     {
         "category": "基本",
-        "en": "do one's best",
+        "do": "do one's best",
         "ja": "最善を尽くす"
     },
     {
         "category": "基本",
-        "en": "do one's hair",
+        "do": "do one's hair",
         "ja": "髪を整える"
     },
     {
         "category": "基本",
-        "en": "do one's makeup",
+        "do": "do one's makeup",
         "ja": "化粧をする"
     },
     {
         "category": "基本",
-        "en": "do one's nails",
+        "do": "do one's nails",
         "ja": "ネイルをする"
     },
     {
         "category": "基本",
-        "en": "do overtime",
+        "do": "do overtime",
         "ja": "残業する"
     },
     {
         "category": "基本",
-        "en": "do paperwork",
+        "do": "do paperwork",
         "ja": "書類仕事をする"
     },
     {
         "category": "基本",
-        "en": "do research",
+        "do": "do research",
         "ja": "調査する"
     },
     {
         "category": "基本",
-        "en": "do someone a favor",
+        "do": "do someone a favor",
         "ja": "（人）のために何かをする"
     },
     {
         "category": "基本",
-        "en": "do the cleaning",
+        "do": "do the cleaning",
         "ja": "掃除する（家事として）"
     },
     {
         "category": "基本",
-        "en": "do the cooking",
+        "do": "do the cooking",
         "ja": "料理をする（家事として）"
     },
     {
         "category": "基本",
-        "en": "do the dishes",
+        "do": "do the dishes",
         "ja": "皿洗いをする"
     },
     {
         "category": "基本",
-        "en": "do the gardening",
+        "do": "do the gardening",
         "ja": "庭仕事をする"
     },
     {
         "category": "基本",
-        "en": "do the ironing",
+        "do": "do the ironing",
         "ja": "アイロンをかける"
     },
     {
         "category": "基本",
-        "en": "do the laundry",
+        "do": "do the laundry",
         "ja": "洗濯する"
     },
     {
         "category": "基本",
-        "en": "do the math",
+        "do": "do the math",
         "ja": "計算する"
     },
     {
         "category": "基本",
-        "en": "do the shopping",
+        "do": "do the shopping",
         "ja": "買い物をする（家事として）"
     },
     {
         "category": "基本",
-        "en": "do the vacuuming",
+        "do": "do the vacuuming",
         "ja": "掃除機をかける（家事として）"
     },
     {
         "category": "基本",
-        "en": "do time",
+        "do": "do time",
         "ja": "服役する"
     },
     {
         "category": "基本",
-        "en": "do wonders",
+        "do": "do wonders",
         "ja": "素晴らしい効果をもたらす"
     },
     {
         "category": "基本",
-        "en": "do yoga",
+        "do": "do yoga",
         "ja": "ヨガをする"
     },
 
@@ -181,17 +181,17 @@
 
     {
         "category": "句動詞",
-        "en": "do well",
+        "do": "do well",
         "ja": "うまくやる"
     },
     {
         "category": "句動詞",
-        "en": "do badly",
+        "do": "do badly",
         "ja": "うまくいかない"
     },
     {
         "category": "句動詞",
-        "en": "do without (sth)",
+        "do": "do without (sth)",
         "ja": "〜なしで済ます"
     }
 ]

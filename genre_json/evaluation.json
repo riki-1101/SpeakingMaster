@@ -1,0 +1,382 @@
+[
+    {
+        "category": "難易度",
+        "C": "easy to (do)",
+        "ja": "～するのは簡単である"
+    },
+    {
+        "category": "難易度",
+        "C": "safe to (do)",
+        "ja": "～するのは安全である"
+    },
+    {
+        "category": "難易度",
+        "C": "tricky to (do)",
+        "ja": "～するのはやや難しい（扱いづらい）"
+    },
+    {
+        "category": "難易度",
+        "C": "challenging to (do)",
+        "ja": "～するのはやりがいがある"
+    },
+    {
+        "category": "難易度",
+        "C": "hard to (do)",
+        "ja": "～するのは難しい"
+    },
+
+
+
+
+
+    {
+        "category": "可能性",
+        "C": "possible to (do)",
+        "ja": "～するのは可能である"
+    },
+    {
+        "category": "可能性",
+        "C": "impossible to (do)",
+        "ja": "～するのは不可能である"
+    },
+    {
+        "category": "可能性",
+        "C": "likely to (do)",
+        "ja": "～しそうである"
+    },
+    {
+        "category": "可能性",
+        "C": "unlikely to (do)",
+        "ja": "～しそうにない"
+    },
+    {
+        "category": "可能性",
+        "C": "certain to (do)",
+        "ja": "～するのは確実だ"
+    },
+    {
+        "category": "可能性",
+        "C": "bound to (do)",
+        "ja": "必ず～するだろう（口語）"
+    },
+    {
+        "category": "可能性",
+        "C": "inevitable to (do)",
+        "ja": "～するのは避けられない"
+    },
+    {
+        "category": "可能性",
+        "C": "common to (do)",
+        "ja": "～するのはよくある"
+    },
+    {
+        "category": "可能性",
+        "C": "rare to (do)",
+        "ja": "～するのは珍しい"
+    },
+    {
+        "category": "可能性",
+        "C": "unusual to (do)",
+        "ja": "～するのは普通じゃない"
+    },
+
+
+
+
+
+    {
+        "category": "有用性",
+        "C": "convenient to (do)",
+        "ja": "～するのは便利だ"
+    },
+    {
+        "category": "有用性",
+        "C": "comfortable to (do)",
+        "ja": "～するのは快適だ"
+    },
+    {
+        "category": "有用性",
+        "C": "uncomfortable to (do)",
+        "ja": "～するのは不快だ"
+    },
+    {
+        "category": "有用性",
+        "C": "useful to (do)",
+        "ja": "～するのは役に立つ"
+    },
+    {
+        "category": "有用性",
+        "C": "helpful to (do)",
+        "ja": "～するのは役に立つ"
+    },
+    {
+        "category": "有用性",
+        "C": "beneficial to (do)",
+        "ja": "～するのは有益だ"
+    },
+    {
+        "category": "有用性",
+        "C": "practical to (do)",
+        "ja": "～するのは実用的だ"
+    },
+    {
+        "category": "有用性",
+        "C": "efficient to (do)",
+        "ja": "～するのは効率的だ"
+    },
+    {
+        "category": "有用性",
+        "C": "productive to (do)",
+        "ja": "～するのは生産的だ"
+    },
+    {
+        "category": "有用性",
+        "C": "ineffective to (do)",
+        "ja": "～するのは効果がない"
+    },
+    {
+        "category": "有用性",
+        "C": "pointless to (do)",
+        "ja": "～するのは無意味だ"
+    },
+
+
+
+
+
+    {
+        "category": "重要度",
+        "C": "necessary to (do)",
+        "ja": "～するのは必要だ"
+    },
+    {
+        "category": "重要度",
+        "C": "unnecessary to (do)",
+        "ja": "～する必要はない"
+    },
+    {
+        "category": "重要度",
+        "C": "essential to (do)",
+        "ja": "～するのは不可欠だ"
+    },
+    {
+        "category": "重要度",
+        "C": "important to (do)",
+        "ja": "～するのは重要だ"
+    },
+    {
+        "category": "重要度",
+        "C": "vital to (do)",
+        "ja": "～するのは極めて重要だ"
+    },
+    {
+        "category": "重要度",
+        "C": "crucial to (do)",
+        "ja": "～するのは決定的に重要だ"
+    },
+    {
+        "category": "重要度",
+        "C": "mandatory to (do)",
+        "ja": "～するのは義務だ"
+    },
+    {
+        "category": "重要度",
+        "C": "optional to (do)",
+        "ja": "～するのは任意だ"
+    },
+    {
+        "category": "重要度",
+        "C": "worth it to (do)",
+        "ja": "～する価値がある"
+    },
+    {
+        "category": "重要度",
+        "C": "advisable to (do)",
+        "ja": "～するのが望ましい"
+    },
+    {
+        "category": "重要度",
+        "C": "preferable to (do)",
+        "ja": "～する方が好ましい"
+    },
+
+
+
+
+
+    {
+        "category": "適否",
+        "C": "wrong to (do)",
+        "ja": "～するのは間違っている"
+    },
+    {
+        "category": "適否",
+        "C": "legal to (do)",
+        "ja": "～するのは合法だ"
+    },
+    {
+        "category": "適否",
+        "C": "illegal to (do)",
+        "ja": "～するのは違法だ"
+    },
+    {
+        "category": "適否",
+        "C": "useless to (do)",
+        "ja": "～するのは無駄である"
+    },
+    {
+        "category": "適否",
+        "C": "wise to (do)",
+        "ja": "～するのは賢明だ"
+    },
+    {
+        "category": "適否",
+        "C": "foolish to (do)",
+        "ja": "～するのは愚かだ"
+    },
+    {
+        "category": "適否",
+        "C": "acceptable to (do)",
+        "ja": "～するのは許容される"
+    },
+    {
+        "category": "適否",
+        "C": "appropriate to (do)",
+        "ja": "～するのは適切だ"
+    },
+    {
+        "category": "適否",
+        "C": "inappropriate to (do)",
+        "ja": "～するのは不適切だ"
+    },
+
+
+
+
+
+    {
+        "category": "感情",
+        "C": "nice to (do)",
+        "ja": "～するのはいいね"
+    },
+    {
+        "category": "感情",
+        "C": "surprising to (do)",
+        "ja": "～するのは驚くべきことだ"
+    },
+    {
+        "category": "感情",
+        "C": "amazing to (do)",
+        "ja": "～するのはすごい"
+    },
+    {
+        "category": "感情",
+        "C": "wonderful to (do)",
+        "ja": "～するのは素晴らしい"
+    },
+    {
+        "category": "感情",
+        "C": "exciting to (do)",
+        "ja": "～するのはわくわくする"
+    },
+    {
+        "category": "感情",
+        "C": "fun to (do)",
+        "ja": "～するのは楽しい"
+    },
+    {
+        "category": "感情",
+        "C": "pleasant to (do)",
+        "ja": "～するのは楽しい"
+    },
+    {
+        "category": "感情",
+        "C": "delightful to (do)",
+        "ja": "～するのは嬉しい"
+    },
+    {
+        "category": "感情",
+        "C": "thrilling to (do)",
+        "ja": "～するのはスリルがある"
+    },
+    {
+        "category": "感情",
+        "C": "sad to (do)",
+        "ja": "～するのは悲しい"
+    },
+    {
+        "category": "感情",
+        "C": "unpleasant to (do)",
+        "ja": "～するのは不愉快だ"
+    },
+    {
+        "category": "感情",
+        "C": "terrible to (do)",
+        "ja": "～するのはひどい"
+    },
+    {
+        "category": "感情",
+        "C": "awful to (do)",
+        "ja": "～するのはひどい"
+    },
+    {
+        "category": "感情",
+        "C": "embarrassing to (do)",
+        "ja": "～するのは恥ずかしい"
+    },
+    {
+        "category": "感情",
+        "C": "boring to (do)",
+        "ja": "～するのは退屈だ"
+    },
+    {
+        "category": "感情",
+        "C": "frustrating to (do)",
+        "ja": "～するのはイライラする"
+    },
+    {
+        "category": "感情",
+        "C": "annoying to (do)",
+        "ja": "～するのはうっとうしい"
+    },
+    {
+        "category": "感情",
+        "C": "strange to (do)",
+        "ja": "～するのは変だ"
+    },
+    {
+        "category": "感情",
+        "C": "odd to (do)",
+        "ja": "～するのは変だ"
+    },
+
+    
+
+
+
+    {
+        "category": "時間",
+        "C": "time to (do)",
+        "ja": "～する時間だ"
+    },
+    {
+        "category": "時間",
+        "C": "about time to (do)",
+        "ja": "そろそろ～する頃だ"
+    },
+    {
+        "category": "時間",
+        "C": "the right time to (do)",
+        "ja": "～するのにちょうどよい時だ"
+    },
+    {
+        "category": "時間",
+        "C": "too late to (do)",
+        "ja": "～するには遅すぎる"
+    },
+    {
+        "category": "時間",
+        "C": "too early to (do)",
+        "ja": "～するには早すぎる"
+    }
+]

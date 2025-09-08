@@ -1,72 +1,72 @@
 [
     {
         "category": "睡眠",
-        "en": "wake up",
+        "do": "wake up",
         "ja": "目を覚ます"
     },
     {
         "category": "睡眠",
-        "en": "get up",
+        "do": "get up",
         "ja": "起きる"
     },
     {
         "category": "睡眠",
-        "en": "go to bed",
+        "do": "go to bed",
         "ja": "寝る"
     },
     {
         "category": "睡眠",
-        "en": "take a nap",
+        "do": "take a nap",
         "ja": "昼寝をする"
     },
     {
         "category": "睡眠",
-        "en": "stay up late",
+        "do": "stay up late",
         "ja": "夜更かしする"
     },
     {
         "category": "睡眠",
-        "en": "stay up all night",
+        "do": "stay up all night",
         "ja": "徹夜する"
     },
     {
         "category": "睡眠",
-        "en": "oversleep",
+        "do": "oversleep",
         "ja": "寝過ごす"
     },
     {
         "category": "睡眠",
-        "en": "sleep in",
+        "do": "sleep in",
         "ja": "朝寝坊する、遅くまで寝る"
     },
     {
         "category": "睡眠",
-        "en": "put on my pajamas",
+        "do": "put on my pajamas",
         "ja": "パジャマを着る"
     },
     {
         "category": "睡眠",
-        "en": "take off my pajamas",
+        "do": "take off my pajamas",
         "ja": "パジャマを脱ぐ"
     },
     {
         "category": "睡眠",
-        "en": "hit the snooze button",
+        "do": "hit the snooze button",
         "ja": "スヌーズを押す"
     },
     {
         "category": "睡眠",
-        "en": "turn on/off the light",
+        "do": "turn on/off the light",
         "ja": "電気をつける / 消す"
     },
     {
         "category": "睡眠",
-        "en": "open/close the window",
+        "do": "open/close the window",
         "ja": "窓を開ける / 閉める"
     },
     {
         "category": "睡眠",
-        "en": "draw/close the curtains",
+        "do": "draw/close the curtains",
         "ja": "カーテンを開ける / 閉める"
     },
 
@@ -76,42 +76,42 @@
 
     {
         "category": "洗濯",
-        "en": "do the laundry",
+        "do": "do the laundry",
         "ja": "洗濯する"
     },
     {
         "category": "洗濯",
-        "en": "load the washing machine",
+        "do": "load the washing machine",
         "ja": "洗濯機に入れる"
     },
     {
         "category": "洗濯",
-        "en": "unload the washing machine",
+        "do": "unload the washing machine",
         "ja": "洗濯機から出す"
     },
     {
         "category": "洗濯",
-        "en": "hang the laundry",
+        "do": "hang the laundry",
         "ja": "洗濯物を干す"
     },
     {
         "category": "洗濯",
-        "en": "fold the laundry",
+        "do": "fold the laundry",
         "ja": "洗濯物をたたむ"
     },
     {
         "category": "洗濯",
-        "en": "separate the laundry",
+        "do": "separate the laundry",
         "ja": "洗濯物を分ける"
     },
     {
         "category": "洗濯",
-        "en": "put away the laundry",
+        "do": "put away the laundry",
         "ja": "洗濯物をしまう"
     },
     {
         "category": "洗濯",
-        "en": "do the ironing",
+        "do": "do the ironing",
         "ja": "アイロンをかける"
     },
 
@@ -121,57 +121,57 @@
 
     {
         "category": "掃除",
-        "en": "clean up the room",
+        "do": "clean up the room",
         "ja": "部屋を片付ける"
     },
     {
         "category": "掃除",
-        "en": "organize the closet/shelf",
+        "do": "organize the closet/shelf",
         "ja": "クローゼット / 棚を整理する"
     },
     {
         "category": "掃除",
-        "en": "dust the furniture",
+        "do": "dust the furniture",
         "ja": "家具のほこりを払う"
     },
     {
         "category": "掃除",
-        "en": "wipe the table",
+        "do": "wipe the table",
         "ja": "テーブルを拭く"
     },
     {
         "category": "掃除",
-        "en": "polish the mirror",
+        "do": "polish the mirror",
         "ja": "鏡を磨く"
     },
     {
         "category": "掃除",
-        "en": "sweep the floor",
+        "do": "sweep the floor",
         "ja": "床を掃く"
     },
     {
         "category": "掃除",
-        "en": "mop the floor",
+        "do": "mop the floor",
         "ja": "床を拭く"
     },
     {
         "category": "掃除",
-        "en": "vacuum the carpet",
+        "do": "vacuum the carpet",
         "ja": "掃除機をかける"
     },
     {
         "category": "掃除",
-        "en": "change the sheets",
+        "do": "change the sheets",
         "ja": "シーツを替える"
     },
     {
         "category": "掃除",
-        "en": "make the bed",
+        "do": "make the bed",
         "ja": "ベッドを整える"
     },
     {
         "category": "掃除",
-        "en": "take out the trash",
+        "do": "take out the trash",
         "ja": "ゴミを出す"
     },
 
@@ -181,82 +181,82 @@
 
     {
         "category": "食事",
-        "en": "make breakfast/linch/dinner",
+        "do": "make breakfast/linch/dinner",
         "ja": "朝食 / 昼食 / 夕食を作る"
     },
     {
         "category": "食事",
-        "en": "order takeout / order in",
+        "do": "order takeout / order in",
         "ja": "出前を頼む"
     },
     {
         "category": "食事",
-        "en": "heat up leftovers",
+        "do": "heat up leftovers",
         "ja": "残り物を温める"
     },
     {
         "category": "食事",
-        "en": "set the table",
+        "do": "set the table",
         "ja": "食卓の準備をする"
     },
     {
         "category": "食事",
-        "en": "have breakfast/linch/dinner",
+        "do": "have breakfast/linch/dinner",
         "ja": "朝食 / 昼食 / 夕食を食べる"
     },
     {
         "category": "食事",
-        "en": "skip breakfast",
+        "do": "skip breakfast",
         "ja": "朝食を抜く"
     },
     {
         "category": "食事",
-        "en": "make coffee/tea",
+        "do": "make coffee/tea",
         "ja": "コーヒー / 紅茶を淹れる"
     },
     {
         "category": "食事",
-        "en": "grab a drink",
+        "do": "grab a drink",
         "ja": "軽く飲む"
     },
     {
         "category": "食事",
-        "en": "grab a bite",
+        "do": "grab a bite",
         "ja": "軽く食べる"
     },
     {
         "category": "食事",
-        "en": "have a snack",
+        "do": "have a snack",
         "ja": "おやつを食べる"
     },
     {
         "category": "食事",
-        "en": "eat between meals",
+        "do": "eat between meals",
         "ja": "間食をする"
     },
     {
         "category": "食事",
-        "en": "eat too much",
+        "do": "eat too much",
         "ja": "食べ過ぎる"
     },
     {
         "category": "食事",
-        "en": "overeat",
+        "do": "overeat",
         "ja": "食べ過ぎる"
     },
     {
         "category": "食事",
-        "en": "clear the table",
+        "do": "clear the table",
         "ja": "食卓を片付ける"
     },
     {
         "category": "食事",
-        "en": "do the dishes",
+        "do": "do the dishes",
         "ja": "皿を洗う"
     },
     {
         "category": "食事",
-        "en": "make a shopping list",
+        "do": "make a shopping list",
         "ja": "買い物リストを作る"
     },
 
@@ -265,63 +265,63 @@
 
 
     {
-        "category": "身支度",
-        "en": "brush my teeth",
+        "category": "支度",
+        "do": "brush my teeth",
         "ja": "歯を磨く"
     },
     {
-        "category": "身支度",
-        "en": "rinse my mouth",
+        "category": "支度",
+        "do": "rinse my mouth",
         "ja": "口をすすぐ"
     },
     {
-        "category": "身支度",
-        "en": "wash my face",
+        "category": "支度",
+        "do": "wash my face",
         "ja": "顔を洗う"
     },
     {
-        "category": "身支度",
-        "en": "run a bath",
+        "category": "支度",
+        "do": "run a bath",
         "ja": "お風呂に湯を入れる"
     },
     {
-        "category": "身支度",
-        "en": "take a shower",
+        "category": "支度",
+        "do": "take a shower",
         "ja": "シャワーを浴びる"
     },
     {
-        "category": "身支度",
-        "en": "take a bath",
+        "category": "支度",
+        "do": "take a bath",
         "ja": "お風呂に入る"
     },
     {
-        "category": "身支度",
-        "en": "dry my hair",
+        "category": "支度",
+        "do": "dry my hair",
         "ja": "髪を乾かす"
     },
     {
-        "category": "身支度",
-        "en": "comb my hair",
+        "category": "支度",
+        "do": "comb my hair",
         "ja": "髪をとかす"
     },
     {
-        "category": "身支度",
-        "en": "shave my face/legs",
+        "category": "支度",
+        "do": "shave my face/legs",
         "ja": "顔 / 脚を剃る"
     },
     {
-        "category": "身支度",
-        "en": "put on makeup",
+        "category": "支度",
+        "do": "put on makeup",
         "ja": "化粧をする"
     },
     {
-        "category": "身支度",
-        "en": "get dressed",
+        "category": "支度",
+        "do": "get dressed",
         "ja": "服を着る"
     },
     {
-        "category": "身支度",
-        "en": "put on my jacket",
+        "category": "支度",
+        "do": "put on my jacket",
         "ja": "上着を着る"
     }
 ]

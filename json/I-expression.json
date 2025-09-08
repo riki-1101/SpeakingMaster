@@ -1,73 +1,17 @@
 [
     {
-        "category": "基本",
-        "en_present": "I'm (C)",
-        "ja_present": "今～状態である",
-        "en_past": "I was (C)",
-        "ja_past": "～状態だった"
-    },
-    {
-        "category": "基本",
-        "en_present": "I'm being (C)",
-        "ja_present": "今～な態度をとっている（一時的）",
-        "en_past": "I was being (C)",
-        "ja_past": "そのとき～状態だった（一時的）"
-    },
-    {
-        "category": "基本",
-        "en_present": "I (do)",
-        "ja_present": "普段～する",
-        "en_past": "I (did)",
-        "ja_past": "～した",
-        "en_have": "I've (done)",
-        "ja_have": "今までに～している",
-        "en_will": "I'll (do)",
-        "ja_will": "～するよ"
-    },
-    {
-        "category": "基本",
-        "en_present": "I do (do)",
-        "ja_present": "～するんだよ（強調）",
-        "en_past": "I did (do)",
-        "ja_past": "～したんだよ（強調）"
-    },
-    {
-        "category": "基本",
-        "en_present": "I should (do)",
-        "ja_present": "～した方がいい",
-        "en_have": "I should've (done)",
-        "ja_have": "～すべきだった"
-    },
-    {
-        "category": "基本",
-        "en_present": "I might (do)",
-        "ja_present": "～するかもしれない",
-        "en_have": "I might've (done)",
-        "ja_have": "～したかもしれない"
-    },
-    {
-        "category": "基本",
-        "en_present": "I can (do)",
-        "ja_present": "～できる可能性がある",
-        "en_have": "I could've (done)",
-        "ja_have": "～できたのに（できていない）"
-    },
-
-
-
-    {
         "category": "意志",
+        "type": "do",
         "en_present": "I try to (do)",
         "ja_present": "～しようとする",
         "en_past": "I tried to (do)",
         "ja_past": "～しようとした",
         "en_have": "I've tried to (do)",
-        "ja_have": "～しようとしたことがある",
-        "en_will": "I'll try to (do)",
-        "ja_will": "～してみるよ"
+        "ja_have": "～しようとしたことがある"
     },
     {
         "category": "意志",
+        "type": "",
         "en_present": "I make an effort to (do)",
         "ja_present": "～するように努力する",
         "en_past": "I made an effort to (do)",
@@ -77,6 +21,7 @@
     },
     {
         "category": "意志",
+        "type": "",
         "en_present": "I attempt to (do)",
         "ja_present": "～するのを試みる",
         "en_past": "I attempted to (do)",
@@ -86,6 +31,7 @@
     },
     {
         "category": "意志",
+        "type": "",
         "en_present": "I seek to (do)",
         "ja_present": "～しようと努める",
         "en_past": "I sought to (do)",
@@ -95,6 +41,7 @@
     },
     {
         "category": "意志",
+        "type": "",
         "en_present": "I strive to (do)",
         "ja_present": "～しようと全力を尽くす（強い決意）",
         "en_past": "I strove to (do)",
@@ -104,6 +51,7 @@
     },
     {
         "category": "意志",
+        "type": "",
         "en_present": "I endeavor to (do)",
         "ja_present": "～しようと努力する（堅い）",
         "en_past": "I endeavored to (do)",
@@ -120,6 +68,7 @@
     },
     {
         "category": "意志",
+        "type": "",
         "en_present": "I promise to (do)",
         "ja_present": "～すると約束する",
         "en_past": "I promised to (do)",
@@ -132,6 +81,7 @@
 
     {
         "category": "意見",
+        "type": "",
         "en_present": "I offer to (do)",
         "ja_present": "～すると申し出る",
         "en_past": "I offered to (do)",
@@ -141,6 +91,7 @@
     },
     {
         "category": "意見",
+        "type": "",
         "en_present": "I ask to (do)",
         "ja_present": "～させてほしいと頼む",
         "en_past": "I asked to (do)",
@@ -150,6 +101,7 @@
     },
     {
         "category": "意見",
+        "type": "",
         "en_present": "I agree to (do)",
         "ja_present": "～することに同意する",
         "en_past": "I agreed to (do)",
@@ -159,6 +111,7 @@
     },
     {
         "category": "意見",
+        "type": "",
         "en_present": "I refuse to (do)",
         "ja_present": "～するのを拒む",
         "en_past": "I refused to (do)",
@@ -171,6 +124,7 @@
 
     {
         "category": "達成",
+        "type": "",
         "en_present": "I manage to (do)",
         "ja_present": "なんとか～できる",
         "en_past": "I managed to (do)",
@@ -180,6 +134,7 @@
     },
     {
         "category": "達成",
+        "type": "",
         "en_present": "I fail to (do)",
         "ja_present": "～できない",
         "en_past": "I failed to (do)",
@@ -199,6 +154,7 @@
 
     {
         "category": "必要",
+        "type": "",
         "en_present": "I have to (do)",
         "ja_present": "～しなければならない（客観的に見て）",
         "en_past": "I had to (do)",
@@ -208,6 +164,7 @@
     },
     {
         "category": "必要",
+        "type": "",
         "en_present": "I don't have to (do)",
         "ja_present": "～しなくてよい（客観的に見て）",
         "en_past": "I didn't have to (do)",
@@ -215,11 +172,13 @@
     },
     {
         "category": "必要",
+        "type": "",
         "en_present": "I've got to (do) / I gotta (do)",
         "ja_present": "～しなきゃ"
     },
     {
         "category": "必要",
+        "type": "",
         "en_present": "I need to (do)",
         "ja_present": "～する必要がある",
         "en_past": "I needed to (do)",
@@ -232,6 +191,7 @@
 
     {
         "category": "願望",
+        "type": "",
         "en_present": "I want to (do) / I wanna (do)",
         "ja_present": "～したい",
         "en_past": "I wanted to (do)",
@@ -241,11 +201,13 @@
     },
     {
         "category": "願望",
+        "type": "",
         "en_present": "I'd like to (do)",
         "ja_present": "～したいのですが（丁寧）"
     },
     {
         "category": "願望",
+        "type": "",
         "en_present": "I can't wait to (do)",
         "ja_present": "～するのが待ちきれない",
         "en_past": "I couldn't wait to (do)",
@@ -253,6 +215,7 @@
     },
     {
         "category": "願望",
+        "type": "",
         "en_present": "I hope to (do)",
         "ja_present": "～できたらいいな",
         "en_past": "I hoped to (do)",
@@ -260,11 +223,13 @@
     },
     {
         "category": "願望",
+        "type": "",
         "en_present": "I wish to (do)",
         "ja_present": "～したいです（とても丁寧）"
     },
     {
         "category": "願望",
+        "type": "",
         "en_present": "I'd rather (do)",
         "ja_present": "むしろ～したい"
     },
@@ -273,6 +238,7 @@
 
     {
         "category": "予定",
+        "type": "",
         "en_present": "I plan to (do)",
         "ja_present": "～する予定だ",
         "en_past": "I planned to (do)",
@@ -282,6 +248,7 @@
     },
     {
         "category": "予定",
+        "type": "",
         "en_present": "I expect to (do)",
         "ja_present": "～すると思う",
         "en_past": "I expected to (do)",
@@ -291,6 +258,7 @@
     },
     {
         "category": "予定",
+        "type": "",
         "en_present": "I mean to (do)",
         "ja_present": "～するつもりだ",
         "en_past": "I meant to (do)",
@@ -300,6 +268,7 @@
     },
     {
         "category": "予定",
+        "type": "",
         "en_present": "I'm going to (do) / I'm gonna (do)",
         "ja_present": "～する予定である",
         "en_past": "I was going to (do)",
@@ -307,6 +276,7 @@
     },
     {
         "category": "予定",
+        "type": "",
         "en_present": "I'm planning to (do)",
         "ja_present": "～するのを予定している",
         "en_past": "I was planning to (do)",
@@ -314,6 +284,7 @@
     },
     {
         "category": "予定",
+        "type": "",
         "en_present": "I'm supposed to (do)",
         "ja_present": "～することになっている",
         "en_past": "I was supposed to (do)",
@@ -321,6 +292,7 @@
     },
     {
         "category": "予定",
+        "type": "",
         "en_present": "I'm about to (do)",
         "ja_present": "今まさに～しようとしている",
         "en_past": "I was about to (do)",
@@ -331,6 +303,7 @@
 
     {
         "category": "その他",
+        "type": "",
         "en_present": "I prepare to (do)",
         "ja_present": "～する準備をする",
         "en_past": "I prepared to (do)",
@@ -338,6 +311,7 @@
     },
     {
         "category": "その他",
+        "type": "",
         "en_present": "I happen to (do)",
         "ja_present": "たまたま～する",
         "en_past": "I happened to (do)",
@@ -345,6 +319,7 @@
     },
     {
         "category": "その他",
+        "type": "",
         "en_present": "I pretend to (do)",
         "ja_present": "～するふりをする",
         "en_past": "I pretended to (do)",
@@ -352,6 +327,7 @@
     },
     {
         "category": "その他",
+        "type": "",
         "en_present": "I tend to (do)",
         "ja_present": "～しがちである",
         "en_past": "I tended to (do)",

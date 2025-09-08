@@ -1,0 +1,31 @@
+[
+    {
+        "subject": "I",
+        "genre": "to不定詞表現",
+        "json": "todo",
+        "categories": ["意志", "意見", "達成", "必要", "願望", "予定", "その他"]
+    },
+    {
+        "subject": "I",
+        "genre": "感情",
+        "json": "emotion",
+        "categories": ["満足", "驚き", "悲しみ", "興奮", "不安", "不満", "能力", "姿勢"]
+    },
+    {
+        "subject": "I",
+        "genre": "家庭生活",
+        "json": "life",
+        "categories": ["睡眠", "洗濯", "掃除", "食事", "支度"]
+    },
+
+
+
+
+
+    {
+        "subject": "It",
+        "genre": "評価",
+        "json": "evaluaion",
+        "categories": ["難易度", "可能性", "有用性", "重要度", "適否", "感情", "時間"]
+    }
+]
