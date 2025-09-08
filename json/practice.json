@@ -55,6 +55,12 @@
     },
     {
         "subject": "I",
+        "en": "I've been (C)",
+        "ja": "今までに～状態でいる",
+        "next": "c"
+    },
+    {
+        "subject": "I",
         "en": "I'll (do)",
         "ja": "～するよ",
         "next": "do"
