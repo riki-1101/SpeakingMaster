@@ -3,25 +3,25 @@
         "subject": "I",
         "en": "I'm (C)",
         "ja": "今～状態である",
-        "next": "C"
+        "next": "c"
     },
     {
         "subject": "I",
         "en": "I was (C)",
         "ja": "～状態だった",
-        "next": "C"
+        "next": "c"
     },
     {
         "subject": "I",
         "en": "I'm being (C)",
         "ja": "今～な態度をとっている（一時的）",
-        "next": "C"
+        "next": "c"
     },
     {
         "subject": "I",
         "en": "I was being (C)",
         "ja": "そのとき～状態だった（一時的）",
-        "next": "C"
+        "next": "c"
     },
     {
         "subject": "I",
@@ -104,66 +104,66 @@
         "subject": "It",
         "en": "It's (C)",
         "ja": "～だ",
-        "next": "C"
+        "next": "c"
     },
     {
         "subject": "It",
         "en": "It can be (C)",
         "ja": "～になり得る",
-        "next": "C"
+        "next": "c"
     },
     {
         "subject": "It",
         "en": "It may be (C)",
         "ja": "～であるかもしれない",
-        "next": "C"
+        "next": "c"
     },
     {
         "subject": "It",
         "en": "It might be (C)",
         "ja": "～であるかもしれないなぁ",
-        "next": "C"
+        "next": "c"
     },
     {
         "subject": "It",
         "en": "It must be (C)",
         "ja": "～であるに違いない",
-        "next": "C"
+        "next": "c"
     },
     {
         "subject": "It",
         "en": "It must've been (C)",
         "ja": "～だったに違いない",
-        "next": "C"
+        "next": "c"
     },
     {
         "subject": "It",
         "en": "It should be (C)",
         "ja": "～であるはずだ",
-        "next": "C"
+        "next": "c"
     },
     {
         "subject": "It",
         "en": "It should've been (C)",
         "ja": "～だったはずだ",
-        "next": "C"
+        "next": "c"
     },
     {
         "subject": "It",
         "en": "It'll be (C)",
         "ja": "～であるだろう",
-        "next": "C"
+        "next": "c"
     },
     {
         "subject": "It",
         "en": "It would be (C)",
         "ja": "～だろうなぁ（仮定）",
-        "next": "C"
+        "next": "c"
     },
     {
         "subject": "It",
         "en": "It would've been (C)",
         "ja": "～だっただろう",
-        "next": "C"
+        "next": "c"
     }
 ]

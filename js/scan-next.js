@@ -49,7 +49,7 @@ fetch(`./genre_json/${savedGenre.json}.json`)
                     li.addEventListener("click", function (event) {
                         if (event.target.classList.contains('play-sound'))
                             return; // 🔊は除外
-                        document.getElementById("en").textContent = phrase.do;
+                        document.getElementById("en").textContent = phrase.do || phrase.c;
                         document.getElementById("ja").textContent = phrase.ja;
                         document.getElementById("popup").style.display = "flex";
                     });

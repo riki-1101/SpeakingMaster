@@ -1,52 +1,52 @@
 [
     {
         "category": "満足",
-        "C": "glad to (do)",
+        "c": "glad to (do)",
         "ja": "～して嬉しい"
     },
     {
         "category": "満足",
-        "C": "happy to (do)",
+        "c": "happy to (do)",
         "ja": "～して幸せだ"
     },
     {
         "category": "満足",
-        "C": "pleased to (do)",
+        "c": "pleased to (do)",
         "ja": "～して喜んでいる"
     },
     {
         "category": "満足",
-        "C": "delighted to (do)",
+        "c": "delighted to (do)",
         "ja": "～して大喜びである"
     },
     {
         "category": "満足",
-        "C": "thrilled to (do)",
+        "c": "thrilled to (do)",
         "ja": "～してワクワクしている"
     },
     {
         "category": "満足",
-        "C": "overjoyed to (do)",
+        "c": "overjoyed to (do)",
         "ja": "～して大変喜んでいる"
     },
     {
         "category": "満足",
-        "C": "proud to (do)",
+        "c": "proud to (do)",
         "ja": "～するのを誇りに思う"
     },
     {
         "category": "満足",
-        "C": "lucky to (do)",
+        "c": "lucky to (do)",
         "ja": "～するとは運がいい"
     },
     {
         "category": "満足",
-        "C": "thankful to (do)",
+        "c": "thankful to (do)",
         "ja": "～して感謝している"
     },
     {
         "category": "満足",
-        "C": "pleased with (sth)",
+        "c": "pleased with (sth)",
         "ja": "～に喜んでいる"
     },
 
@@ -56,32 +56,32 @@
 
     {
         "category": "驚き",
-        "C": "surprised to (do)",
+        "c": "surprised to (do)",
         "ja": "～して驚いている"
     },
     {
         "category": "驚き",
-        "C": "astonished to (do)",
+        "c": "astonished to (do)",
         "ja": "～して非常に驚いている"
     },
     {
         "category": "驚き",
-        "C": "surprised at (sth)",
+        "c": "surprised at (sth)",
         "ja": "～に驚いている"
     },
     {
         "category": "驚き",
-        "C": "amazed at (sth)",
+        "c": "amazed at (sth)",
         "ja": "～にひどく驚いている"
     },
     {
         "category": "驚き",
-        "C": "astonished at (sth)",
+        "c": "astonished at (sth)",
         "ja": "～に非常に驚いている"
     },
     {
         "category": "驚き",
-        "C": "shocked at (sth)",
+        "c": "shocked at (sth)",
         "ja": "～にショックを受けている"
     },
 
@@ -91,42 +91,42 @@
 
     {
         "category": "悲しみ",
-        "C": "sorry to (do)",
+        "c": "sorry to (do)",
         "ja": "～して残念だ"
     },
     {
         "category": "悲しみ",
-        "C": "sad to (do)",
+        "c": "sad to (do)",
         "ja": "～して悲しい"
     },
     {
         "category": "悲しみ",
-        "C": "disappointed to (do)",
+        "c": "disappointed to (do)",
         "ja": "～してがっかりだ"
     },
     {
         "category": "悲しみ",
-        "C": "regretful to (do)",
+        "c": "regretful to (do)",
         "ja": "～して後悔している"
     },
     {
         "category": "悲しみ",
-        "C": "upset to (do)",
+        "c": "upset to (do)",
         "ja": "～してうろたえた"
     },
     {
         "category": "悲しみ",
-        "C": "disappointed at (sth)",
+        "c": "disappointed at (sth)",
         "ja": "～にがっかりしている"
     },
     {
         "category": "悲しみ",
-        "C": "regretful about (sth)",
+        "c": "regretful about (sth)",
         "ja": "～を後悔している"
     },
     {
         "category": "悲しみ",
-        "C": "heartbroken over (sth)",
+        "c": "heartbroken over (sth)",
         "ja": "～に悲嘆にくれる"
     },
 
@@ -136,37 +136,37 @@
     
     {
         "category": "興奮",
-        "C": "fond of (sth)",
+        "c": "fond of (sth)",
         "ja": "～が好きである"
     },
     {
         "category": "興奮",
-        "C": "interested in (sth)",
+        "c": "interested in (sth)",
         "ja": "～に興味がある"
     },
     {
         "category": "興奮",
-        "C": "curious about (sth)",
+        "c": "curious about (sth)",
         "ja": "～に好奇心がある"
     },
     {
         "category": "興奮",
-        "C": "I feel like (sth)",
+        "c": "I feel like (sth)",
         "ja": "～な気分である"
     },
     {
         "category": "興奮",
-        "C": "looking forward to (sth)",
+        "c": "looking forward to (sth)",
         "ja": "～を楽しみにしている（丁寧）"
     },
     {
         "category": "興奮",
-        "C": "excited at (sth)",
+        "c": "excited at (sth)",
         "ja": "～に興奮している"
     },
     {
         "category": "興奮",
-        "C": "thrilled about (sth)",
+        "c": "thrilled about (sth)",
         "ja": "～にとても興奮している"
     },
 
@@ -176,57 +176,57 @@
 
     {
         "category": "不安",
-        "C": "careful about (sth)",
+        "c": "careful about (sth)",
         "ja": "～に気をつけている"
     },
     {
         "category": "不安",
-        "C": "concerned about (sth)",
+        "c": "concerned about (sth)",
         "ja": "～を気にしている"
     },
     {
         "category": "不安",
-        "C": "worried about (sth)",
+        "c": "worried about (sth)",
         "ja": "～を心配している"
     },
     {
         "category": "不安",
-        "C": "uneasy about (sth)",
+        "c": "uneasy about (sth)",
         "ja": "～に落ち着かない"
     },
     {
         "category": "不安",
-        "C": "nervous about (sth)",
+        "c": "nervous about (sth)",
         "ja": "～に緊張している"
     },
     {
         "category": "不安",
-        "C": "anxious about (sth)",
+        "c": "anxious about (sth)",
         "ja": "～について不安に感じている"
     },
     {
         "category": "不安",
-        "C": "worried sick about (sth)",
+        "c": "worried sick about (sth)",
         "ja": "～が心配でたまらない"
     },
     {
         "category": "不安",
-        "C": "frightened of (sth)",
+        "c": "frightened of (sth)",
         "ja": "～に怖がっている"
     },
     {
         "category": "不安",
-        "C": "scared of (sth)",
+        "c": "scared of (sth)",
         "ja": "～に怖がっている"
     },
     {
         "category": "不安",
-        "C": "terrified of (sth)",
+        "c": "terrified of (sth)",
         "ja": "～をひどく恐れている"
     },
     {
         "category": "不安",
-        "C": "panicking about (sth)",
+        "c": "panicking about (sth)",
         "ja": "～でパニックになっている"
     },
 
@@ -236,32 +236,32 @@
 
     {
         "category": "能力",
-        "C": "used to (sth)",
+        "c": "used to (sth)",
         "ja": "～に慣れている"
     },
     {
         "category": "能力",
-        "C": "accustomed to (sth)",
+        "c": "accustomed to (sth)",
         "ja": "～に慣れている"
     },
     {
         "category": "能力",
-        "C": "good at (sth)",
+        "c": "good at (sth)",
         "ja": "～が得意である"
     },
     {
         "category": "能力",
-        "C": "capable of (sth)",
+        "c": "capable of (sth)",
         "ja": "～ができる（能力がある）"
     },
     {
         "category": "能力",
-        "C": "skilled at (sth)",
+        "c": "skilled at (sth)",
         "ja": "～に熟練している（技術・実務）"
     },
     {
         "category": "能力",
-        "C": "proficient in (sth)",
+        "c": "proficient in (sth)",
         "ja": "～に堪能である（言語・専門）"
     },
 
@@ -271,77 +271,77 @@
 
     {
         "category": "姿勢",
-        "C": "willing to (do)",
+        "c": "willing to (do)",
         "ja": "～しても構わない（望んではないが）"
     },
     {
         "category": "姿勢",
-        "C": "unwilling to (do)",
+        "c": "unwilling to (do)",
         "ja": "～する気がない"
     },
     {
         "category": "姿勢",
-        "C": "reluctant to (do)",
+        "c": "reluctant to (do)",
         "ja": "～するのに気が進まない"
     },
     {
         "category": "姿勢",
-        "C": "eager to (do)",
+        "c": "eager to (do)",
         "ja": "～したくてたまらない（前向き）"
     },
     {
         "category": "姿勢",
-        "C": "anxious to (do)",
+        "c": "anxious to (do)",
         "ja": "～したくてたまらない（焦り気味）"
     },
     {
         "category": "姿勢",
-        "C": "aiming to (do)",
+        "c": "aiming to (do)",
         "ja": "～するのを目指している"
     },
     {
         "category": "I",
-        "C": "trying to (do)",
+        "c": "trying to (do)",
         "ja": "～しようと頑張っている"
     },
     {
         "category": "姿勢",
-        "C": "determined to (do)",
+        "c": "determined to (do)",
         "ja": "～するのを決意している"
     },
     {
         "category": "姿勢",
-        "C": "ready to (do)",
+        "c": "ready to (do)",
         "ja": "～する用意ができている"
     },
     {
         "category": "姿勢",
-        "C": "into (sth)",
+        "c": "into (sth)",
         "ja": "～にハマっている"
     },
     {
         "category": "姿勢",
-        "C": "up for (sth)",
+        "c": "up for (sth)",
         "ja": "～に乗り気である"
     },
     {
         "category": "姿勢",
-        "C": "focused on (sth)",
+        "c": "focused on (sth)",
         "ja": "～に集中している"
     },
     {
         "category": "姿勢",
-        "C": "committed to (sth)",
+        "c": "committed to (sth)",
         "ja": "～に熱心に取り組んでいる"
     },
     {
         "category": "姿勢",
-        "C": "dedicated to (sth)",
+        "c": "dedicated to (sth)",
         "ja": "～に専念している、打ち込んでいる"
     },
     {
         "category": "姿勢",
-        "C": "devoted to (sth)",
+        "c": "devoted to (sth)",
         "ja": "～に身を捧げている"
     }
 ]
