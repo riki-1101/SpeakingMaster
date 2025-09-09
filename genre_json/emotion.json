@@ -235,37 +235,37 @@
 
     {
         "category": "不満",
-        "en": "unhappy with (sth)",
+        "c": "unhappy with (sth)",
         "ja": "～に不満がある"
     },
     {
         "category": "不満",
-        "en": "dissatisfied with (sth)",
+        "c": "dissatisfied with (sth)",
         "ja": "～に満足していない"
     },
     {
         "category": "不満",
-        "en": "opposed to (sth)",
+        "c": "opposed to (sth)",
         "ja": "～に反対している"
     },
     {
         "category": "不満",
-        "en": "annoyed with (sth/sb)",
+        "c": "annoyed with (sth/sb)",
         "ja": "～にイライラしている"
     },
     {
         "category": "不満",
-        "en": "frustrated with (sth)",
+        "c": "frustrated with (sth)",
         "ja": "～に苛立っている（思い通りにならず不満）"
     },
     {
         "category": "不満",
-        "en": "tired of (sth)",
+        "c": "tired of (sth)",
         "ja": "～にうんざりしている"
     },
     {
         "category": "不満",
-        "en": "fed up with (sth)",
+        "c": "fed up with (sth)",
         "ja": "～にうんざりしている（限界）"
     },
 
