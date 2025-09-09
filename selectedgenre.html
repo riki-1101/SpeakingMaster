@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>selectedgenre</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header id="header"></header>
+    <main>
+        <h1></h1>
+        <div id="radio"></div>
+        <ul id="phrase-list"></ul>
+        <div id="popup">
+            <div class="modal-content">
+                <p id="en"></p>
+                <p id="ja"></p>
+            </div>
+        </div>
+    </main>
+    <footer id="footer"></footer>
+    <script src="js/BtoF_header.js"></script>
+    <script src="js/footer.js"></script>
+    <script src="js/script.js"></script>
+    <script>
+        const radio = document.getElementById("radio");
+        const savedGenre = JSON.parse(localStorage.getItem("savedGenre"));
+        savedGenre.categories.forEach((category, index) => {
+            // ラジオボタン作成
+            const input = document.createElement("input");
+            input.type = "radio";
+            input.name = "category";
+            input.id = `category-${index}`;
+            input.value = category;
+            if (index === 0) {
+                input.checked = true;  // 最初の要素にチェック
+            }
+
+            // label要素作成
+            const label = document.createElement("label");
+            label.htmlFor = input.id;
+            label.textContent = category;
+
+            // containerに追加
+            radio.appendChild(input);
+            radio.appendChild(label);
+        });
+
+        const ul = document.getElementById("phrase-list");
+        fetch(`./genre_json/${savedGenre.json}.json`)
+            .then(res => res.json())
+            .then(data => {
+                function renderList() {
+                    // 選択されている category を取得
+                    const selectedCategory = document.querySelector('input[name="category"]:checked').value;
+                    const selectedType = document.querySelector('input[name="type"]:checked').value;
+                    ul.innerHTML = ''; // 一旦クリア
+                    data.forEach(phrase => {
+                        if (phrase.category === selectedCategory && phrase[selectedType]) {
+                            const li = document.createElement('li');
+                            li.classList.add('phrase');
+                            li.innerHTML = `
+                                ${phrase[selectedType]}
+                                <span class="play-sound" style="float:right; cursor:pointer;">🔊</span>
+                            `;
+                            ul.appendChild(li);
+
+                            // クリック → ポップアップ表示
+                            li.addEventListener("click", function (event) {
+                                if (event.target.classList.contains('play-sound'))
+                                    return; // 🔊は除外
+                                document.getElementById("en").textContent = phrase.do || phrase.c;
+                                document.getElementById("ja").textContent = phrase.ja;
+                                document.getElementById("popup").style.display = "flex";
+                            });
+
+                            // 🔊 音声マーククリック → 読み上げ
+                            li.querySelector('.play-sound').addEventListener('click', function () {
+                                const textToSpeak = phrase[selectedType].replace(/(\(.*?\)|\[.*?\])/g, '').trim();
+                                const utterance = new SpeechSynthesisUtterance(textToSpeak);
+                                utterance.lang = localStorage.getItem("selectedCountry") || "en-US";
+                                speechSynthesis.speak(utterance);
+                            });
+                        }
+                    });
+                }
+
+                renderList(); // 初期表示
+
+                // ラジオボタン切り替え時に再レンダー
+                document.querySelectorAll('input[name="type"]').forEach(radio => {
+                    radio.addEventListener('change', renderList);
+                });
+                document.querySelectorAll('input[name="category"]').forEach(radio => {
+                    radio.addEventListener('change', renderList);
+                });
+            })
+            .catch(err => console.error(`${savedGenre.json}.json の読み込みに失敗しました:`, err));
+
+        // 背景クリックでポップアップを閉じる
+        document.getElementById("popup").addEventListener("click", function (event) {
+            if (event.target === this) {
+                this.style.display = "none";
+            }
+        });
+    </script>
+</body>
+</html>

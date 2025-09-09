@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>genre</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header id="header"></header>
+    <main>
+        <h1></h1>
+        <div id="radio"></div>
+        <ul id="genre-list"></ul>
+    </main>
+    <footer id="footer"></footer>
+    <script src="js/header.js"></script>
+    <script src="js/footer.js"></script>
+    <script src="js/script.js"></script>
+    <script>
+        const genre_div = document.getElementById("genre-list");
+        const genre_ul = document.createElement("ul");
+        genre_div.appendChild(genre_ul);
+        fetch("./json/index.json")
+            .then(res => res.json())
+            .then(index => {
+                genre_ul.innerHTML = ''; // 一旦クリア
+                index.forEach(genre => {
+                    const genre_li = document.createElement('li');
+                    genre_li.classList.add('genre');
+                    genre_li.innerHTML = genre.genre;
+                    genre_li.addEventListener("click", function() {
+                        const savedGenre = {
+                            json: genre.json,
+                            categories: genre.categories
+                        };
+                        localStorage.setItem("savedGenre", JSON.stringify(savedGenre));
+                        console.log("ジャンルを保存:", savedGenre);
+                        window.location.href = "selectedgenre.html";
+                    });
+                    genre_ul.appendChild(genre_li);
+                });
+            });
+    </script>
+</body>
+</html>
