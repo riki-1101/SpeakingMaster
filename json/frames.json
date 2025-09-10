@@ -67,6 +67,12 @@
     },
     {
         "subject": "I",
+        "en": "I won't (do)",
+        "ja": "～しないよ",
+        "next": "do"
+    },
+    {
+        "subject": "I",
         "en": "I'd like to (do)",
         "ja": "～したいのですが",
         "next": "do"
@@ -213,6 +219,18 @@
         "ja": "～しなさいよ",
         "next": "do"
     },
+    {
+        "subject": "You",
+        "en": "You'll (do)",
+        "ja": "～するだろうね",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "en": "You won't (do)",
+        "ja": "～しないだろうね",
+        "next": "do"
+    },
 
 
 
@@ -325,5 +343,17 @@
         "en": "It would've been (C)",
         "ja": "～だっただろう",
         "next": "c"
+    },
+    {
+        "subject": "It",
+        "en": "It'll (do)",
+        "ja": "～するだろう",
+        "next": "do"
+    },
+    {
+        "subject": "It",
+        "en": "It won't (do)",
+        "ja": "～しないだろう",
+        "next": "do"
     }
 ]
