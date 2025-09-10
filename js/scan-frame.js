@@ -1,5 +1,5 @@
 const ul = document.getElementById("phrase-list");
-fetch(`./json/practice.json`)
+fetch(`./json/frames.json`)
     .then(res => res.json())
     .then(data => {
         function renderList() {

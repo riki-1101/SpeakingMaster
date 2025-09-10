@@ -173,6 +173,18 @@
 
     {
         "subject": "You",
+        "en": "You're (C)",
+        "ja": "～状態だね",
+        "next": "c"
+    },
+    {
+        "subject": "You",
+        "en": "You look (C)",
+        "ja": "～に見えるよ",
+        "next": "c"
+    },
+    {
+        "subject": "You",
         "en": "You can (do)",
         "ja": "～していいよ",
         "next": "do"
@@ -210,6 +222,48 @@
         "subject": "It",
         "en": "It's (C)",
         "ja": "～だ",
+        "next": "c"
+    },
+    {
+        "subject": "It",
+        "en": "It seems (C)",
+        "ja": "～に思える",
+        "next": "c"
+    },
+    {
+        "subject": "It",
+        "en": "It looks (C)",
+        "ja": "～に見える",
+        "next": "c"
+    },
+    {
+        "subject": "It",
+        "en": "It appears (C)",
+        "ja": "～に見受けられる",
+        "next": "c"
+    },
+    {
+        "subject": "It",
+        "en": "It sounds (C)",
+        "ja": "～に聞こえる",
+        "next": "c"
+    },
+    {
+        "subject": "It",
+        "en": "It feels (C)",
+        "ja": "～に感じる",
+        "next": "c"
+    },
+    {
+        "subject": "It",
+        "en": "It smells (C)",
+        "ja": "～のにおいがする",
+        "next": "c"
+    },
+    {
+        "subject": "It",
+        "en": "It tastes (C)",
+        "ja": "～の味がする",
         "next": "c"
     },
     {
