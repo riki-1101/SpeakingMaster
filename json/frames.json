@@ -31,21 +31,81 @@
     },
     {
         "subject": "I",
-        "en": "I (did)",
-        "ja": "～した",
-        "next": "did"
-    },
-    {
-        "subject": "I",
         "en": "I do (do)",
         "ja": "～するんだよ（強調）",
         "next": "do"
     },
     {
         "subject": "I",
+        "en": "I always (do)",
+        "ja": "いつも～する",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "I usually (do)",
+        "ja": "たいてい～する",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "I often (do)",
+        "ja": "よく～する",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "I sometimes (do)",
+        "ja": "時々～する",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "I rarely (do)",
+        "ja": "めったに～しない",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "I never (do)",
+        "ja": "決して～しない",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "I really (do)",
+        "ja": "本当に～する",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "I still (do)",
+        "ja": "まだ～する",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "I (did)",
+        "ja": "～した",
+        "next": "did"
+    },
+    {
+        "subject": "I",
         "en": "I did (do)",
         "ja": "～したんだよ（強調）",
         "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "I just (did)",
+        "ja": "ちょうど～した",
+        "next": "did"
+    },
+    {
+        "subject": "I",
+        "en": "I already (did)",
+        "ja": "すでに～した",
+        "next": "did"
     },
     {
         "subject": "I",
@@ -63,6 +123,12 @@
         "subject": "I",
         "en": "I'll (do)",
         "ja": "～するよ",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "I would probably (do)",
+        "ja": "多分～するよ",
         "next": "do"
     },
     {
@@ -110,7 +176,19 @@
     {
         "subject": "I",
         "en": "I can (do)",
-        "ja": "～できる可能性がある",
+        "ja": "～できる（可能性がある）",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "I can probably (do)",
+        "ja": "多分～できる",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "I can usually (do)",
+        "ja": "普段は～できる",
         "next": "do"
     },
     {
