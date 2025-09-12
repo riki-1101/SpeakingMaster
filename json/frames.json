@@ -252,6 +252,127 @@
         "next": "do"
     },
 
+    {
+        "subject": "I",
+        "en": "Did I (do)?",
+        "ja": "私～したっけ？",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "Can I (do)",
+        "ja": "～してもいい？",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "May I (do)",
+        "ja": "～してもよろしいですか？（フォーマル）",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "Should I (do)",
+        "ja": "～した方がいい？",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "Shall I (do)",
+        "ja": "～しましょうか？",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "Must I (do)?",
+        "ja": "～しないといけませんか？（フォーマル）",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "Do I have to (do)",
+        "ja": "～しないといけない？",
+        "next": "do"
+    },
+     {
+        "subject": "I",
+        "en": "Do I need to (do)",
+        "ja": "～する必要はある？",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "When can I (do)",
+        "ja": "いつ～できる？",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "When should I (do)",
+        "ja": "いつ～した方がいい？",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "Where can I (do)",
+        "ja": "どこで～できる？",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "Where should I (do)",
+        "ja": "どこで～した方がいい？",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "Why am I (C)",
+        "ja": "なんで～状態なんだろう？（自分へのツッコミ）",
+        "next": "c"
+    },
+    {
+        "subject": "I",
+        "en": "Why didn't I (do)",
+        "ja": "なんで～しなかったんだろう？",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "Why can't I (do)",
+        "ja": "なんで～できないの？",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "Why do I have to (do)",
+        "ja": "なんで～しなきゃいけないの？",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "How do I (do)?",
+        "ja": "どうやって～するの？",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "How can I (do)?",
+        "ja": "どうやって～できる？",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "How should I (do)?",
+        "ja": "どうやって～した方がいい？",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "What if I (do)?",
+        "ja": "もし私が～したらどうする？",
+        "next": "do"
+    },
+
 
 
 
