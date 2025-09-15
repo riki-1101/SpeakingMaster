@@ -42,7 +42,7 @@
     {
         "category": "可能性",
         "c": "likely to (do)",
-        "ja": "～しそうである"
+        "ja": "～しそうである（するのはありそうだ）"
     },
     {
         "category": "可能性",
@@ -53,11 +53,6 @@
         "category": "可能性",
         "c": "certain to (do)",
         "ja": "～するのは確実だ"
-    },
-    {
-        "category": "可能性",
-        "c": "bound to (do)",
-        "ja": "必ず～するだろう（口語）"
     },
     {
         "category": "可能性",

@@ -485,6 +485,12 @@
     },
     {
         "subject": "It",
+        "en": "It makes me feel (C)",
+        "ja": "～な気分にさせる",
+        "next": "c"
+    },
+    {
+        "subject": "It",
         "en": "It can be (C)",
         "ja": "～になり得る",
         "next": "c"
@@ -553,6 +559,12 @@
         "subject": "It",
         "en": "It won't (do)",
         "ja": "～しないだろう",
+        "next": "do"
+    },
+    {
+        "subject": "It",
+        "c": "It's bound to (do)",
+        "ja": "必ず～するだろう（口語）",
         "next": "do"
     }
 ]
