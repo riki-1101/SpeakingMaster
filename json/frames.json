@@ -446,7 +446,21 @@
         "subject": "You",
         "sentence": "平叙文",
         "en": "You're (C)",
-        "ja": "～状態だね",
+        "ja": "今～状態だね",
+        "next": "c"
+    },
+    {
+        "subject": "You",
+        "sentence": "平叙文",
+        "en": "You're being (C)",
+        "ja": "今～っぽいよ（いつもと違う）",
+        "next": "c"
+    },
+    {
+        "subject": "You",
+        "sentence": "平叙文",
+        "en": "You seem (C)",
+        "ja": "～に思えるよ",
         "next": "c"
     },
     {
@@ -459,8 +473,36 @@
     {
         "subject": "You",
         "sentence": "平叙文",
+        "en": "You sound (C)",
+        "ja": "～に聞こえるよ",
+        "next": "c"
+    },
+    {
+        "subject": "You",
+        "sentence": "平叙文",
+        "en": "You feel (C)",
+        "ja": "～に感じているね",
+        "next": "c"
+    },
+    {
+        "subject": "You",
+        "sentence": "平叙文",
         "en": "You can (do)",
         "ja": "～していいよ",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "sentence": "平叙文",
+        "en": "You could've (done)",
+        "ja": "～しとけよ！（していなかった）",
+        "next": "done"
+    },
+    {
+        "subject": "You",
+        "sentence": "平叙文",
+        "en": "You might want to (do)",
+        "ja": "～した方がいいかもよ",
         "next": "do"
     },
     {
@@ -480,6 +522,41 @@
     {
         "subject": "You",
         "sentence": "平叙文",
+        "en": "You have to (do)",
+        "ja": "～しなければならないよ（客観的に）",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "sentence": "平叙文",
+        "en": "You'll have to (do)",
+        "ja": "～しなければならないだろうね（客観的に）",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "sentence": "平叙文",
+        "en": "You don't have to (do)",
+        "ja": "～しなくていいよ（客観的に）",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "sentence": "平叙文",
+        "en": "You only have to (do)",
+        "ja": "～しさえすればいいよ",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "sentence": "平叙文",
+        "en": "All you have to do is (do)",
+        "ja": "～しさえすればいいよ",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "sentence": "平叙文",
         "en": "You should (do)",
         "ja": "～したほうがいいよ",
         "next": "do"
@@ -494,6 +571,13 @@
     {
         "subject": "You",
         "sentence": "平叙文",
+        "en": "You had better not (do)",
+        "ja": "～するな",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "sentence": "平叙文",
         "en": "You'll (do)",
         "ja": "～するだろうね",
         "next": "do"
@@ -503,6 +587,79 @@
         "sentence": "平叙文",
         "en": "You won't (do)",
         "ja": "～しないだろうね",
+        "next": "do"
+    },
+
+
+
+
+
+    {
+        "subject": "You",
+        "sentence": "疑問文",
+        "en": "Are you (C)?",
+        "ja": "～状態？",
+        "next": "c"
+    },
+    {
+        "subject": "You",
+        "sentence": "疑問文",
+        "en": "Do you (do)?",
+        "ja": "～する？",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "sentence": "疑問文",
+        "en": "Did you (do)?",
+        "ja": "～した？",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "sentence": "疑問文",
+        "en": "Have you (done)?",
+        "ja": "今までに～している？",
+        "next": "done"
+    },
+    {
+        "subject": "You",
+        "sentence": "疑問文",
+        "en": "Can you (do)?",
+        "ja": "～できる？",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "sentence": "疑問文",
+        "en": "Could you (do)?",
+        "ja": "～してくれる？",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "sentence": "疑問文",
+        "en": "Would you (do)?",
+        "ja": "～してもらえる？",
+        "next": "do"
+    },
+
+
+
+
+
+    {
+        "subject": "You",
+        "sentence": "命令文",
+        "en": "Don't be (C)",
+        "ja": "～状態にならないで",
+        "next": "c"
+    },
+    {
+        "subject": "You",
+        "sentence": "命令文",
+        "en": "Don't (do)",
+        "ja": "～しないで",
         "next": "do"
     },
 
