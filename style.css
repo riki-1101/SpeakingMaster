@@ -347,3 +347,46 @@ input[type="radio"]:checked + label {
 }
 
 
+
+/* カード */
+#card-and-btn {
+    display: flex;              /* 横並び */
+    justify-content: center;    /* 中央寄せ */
+    align-items: center;        /* 縦方向の中央揃え */
+    margin-top: 50px;
+    gap: 5px;
+}
+#card {
+  width: 80%;
+  height: 120px;
+  background: white;
+  border-radius: 5px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.7em;
+  text-align: center;
+  cursor: pointer;
+  transition: transform 0.3s;
+}
+#card:hover {
+  transform: scale(1.02);
+}
+
+#card-and-btn button {
+    width: 8%;
+    height: 120px;
+    font-size: 1em;
+    border-radius: 5px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+    border: none;
+    background: lightslategray;
+    color: white;
+    cursor: pointer;
+}
+
+#card-and-btn button:hover {
+    background: #005ea6;
+    transform: scale(1.02);
+}
