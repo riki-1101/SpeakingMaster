@@ -355,21 +355,20 @@ input[type="radio"]:checked + label {
     gap: 5px;
 }
 #card {
-  width: 80%;
-  height: 120px;
-  background: white;
-  border-radius: 5px;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-size: 1.7em;
-  text-align: center;
-  cursor: pointer;
-  transition: transform 0.3s;
+    width: 80%;
+    height: 120px;
+    background: white;
+    border-radius: 5px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.7em;
+    text-align: center;
+    cursor: pointer;
 }
 #card:hover {
-  transform: scale(1.02);
+    transform: scale(1.02);
 }
 
 #card-and-btn button {
