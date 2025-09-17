@@ -367,10 +367,6 @@ input[type="radio"]:checked + label {
     text-align: center;
     cursor: pointer;
 }
-#card:hover {
-    transform: scale(1.02);
-}
-
 #card-and-btn button {
     width: 8%;
     height: 120px;
@@ -382,7 +378,6 @@ input[type="radio"]:checked + label {
     color: white;
     cursor: pointer;
 }
-
 #card-and-btn button:hover {
     background: #005ea6;
     transform: scale(1.02);
