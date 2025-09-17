@@ -141,6 +141,11 @@
     },
     {
         "category": "時",
+        "en": "for ages",
+        "ja": "ずいぶん長い間"
+    },
+    {
+        "category": "時",
         "en": "for 10 years",
         "ja": "10年間"
     },
@@ -311,8 +316,18 @@
     },
     {
         "category": "条件",
+        "en": "if that's all right",
+        "ja": "もし差支えなければ"
+    },
+    {
+        "category": "条件",
         "en": "if that's the case",
         "ja": "もしそうなら"
+    },
+    {
+        "category": "条件",
+        "en": "if we all agree",
+        "ja": "全員一致したなら"
     },
     {
         "category": "条件",
@@ -371,6 +386,11 @@
     },
     {
         "category": "条件",
+        "en": "Should you have any questions",
+        "ja": "万一何かご質問がございましたら"
+    },
+    {
+        "category": "条件",
         "en": "suppose he doesn't show up",
         "ja": "もし彼が現れなかったら"
     },
@@ -408,6 +428,11 @@
         "category": "目的",
         "en": "for fear that you will forget",
         "ja": "あなたが忘れないように"
+    },
+    {
+        "category": "目的",
+        "en": "for the benefit of new employees",
+        "ja": "新入社員のためになるように"
     },
     {
         "category": "目的",
@@ -524,6 +549,11 @@
         "category": "理由",
         "en": "Since you are here",
         "ja": "あなたがここにいるので"
+    },
+    {
+        "category": "理由",
+        "en": "thanks to your hard work",
+        "ja": "あなたの熱心な働きのおかげで"
     },
     {
         "category": "理由",
@@ -1054,6 +1084,11 @@
     },
     {
         "category": "その他",
+        "en": "in detail",
+        "ja": "詳細に"
+    },
+    {
+        "category": "その他",
         "en": "in light of the recent developments",
         "ja": "最近の進展を踏まえて"
     },
@@ -1086,6 +1121,11 @@
         "category": "その他",
         "en": "on the contrary",
         "ja": "それどころか"
+    },
+    {
+        "category": "その他",
+        "en": "on vacation",
+        "ja": "休暇中で"
     },
     {
         "category": "その他",
