@@ -646,6 +646,20 @@
     {
         "subject": "You",
         "sentence": "疑問文",
+        "en": "What made you (do)?",
+        "ja": "どういうきっかけで～したの？",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "sentence": "疑問文",
+        "en": "Why did you (do)?",
+        "ja": "どうして～したの？",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "sentence": "疑問文",
         "en": "Why don't you (do)?",
         "ja": "～するのはどう？",
         "next": "do"
@@ -655,6 +669,13 @@
         "sentence": "疑問文",
         "en": "Why not (do)?",
         "ja": "～するのはどう？",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "sentence": "疑問文",
+        "en": "How did you (do)?",
+        "ja": "どうやって～したの？",
         "next": "do"
     },
     {
@@ -862,5 +883,16 @@
         "en": "It's bound to (do)",
         "ja": "必ず～するだろう",
         "next": "do"
+    },
+
+
+
+
+    {
+        "subject": "",
+        "sentence": "疑問文",
+        "en": "How come (SV)?",
+        "ja": "なんで～なの？",
+        "next": "sv"
     }
 ]
