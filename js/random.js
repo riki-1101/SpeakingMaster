@@ -6,20 +6,25 @@ const nextBtn = document.getElementById("next-btn");
 const jaBtn = document.getElementById("ja-btn");
 
 let phrases = [];
-let filteredPhrases = []; // sentenceごとにフィルタしたもの
+let filteredPhrases = [];
+let shuffledPhrases = [];
+let currentIndex = -1;
 let current = null;
-let history = [];   // 過去に表示したカードの履歴
-let historyIndex = -1;
-let showingJa = false; // jaの表示状態
 
-
-function getRandomPhrase() {
-    return filteredPhrases[Math.floor(Math.random() * filteredPhrases.length)];
+// --- ヘルパー: 配列シャッフル ---
+function shuffleArray(array) {
+    const newArray = [...array];
+    for (let i = newArray.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [newArray[i], newArray[j]] = [newArray[j], newArray[i]];
+    }
+    return newArray;
 }
 
+// --- 英語を音声再生 ---
 function speakEnglish(text) {
     if (!text) return;
-    window.speechSynthesis.cancel(); // 再生中のものをキャンセル
+    window.speechSynthesis.cancel(); // 再生中をキャンセル
     text = text.replace(/(\(.*?\)|\[.*?\])/g, '').trim();
     const utterance = new SpeechSynthesisUtterance(text);
     utterance.lang = localStorage.getItem("selectedCountry") || "en-US";
@@ -27,69 +32,72 @@ function speakEnglish(text) {
     window.speechSynthesis.speak(utterance);
 }
 
-
+// --- カード表示 ---
 function showCard(phrase) {
     current = phrase;
-    showingJa = true;
-    english.textContent = current.en;   // 英語だけ表示
-    speakEnglish(current.en);            // 音声再生
-    meaning.style.display = "none";      // 日本語訳は隠す
+    english.textContent = current.en; // 英語のみ表示
+    meaning.style.display = "none";   // 日本語は隠す
+    speakEnglish(current.en);         // 音声再生
 }
 
+// --- 次のカード取得 ---
 function showNewCard() {
-    if (filteredPhrases.length === 0) {
+    if (shuffledPhrases.length === 0) {
         english.textContent = "No cards available";
         meaning.textContent = "";
         meaning.style.display = "none";
         return;
     }
-    const phrase = getRandomPhrase();
-    history.push(phrase);
-    historyIndex = history.length - 1;
-    showCard(phrase);
+    currentIndex++;
+    if (currentIndex >= shuffledPhrases.length) {
+        // 一周したら再シャッフル
+        shuffledPhrases = shuffleArray(filteredPhrases);
+        currentIndex = 0;
+    }
+    showCard(shuffledPhrases[currentIndex]);
 }
 
+// --- 初期状態リセット ---
 function resetState() {
     current = null;
-    history = [];
-    historyIndex = -1;
-    english.textContent = "Tap to start"; // カード内の英語用divを更新
+    currentIndex = -1;
+    english.textContent = "Tap to start";
     meaning.textContent = "";
     meaning.style.display = "none";
 }
 
-// JSONを読み込み
+// --- フィルタ適用 ---
+function applyFilter() {
+    const selected = document.querySelector('input[name="sentence"]:checked').value;
+    filteredPhrases = phrases.filter(p => p.sentence === selected);
+    shuffledPhrases = shuffleArray(filteredPhrases);
+    resetState();
+}
+
+// --- JSON読み込み ---
 fetch("./json/frames.json")
     .then(response => response.json())
     .then(data => {
         phrases = data;
-        applyFilter(); // 初期化時にフィルタ
+        applyFilter();
     })
     .catch(err => {
-        card.textContent = "Error";
+        english.textContent = "Error";
         console.error(err);
     });
 
-// sentenceフィルタ適用
-function applyFilter() {
-    const selected = document.querySelector('input[name="sentence"]:checked').value;
-    filteredPhrases = phrases.filter(p => p.sentence === selected);
-    resetState();
-}
-
-// ラジオボタン切り替え時にフィルタ更新
+// --- ラジオボタン切り替え ---
 document.querySelectorAll('input[name="sentence"]').forEach(radio => {
-    radio.addEventListener("change", () => {
-        applyFilter();
-    });
+    radio.addEventListener("change", applyFilter);
 });
 
-card.addEventListener("click", function() {
+// --- カードクリックで音声再生 ---
+card.addEventListener("click", () => {
     if (!current) return;
     speakEnglish(current.en);
 });
 
-// jaボタン
+// --- jaボタン ---
 jaBtn.addEventListener("click", () => {
     if (current && current.ja) {
         meaning.textContent = current.ja;
@@ -97,16 +105,13 @@ jaBtn.addEventListener("click", () => {
     }
 });
 
-// Next ボタン → 新しいカード
-nextBtn.addEventListener("click", () => {
-    if (filteredPhrases.length === 0) return;
-    showNewCard();
-});
+// --- Next ボタン ---
+nextBtn.addEventListener("click", showNewCard);
 
-// Back ボタン → 前のカードに戻る
+// --- Back ボタン（履歴管理はしない場合） ---
 backBtn.addEventListener("click", () => {
-    if (historyIndex > 0) {
-        historyIndex--;
-        showCard(history[historyIndex]);
+    if (currentIndex > 0) {
+        currentIndex--;
+        showCard(shuffledPhrases[currentIndex]);
     }
 });
