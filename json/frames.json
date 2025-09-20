@@ -30,6 +30,20 @@
     {
         "subject": "I",
         "sentence": "平叙文",
+        "en": "I feel (C)",
+        "ja": "～に感じる",
+        "next": "c"
+    },
+    {
+        "subject": "I",
+        "sentence": "平叙文",
+        "en": "I ended up (C)",
+        "ja": "結局～状態になった",
+        "next": "c"
+    },
+    {
+        "subject": "I",
+        "sentence": "平叙文",
         "en": "I (do)",
         "ja": "普段～する",
         "next": "do"
@@ -625,6 +639,27 @@
     {
         "subject": "You",
         "sentence": "疑問文",
+        "en": "What do you say to (doing)?",
+        "ja": "～するのはどう？",
+        "next": "doing"
+    },
+    {
+        "subject": "You",
+        "sentence": "疑問文",
+        "en": "Why don't you (do)?",
+        "ja": "～するのはどう？",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "sentence": "疑問文",
+        "en": "Why not (do)?",
+        "ja": "～するのはどう？",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "sentence": "疑問文",
         "en": "Can you (do)?",
         "ja": "～できる？",
         "next": "do"
@@ -824,7 +859,7 @@
     {
         "subject": "It",
         "sentence": "平叙文",
-        "c": "It's bound to (do)",
+        "en": "It's bound to (do)",
         "ja": "必ず～するだろう",
         "next": "do"
     }
