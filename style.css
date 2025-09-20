@@ -347,31 +347,48 @@ input[type="radio"]:checked + label {
 
 
 /* カード */
-#card-and-btn {
-    display: flex;              /* 横並び */
-    justify-content: center;    /* 中央寄せ */
-    align-items: center;        /* 縦方向の中央揃え */
-    margin-top: 50px;
-    gap: 5px;
-}
 #card {
-    width: 80%;
-    height: 120px;
-    padding: 5px;
+    width: 95%;
+    height: 200px;
+    margin: 1em auto;
+    padding: 10px;
     background: white;
     border-radius: 5px;
     box-shadow: 0 4px 10px rgba(0,0,0,0.15);
     display: flex;
+    flex-direction: column;
+    justify-content: center; /* 英語を縦中央に */
+    align-items: center;
+    font-size: 2em;
+    text-align: center;
+    position: relative;
+}
+
+/* 英語表示用 */
+#english {
+    display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 1.7em;
-    text-align: center;
-    cursor: pointer;
 }
-#card-and-btn button {
-    width: 8%;
-    height: 120px;
-    font-size: 1em;
+
+/* 日本語訳用 */
+#meaning {
+    position: absolute;      /* 下に固定 */
+    bottom: 0;
+    width: 100%;
+    padding: 10px;
+    background-color: #f5f5f5;
+    font-size: 0.7em;
+    color: #333;
+    text-align: center;
+    display: none;           /* 初期は非表示 */
+    box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
+}
+
+#ja-btn {
+    margin: 15px;
+    padding: 10px;
+    font-size: 1.5em;
     border-radius: 5px;
     box-shadow: 0 4px 10px rgba(0,0,0,0.15);
     border: none;
@@ -379,7 +396,23 @@ input[type="radio"]:checked + label {
     color: white;
     cursor: pointer;
 }
-#card-and-btn button:hover {
+
+#back-next {
+    text-align: center;
+}
+#back-next button {
+    width: 40%;
+    height: 50px;
+    margin: 2em 15px;
+    font-size: 1.5em;
+    border-radius: 5px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+    border: none;
+    background: lightslategray;
+    color: white;
+    cursor: pointer;
+}
+#back-next button:hover {
     background: #005ea6;
     transform: scale(1.02);
 }
