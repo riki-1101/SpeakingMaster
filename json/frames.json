@@ -662,6 +662,13 @@
         "ja": "～しないで",
         "next": "do"
     },
+    {
+        "subject": "You",
+        "sentence": "命令文",
+        "en": "Please (do)",
+        "ja": "～してください",
+        "next": "do"
+    },
 
 
 
