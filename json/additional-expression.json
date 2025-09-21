@@ -1,21 +1,6 @@
 [
     {
         "category": "時",
-        "en": "after you eat",
-        "ja": "食べた後に"
-    },
-    {
-        "category": "時",
-        "en": "afterwards",
-        "ja": "その後"
-    },
-    {
-        "category": "時",
-        "en": "all day",
-        "ja": "一日中"
-    },
-    {
-        "category": "時",
         "en": "amid growing competition",
         "ja": "激化する競争の最中に"
     },
@@ -36,11 +21,6 @@
     },
     {
         "category": "時",
-        "en": "at present",
-        "ja": "現在では"
-    },
-    {
-        "category": "時",
         "en": "at the same time",
         "ja": "同時に"
     },
@@ -48,26 +28,6 @@
         "category": "時",
         "en": "at the sight of the new machine",
         "ja": "その新しい機械を見たとき"
-    },
-    {
-        "category": "時",
-        "en": "at this point",
-        "ja": "現時点では"
-    },
-    {
-        "category": "時",
-        "en": "back then",
-        "ja": "当時"
-    },
-    {
-        "category": "時",
-        "en": "before the meeting",
-        "ja": "会議の前に"
-    },
-    {
-        "category": "時",
-        "en": "before you eat",
-        "ja": "食べる前に"
     },
     {
         "category": "時",
@@ -86,38 +46,8 @@
     },
     {
         "category": "時",
-        "en": "during summer vacation",
-        "ja": "夏休みの間に"
-    },
-    {
-        "category": "時",
-        "en": "during the day",
-        "ja": "日中"
-    },
-    {
-        "category": "時",
         "en": "each time I visit the park",
         "ja": "公園を訪れるたびに"
-    },
-    {
-        "category": "時",
-        "en": "even after hearing the bad news",
-        "ja": "悪い知らせを聞いた後でも"
-    },
-    {
-        "category": "時",
-        "en": "even before the game started",
-        "ja": "試合が始まる前でも"
-    },
-    {
-        "category": "時",
-        "en": "even now",
-        "ja": "今でも"
-    },
-    {
-        "category": "時",
-        "en": "even when it rains",
-        "ja": "雨が降った時でも"
     },
     {
         "category": "時",
@@ -136,21 +66,6 @@
     },
     {
         "category": "時",
-        "en": "first of all",
-        "ja": "まず第一に"
-    },
-    {
-        "category": "時",
-        "en": "for ages",
-        "ja": "ずいぶん長い間"
-    },
-    {
-        "category": "時",
-        "en": "for 10 years",
-        "ja": "10年間"
-    },
-    {
-        "category": "時",
         "en": "immediately she saw the message",
         "ja": "彼女はメッセージを見てすぐに（～した）"
     },
@@ -163,16 +78,6 @@
         "category": "時",
         "en": "in the meantime",
         "ja": "その間に"
-    },
-    {
-        "category": "時",
-        "en": "in the short run",
-        "ja": "短期的には"
-    },
-    {
-        "category": "時",
-        "en": "in the long run",
-        "ja": "長い目で見れば"
     },
     {
         "category": "時",
@@ -226,31 +131,6 @@
     },
     {
         "category": "時",
-        "en": "these days",
-        "ja": "近頃、この頃"
-    },
-    {
-        "category": "時",
-        "en": "throughout a week",
-        "ja": "一週間の間ずっと"
-    },
-    {
-        "category": "時",
-        "en": "till I get sleepy",
-        "ja": "眠くなるまでずっと"
-    },
-    {
-        "category": "時",
-        "en": "until it stops raining",
-        "ja": "雨が止むまでずっと"
-    },
-    {
-        "category": "時",
-        "en": "until midnight",
-        "ja": "深夜までずっと"
-    },
-    {
-        "category": "時",
         "en": "when I was a child",
         "ja": "子どもの時に"
     },
@@ -261,13 +141,138 @@
     },
     {
         "category": "時",
+        "en": "within 48 hours",
+        "ja": "48時間以内に"
+    },
+
+
+
+
+
+    {
+        "category": "時点",
+        "en": "at first",
+        "ja": "当初は"
+    },
+    {
+        "category": "時点",
+        "en": "at present",
+        "ja": "現在では"
+    },
+    {
+        "category": "時点",
+        "en": "at this point",
+        "ja": "現時点では"
+    },
+    {
+        "category": "時点",
+        "en": "back then",
+        "ja": "当時"
+    },
+    {
+        "category": "時点",
+        "en": "these days",
+        "ja": "近頃、この頃"
+    },
+
+
+
+
+
+    {
+        "category": "期間",
+        "en": "all day",
+        "ja": "一日中"
+    },
+    {
+        "category": "期間",
+        "en": "during summer vacation",
+        "ja": "夏休みの間に"
+    },
+    {
+        "category": "期間",
+        "en": "during the day",
+        "ja": "日中"
+    },
+    {
+        "category": "期間",
+        "en": "for ages",
+        "ja": "ずいぶん長い間"
+    },
+    {
+        "category": "期間",
+        "en": "for 10 years",
+        "ja": "10年間"
+    },
+    {
+        "category": "期間",
+        "en": "in the short run",
+        "ja": "短期的には"
+    },
+    {
+        "category": "期間",
+        "en": "in the long run",
+        "ja": "長い目で見れば"
+    },
+    {
+        "category": "期間",
+        "en": "throughout a week",
+        "ja": "一週間の間ずっと"
+    },
+    {
+        "category": "期間",
+        "en": "till I get sleepy",
+        "ja": "眠くなるまでずっと"
+    },
+    {
+        "category": "期間",
+        "en": "until it stops raining",
+        "ja": "雨が止むまでずっと"
+    },
+    {
+        "category": "期間",
+        "en": "until midnight",
+        "ja": "深夜までずっと"
+    },
+    {
+        "category": "期間",
         "en": "while I was eating dinner",
         "ja": "夕食を食べていた間に"
     },
+
+
+
+
+
     {
-        "category": "時",
-        "en": "within 48 hours",
-        "ja": "48時間以内に"
+        "category": "順序",
+        "en": "after you eat",
+        "ja": "食べた後に"
+    },
+    {
+        "category": "順序",
+        "en": "afterwards",
+        "ja": "その後"
+    },
+    {
+        "category": "順序",
+        "en": "before the meeting",
+        "ja": "会議の前に"
+    },
+    {
+        "category": "順序",
+        "en": "before you eat",
+        "ja": "食べる前に"
+    },
+    {
+        "category": "順序",
+        "en": "first of all",
+        "ja": "まず第一に"
+    },
+    {
+        "category": "順序",
+        "en": "to begin with",
+        "ja": "初めに"
     },
 
 
@@ -411,6 +416,11 @@
     },
     {
         "category": "条件",
+        "en": "with luck",
+        "ja": "運が良ければ"
+    },
+    {
+        "category": "条件",
         "en": "without approval",
         "ja": "承認なしで"
     },
@@ -468,6 +478,11 @@
         "category": "目的",
         "en": "in order to pass the exam",
         "ja": "試験に合格するために"
+    },
+    {
+        "category": "目的",
+        "en": "in search of gold",
+        "ja": "金を求めて（探して）"
     },
     {
         "category": "目的",
@@ -676,13 +691,38 @@
     },
     {
         "category": "提示",
+        "en": "in actuality",
+        "ja": "現実には"
+    },
+    {
+        "category": "提示",
         "en": "in all honesty",
         "ja": "正直なところ"
     },
     {
         "category": "提示",
+        "en": "in effect",
+        "ja": "事実上"
+    },
+    {
+        "category": "提示",
+        "en": "in light of the recent developments",
+        "ja": "最近の進展を踏まえて"
+    },
+    {
+        "category": "提示",
         "en": "in my opinion",
         "ja": "私の意見では"
+    },
+    {
+        "category": "提示",
+        "en": "in particular",
+        "ja": "特に、とりわけ"
+    },
+    {
+        "category": "提示",
+        "en": "in principle",
+        "ja": "原則として"
     },
     {
         "category": "提示",
@@ -805,6 +845,21 @@
     },
     {
         "category": "対立",
+        "en": "even after hearing the bad news",
+        "ja": "悪い知らせを聞いた後でも"
+    },
+    {
+        "category": "対立",
+        "en": "even before the game started",
+        "ja": "試合が始まる前でも"
+    },
+    {
+        "category": "対立",
+        "en": "even now",
+        "ja": "今でも"
+    },
+    {
+        "category": "対立",
         "en": "even so",
         "ja": "それでも"
     },
@@ -812,6 +867,11 @@
         "category": "対立",
         "en": "even though I was tired",
         "ja": "疲れていたけれども"
+    },
+    {
+        "category": "対立",
+        "en": "even when it rains",
+        "ja": "雨が降った時でも"
     },
     {
         "category": "対立",
@@ -1074,11 +1134,6 @@
     },
     {
         "category": "その他",
-        "en": "in actuality",
-        "ja": "現実には"
-    },
-    {
-        "category": "その他",
         "en": "in an effort to meet the deadline",
         "ja": "締め切りに間に合わせようと努力して"
     },
@@ -1086,16 +1141,6 @@
         "category": "その他",
         "en": "in detail",
         "ja": "詳細に"
-    },
-    {
-        "category": "その他",
-        "en": "in light of the recent developments",
-        "ja": "最近の進展を踏まえて"
-    },
-    {
-        "category": "その他",
-        "en": "in particular",
-        "ja": "特に、とりわけ"
     },
     {
         "category": "その他",
@@ -1126,11 +1171,6 @@
         "category": "その他",
         "en": "on vacation",
         "ja": "休暇中で"
-    },
-    {
-        "category": "その他",
-        "en": "to begin with",
-        "ja": "初めに"
     },
     {
         "category": "その他",
