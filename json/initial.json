@@ -444,6 +444,17 @@
     },
     {
         "category": "感情",
+        "en": "I'm confident",
+        "ja": "～に自信がある",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "感情",
         "en": "I'm thankful",
         "ja": "～に感謝している",
         "examples": [
