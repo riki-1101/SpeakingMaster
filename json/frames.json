@@ -149,6 +149,27 @@
     {
         "subject": "I",
         "sentence": "平叙文",
+        "en": "I've just (done)",
+        "ja": "ちょうど～したところ",
+        "next": "done"
+    },
+    {
+        "subject": "I",
+        "sentence": "平叙文",
+        "en": "I've already (done)",
+        "ja": "今までにすでに～している",
+        "next": "done"
+    },
+    {
+        "subject": "I",
+        "sentence": "平叙文",
+        "en": "I've never (done)",
+        "ja": "今までに一度も～していない",
+        "next": "done"
+    },
+    {
+        "subject": "I",
+        "sentence": "平叙文",
         "en": "I've been (C)",
         "ja": "今までに～状態でいる",
         "next": "c"
@@ -163,6 +184,13 @@
     {
         "subject": "I",
         "sentence": "平叙文",
+        "en": "I won't (do)",
+        "ja": "～しないよ",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "sentence": "平叙文",
         "en": "I would probably (do)",
         "ja": "多分～するよ",
         "next": "do"
@@ -170,8 +198,8 @@
     {
         "subject": "I",
         "sentence": "平叙文",
-        "en": "I won't (do)",
-        "ja": "～しないよ",
+        "en": "I would often (do)",
+        "ja": "～したものだ",
         "next": "do"
     },
     {
@@ -191,6 +219,13 @@
     {
         "subject": "I",
         "sentence": "平叙文",
+        "en": "I would've (done)",
+        "ja": "～する意志があったのに（していない）",
+        "next": "done"
+    },
+    {
+        "subject": "I",
+        "sentence": "平叙文",
         "en": "I should (do)",
         "ja": "～した方がいいな",
         "next": "do"
@@ -200,6 +235,13 @@
         "sentence": "平叙文",
         "en": "I should've (done)",
         "ja": "～すべきだった",
+        "next": "done"
+    },
+    {
+        "subject": "I",
+        "sentence": "平叙文",
+        "en": "I shouldn't have (done)",
+        "ja": "～しなきゃよかった",
         "next": "done"
     },
     {
@@ -242,6 +284,13 @@
         "sentence": "平叙文",
         "en": "I could've (done)",
         "ja": "～できたのに（できていない）",
+        "next": "done"
+    },
+    {
+        "subject": "I",
+        "sentence": "平叙文",
+        "en": "I couldn't have (done)",
+        "ja": "～できなかったかも（できた）",
         "next": "done"
     },
     {
