@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Random Additional Phrase</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header id="header"></header>
+    <main>
+        <input type="radio" name="category" id="時点" value="時点" checked>
+        <label for="時点">時点</label>
+        <input type="radio" name="category" id="期間" value="期間">
+        <label for="期間">期間</label>
+        <input type="radio" name="category" id="順序" value="順序">
+        <label for="順序">順序</label>
+        <input type="radio" name="category" id="条件" value="条件">
+        <label for="条件">条件</label>
+        <input type="radio" name="category" id="目的" value="目的">
+        <label for="目的">目的</label>
+        <input type="radio" name="category" id="理由" value="理由">
+        <label for="理由">理由</label>
+        <input type="radio" name="category" id="結論" value="結論">
+        <label for="結論">結論</label>
+        <input type="radio" name="category" id="提示" value="提示">
+        <label for="提示">提示</label>
+        <input type="radio" name="category" id="換言" value="換言">
+        <label for="換言">換言</label>
+        <input type="radio" name="category" id="対立" value="対立">
+        <label for="対立">対立</label>
+        
+        <button type="button" name="ja" id="ja-btn">ja</button>
+        <div id="card">
+            <div id="english"></div>
+            <div id="meaning"></div>
+        </div>
+        <div id="back-next">
+            <button type="button" name="back" id="back-btn">＜</button>
+            <button type="button" name="next" id="next-btn">＞</button>
+        </div>
+    </main>
+    <footer id="footer"></footer>
+    <script src="js/header.js"></script>
+    <script src="js/footer.js"></script>
+    <script src="js/script.js"></script>
+    <script src="js/random.js"></script>
+</body>
+</html>

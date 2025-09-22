@@ -68,14 +68,15 @@ function resetState() {
 
 // --- フィルタ適用 ---
 function applyFilter() {
-    const selected = document.querySelector('input[name="sentence"]:checked').value;
-    filteredPhrases = phrases.filter(p => p.sentence === selected);
+    const selected = document.querySelector('input[name="category"]:checked').value;
+    filteredPhrases = phrases.filter(p => p.category === selected);
     shuffledPhrases = shuffleArray(filteredPhrases);
     resetState();
 }
 
 // --- JSON読み込み ---
-fetch("./json/frames.json")
+const fileName = location.pathname.split("/").pop().replace(".html", "");
+fetch(`./json/${fileName}.json`)
     .then(response => response.json())
     .then(data => {
         phrases = data;
@@ -87,7 +88,7 @@ fetch("./json/frames.json")
     });
 
 // --- ラジオボタン切り替え ---
-document.querySelectorAll('input[name="sentence"]').forEach(radio => {
+document.querySelectorAll('input[name="category"]').forEach(radio => {
     radio.addEventListener("change", applyFilter);
 });
 

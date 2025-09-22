@@ -1,357 +1,357 @@
 [
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I'm (C)",
         "ja": "今～状態である",
         "next": "c"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I was (C)",
         "ja": "～状態だった",
         "next": "c"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I'm being (C)",
         "ja": "一時的に～な態度でいる",
         "next": "c"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I was being (C)",
         "ja": "一時的に～状態だった",
         "next": "c"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I feel (C)",
         "ja": "～に感じる",
         "next": "c"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I ended up (C)",
         "ja": "結局～状態になった",
         "next": "c"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I (do)",
         "ja": "普段～する",
         "next": "do"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I do (do)",
         "ja": "～するんだ！",
         "next": "do"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I always (do)",
         "ja": "いつも～する",
         "next": "do"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I usually (do)",
         "ja": "たいてい～する",
         "next": "do"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I often (do)",
         "ja": "よく～する",
         "next": "do"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I sometimes (do)",
         "ja": "時々～する",
         "next": "do"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I rarely (do)",
         "ja": "めったに～しない",
         "next": "do"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I never (do)",
         "ja": "決して～しない",
         "next": "do"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I really (do)",
         "ja": "本当に～する",
         "next": "do"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I still (do)",
         "ja": "まだ～する",
         "next": "do"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I (did)",
         "ja": "～した",
         "next": "did"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I did (do)",
         "ja": "～したんだ！",
         "next": "do"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I just (did)",
         "ja": "ちょうど～した",
         "next": "did"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I already (did)",
         "ja": "すでに～した",
         "next": "did"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I've (done)",
         "ja": "今までに～している",
         "next": "done"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I've just (done)",
         "ja": "ちょうど～したところ",
         "next": "done"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I've already (done)",
         "ja": "今までにすでに～している",
         "next": "done"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I've never (done)",
         "ja": "今までに一度も～していない",
         "next": "done"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I've been (C)",
         "ja": "今までに～状態でいる",
         "next": "c"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I'll (do)",
         "ja": "～するよ",
         "next": "do"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I won't (do)",
         "ja": "～しないよ",
         "next": "do"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I would probably (do)",
         "ja": "多分～するよ",
         "next": "do"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I would often (do)",
         "ja": "～したものだ",
         "next": "do"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I'd like to (do)",
         "ja": "～したいのですが",
         "next": "do"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I'd rather (do)",
         "ja": "むしろ～したい",
         "next": "do"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I would've (done)",
         "ja": "～する意志があったのに（していない）",
         "next": "done"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I should (do)",
         "ja": "～した方がいいな",
         "next": "do"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I should've (done)",
         "ja": "～すべきだった",
         "next": "done"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I shouldn't have (done)",
         "ja": "～しなきゃよかった",
         "next": "done"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I might (do)",
         "ja": "～するかもしれない",
         "next": "do"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I might've (done)",
         "ja": "～したかもしれない",
         "next": "done"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I can (do)",
         "ja": "～できる（可能性がある）",
         "next": "do"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I can probably (do)",
         "ja": "多分～できる",
         "next": "do"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I can usually (do)",
         "ja": "普段は～できる",
         "next": "do"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I could've (done)",
         "ja": "～できたのに（できていない）",
         "next": "done"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I couldn't have (done)",
         "ja": "～できなかったかも（できた）",
         "next": "done"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I'm going to (do) [I'm gonna (do)]",
         "ja": "～する予定である",
         "next": "do"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I was going to (do)",
         "ja": "～する予定だった",
         "next": "do"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I'm about to (do)",
         "ja": "今まさに～しようとしている",
         "next": "do"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I was about to (do)",
         "ja": "まさに～しようとしていた",
         "next": "do"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I'm supposed to (do)",
         "ja": "～することになっている",
         "next": "do"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I was supposed to (do)",
         "ja": "～することになっていた",
         "next": "do"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I can't wait to (do)",
         "ja": "～するのが待ちきれない",
         "next": "do"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I couldn't wait to (do)",
         "ja": "～するのが待ちきれなかった",
         "next": "do"
     },
     {
         "subject": "I",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "I've got to (do) [I gotta (do)]",
         "ja": "～しなきゃ",
         "next": "do"
@@ -363,140 +363,140 @@
     
     {
         "subject": "I",
-        "sentence": "疑問文",
+        "category": "疑問文",
         "en": "Did I (do)?",
         "ja": "私～したっけ？",
         "next": "do"
     },
     {
         "subject": "I",
-        "sentence": "疑問文",
+        "category": "疑問文",
         "en": "Can I (do)?",
         "ja": "～してもいい？",
         "next": "do"
     },
     {
         "subject": "I",
-        "sentence": "疑問文",
+        "category": "疑問文",
         "en": "May I (do)?",
         "ja": "～してもよろしいですか？（フォーマル）",
         "next": "do"
     },
     {
         "subject": "I",
-        "sentence": "疑問文",
+        "category": "疑問文",
         "en": "Should I (do)?",
         "ja": "～した方がいい？",
         "next": "do"
     },
     {
         "subject": "I",
-        "sentence": "疑問文",
+        "category": "疑問文",
         "en": "Shall I (do)?",
         "ja": "～しましょうか？",
         "next": "do"
     },
     {
         "subject": "I",
-        "sentence": "疑問文",
+        "category": "疑問文",
         "en": "Must I (do)?",
         "ja": "～しないといけませんか？",
         "next": "do"
     },
     {
         "subject": "I",
-        "sentence": "疑問文",
+        "category": "疑問文",
         "en": "Do I have to (do)?",
         "ja": "～しないといけない？",
         "next": "do"
     },
      {
         "subject": "I",
-        "sentence": "疑問文",
+        "category": "疑問文",
         "en": "Do I need to (do)?",
         "ja": "～する必要はある？",
         "next": "do"
     },
     {
         "subject": "I",
-        "sentence": "疑問文",
+        "category": "疑問文",
         "en": "When can I (do)?",
         "ja": "いつ～できる？",
         "next": "do"
     },
     {
         "subject": "I",
-        "sentence": "疑問文",
+        "category": "疑問文",
         "en": "When should I (do)?",
         "ja": "いつ～した方がいい？",
         "next": "do"
     },
     {
         "subject": "I",
-        "sentence": "疑問文",
+        "category": "疑問文",
         "en": "Where can I (do)?",
         "ja": "どこで～できる？",
         "next": "do"
     },
     {
         "subject": "I",
-        "sentence": "疑問文",
+        "category": "疑問文",
         "en": "Where should I (do)?",
         "ja": "どこで～した方がいい？",
         "next": "do"
     },
     {
         "subject": "I",
-        "sentence": "疑問文",
+        "category": "疑問文",
         "en": "Why am I (C)?",
         "ja": "なんで～状態なんだろう？（自分へのツッコミ）",
         "next": "c"
     },
     {
         "subject": "I",
-        "sentence": "疑問文",
+        "category": "疑問文",
         "en": "Why didn't I (do)?",
         "ja": "なんで～しなかったんだろう？",
         "next": "do"
     },
     {
         "subject": "I",
-        "sentence": "疑問文",
+        "category": "疑問文",
         "en": "Why can't I (do)?",
         "ja": "なんで～できないの？",
         "next": "do"
     },
     {
         "subject": "I",
-        "sentence": "疑問文",
+        "category": "疑問文",
         "en": "Why do I have to (do)?",
         "ja": "なんで～しなきゃいけないの？",
         "next": "do"
     },
     {
         "subject": "I",
-        "sentence": "疑問文",
+        "category": "疑問文",
         "en": "How do I (do)?",
         "ja": "どうやって～するの？",
         "next": "do"
     },
     {
         "subject": "I",
-        "sentence": "疑問文",
+        "category": "疑問文",
         "en": "How can I (do)?",
         "ja": "どうやって～できる？",
         "next": "do"
     },
     {
         "subject": "I",
-        "sentence": "疑問文",
+        "category": "疑問文",
         "en": "How should I (do)?",
         "ja": "どうやって～した方がいい？",
         "next": "do"
     },
     {
         "subject": "I",
-        "sentence": "疑問文",
+        "category": "疑問文",
         "en": "What if I (do)?",
         "ja": "もし私が～したらどうする？",
         "next": "do"
@@ -507,147 +507,147 @@
 
     {
         "subject": "You",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "You're (C)",
         "ja": "今～状態だね",
         "next": "c"
     },
     {
         "subject": "You",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "You're being (C)",
         "ja": "今～っぽいよ（いつもと違う）",
         "next": "c"
     },
     {
         "subject": "You",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "You seem (C)",
         "ja": "～に思えるよ",
         "next": "c"
     },
     {
         "subject": "You",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "You look (C)",
         "ja": "～に見えるよ",
         "next": "c"
     },
     {
         "subject": "You",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "You sound (C)",
         "ja": "～に聞こえるよ",
         "next": "c"
     },
     {
         "subject": "You",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "You feel (C)",
         "ja": "～に感じているね",
         "next": "c"
     },
     {
         "subject": "You",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "You can (do)",
         "ja": "～していいよ",
         "next": "do"
     },
     {
         "subject": "You",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "You could've (done)",
         "ja": "～しとけよ！（していなかった）",
         "next": "done"
     },
     {
         "subject": "You",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "You might want to (do)",
         "ja": "～した方がいいかもよ",
         "next": "do"
     },
     {
         "subject": "You",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "You must (do)",
         "ja": "～しなければならないよ",
         "next": "do"
     },
     {
         "subject": "You",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "You mustn't (do)",
         "ja": "～してはいけないよ",
         "next": "do"
     },
     {
         "subject": "You",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "You have to (do)",
         "ja": "～しなければならないよ（客観的に）",
         "next": "do"
     },
     {
         "subject": "You",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "You'll have to (do)",
         "ja": "～しなければならないだろうね（客観的に）",
         "next": "do"
     },
     {
         "subject": "You",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "You don't have to (do)",
         "ja": "～しなくていいよ（客観的に）",
         "next": "do"
     },
     {
         "subject": "You",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "You only have to (do)",
         "ja": "～しさえすればいいよ",
         "next": "do"
     },
     {
         "subject": "You",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "All you have to do is (do)",
         "ja": "～しさえすればいいよ",
         "next": "do"
     },
     {
         "subject": "You",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "You should (do)",
         "ja": "～したほうがいいよ",
         "next": "do"
     },
     {
         "subject": "You",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "You had better (do)",
         "ja": "～しなさいよ",
         "next": "do"
     },
     {
         "subject": "You",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "You had better not (do)",
         "ja": "～するな",
         "next": "do"
     },
     {
         "subject": "You",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "You'll (do)",
         "ja": "～するだろうね",
         "next": "do"
     },
     {
         "subject": "You",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "You won't (do)",
         "ja": "～しないだろうね",
         "next": "do"
@@ -659,91 +659,91 @@
 
     {
         "subject": "You",
-        "sentence": "疑問文",
+        "category": "疑問文",
         "en": "Are you (C)?",
         "ja": "～状態？",
         "next": "c"
     },
     {
         "subject": "You",
-        "sentence": "疑問文",
+        "category": "疑問文",
         "en": "Do you (do)?",
         "ja": "～する？",
         "next": "do"
     },
     {
         "subject": "You",
-        "sentence": "疑問文",
+        "category": "疑問文",
         "en": "Did you (do)?",
         "ja": "～した？",
         "next": "do"
     },
     {
         "subject": "You",
-        "sentence": "疑問文",
+        "category": "疑問文",
         "en": "Have you (done)?",
         "ja": "今までに～している？",
         "next": "done"
     },
     {
         "subject": "You",
-        "sentence": "疑問文",
+        "category": "疑問文",
         "en": "What do you say to (doing)?",
         "ja": "～するのはどう？",
         "next": "doing"
     },
     {
         "subject": "You",
-        "sentence": "疑問文",
+        "category": "疑問文",
         "en": "What made you (do)?",
         "ja": "どういうきっかけで～したの？",
         "next": "do"
     },
     {
         "subject": "You",
-        "sentence": "疑問文",
+        "category": "疑問文",
         "en": "Why did you (do)?",
         "ja": "どうして～したの？",
         "next": "do"
     },
     {
         "subject": "You",
-        "sentence": "疑問文",
+        "category": "疑問文",
         "en": "Why don't you (do)?",
         "ja": "～するのはどう？",
         "next": "do"
     },
     {
         "subject": "You",
-        "sentence": "疑問文",
+        "category": "疑問文",
         "en": "Why not (do)?",
         "ja": "～したら？",
         "next": "do"
     },
     {
         "subject": "You",
-        "sentence": "疑問文",
+        "category": "疑問文",
         "en": "How did you (do)?",
         "ja": "どうやって～したの？",
         "next": "do"
     },
     {
         "subject": "You",
-        "sentence": "疑問文",
+        "category": "疑問文",
         "en": "Can you (do)?",
         "ja": "～できる？",
         "next": "do"
     },
     {
         "subject": "You",
-        "sentence": "疑問文",
+        "category": "疑問文",
         "en": "Could you (do)?",
         "ja": "～してくれる？",
         "next": "do"
     },
     {
         "subject": "You",
-        "sentence": "疑問文",
+        "category": "疑問文",
         "en": "Would you (do)?",
         "ja": "～してもらえる？",
         "next": "do"
@@ -755,21 +755,21 @@
 
     {
         "subject": "You",
-        "sentence": "命令文",
+        "category": "命令文",
         "en": "Don't be (C)",
         "ja": "～状態にならないで",
         "next": "c"
     },
     {
         "subject": "You",
-        "sentence": "命令文",
+        "category": "命令文",
         "en": "Don't (do)",
         "ja": "～しないで",
         "next": "do"
     },
     {
         "subject": "You",
-        "sentence": "命令文",
+        "category": "命令文",
         "en": "Please (do)",
         "ja": "～してください",
         "next": "do"
@@ -781,154 +781,154 @@
 
     {
         "subject": "It",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "It's (C)",
         "ja": "～だ",
         "next": "c"
     },
     {
         "subject": "It",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "It seems (C)",
         "ja": "～に思える",
         "next": "c"
     },
     {
         "subject": "It",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "It looks (C)",
         "ja": "～に見える",
         "next": "c"
     },
     {
         "subject": "It",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "It appears (C)",
         "ja": "～に見受けられる",
         "next": "c"
     },
     {
         "subject": "It",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "It sounds (C)",
         "ja": "～に聞こえる",
         "next": "c"
     },
     {
         "subject": "It",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "It feels (C)",
         "ja": "～に感じる",
         "next": "c"
     },
     {
         "subject": "It",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "It smells (C)",
         "ja": "～のにおいがする",
         "next": "c"
     },
     {
         "subject": "It",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "It tastes (C)",
         "ja": "～の味がする",
         "next": "c"
     },
     {
         "subject": "It",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "It makes me feel (C)",
         "ja": "～な気分にさせる",
         "next": "c"
     },
     {
         "subject": "It",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "It can be (C)",
         "ja": "～になり得る",
         "next": "c"
     },
     {
         "subject": "It",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "It may be (C)",
         "ja": "～であるかもしれない",
         "next": "c"
     },
     {
         "subject": "It",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "It might be (C)",
         "ja": "～であるかもしれないなぁ",
         "next": "c"
     },
     {
         "subject": "It",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "It must be (C)",
         "ja": "～であるに違いない",
         "next": "c"
     },
     {
         "subject": "It",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "It must've been (C)",
         "ja": "～だったに違いない",
         "next": "c"
     },
     {
         "subject": "It",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "It should be (C)",
         "ja": "～であるはずだ",
         "next": "c"
     },
     {
         "subject": "It",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "It should've been (C)",
         "ja": "～だったはずだ",
         "next": "c"
     },
     {
         "subject": "It",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "It'll be (C)",
         "ja": "～であるだろう",
         "next": "c"
     },
     {
         "subject": "It",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "It would be (C)",
         "ja": "～だろうなぁ（仮定）",
         "next": "c"
     },
     {
         "subject": "It",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "It would've been (C)",
         "ja": "～だっただろう",
         "next": "c"
     },
     {
         "subject": "It",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "It'll (do)",
         "ja": "～するだろう",
         "next": "do"
     },
     {
         "subject": "It",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "It won't (do)",
         "ja": "～しないだろう",
         "next": "do"
     },
     {
         "subject": "It",
-        "sentence": "平叙文",
+        "category": "平叙文",
         "en": "It's bound to (do)",
         "ja": "必ず～するだろう",
         "next": "do"
@@ -939,7 +939,7 @@
 
     {
         "subject": "",
-        "sentence": "疑問文",
+        "category": "疑問文",
         "en": "How come (SV)?",
         "ja": "なんで～なの？",
         "next": "sv"
