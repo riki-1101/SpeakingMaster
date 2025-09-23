@@ -116,11 +116,6 @@
     },
     {
         "category": "When?",
-        "en": "even when it rains",
-        "ja": "雨が降った時でも"
-    },
-    {
-        "category": "When?",
         "en": "eventually",
         "ja": "やがて、いずれは"
     },
@@ -236,8 +231,33 @@
 
     {
         "category": "Where?",
+        "en": "at the bus stop",
+        "ja": "バス停で"
+    },
+    {
+        "category": "Where?",
+        "en": "behind the station",
+        "ja": "駅の裏に"
+    },
+    {
+        "category": "Where?",
         "en": "here and there",
         "ja": "あちらこちらに"
+    },
+    {
+        "category": "Where?",
+        "en": "in front of the station",
+        "ja": "駅の前で"
+    },
+    {
+        "category": "Where?",
+        "en": "near my house",
+        "ja": "家の近くに"
+    },
+    {
+        "category": "Where?",
+        "en": "opposite the post office",
+        "ja": "郵便局の向かいに"
     },
 
 
@@ -387,6 +407,16 @@
         "en": "in the same way",
         "ja": "同じように"
     },
+    {
+        "category": "How?",
+        "en": "little by little",
+        "ja": "少しずつ"
+    },
+    {
+        "category": "How?",
+        "en": "step by step",
+        "ja": "一歩ずつ"
+    },
 
 
 
@@ -434,13 +464,33 @@
 
     {
         "category": "How often?",
+        "en": "every day",
+        "ja": "毎日"
+    },
+    {
+        "category": "How often?",
         "en": "every other day",
         "ja": "１日おきに"
     },
     {
         "category": "How often?",
+        "en": "every Sunday",
+        "ja": "毎週日曜日に"
+    },
+    {
+        "category": "How often?",
+        "en": "every week",
+        "ja": "毎週"
+    },
+    {
+        "category": "How often?",
         "en": "now and then",
         "ja": "時々"
+    },
+    {
+        "category": "How often?",
+        "en": "twice a week",
+        "ja": "週に２回"
     },
 
 
@@ -455,7 +505,7 @@
     {
         "category": "What about?",
         "en": "as regards the budget",
-        "ja": "予算に関して言うと（フォーマル・堅）"
+        "ja": "予算に関して言うと（フォーマル）"
     },
     {
         "category": "What about?",
@@ -470,7 +520,7 @@
     {
         "category": "What about?",
         "en": "in regard to your request",
-        "ja": "あなたのリクエストに関して言うと（フォーマル・堅）"
+        "ja": "あなたのリクエストに関して言うと（フォーマル）"
     },
     {
         "category": "What about?",
@@ -480,7 +530,7 @@
     {
         "category": "What about?",
         "en": "in respect of the agreement",
-        "ja": "契約に関しては（フォーマル・堅・古風）"
+        "ja": "契約に関しては（フォーマル・古風）"
     },
     {
         "category": "What about?",
@@ -495,7 +545,7 @@
     {
         "category": "What about?",
         "en": "with respect to the deadline",
-        "ja": "締め切りに関しては（フォーマル・堅・丁寧）"
+        "ja": "締め切りに関しては（フォーマル・丁寧）"
     },
 
 
@@ -614,13 +664,18 @@
     },
     {
         "category": "Contrast",
-        "en": "even so",
-        "ja": "それでも"
+        "en": "even if it doesn't go as planned",
+        "ja": "たとえ計画通りに進まなくても"
     },
     {
         "category": "Contrast",
         "en": "even though I was tired",
         "ja": "疲れていたけれども"
+    },
+    {
+        "category": "Contrast",
+        "en": "even when it rains",
+        "ja": "雨が降った時でも"
     },
     {
         "category": "Contrast",
@@ -634,11 +689,6 @@
     },
     {
         "category": "Contrast",
-        "en": "in contrast",
-        "ja": "それに比べて"
-    },
-    {
-        "category": "Contrast",
         "en": "in face of great difficulties",
         "ja": "多大な困難にもかかわらず"
     },
@@ -646,11 +696,6 @@
         "category": "Contrast",
         "en": "in spite of the rain",
         "ja": "雨にもかかわらず"
-    },
-    {
-        "category": "Contrast",
-        "en": "nevertheless",
-        "ja": "それにもかかわらず"
     },
     {
         "category": "Contrast",
@@ -684,18 +729,8 @@
     },
     {
         "category": "Contrast",
-        "en": "on the other hand",
-        "ja": "一方で"
-    },
-    {
-        "category": "Contrast",
         "en": "regardless of the weather",
         "ja": "天気に関係なく"
-    },
-    {
-        "category": "Contrast",
-        "en": "that said",
-        "ja": "とはいえ"
     },
     {
         "category": "Contrast",
@@ -749,11 +784,6 @@
     },
     {
         "category": "Condition",
-        "en": "among European countries",
-        "ja": "ヨーロッパ諸国の間で"
-    },
-    {
-        "category": "Condition",
         "en": "apart from a few minor issues",
         "ja": "いくつかの小さな問題は別として"
     },
@@ -774,18 +804,8 @@
     },
     {
         "category": "Condition",
-        "en": "between the two firms",
-        "ja": "2社の間で"
-    },
-    {
-        "category": "Condition",
         "en": "considering the time",
         "ja": "時間を考慮すると"
-    },
-    {
-        "category": "Condition",
-        "en": "even if it doesn't go as planned",
-        "ja": "たとえ計画通りに進まなくても"
     },
     {
         "category": "Condition",
@@ -1004,6 +1024,11 @@
     },
     {
         "category": "Connectors",
+        "en": "even so",
+        "ja": "それでも"
+    },
+    {
+        "category": "Connectors",
         "en": "finally",
         "ja": "ついに、ようやく"
     },
@@ -1021,6 +1046,11 @@
         "category": "Connectors",
         "en": "for instance",
         "ja": "例えば"
+    },
+    {
+        "category": "Connectors",
+        "en": "for now",
+        "ja": "とりあえず"
     },
     {
         "category": "Connectors",
@@ -1066,6 +1096,11 @@
         "category": "Connectors",
         "en": "in conclusion",
         "ja": "結論として"
+    },
+    {
+        "category": "Connectors",
+        "en": "in contrast",
+        "ja": "それに比べて"
     },
     {
         "category": "Connectors",
@@ -1144,8 +1179,18 @@
     },
     {
         "category": "Connectors",
+        "en": "nevertheless",
+        "ja": "それにもかかわらず"
+    },
+    {
+        "category": "Connectors",
         "en": "not gonna lie",
         "ja": "ぶっちゃけ"
+    },
+    {
+        "category": "Connectors",
+        "en": "on the other hand",
+        "ja": "一方で"
     },
     {
         "category": "Connectors",
@@ -1156,6 +1201,11 @@
         "category": "Connectors",
         "en": "that is (to say)",
         "ja": "つまり言い換えると"
+    },
+    {
+        "category": "Connectors",
+        "en": "that said",
+        "ja": "とはいえ"
     },
     {
         "category": "Connectors",
@@ -1187,6 +1237,16 @@
 
 
 
+    {
+        "category": "その他",
+        "en": "among European countries",
+        "ja": "ヨーロッパ諸国の間で"
+    },
+    {
+        "category": "その他",
+        "en": "between the two firms",
+        "ja": "2社の間で"
+    },
     {
         "category": "その他",
         "en": "in place of my boss",
@@ -1225,17 +1285,12 @@
     {
         "category": "その他",
         "en": "as well",
-        "ja": "同様に"
+        "ja": "～も同様に"
     },
     {
         "category": "その他",
         "en": "at least",
         "ja": "少なくとも"
-    },
-    {
-        "category": "その他",
-        "en": "for now",
-        "ja": "とりあえず"
     },
     {
         "category": "その他",
@@ -1251,10 +1306,5 @@
         "category": "その他",
         "en": "maybe",
         "ja": "～かも（カジュアル）"
-    },
-    {
-        "category": "その他",
-        "en": "on vacation",
-        "ja": "休暇中で"
     }
 ]
