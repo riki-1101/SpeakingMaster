@@ -384,6 +384,26 @@
     },
     {
         "category": "How?",
+        "en": "carefully",
+        "ja": "注意深く"
+    },
+    {
+        "category": "How?",
+        "en": "crearly",
+        "ja": "はっきりと"
+    },
+    {
+        "category": "How?",
+        "en": "fast",
+        "ja": "速く"
+    },
+    {
+        "category": "How?",
+        "en": "fluently",
+        "ja": "流暢に"
+    },
+    {
+        "category": "How?",
         "en": "for free",
         "ja": "無料で"
     },
@@ -1206,6 +1226,11 @@
         "category": "Connectors",
         "en": "that said",
         "ja": "とはいえ"
+    },
+    {
+        "category": "Connectors",
+        "en": "thus",
+        "ja": "それゆえ"
     },
     {
         "category": "Connectors",
