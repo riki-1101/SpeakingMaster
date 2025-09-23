@@ -661,28 +661,28 @@
         "subject": "You",
         "category": "疑問文",
         "en": "Are you (C)?",
-        "ja": "～状態？",
+        "ja": "今～状態？",
         "next": "c"
     },
     {
         "subject": "You",
         "category": "疑問文",
         "en": "Aren't you (C)?",
-        "ja": "～状態だよね？",
+        "ja": "今～状態だよね？",
         "next": "c"
     },
     {
         "subject": "You",
         "category": "疑問文",
         "en": "Do you (do)?",
-        "ja": "～する？",
+        "ja": "普段～する？",
         "next": "do"
     },
     {
         "subject": "You",
         "category": "疑問文",
         "en": "Don't you (do)?",
-        "ja": "～するよね？",
+        "ja": "普段～するよね？",
         "next": "do"
     },
     {
