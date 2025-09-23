@@ -28,7 +28,7 @@ function speakEnglish(text) {
     text = text.replace(/(\(.*?\)|\[.*?\])/g, '').trim();
     const utterance = new SpeechSynthesisUtterance(text);
     utterance.lang = localStorage.getItem("selectedCountry") || "en-US";
-    utterance.rate = 1.2;
+    utterance.rate = 1.1;
     window.speechSynthesis.speak(utterance);
 }
 
