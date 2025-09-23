@@ -996,6 +996,13 @@
     {
         "subject": "It",
         "category": "疑問文",
+        "en": "Was it (C)?",
+        "ja": "～だった？",
+        "next": "c"
+    },
+    {
+        "subject": "It",
+        "category": "疑問文",
         "en": "Wasn't it (C)?",
         "ja": "～だったよね？",
         "next": "c"
@@ -1005,6 +1012,13 @@
         "category": "疑問文",
         "en": "Would it be (C)?",
         "ja": "～でしょうか？",
+        "next": "c"
+    },
+    {
+        "subject": "It",
+        "category": "疑問文",
+        "en": "Would it have been (C)?",
+        "ja": "～だったでしょうか？",
         "next": "c"
     },
 
