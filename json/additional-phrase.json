@@ -6,6 +6,11 @@
     },
     {
         "category": "When?",
+        "en": "after a while",
+        "ja": "しばらくして"
+    },
+    {
+        "category": "When?",
         "en": "afterwards",
         "ja": "その後"
     },
@@ -228,6 +233,16 @@
 
 
 
+
+    {
+        "category": "Where?",
+        "en": "here and there",
+        "ja": "あちらこちらに"
+    },
+
+
+
+
     {
         "category": "Why?",
         "en": "As I was tired",
@@ -309,8 +324,53 @@
     },
     {
         "category": "How?",
+        "en": "as soon as possible",
+        "ja": "できるだけ早く"
+    },
+    {
+        "category": "How?",
         "en": "as though he were the boss",
         "ja": "まるで彼は上司であるかのように"
+    },
+    {
+        "category": "How?",
+        "en": "as usual",
+        "ja": "いつものように"
+    },
+    {
+        "category": "How?",
+        "en": "by accident",
+        "ja": "偶然に"
+    },
+    {
+        "category": "How?",
+        "en": "by chance",
+        "ja": "偶然に"
+    },
+    {
+        "category": "How?",
+        "en": "by heart",
+        "ja": "暗記して"
+    },
+    {
+        "category": "How?",
+        "en": "by mistake",
+        "ja": "間違って"
+    },
+    {
+        "category": "How?",
+        "en": "by nature",
+        "ja": "生まれつき"
+    },
+    {
+        "category": "How?",
+        "en": "for free",
+        "ja": "無料で"
+    },
+    {
+        "category": "How?",
+        "en": "for fun",
+        "ja": "遊びで"
     },
     {
         "category": "How?",
@@ -332,6 +392,11 @@
 
 
 
+    {
+        "category": "How long?",
+        "en": "for a while",
+        "ja": "しばらくの間"
+    },
     {
         "category": "How long?",
         "en": "for ages",
@@ -361,6 +426,21 @@
         "category": "How long?",
         "en": "until midnight",
         "ja": "深夜までずっと"
+    },
+
+
+
+
+
+    {
+        "category": "How often?",
+        "en": "every other day",
+        "ja": "１日おきに"
+    },
+    {
+        "category": "How often?",
+        "en": "now and then",
+        "ja": "時々"
     },
 
 
@@ -939,6 +1019,11 @@
     },
     {
         "category": "Connectors",
+        "en": "for instance",
+        "ja": "例えば"
+    },
+    {
+        "category": "Connectors",
         "en": "for your information",
         "ja": "ご参考までに、ちなみに"
     },
@@ -1144,8 +1229,18 @@
     },
     {
         "category": "その他",
+        "en": "at least",
+        "ja": "少なくとも"
+    },
+    {
+        "category": "その他",
         "en": "for now",
         "ja": "とりあえず"
+    },
+    {
+        "category": "その他",
+        "en": "for the first time",
+        "ja": "初めて"
     },
     {
         "category": "その他",
