@@ -1,146 +1,226 @@
 [
     {
-        "category": "時",
+        "category": "When?",
+        "en": "after you eat",
+        "ja": "食べた後に"
+    },
+    {
+        "category": "When?",
+        "en": "afterwards",
+        "ja": "その後"
+    },
+    {
+        "category": "When?",
+        "en": "all day",
+        "ja": "一日中"
+    },
+    {
+        "category": "When?",
         "en": "amid growing competition",
         "ja": "激化する競争の最中に"
     },
     {
-        "category": "時",
+        "category": "When?",
         "en": "any time you like to come",
         "ja": "来たい時はいつでも"
     },
     {
-        "category": "時",
+        "category": "When?",
         "en": "as I entered the room",
         "ja": "部屋に入った時に"
     },
     {
-        "category": "時",
+        "category": "When?",
         "en": "as soon as I finish my work",
         "ja": "仕事が終わったらすぐに"
     },
     {
-        "category": "時",
+        "category": "When?",
+        "en": "at first",
+        "ja": "当初は"
+    },
+    {
+        "category": "When?",
+        "en": "at present",
+        "ja": "現在では"
+    },
+    {
+        "category": "When?",
         "en": "at the same time",
         "ja": "同時に"
     },
     {
-        "category": "時",
+        "category": "When?",
         "en": "at the sight of the new machine",
         "ja": "その新しい機械を見たとき"
     },
     {
-        "category": "時",
+        "category": "When?",
+        "en": "at this point",
+        "ja": "現時点では"
+    },
+    {
+        "category": "When?",
+        "en": "back then",
+        "ja": "当時"
+    },
+    {
+        "category": "When?",
+        "en": "before the meeting",
+        "ja": "会議の前に"
+    },
+    {
+        "category": "When?",
+        "en": "before you eat",
+        "ja": "食べる前に"
+    },
+    {
+        "category": "When?",
         "en": "by next Monday",
         "ja": "来週の月曜日までに"
     },
     {
-        "category": "時",
+        "category": "When?",
         "en": "by the time we arrive",
         "ja": "私たちが着くころには"
     },
     {
-        "category": "時",
+        "category": "When?",
         "en": "directly he arrived",
         "ja": "彼は到着してすぐに（～した）"
     },
     {
-        "category": "時",
+        "category": "When?",
+        "en": "during summer vacation",
+        "ja": "夏休みの間に"
+    },
+    {
+        "category": "When?",
+        "en": "during the day",
+        "ja": "日中"
+    },
+    {
+        "category": "When?",
         "en": "each time I visit the park",
         "ja": "公園を訪れるたびに"
     },
     {
-        "category": "時",
+        "category": "When?",
+        "en": "even now",
+        "ja": "今でも"
+    },
+    {
+        "category": "When?",
+        "en": "even when it rains",
+        "ja": "雨が降った時でも"
+    },
+    {
+        "category": "When?",
         "en": "eventually",
         "ja": "やがて、いずれは"
     },
     {
-        "category": "時",
+        "category": "When?",
         "en": "every time I see her",
         "ja": "彼女に会うたびに"
     },
     {
-        "category": "時",
-        "en": "finally",
-        "ja": "ついに、ようやく"
-    },
-    {
-        "category": "時",
+        "category": "When?",
         "en": "immediately she saw the message",
         "ja": "彼女はメッセージを見てすぐに（～した）"
     },
     {
-        "category": "時",
+        "category": "When?",
         "en": "in five minutes",
         "ja": "5分後に"
     },
     {
-        "category": "時",
+        "category": "When?",
         "en": "in the meantime",
         "ja": "その間に"
     },
     {
-        "category": "時",
+        "category": "When?",
         "en": "instantly he heard the news",
         "ja": "彼はその知らせを聞いた瞬間に"
     },
     {
-        "category": "時",
+        "category": "When?",
         "en": "next time I see you",
         "ja": "次にあなたに会った時に"
     },
     {
-        "category": "時",
+        "category": "When?",
+        "en": "now",
+        "ja": "今"
+    },
+    {
+        "category": "When?",
         "en": "On arriving at the station",
         "ja": "駅に着くとすぐに"
     },
     {
-        "category": "時",
+        "category": "When?",
         "en": "over the next few months",
         "ja": "今後数ヶ月にわたって"
     },
     {
-        "category": "時",
+        "category": "When?",
         "en": "since he moved to another city",
         "ja": "彼が別の都市に引っ越して以来"
     },
     {
-        "category": "時",
+        "category": "When?",
         "en": "the first time I went to Tokyo",
         "ja": "初めて東京に行った時に"
     },
     {
-        "category": "時",
+        "category": "When?",
         "en": "the instant I entered the room",
         "ja": "部屋に入った瞬間に"
     },
     {
-        "category": "時",
+        "category": "When?",
         "en": "the last time I saw him",
         "ja": "この前彼に会った時に"
     },
     {
-        "category": "時",
+        "category": "When?",
         "en": "the minute you get home",
         "ja": "家に着いたらすぐに"
     },
     {
-        "category": "時",
+        "category": "When?",
         "en": "the moment they stepped outside",
         "ja": "彼らが外に出た瞬間に"
     },
     {
-        "category": "時",
+        "category": "When?",
+        "en": "then",
+        "ja": "その時"
+    },
+    {
+        "category": "When?",
+        "en": "these days",
+        "ja": "近頃、この頃"
+    },
+    {
+        "category": "When?",
         "en": "when I was a child",
         "ja": "子どもの時に"
     },
     {
-        "category": "時",
+        "category": "When?",
         "en": "whenever you need help",
         "ja": "助けを必要とする時はいつでも"
     },
     {
-        "category": "時",
+        "category": "When?",
+        "en": "while I was eating dinner",
+        "ja": "夕食を食べていた間に"
+    },
+    {
+        "category": "When?",
         "en": "within 48 hours",
         "ja": "48時間以内に"
     },
@@ -148,440 +228,68 @@
 
 
 
-
     {
-        "category": "時点",
-        "en": "at first",
-        "ja": "当初は"
-    },
-    {
-        "category": "時点",
-        "en": "at present",
-        "ja": "現在では"
-    },
-    {
-        "category": "時点",
-        "en": "at this point",
-        "ja": "現時点では"
-    },
-    {
-        "category": "時点",
-        "en": "back then",
-        "ja": "当時"
-    },
-    {
-        "category": "時点",
-        "en": "these days",
-        "ja": "近頃、この頃"
-    },
-
-
-
-
-
-    {
-        "category": "期間",
-        "en": "all day",
-        "ja": "一日中"
-    },
-    {
-        "category": "期間",
-        "en": "during summer vacation",
-        "ja": "夏休みの間に"
-    },
-    {
-        "category": "期間",
-        "en": "during the day",
-        "ja": "日中"
-    },
-    {
-        "category": "期間",
-        "en": "for ages",
-        "ja": "ずいぶん長い間"
-    },
-    {
-        "category": "期間",
-        "en": "for 10 years",
-        "ja": "10年間"
-    },
-    {
-        "category": "期間",
-        "en": "in the short run",
-        "ja": "短期的には"
-    },
-    {
-        "category": "期間",
-        "en": "in the long run",
-        "ja": "長い目で見れば"
-    },
-    {
-        "category": "期間",
-        "en": "throughout a week",
-        "ja": "一週間の間ずっと"
-    },
-    {
-        "category": "期間",
-        "en": "till I get sleepy",
-        "ja": "眠くなるまでずっと"
-    },
-    {
-        "category": "期間",
-        "en": "until it stops raining",
-        "ja": "雨が止むまでずっと"
-    },
-    {
-        "category": "期間",
-        "en": "until midnight",
-        "ja": "深夜までずっと"
-    },
-    {
-        "category": "期間",
-        "en": "while I was eating dinner",
-        "ja": "夕食を食べていた間に"
-    },
-
-
-
-
-
-    {
-        "category": "順序",
-        "en": "after you eat",
-        "ja": "食べた後に"
-    },
-    {
-        "category": "順序",
-        "en": "afterwards",
-        "ja": "その後"
-    },
-    {
-        "category": "順序",
-        "en": "before the meeting",
-        "ja": "会議の前に"
-    },
-    {
-        "category": "順序",
-        "en": "before you eat",
-        "ja": "食べる前に"
-    },
-    {
-        "category": "順序",
-        "en": "first of all",
-        "ja": "まず第一に"
-    },
-    {
-        "category": "順序",
-        "en": "to begin with",
-        "ja": "初めに"
-    },
-
-
-
-
-
-    {
-        "category": "条件",
-        "en": "as long as it doesn't rain",
-        "ja": "雨が降らなければ"
-    },
-    {
-        "category": "条件",
-        "en": "assuming everything goes well",
-        "ja": "すべてが上手くいくと仮定して"
-    },
-    {
-        "category": "条件",
-        "en": "even if it doesn't go as planned",
-        "ja": "たとえ計画通りに進まなくても"
-    },
-    {
-        "category": "条件",
-        "en": "if any",
-        "ja": "もしあれば"
-    },
-    {
-        "category": "条件",
-        "en": "if anything",
-        "ja": "どちらかと言えば、むしろ"
-    },
-    {
-        "category": "条件",
-        "en": "if necessary",
-        "ja": "必要であれば"
-    },
-    {
-        "category": "条件",
-        "en": "if needed",
-        "ja": "必要なら"
-    },
-    {
-        "category": "条件",
-        "en": "if possible",
-        "ja": "もし可能なら"
-    },
-    {
-        "category": "条件",
-        "en": "if that's all right",
-        "ja": "もし差支えなければ"
-    },
-    {
-        "category": "条件",
-        "en": "if that's the case",
-        "ja": "もしそうなら"
-    },
-    {
-        "category": "条件",
-        "en": "if we all agree",
-        "ja": "全員一致したなら"
-    },
-    {
-        "category": "条件",
-        "en": "if you don't mind",
-        "ja": "もしご迷惑でなければ"
-    },
-    {
-        "category": "条件",
-        "en": "if you need any help",
-        "ja": "もし何かお手伝いが必要ならば"
-    },
-    {
-        "category": "条件",
-        "en": "if you please",
-        "ja": "よろしければ（古風）"
-    },
-    {
-        "category": "条件",
-        "en": "if you want",
-        "ja": "お望みなら、もしよかったら"
-    },
-    {
-        "category": "条件",
-        "en": "if you'd like",
-        "ja": "もしよろしければ"
-    },
-    {
-        "category": "条件",
-        "en": "in case of emergency",
-        "ja": "緊急の場合には"
-    },
-    {
-        "category": "条件",
-        "en": "on condition that you keep it a secret",
-        "ja": "それを秘密にするという条件で"
-    },
-    {
-        "category": "条件",
-        "en": "once I finish this book",
-        "ja": "いったんこの本を読み終えたら"
-    },
-    {
-        "category": "条件",
-        "en": "only if it stops raining",
-        "ja": "雨が止んだ場合に限って"
-    },
-    {
-        "category": "条件",
-        "en": "provided you're available",
-        "ja": "もし都合がつくならば"
-    },
-    {
-        "category": "条件",
-        "en": "providing the weather is good",
-        "ja": "天気が良ければ"
-    },
-    {
-        "category": "条件",
-        "en": "Should you have any questions",
-        "ja": "万一何かご質問がございましたら"
-    },
-    {
-        "category": "条件",
-        "en": "suppose he doesn't show up",
-        "ja": "もし彼が現れなかったら"
-    },
-    {
-        "category": "条件",
-        "en": "supposing this is true",
-        "ja": "もしこれが本当なら"
-    },
-    {
-        "category": "条件",
-        "en": "unless it stops raining",
-        "ja": "雨が止まない限り"
-    },
-    {
-        "category": "条件",
-        "en": "weather permitting",
-        "ja": "天気がよければ"
-    },
-    {
-        "category": "条件",
-        "en": "with luck",
-        "ja": "運が良ければ"
-    },
-    {
-        "category": "条件",
-        "en": "without approval",
-        "ja": "承認なしで"
-    },
-
-
-
-
-
-    {
-        "category": "目的",
-        "en": "by doing so",
-        "ja": "そうすることによって"
-    },
-    {
-        "category": "目的",
-        "en": "for fear that you will forget",
-        "ja": "あなたが忘れないように"
-    },
-    {
-        "category": "目的",
-        "en": "for the benefit of new employees",
-        "ja": "新入社員のためになるように"
-    },
-    {
-        "category": "目的",
-        "en": "for the purpose of this agreement",
-        "ja": "本契約書の目的として"
-    },
-    {
-        "category": "目的",
-        "en": "for the sake of gaining international experience",
-        "ja": "国際的な経験を得るために"
-    },
-    {
-        "category": "目的",
-        "en": "in an effort to meet the deadline",
-        "ja": "締め切りに間に合わせようと努力して"
-    },
-    {
-        "category": "目的",
-        "en": "in order for the machine to work properly",
-        "ja": "その機械が正常に動作するためには"
-    },
-    {
-        "category": "目的",
-        "en": "in order not to miss the train",
-        "ja": "その電車に遅れないように"
-    },
-    {
-        "category": "目的",
-        "en": "in order that he can travel abroad",
-        "ja": "彼は海外旅行に行けるように"
-    },
-    {
-        "category": "目的",
-        "en": "in order to pass the exam",
-        "ja": "試験に合格するために"
-    },
-    {
-        "category": "目的",
-        "en": "in search of gold",
-        "ja": "金を求めて（探して）"
-    },
-    {
-        "category": "目的",
-        "en": "lest he be late for the meeting",
-        "ja": "会議に遅れないように（仮定法現在・古風）"
-    },
-    {
-        "category": "目的",
-        "en": "so as not to forget the details",
-        "ja": "詳細を忘れないように"
-    },
-    {
-        "category": "目的",
-        "en": "so as to succeed in the market",
-        "ja": "市場で成功するために"
-    },
-    {
-        "category": "目的",
-        "en": "so that I can catch the first train",
-        "ja": "始発に乗るために"
-    },
-    {
-        "category": "目的",
-        "en": "with a view to finding a better job",
-        "ja": "より良い仕事を見つけるのを見据えて"
-    },
-    {
-        "category": "目的",
-        "en": "with the aim of increasing sales",
-        "ja": "売り上げを伸ばすことを目的として"
-    },
-    
-
-
-
-
-
-    {
-        "category": "理由",
+        "category": "Why?",
         "en": "As I was tired",
         "ja": "疲れていたので"
     },
     {
-        "category": "理由",
+        "category": "Why?",
         "en": "because I was sick",
         "ja": "体調が悪かったので"
     },
     {
-        "category": "理由",
+        "category": "Why?",
         "en": "because of the rain",
         "ja": "雨のせいで"
     },
     {
-        "category": "理由",
+        "category": "Why?",
         "en": "due to my carelessness",
         "ja": "私の不注意により"
     },
     {
-        "category": "理由",
+        "category": "Why?",
         "en": "in case you miss the meeting",
         "ja": "会議に遅れるといけないから"
     },
     {
-        "category": "理由",
+        "category": "Why?",
         "en": "now that the test is over",
         "ja": "今や試験が終わったので"
     },
     {
-        "category": "理由",
+        "category": "Why?",
         "en": "on account of the traffic jam",
         "ja": "渋滞のために"
     },
     {
-        "category": "理由",
+        "category": "Why?",
         "en": "owing to bad weather",
         "ja": "悪天候のために（フォーマル）"
     },
     {
-        "category": "理由",
+        "category": "Why?",
         "en": "Since you are here",
         "ja": "あなたがここにいるので"
     },
     {
-        "category": "理由",
+        "category": "Why?",
         "en": "thanks to your hard work",
         "ja": "あなたの熱心な働きのおかげで"
     },
     {
-        "category": "理由",
+        "category": "Why?",
         "en": "thanks to your support",
         "ja": "あなたの支援のおかげで"
     },
     {
-        "category": "理由",
+        "category": "Why?",
         "en": "what with the heat and the lack of sleep",
         "ja": "暑さや寝不足のせいで（カジュアル）"
     },
     {
-        "category": "理由",
+        "category": "Why?",
         "en": "what with the rain and heavy traffic",
         "ja": "雨や渋滞のせいで（カジュアル）"
     },
@@ -589,213 +297,123 @@
 
 
 
-
     {
-        "category": "結論",
-        "en": "after all",
-        "ja": "結局"
+        "category": "How?",
+        "en": "as if I were a stranger",
+        "ja": "まるで私が他人であるかのように"
     },
     {
-        "category": "結論",
-        "en": "all things considered",
-        "ja": "すべてを考慮すると"
+        "category": "How?",
+        "en": "as planned",
+        "ja": "予定通り"
     },
     {
-        "category": "結論",
-        "en": "as a result",
-        "ja": "結果として"
+        "category": "How?",
+        "en": "as though he were the boss",
+        "ja": "まるで彼は上司であるかのように"
     },
     {
-        "category": "結論",
-        "en": "at the end of the day",
-        "ja": "結局のところ"
+        "category": "How?",
+        "en": "for nothing",
+        "ja": "無料で"
     },
     {
-        "category": "結論",
-        "en": "in conclusion",
-        "ja": "結論として"
+        "category": "How?",
+        "en": "in detail",
+        "ja": "詳細に"
     },
     {
-        "category": "結論",
-        "en": "in short",
-        "ja": "要するに"
-    },
-    {
-        "category": "結論",
-        "en": "in summary",
-        "ja": "要約すると"
-    },
-    {
-        "category": "結論",
-        "en": "to sum up",
-        "ja": "要するに"
+        "category": "How?",
+        "en": "in the same way",
+        "ja": "同じように"
     },
 
 
 
 
+
     {
-        "category": "提示",
-        "en": "according to the weather forecast",
-        "ja": "天気予報によれば"
+        "category": "How long?",
+        "en": "for ages",
+        "ja": "ずいぶん長い間"
     },
     {
-        "category": "提示",
-        "en": "as far as I know",
-        "ja": "私の知る限りでは"
+        "category": "How long?",
+        "en": "for 10 years",
+        "ja": "10年間"
     },
     {
-        "category": "提示",
+        "category": "How long?",
+        "en": "throughout a week",
+        "ja": "一週間の間ずっと"
+    },
+    {
+        "category": "How long?",
+        "en": "till I get sleepy",
+        "ja": "眠くなるまでずっと"
+    },
+    {
+        "category": "How long?",
+        "en": "until it stops raining",
+        "ja": "雨が止むまでずっと"
+    },
+    {
+        "category": "How long?",
+        "en": "until midnight",
+        "ja": "深夜までずっと"
+    },
+
+
+
+
+
+    {
+        "category": "What about?",
         "en": "as for the new project",
         "ja": "新しいプロジェクトについては（カジュアル）"
     },
     {
-        "category": "提示",
+        "category": "What about?",
         "en": "as regards the budget",
         "ja": "予算に関して言うと（フォーマル・堅）"
     },
     {
-        "category": "提示",
+        "category": "What about?",
         "en": "as to the proposal",
         "ja": "その提案については（フォーマル）"
     },
     {
-        "category": "提示",
+        "category": "What about?",
         "en": "concerninng the new policy",
         "ja": "新しい方針に関して（フォーマル）"
     },
     {
-        "category": "提示",
-        "en": "considering the time",
-        "ja": "時間を考慮すると"
-    },
-    {
-        "category": "提示",
-        "en": "for example",
-        "ja": "例えば"
-    },
-    {
-        "category": "提示",
-        "en": "for some reason",
-        "ja": "なんだか（少しフォーマル）"
-    },
-    {
-        "category": "提示",
-        "en": "given she has a lot of work to do",
-        "ja": "彼女はたくさんの仕事があることを考えると"
-    },
-    {
-        "category": "提示",
-        "en": "honestly",
-        "ja": "正直に言えば"
-    },
-    {
-        "category": "提示",
-        "en": "in actuality",
-        "ja": "現実には"
-    },
-    {
-        "category": "提示",
-        "en": "in all honesty",
-        "ja": "正直なところ"
-    },
-    {
-        "category": "提示",
-        "en": "in effect",
-        "ja": "事実上"
-    },
-    {
-        "category": "提示",
-        "en": "in light of the recent developments",
-        "ja": "最近の進展を踏まえて"
-    },
-    {
-        "category": "提示",
-        "en": "in my opinion",
-        "ja": "私の意見では"
-    },
-    {
-        "category": "提示",
-        "en": "in particular",
-        "ja": "特に、とりわけ"
-    },
-    {
-        "category": "提示",
-        "en": "in principle",
-        "ja": "原則として"
-    },
-    {
-        "category": "提示",
+        "category": "What about?",
         "en": "in regard to your request",
         "ja": "あなたのリクエストに関して言うと（フォーマル・堅）"
     },
     {
-        "category": "提示",
+        "category": "What about?",
         "en": "in relation to the future direction",
         "ja": "将来の方向性に関連して"
     },
     {
-        "category": "提示",
+        "category": "What about?",
         "en": "in respect of the agreement",
         "ja": "契約に関しては（フォーマル・堅・古風）"
     },
     {
-        "category": "提示",
-        "en": "in terms of customer satisfaction",
-        "ja": "顧客満足度の観点から"
-    },
-    {
-        "category": "提示",
-        "en": "in that she can speak English",
-        "ja": "彼女は英語が話せるという点で"
-    },
-    {
-        "category": "提示",
-        "en": "just in case",
-        "ja": "念のため"
-    },
-    {
-        "category": "提示",
-        "en": "just so you know",
-        "ja": "一応言っておきますが"
-    },
-    {
-        "category": "提示",
-        "en": "not gonna lie",
-        "ja": "ぶっちゃけ"
-    },
-    {
-        "category": "提示",
-        "en": "perhaps",
-        "ja": "おそらく（フォーマル）"
-    },
-    {
-        "category": "提示",
+        "category": "What about?",
         "en": "regarding the recent changes",
         "ja": "最近の変更に関して（フォーマル）"
     },
     {
-        "category": "提示",
-        "en": "somehow",
-        "ja": "なんだか"
-    },
-    {
-        "category": "提示",
-        "en": "to be honest",
-        "ja": "正直に言うと"
-    },
-    {
-        "category": "提示",
-        "en": "When it comes to sports",
-        "ja": "スポーツに関して言えば"
-    },
-    {
-        "category": "提示",
+        "category": "What about?",
         "en": "with regard to your inquiry",
         "ja": "お問い合わせに関しては（フォーマル）"
     },
     {
-        "category": "提示",
+        "category": "What about?",
         "en": "with respect to the deadline",
         "ja": "締め切りに関しては（フォーマル・堅・丁寧）"
     },
@@ -805,292 +423,719 @@
 
 
     {
-        "category": "換言",
-        "en": "I mean",
-        "ja": "つまりね...(言い換え)"
+        "category": "What for?",
+        "en": "by doing so",
+        "ja": "そうすることによって"
     },
     {
-        "category": "換言",
-        "en": "in a word",
-        "ja": "一言で言うと"
+        "category": "What for?",
+        "en": "for fear that you will forget",
+        "ja": "あなたが忘れないように"
     },
     {
-        "category": "換言",
-        "en": "in other words",
-        "ja": "言い換えると"
+        "category": "What for?",
+        "en": "for the benefit of new employees",
+        "ja": "新入社員のためになるように"
     },
     {
-        "category": "換言",
-        "en": "that is (to say)",
-        "ja": "つまり言い換えると"
+        "category": "What for?",
+        "en": "for the purpose of this agreement",
+        "ja": "本契約書の目的として"
     },
     {
-        "category": "換言",
-        "en": "to be exact",
-        "ja": "正確には"
+        "category": "What for?",
+        "en": "for the sake of gaining international experience",
+        "ja": "国際的な経験を得るために"
     },
+    {
+        "category": "What for?",
+        "en": "in an effort to meet the deadline",
+        "ja": "締め切りに間に合わせようと努力して"
+    },
+    {
+        "category": "What for?",
+        "en": "in order for the machine to work properly",
+        "ja": "その機械が正常に動作するためには"
+    },
+    {
+        "category": "What for?",
+        "en": "in order not to miss the train",
+        "ja": "その電車に遅れないように"
+    },
+    {
+        "category": "What for?",
+        "en": "in order that he can travel abroad",
+        "ja": "彼は海外旅行に行けるように"
+    },
+    {
+        "category": "What for?",
+        "en": "in order to pass the exam",
+        "ja": "試験に合格するために"
+    },
+    {
+        "category": "What for?",
+        "en": "in search of gold",
+        "ja": "金を求めて（探して）"
+    },
+    {
+        "category": "What for?",
+        "en": "lest he be late for the meeting",
+        "ja": "会議に遅れないように（仮定法現在・古風）"
+    },
+    {
+        "category": "What for?",
+        "en": "so as not to forget the details",
+        "ja": "詳細を忘れないように"
+    },
+    {
+        "category": "What for?",
+        "en": "so as to succeed in the market",
+        "ja": "市場で成功するために"
+    },
+    {
+        "category": "What for?",
+        "en": "so that I can catch the first train",
+        "ja": "始発に乗るために"
+    },
+    {
+        "category": "What for?",
+        "en": "with a view to finding a better job",
+        "ja": "より良い仕事を見つけるのを見据えて"
+    },
+    {
+        "category": "What for?",
+        "en": "with the aim of increasing sales",
+        "ja": "売り上げを伸ばすことを目的として"
+    },
+
     
 
 
 
     {
-        "category": "対立",
+        "category": "Contrast",
         "en": "although he is young",
         "ja": "彼は若いけれども"
     },
     {
-        "category": "対立",
+        "category": "Contrast",
         "en": "contrary to what I expected",
         "ja": "私の予想に反して"
     },
     {
-        "category": "対立",
+        "category": "Contrast",
         "en": "even after hearing the bad news",
         "ja": "悪い知らせを聞いた後でも"
     },
     {
-        "category": "対立",
+        "category": "Contrast",
         "en": "even before the game started",
         "ja": "試合が始まる前でも"
     },
     {
-        "category": "対立",
-        "en": "even now",
-        "ja": "今でも"
-    },
-    {
-        "category": "対立",
+        "category": "Contrast",
         "en": "even so",
         "ja": "それでも"
     },
     {
-        "category": "対立",
+        "category": "Contrast",
         "en": "even though I was tired",
         "ja": "疲れていたけれども"
     },
     {
-        "category": "対立",
-        "en": "even when it rains",
-        "ja": "雨が降った時でも"
-    },
-    {
-        "category": "対立",
+        "category": "Contrast",
         "en": "for all my experience",
         "ja": "こんなに経験があるにもかかわらず"
     },
     {
-        "category": "対立",
+        "category": "Contrast",
         "en": "however difficult the situation is",
         "ja": "どんなに状況が困難でも"
     },
     {
-        "category": "対立",
+        "category": "Contrast",
         "en": "in contrast",
         "ja": "それに比べて"
     },
     {
-        "category": "対立",
+        "category": "Contrast",
         "en": "in face of great difficulties",
         "ja": "多大な困難にもかかわらず"
     },
     {
-        "category": "対立",
+        "category": "Contrast",
         "en": "in spite of the rain",
         "ja": "雨にもかかわらず"
     },
     {
-        "category": "対立",
+        "category": "Contrast",
         "en": "nevertheless",
         "ja": "それにもかかわらず"
     },
     {
-        "category": "対立",
+        "category": "Contrast",
         "en": "no matter how hard it gets",
         "ja": "どんなに大変になっても"
     },
     {
-        "category": "対立",
+        "category": "Contrast",
         "en": "no matter what happens",
         "ja": "何が起こっても"
     },
     {
-        "category": "対立",
+        "category": "Contrast",
         "en": "no matter what suggestions I make",
         "ja": "何の提案をしても"
     },
     {
-        "category": "対立",
+        "category": "Contrast",
         "en": "no matter when you call",
         "ja": "あなたがいつ電話してきても"
     },
     {
-        "category": "対立",
+        "category": "Contrast",
         "en": "no matter where you go",
         "ja": "あなたがどこへいっても"
     },
     {
-        "category": "対立",
+        "category": "Contrast",
         "en": "no matter who calls",
         "ja": "誰が電話してきても"
     },
     {
-        "category": "対立",
+        "category": "Contrast",
         "en": "on the other hand",
         "ja": "一方で"
     },
     {
-        "category": "対立",
+        "category": "Contrast",
         "en": "regardless of the weather",
         "ja": "天気に関係なく"
     },
     {
-        "category": "対立",
+        "category": "Contrast",
         "en": "that said",
         "ja": "とはいえ"
     },
     {
-        "category": "対立",
+        "category": "Contrast",
         "en": "though it was raining",
         "ja": "雨が降っていたけれども"
     },
     {
-        "category": "対立",
+        "category": "Contrast",
         "en": "whatever problems you have",
         "ja": "何の問題を抱えていても（文学的な表現）"
     },
     {
-        "category": "対立",
+        "category": "Contrast",
         "en": "whereas sales increased",
         "ja": "一方で、売上高が増加した"
     },
     {
-        "category": "対立",
+        "category": "Contrast",
         "en": "wherever you are",
         "ja": "あなたがどこにいても"
     },
     {
-        "category": "対立",
+        "category": "Contrast",
         "en": "whether it rains or shines",
         "ja": "雨が降っても晴れても"
     },
     {
-        "category": "対立",
+        "category": "Contrast",
         "en": "whichever route he takes",
         "ja": "どちらの道を選んだとしても"
     },
     {
-        "category": "対立",
+        "category": "Contrast",
         "en": "whichever you choose",
         "ja": "どれを選んだとしても"
     },
     {
-        "category": "対立",
+        "category": "Contrast",
         "en": "whoever you are",
         "ja": "あなたが誰であっても"
     },
-    
+
 
 
 
 
     {
-        "category": "追加",
-        "en": "besides studying",
-        "ja": "勉強に加えて（カジュアル）"
+        "category": "Condition",
+        "en": "all things considered",
+        "ja": "すべてを考慮すると"
     },
     {
-        "category": "追加",
-        "en": "in addition",
-        "ja": "加えて"
+        "category": "Condition",
+        "en": "among European countries",
+        "ja": "ヨーロッパ諸国の間で"
     },
     {
-        "category": "追加",
-        "en": "in addition to English",
-        "ja": "英語に加えて（少しフォーマル）"
-    },
-    {
-        "category": "追加",
-        "en": "on top of working full-time",
-        "ja": "フルタイムで働くことに加えて（負担の追加）"
-    },
-
-
-
-
-
-
-    {
-        "category": "除外",
-        "en": "except for the meeting",
-        "ja": "会議を除いて"
-    },
-    {
-        "category": "除外",
-        "en": "except that it's expensive",
-        "ja": "高価であるということを除いて"
-    },
-
-
-
-
-    {
-        "category": "立場",
-        "en": "in place of my boss",
-        "ja": "上司の代わりに（フォーマル）"
-    },
-    {
-        "category": "立場",
-        "en": "instead of you",
-        "ja": "あなたの代わりに（カジュアル）"
-    },
-    {
-        "category": "立場",
-        "en": "on behalf of the company",
-        "ja": "会社を代表して"
-    },
-    {
-        "category": "立場",
-        "en": "on the part of the company",
-        "ja": "会社側として"
-    },
-
-
-
-
-    
-
-
-
-
-    {
-        "category": "その他",
-        "en": "anyway",
-        "ja": "とにかく"
-    },
-    {
-        "category": "その他",
+        "category": "Condition",
         "en": "apart from a few minor issues",
         "ja": "いくつかの小さな問題は別として"
     },
     {
-        "category": "その他",
-        "en": "as if I were a stranger",
-        "ja": "まるで私が他人であるかのように"
+        "category": "Condition",
+        "en": "as long as it doesn't rain",
+        "ja": "雨が降らなければ"
     },
     {
-        "category": "その他",
+        "category": "Condition",
+        "en": "assuming everything goes well",
+        "ja": "すべてが上手くいくと仮定して"
+    },
+    {
+        "category": "Condition",
+        "en": "besides studying",
+        "ja": "勉強に加えて（カジュアル）"
+    },
+    {
+        "category": "Condition",
+        "en": "between the two firms",
+        "ja": "2社の間で"
+    },
+    {
+        "category": "Condition",
+        "en": "considering the time",
+        "ja": "時間を考慮すると"
+    },
+    {
+        "category": "Condition",
+        "en": "even if it doesn't go as planned",
+        "ja": "たとえ計画通りに進まなくても"
+    },
+    {
+        "category": "Condition",
+        "en": "except for the meeting",
+        "ja": "会議を除いて"
+    },
+    {
+        "category": "Condition",
+        "en": "except that it's expensive",
+        "ja": "高価であるということを除いて"
+    },
+    {
+        "category": "Condition",
+        "en": "given she has a lot of work to do",
+        "ja": "彼女はたくさんの仕事があることを考えると"
+    },
+    {
+        "category": "Condition",
+        "en": "if any",
+        "ja": "もしあれば"
+    },
+    {
+        "category": "Condition",
+        "en": "if anything",
+        "ja": "どちらかと言えば、むしろ"
+    },
+    {
+        "category": "Condition",
+        "en": "if necessary",
+        "ja": "必要であれば"
+    },
+    {
+        "category": "Condition",
+        "en": "if needed",
+        "ja": "必要なら"
+    },
+    {
+        "category": "Condition",
+        "en": "if possible",
+        "ja": "もし可能なら"
+    },
+    {
+        "category": "Condition",
+        "en": "if that's all right",
+        "ja": "もし差支えなければ"
+    },
+    {
+        "category": "Condition",
+        "en": "if that's the case",
+        "ja": "もしそうなら"
+    },
+    {
+        "category": "Condition",
+        "en": "if we all agree",
+        "ja": "全員一致したなら"
+    },
+    {
+        "category": "Condition",
+        "en": "if you don't mind",
+        "ja": "もしご迷惑でなければ"
+    },
+    {
+        "category": "Condition",
+        "en": "if you need any help",
+        "ja": "もし何かお手伝いが必要ならば"
+    },
+    {
+        "category": "Condition",
+        "en": "if you please",
+        "ja": "よろしければ（古風）"
+    },
+    {
+        "category": "Condition",
+        "en": "if you want",
+        "ja": "お望みなら、もしよかったら"
+    },
+    {
+        "category": "Condition",
+        "en": "if you'd like",
+        "ja": "もしよろしければ"
+    },
+    {
+        "category": "Condition",
+        "en": "in addition to English",
+        "ja": "英語に加えて（少しフォーマル）"
+    },
+    {
+        "category": "Condition",
+        "en": "in case of emergency",
+        "ja": "緊急の場合には"
+    },
+    {
+        "category": "Condition",
+        "en": "in the short run",
+        "ja": "短期的には"
+    },
+    {
+        "category": "Condition",
+        "en": "in the long run",
+        "ja": "長い目で見れば"
+    },
+    {
+        "category": "Condition",
+        "en": "on condition that you keep it a secret",
+        "ja": "それを秘密にするという条件で"
+    },
+    {
+        "category": "Condition",
+        "en": "on top of working full-time",
+        "ja": "フルタイムで働くことに加えて（負担の追加）"
+    },
+    {
+        "category": "Condition",
+        "en": "once I finish this book",
+        "ja": "いったんこの本を読み終えたら"
+    },
+    {
+        "category": "Condition",
+        "en": "only if it stops raining",
+        "ja": "雨が止んだ場合に限って"
+    },
+    {
+        "category": "Condition",
+        "en": "provided you're available",
+        "ja": "もし都合がつくならば"
+    },
+    {
+        "category": "Condition",
+        "en": "providing the weather is good",
+        "ja": "天気が良ければ"
+    },
+    {
+        "category": "Condition",
+        "en": "Should you have any questions",
+        "ja": "万一何かご質問がございましたら"
+    },
+    {
+        "category": "Condition",
+        "en": "suppose he doesn't show up",
+        "ja": "もし彼が現れなかったら"
+    },
+    {
+        "category": "Condition",
+        "en": "supposing this is true",
+        "ja": "もしこれが本当なら"
+    },
+    {
+        "category": "Condition",
+        "en": "unless it stops raining",
+        "ja": "雨が止まない限り"
+    },
+    {
+        "category": "Condition",
+        "en": "weather permitting",
+        "ja": "天気がよければ"
+    },
+    {
+        "category": "Condition",
+        "en": "with luck",
+        "ja": "運が良ければ"
+    },
+    {
+        "category": "Condition",
+        "en": "without approval",
+        "ja": "承認なしで"
+    },
+
+
+
+
+
+    {
+        "category": "Connectors",
+        "en": "according to the weather forecast",
+        "ja": "天気予報によれば"
+    },
+    {
+        "category": "Connectors",
+        "en": "after all",
+        "ja": "結局"
+    },
+    {
+        "category": "Connectors",
+        "en": "anyway",
+        "ja": "とにかく"
+    },
+    {
+        "category": "Connectors",
+        "en": "as a result",
+        "ja": "結果として"
+    },
+    {
+        "category": "Connectors",
+        "en": "as far as I know",
+        "ja": "私の知る限りでは"
+    },
+    {
+        "category": "Connectors",
         "en": "As is often the case with new technology",
         "ja": "新しい技術にはよくあることだが"
     },
     {
+        "category": "Connectors",
+        "en": "at the end of the day",
+        "ja": "結局のところ"
+    },
+    {
+        "category": "Connectors",
+        "en": "by the way",
+        "ja": "ところで"
+    },
+    {
+        "category": "Connectors",
+        "en": "correspondingly",
+        "ja": "それに応じて"
+    },
+    {
+        "category": "Connectors",
+        "en": "finally",
+        "ja": "ついに、ようやく"
+    },
+    {
+        "category": "Connectors",
+        "en": "first of all",
+        "ja": "まず第一に"
+    },
+    {
+        "category": "Connectors",
+        "en": "for example",
+        "ja": "例えば"
+    },
+    {
+        "category": "Connectors",
+        "en": "for your information",
+        "ja": "ご参考までに、ちなみに"
+    },
+    {
+        "category": "Connectors",
+        "en": "Going back to your question",
+        "ja": "あなたの質問に戻ると"
+    },
+    {
+        "category": "Connectors",
+        "en": "honestly",
+        "ja": "正直に言えば"
+    },
+    {
+        "category": "Connectors",
+        "en": "I mean",
+        "ja": "つまりね...(言い換え)"
+    },
+    {
+        "category": "Connectors",
+        "en": "in a word",
+        "ja": "一言で言うと"
+    },
+    {
+        "category": "Connectors",
+        "en": "in actuality",
+        "ja": "現実には"
+    },
+    {
+        "category": "Connectors",
+        "en": "in addition",
+        "ja": "加えて"
+    },
+    {
+        "category": "Connectors",
+        "en": "in all honesty",
+        "ja": "正直なところ"
+    },
+    {
+        "category": "Connectors",
+        "en": "in conclusion",
+        "ja": "結論として"
+    },
+    {
+        "category": "Connectors",
+        "en": "in effect",
+        "ja": "事実上"
+    },
+    {
+        "category": "Connectors",
+        "en": "in fact",
+        "ja": "実際のところ"
+    },
+    {
+        "category": "Connectors",
+        "en": "in general",
+        "ja": "一般的に"
+    },
+    {
+        "category": "Connectors",
+        "en": "in light of the recent developments",
+        "ja": "最近の進展を踏まえて"
+    },
+    {
+        "category": "Connectors",
+        "en": "in my opinion",
+        "ja": "私の意見では"
+    },
+    {
+        "category": "Connectors",
+        "en": "in other words",
+        "ja": "言い換えると"
+    },
+    {
+        "category": "Connectors",
+        "en": "in particular",
+        "ja": "特に、とりわけ"
+    },
+    {
+        "category": "Connectors",
+        "en": "in principle",
+        "ja": "原則として"
+    },
+    {
+        "category": "Connectors",
+        "en": "in short",
+        "ja": "要するに"
+    },
+    {
+        "category": "Connectors",
+        "en": "in summary",
+        "ja": "要約すると"
+    },
+    {
+        "category": "Connectors",
+        "en": "in terms of customer satisfaction",
+        "ja": "顧客満足度の観点から"
+    },
+    {
+        "category": "Connectors",
+        "en": "in that she can speak English",
+        "ja": "彼女は英語が話せるという点で"
+    },
+    {
+        "category": "Connectors",
+        "en": "just in case",
+        "ja": "念のため"
+    },
+    {
+        "category": "Connectors",
+        "en": "just so you know",
+        "ja": "一応言っておきますが"
+    },
+    {
+        "category": "Connectors",
+        "en": "like you said",
+        "ja": "あなたが言ったように"
+    },
+    {
+        "category": "Connectors",
+        "en": "not gonna lie",
+        "ja": "ぶっちゃけ"
+    },
+    {
+        "category": "Connectors",
+        "en": "on the contrary",
+        "ja": "それどころか"
+    },
+    {
+        "category": "Connectors",
+        "en": "that is (to say)",
+        "ja": "つまり言い換えると"
+    },
+    {
+        "category": "Connectors",
+        "en": "to be exact",
+        "ja": "正確には"
+    },
+    {
+        "category": "Connectors",
+        "en": "to be honest",
+        "ja": "正直に言うと"
+    },
+    {
+        "category": "Connectors",
+        "en": "to begin with",
+        "ja": "初めに"
+    },
+    {
+        "category": "Connectors",
+        "en": "to sum up",
+        "ja": "要するに"
+    },
+    {
+        "category": "Connectors",
+        "en": "When it comes to sports",
+        "ja": "スポーツに関して言えば"
+    },
+    
+
+
+
+
+    {
         "category": "その他",
-        "en": "as planned",
-        "ja": "予定通り"
+        "en": "in place of my boss",
+        "ja": "上司の代わりに（フォーマル）"
     },
     {
         "category": "その他",
-        "en": "as though he were the boss",
-        "ja": "まるで彼は上司であるかのように"
+        "en": "instead of you",
+        "ja": "あなたの代わりに（カジュアル）"
+    },
+    {
+        "category": "その他",
+        "en": "on behalf of the company",
+        "ja": "会社を代表して"
+    },
+    {
+        "category": "その他",
+        "en": "on the part of the company",
+        "ja": "会社側として"
+    },
+    {
+        "category": "その他",
+        "en": "for some reason",
+        "ja": "なんだか（少しフォーマル）"
+    },
+    {
+        "category": "その他",
+        "en": "perhaps",
+        "ja": "おそらく（フォーマル）"
+    },
+    {
+        "category": "その他",
+        "en": "somehow",
+        "ja": "なんだか"
     },
     {
         "category": "その他",
@@ -1099,53 +1144,8 @@
     },
     {
         "category": "その他",
-        "en": "between the two firms",
-        "ja": "2社の間で"
-    },
-    {
-        "category": "その他",
-        "en": "by the way",
-        "ja": "ところで"
-    },
-    {
-        "category": "その他",
-        "en": "correspondingly",
-        "ja": "それに応じて"
-    },
-    {
-        "category": "その他",
-        "en": "for nothing",
-        "ja": "無料で"
-    },
-    {
-        "category": "その他",
         "en": "for now",
         "ja": "とりあえず"
-    },
-    {
-        "category": "その他",
-        "en": "for your information",
-        "ja": "ご参考までに、ちなみに"
-    },
-    {
-        "category": "その他",
-        "en": "Going back to your question",
-        "ja": "あなたの質問に戻ると"
-    },
-    {
-        "category": "その他",
-        "en": "in an effort to meet the deadline",
-        "ja": "締め切りに間に合わせようと努力して"
-    },
-    {
-        "category": "その他",
-        "en": "in detail",
-        "ja": "詳細に"
-    },
-    {
-        "category": "その他",
-        "en": "in the same way",
-        "ja": "同じように"
     },
     {
         "category": "その他",
@@ -1154,35 +1154,12 @@
     },
     {
         "category": "その他",
-        "en": "like you said",
-        "ja": "あなたが言ったように"
-    },
-    {
-        "category": "その他",
         "en": "maybe",
         "ja": "～かも（カジュアル）"
     },
     {
         "category": "その他",
-        "en": "on the contrary",
-        "ja": "それどころか"
-    },
-    {
-        "category": "その他",
         "en": "on vacation",
         "ja": "休暇中で"
-    },
-    {
-        "category": "その他",
-        "en": "among European countries",
-        "ja": "ヨーロッパ諸国の間で"
-    },
-
-
-
-    {
-        "category": "",
-        "en": "namely",
-        "ja": ""
     }
 ]
