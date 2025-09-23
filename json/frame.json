@@ -667,8 +667,22 @@
     {
         "subject": "You",
         "category": "疑問文",
+        "en": "Aren't you (C)?",
+        "ja": "～状態だよね？",
+        "next": "c"
+    },
+    {
+        "subject": "You",
+        "category": "疑問文",
         "en": "Do you (do)?",
         "ja": "～する？",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "category": "疑問文",
+        "en": "Don't you (do)?",
+        "ja": "～するよね？",
         "next": "do"
     },
     {
@@ -702,6 +716,13 @@
     {
         "subject": "You",
         "category": "疑問文",
+        "en": "Why don't you (do)?",
+        "ja": "～するのはどう？",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "category": "疑問文",
         "en": "Why did you (do)?",
         "ja": "どうして～したの？",
         "next": "do"
@@ -709,8 +730,8 @@
     {
         "subject": "You",
         "category": "疑問文",
-        "en": "Why don't you (do)?",
-        "ja": "～するのはどう？",
+        "en": "Why didn't you (do)?",
+        "ja": "なんで～してくれなかったの？",
         "next": "do"
     },
     {
@@ -737,8 +758,22 @@
     {
         "subject": "You",
         "category": "疑問文",
+        "en": "Can't you (do)?",
+        "ja": "～できるよね？",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "category": "疑問文",
         "en": "Could you (do)?",
         "ja": "～してくれる？",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "category": "疑問文",
+        "en": "Won't you (do)?",
+        "ja": "～するつもりだよね？",
         "next": "do"
     },
     {
@@ -784,6 +819,13 @@
         "category": "平叙文",
         "en": "It's (C)",
         "ja": "～だ",
+        "next": "c"
+    },
+    {
+        "subject": "It",
+        "category": "平叙文",
+        "en": "It was (C)",
+        "ja": "～だった",
         "next": "c"
     },
     {
@@ -933,6 +975,39 @@
         "ja": "必ず～するだろう",
         "next": "do"
     },
+
+
+
+
+    {
+        "subject": "It",
+        "category": "疑問文",
+        "en": "Is it (C)?",
+        "ja": "～か？",
+        "next": "c"
+    },
+    {
+        "subject": "It",
+        "category": "疑問文",
+        "en": "Isn't it (C)?",
+        "ja": "～だよね？",
+        "next": "c"
+    },
+    {
+        "subject": "It",
+        "category": "疑問文",
+        "en": "Wasn't it (C)?",
+        "ja": "～だったよね？",
+        "next": "c"
+    },
+    {
+        "subject": "It",
+        "category": "疑問文",
+        "en": "Would it be (C)?",
+        "ja": "～でしょうか？",
+        "next": "c"
+    },
+
 
 
 
