@@ -431,7 +431,6 @@ input[type="radio"]:checked + label {
 
 #category-select li {
     flex: 0 0 auto;      /* 幅を固定して折り返さない */
-    margin: 0 5px;
 }
 
 #category-select input[type="radio"] {
@@ -441,7 +440,7 @@ input[type="radio"]:checked + label {
 #category-select label {
     display: inline-block;
     width: 8em;
-    padding: auto 10px;
+    padding: 0.5em;
     border: 2px solid #007bff;
     border-radius: 8px;
     background: #fff;
