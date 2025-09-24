@@ -9,7 +9,7 @@ if( header != null) {
             <span></span>
         </div>
         <ul>
-            <li><a href="/EnglishMaster/index.html">ホーム</a></li>
+            <li><a href="/SpeakingMaster/index.html">ホーム</a></li>
         </ul>
         <label for="country">発音</label>
         <select id="country">
