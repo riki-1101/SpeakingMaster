@@ -126,6 +126,11 @@
     },
     {
         "category": "When?",
+        "en": "immediately",
+        "ja": "ただちに"
+    },
+    {
+        "category": "When?",
         "en": "immediately I saw the message",
         "ja": "メッセージを見てすぐに（～した）"
     },
@@ -171,6 +176,11 @@
     },
     {
         "category": "When?",
+        "en": "soon",
+        "ja": "すぐに"
+    },
+    {
+        "category": "When?",
         "en": "the first time I went to Tokyo",
         "ja": "初めて東京に行った時に"
     },
@@ -206,6 +216,21 @@
     },
     {
         "category": "When?",
+        "en": "today",
+        "ja": "今日"
+    },
+    {
+        "category": "When?",
+        "en": "tonight",
+        "ja": "今夜"
+    },
+    {
+        "category": "When?",
+        "en": "tomorrow",
+        "ja": "明日"
+    },
+    {
+        "category": "When?",
         "en": "when I was a child",
         "ja": "子どもの時に"
     },
@@ -238,6 +263,16 @@
         "category": "Where?",
         "en": "behind the station",
         "ja": "駅の裏に"
+    },
+    {
+        "category": "Where?",
+        "en": "here",
+        "ja": "ここに"
+    },
+    {
+        "category": "Where?",
+        "en": "there",
+        "ja": "そこに"
     },
     {
         "category": "Where?",
@@ -419,6 +454,11 @@
     },
     {
         "category": "How?",
+        "en": "hard",
+        "ja": "熱心に"
+    },
+    {
+        "category": "How?",
         "en": "in detail",
         "ja": "詳細に"
     },
@@ -434,8 +474,38 @@
     },
     {
         "category": "How?",
+        "en": "politely",
+        "ja": "丁寧に"
+    },
+    {
+        "category": "How?",
+        "en": "quickly",
+        "ja": "すばやく"
+    },
+    {
+        "category": "How?",
+        "en": "quietly",
+        "ja": "静かに"
+    },
+    {
+        "category": "How?",
+        "en": "seriously",
+        "ja": "真剣に"
+    },
+    {
+        "category": "How?",
+        "en": "slowly",
+        "ja": "ゆっくり"
+    },
+    {
+        "category": "How?",
         "en": "step by step",
         "ja": "一歩ずつ"
+    },
+    {
+        "category": "How?",
+        "en": "well",
+        "ja": "うまく"
     },
 
 
@@ -1079,6 +1149,11 @@
     },
     {
         "category": "Connectors",
+        "en": "furthermore",
+        "ja": "さらには"
+    },
+    {
+        "category": "Connectors",
         "en": "Going back to your question",
         "ja": "あなたの質問に戻ると"
     },
@@ -1199,6 +1274,11 @@
     },
     {
         "category": "Connectors",
+        "en": "moreover",
+        "ja": "その上"
+    },
+    {
+        "category": "Connectors",
         "en": "nevertheless",
         "ja": "それにもかかわらず"
     },
@@ -1219,6 +1299,16 @@
     },
     {
         "category": "Connectors",
+        "en": "so to speak",
+        "ja": "いわば"
+    },
+    {
+        "category": "Connectors",
+        "en": "strange to say",
+        "ja": "奇妙なことに"
+    },
+    {
+        "category": "Connectors",
         "en": "that is (to say)",
         "ja": "つまり言い換えると"
     },
@@ -1234,8 +1324,18 @@
     },
     {
         "category": "Connectors",
+        "en": "to be brief",
+        "ja": "簡潔に言うと"
+    },
+    {
+        "category": "Connectors",
         "en": "to be exact",
         "ja": "正確には"
+    },
+    {
+        "category": "Connectors",
+        "en": "to be frank",
+        "ja": "率直に言うと"
     },
     {
         "category": "Connectors",
@@ -1244,13 +1344,38 @@
     },
     {
         "category": "Connectors",
+        "en": "to be sure",
+        "ja": "確かに"
+    },
+    {
+        "category": "Connectors",
         "en": "to begin with",
-        "ja": "初めに"
+        "ja": "まず第一に"
+    },
+    {
+        "category": "Connectors",
+        "en": "to make matters worse",
+        "ja": "さらに悪いことには"
+    },
+    {
+        "category": "Connectors",
+        "en": "to say the least",
+        "ja": "控え目に言っても"
     },
     {
         "category": "Connectors",
         "en": "to sum up",
         "ja": "要するに"
+    },
+    {
+        "category": "Connectors",
+        "en": "to tell you the truth",
+        "ja": "実を言うと"
+    },
+    {
+        "category": "Connectors",
+        "en": "what is more",
+        "ja": "その上"
     },
     {
         "category": "Connectors",
