@@ -296,6 +296,20 @@
     {
         "subject": "I",
         "category": "平叙文",
+        "en": "I have to (do)",
+        "ja": "～しなければならない（客観的に見て）",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "category": "平叙文",
+        "en": "I don't have to (do)",
+        "ja": "～しなくてよい（客観的に見て）",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "category": "平叙文",
         "en": "I'm going to (do) [I'm gonna (do)]",
         "ja": "～する予定である",
         "next": "do"
