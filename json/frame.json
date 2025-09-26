@@ -364,6 +364,20 @@
     {
         "subject": "I",
         "category": "疑問文",
+        "en": "Do I look (C)?",
+        "ja": "私～に見える？",
+        "next": "c"
+    },
+    {
+        "subject": "I",
+        "category": "疑問文",
+        "en": "Do I seem (C)?",
+        "ja": "私～に思える？",
+        "next": "c"
+    },
+    {
+        "subject": "I",
+        "category": "疑問文",
         "en": "Did I (do)?",
         "ja": "私～したっけ？",
         "next": "do"
@@ -711,6 +725,20 @@
         "category": "疑問文",
         "en": "What made you (do)?",
         "ja": "どういうきっかけで～したの？",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "category": "疑問文",
+        "en": "When will you (do)?",
+        "ja": "いつ～するつもり？",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "category": "疑問文",
+        "en": "Where will you (do)?",
+        "ja": "どこで～するつもり？",
         "next": "do"
     },
     {
