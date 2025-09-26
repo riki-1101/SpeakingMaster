@@ -841,6 +841,17 @@
 
 
 
+    {
+        "subject": "We",
+        "category": "命令文",
+        "en": "Let's (do)",
+        "ja": "～しようよ",
+        "next": "do"
+    },
+
+
+
+
 
     {
         "subject": "It",
