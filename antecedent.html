@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Antecedent</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header id="header"></header>
+    <main>
+        <ul id="category-select">
+            <li>
+                <input type="radio" name="category" id="Time" value="Time" checked>
+                <label for="Time">Time</label>
+            </li>
+            <li>
+                <input type="radio" name="category" id="Place" value="Place">
+                <label for="Place">Place</label>
+            </li>
+        </ul>
+        <button type="button" name="ja" id="ja-btn">ja</button>
+        <div id="card">
+            <div id="english"></div>
+            <div id="meaning"></div>
+        </div>
+        <div id="back-next">
+            <button type="button" name="back" id="back-btn">＜</button>
+            <button type="button" name="next" id="next-btn">＞</button>
+        </div>
+    </main>
+    <footer id="footer"></footer>
+    <script src="js/header.js"></script>
+    <script src="js/footer.js"></script>
+    <script src="js/script.js"></script>
+    <script src="js/random.js"></script>
+</body>
+</html>

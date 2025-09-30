@@ -1,0 +1,157 @@
+[
+    {
+        "category": "Time",
+        "en": "the case",
+        "ja": "場合"
+    },
+    {
+        "category": "Time",
+        "en": "the day",
+        "ja": "日"
+    },
+    {
+        "category": "Time",
+        "en": "the era",
+        "ja": "時代"
+    },
+    {
+        "category": "Time",
+        "en": "the hour",
+        "ja": "時間"
+    },
+    {
+        "category": "Time",
+        "en": "the instant",
+        "ja": "瞬間"
+    },
+    {
+        "category": "Time",
+        "en": "the moment",
+        "ja": "瞬間"
+    },
+    {
+        "category": "Time",
+        "en": "the month",
+        "ja": "月"
+    },
+    {
+        "category": "Time",
+        "en": "the occasion",
+        "ja": "機会"
+    },
+    {
+        "category": "Time",
+        "en": "the period",
+        "ja": "時期"
+    },
+    {
+        "category": "Time",
+        "en": "the point",
+        "ja": "時点"
+    },
+    {
+        "category": "Time",
+        "en": "the situation",
+        "ja": "状況"
+    },
+    {
+        "category": "Time",
+        "en": "the stage",
+        "ja": "段階"
+    },
+    {
+        "category": "Time",
+        "en": "the time",
+        "ja": "時"
+    },
+    {
+        "category": "Time",
+        "en": "the year",
+        "ja": "年"
+    },
+
+
+
+
+
+    {
+        "category": "Place",
+        "en": "the area",
+        "ja": "エリア"
+    },
+    {
+        "category": "Place",
+        "en": "the city",
+        "ja": "都市"
+    },
+    {
+        "category": "Place",
+        "en": "the country",
+        "ja": "国"
+    },
+    {
+        "category": "Time",
+        "en": "the hotel",
+        "ja": "ホテル"
+    },
+    {
+        "category": "Place",
+        "en": "the house",
+        "ja": "家"
+    },
+    {
+        "category": "Place",
+        "en": "the neighborhood",
+        "ja": "近所"
+    },
+    {
+        "category": "Place",
+        "en": "the office",
+        "ja": "会社"
+    },
+    {
+        "category": "Place",
+        "en": "the place",
+        "ja": "場所"
+    },
+    {
+        "category": "Place",
+        "en": "the region",
+        "ja": "地域"
+    },
+    {
+        "category": "Place",
+        "en": "the room",
+        "ja": "部屋"
+    },
+    {
+        "category": "Place",
+        "en": "the school",
+        "ja": "学校"
+    },
+    {
+        "category": "Place",
+        "en": "the shop",
+        "ja": "お店"
+    },
+    {
+        "category": "Place",
+        "en": "the site",
+        "ja": "敷地"
+    },
+    {
+        "category": "Place",
+        "en": "the spot",
+        "ja": "スポット"
+    },
+    {
+        "category": "Place",
+        "en": "the store",
+        "ja": "お店"
+    },
+    {
+        "category": "Place",
+        "en": "the town",
+        "ja": "町"
+    }
+]
