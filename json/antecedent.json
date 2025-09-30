@@ -6,6 +6,11 @@
     },
     {
         "category": "Time",
+        "en": "the condition",
+        "ja": "条件"
+    },
+    {
+        "category": "Time",
         "en": "the day",
         "ja": "日"
     },
