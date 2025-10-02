@@ -76,7 +76,7 @@ function applyFilter() {
 
 // --- JSON読み込み ---
 const fileName = location.pathname.split("/").pop().replace(".html", "");
-fetch(`./json/${fileName}.json`)
+fetch(`../json/${fileName}.json`)
     .then(response => response.json())
     .then(data => {
         phrases = data;

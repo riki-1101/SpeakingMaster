@@ -1,4 +1,4 @@
-const fileName = location.pathname.split("/").pop().replace("text", "").replace(".html", "");
+const fileName = location.pathname.split("/").pop().replace(".html", "");
 const ul = document.getElementById("phrase-list");
 fetch(`../json/${fileName}.json`)
     .then(res => res.json())
