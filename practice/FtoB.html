@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>表現の型</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header id="header"></header>
+    <main>
+        <h1>表現の型</h1>
+        <div id="radio">
+            <input type="radio" name="subject" id="I" value="I" checked>
+            <label for="I">I</label>
+            <input type="radio" name="subject" id="You" value="You">
+            <label for="You">You</label>
+            <input type="radio" name="subject" id="It" value="It">
+            <label for="It">It</label>
+        </div>
+        <ul id="phrase-list"></ul>
+        <div id="popup">
+            <div class="modal-content">
+                <p id="en"></p>
+                <p id="ja"></p>
+                <details id="genre-list">
+                    <summary>練習する</summary>
+                </details>
+            </div>
+        </div>
+    </main>
+    <footer id="footer"></footer>
+    <script src="js/header.js"></script>
+    <script src="js/footer.js"></script>
+    <script src="js/script.js"></script>
+    <script src="js/scan-frame.js"></script>
+</body>
+</html>
