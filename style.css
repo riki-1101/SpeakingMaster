@@ -45,14 +45,10 @@ section {
 #home ul li {
     border-bottom: 1px solid gray;
     height: 80px;
+    padding: 0 1em;
     font-size: 20px;
-}
-#home ul li a {
-    margin: 0;
     display: flex;
     align-items: center;
-    color: black;
-    height: 100%;
 }
 
 h1 {
@@ -462,3 +458,65 @@ input[type="radio"]:checked + label {
     background: #007bff;
     color: #fff;
 }
+
+
+
+
+
+
+
+
+/* ポップアップ用 */
+#mode {
+    display: none;              /* 初期は非表示 */
+    position: fixed;            /* 画面中央に固定 */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.5); /* 背景を少し暗く */
+    justify-content: center;    /* 中央に配置 */
+    align-items: center;
+    z-index: 1000;
+}
+
+#mode div {
+    background-color: #fff;
+    padding: 30px 40px;
+    width: 80%;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;   /* 縦並び */
+    align-items: center;      /* 水平中央揃え */
+    gap: 20px;
+}
+
+#mode-name {
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: center;
+}
+
+#mode ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    margin: 0;
+    padding: 0;
+}
+
+#mode ul li {
+    cursor: pointer;
+    width: 7em;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    text-align: center;
+}
+
+#mode ul li:hover {
+    background-color: #2980b9;
+}
+
+
+
+

@@ -11,6 +11,11 @@
     },
     {
         "category": "to do",
+        "en": "aim to (do)",
+        "ja": "～するのを目指す"
+    },
+    {
+        "category": "to do",
         "en": "make an effort to (do)",
         "ja": "～するように努力する"
     },
