@@ -44,6 +44,13 @@
     {
         "subject": "I",
         "category": "平叙文",
+        "en": "I've been (C)",
+        "ja": "～状態でいる",
+        "next": "c"
+    },
+    {
+        "subject": "I",
+        "category": "平叙文",
         "en": "I (do)",
         "ja": "普段～する",
         "next": "do"
@@ -744,8 +751,22 @@
     {
         "subject": "You",
         "category": "疑問文",
+        "en": "When did you (do)?",
+        "ja": "いつ～したの？",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "category": "疑問文",
         "en": "When will you (do)?",
         "ja": "いつ～するつもり？",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "category": "疑問文",
+        "en": "Where did you (do)?",
+        "ja": "どこで～したの？",
         "next": "do"
     },
     {

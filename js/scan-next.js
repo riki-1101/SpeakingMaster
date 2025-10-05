@@ -28,7 +28,7 @@ savedGenre.categories.forEach((category, index) => {
 
 const next = JSON.parse(localStorage.getItem("savedPhrase")).next;  // 続くタイプを取得 [do,did,done]
 const ul = document.getElementById("phrase-list");
-fetch(`./genre_json/${savedGenre.json}.json`)
+fetch(`../genre_json/${savedGenre.json}.json`)
     .then(res => res.json())
     .then(data => {
         function renderList() {

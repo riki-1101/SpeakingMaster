@@ -1,5 +1,5 @@
 const ul = document.getElementById("phrase-list");
-fetch(`./json/frame.json`)
+fetch(`../json/frame.json`)
     .then(res => res.json())
     .then(data => {
         function renderList() {
@@ -63,7 +63,7 @@ document.getElementById("popup").addEventListener("click", function (event) {
 const genre_div = document.getElementById("genre-list");
 const genre_ul = document.createElement("ul");
 genre_div.appendChild(genre_ul);
-fetch("./json/index.json")
+fetch("../json/index.json")
     .then(res => res.json())
     .then(index => {
         function genreList() {

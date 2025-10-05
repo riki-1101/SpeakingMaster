@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>selectedgenre</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="../style.css">
 </head>
 <body>
     <header id="header"></header>
@@ -20,9 +20,9 @@
         </div>
     </main>
     <footer id="footer"></footer>
-    <script src="js/BtoF_header.js"></script>
-    <script src="js/footer.js"></script>
-    <script src="js/script.js"></script>
+    <script src="../js/BtoF_header.js"></script>
+    <script src="../js/footer.js"></script>
+    <script src="../js/script.js"></script>
     <script>
         const radio = document.getElementById("radio");
         const savedGenre = JSON.parse(localStorage.getItem("savedGenre"));
@@ -48,7 +48,7 @@
         });
 
         const ul = document.getElementById("phrase-list");
-        fetch(`./genre_json/${savedGenre.json}.json`)
+        fetch(`../genre_json/${savedGenre.json}.json`)
             .then(res => res.json())
             .then(data => {
                 function renderList() {

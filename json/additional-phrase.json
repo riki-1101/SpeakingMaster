@@ -126,6 +126,11 @@
     },
     {
         "category": "When?",
+        "en": "for good",
+        "ja": "永遠に"
+    },
+    {
+        "category": "When?",
         "en": "immediately",
         "ja": "ただちに"
     },
@@ -394,6 +399,11 @@
     },
     {
         "category": "How?",
+        "en": "at no extra charge",
+        "ja": "追加料金なしで"
+    },
+    {
+        "category": "How?",
         "en": "by accident",
         "ja": "偶然に"
     },
@@ -506,6 +516,11 @@
         "category": "How?",
         "en": "well",
         "ja": "うまく"
+    },
+    {
+        "category": "How?",
+        "en": "with ease",
+        "ja": "簡単に"
     },
 
 
