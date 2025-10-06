@@ -3,14 +3,14 @@
         "subject": "I",
         "category": "平叙文",
         "en": "I'm (C)",
-        "ja": "今～状態である",
+        "ja": "今(～状態)である",
         "next": "c"
     },
     {
         "subject": "I",
         "category": "平叙文",
         "en": "I was (C)",
-        "ja": "～状態だった",
+        "ja": "(～状態)だった",
         "next": "c"
     },
     {
@@ -24,7 +24,7 @@
         "subject": "I",
         "category": "平叙文",
         "en": "I was being (C)",
-        "ja": "一時的に～状態だった",
+        "ja": "一時的に(～状態)だった",
         "next": "c"
     },
     {
@@ -38,14 +38,28 @@
         "subject": "I",
         "category": "平叙文",
         "en": "I ended up (C)",
-        "ja": "結局～状態になった",
+        "ja": "結局(～状態)になった",
         "next": "c"
     },
     {
         "subject": "I",
         "category": "平叙文",
         "en": "I've been (C)",
-        "ja": "～状態でいる",
+        "ja": "今まで(～状態)でいる",
+        "next": "c"
+    },
+    {
+        "subject": "I",
+        "category": "平叙文",
+        "en": "I've still been (C)",
+        "ja": "まだ(～状態)でいる",
+        "next": "c"
+    },
+    {
+        "subject": "I",
+        "category": "平叙文",
+        "en": "I've just been (C)",
+        "ja": "つい最近まで(～状態)でいる",
         "next": "c"
     },
     {
