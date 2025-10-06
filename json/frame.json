@@ -890,6 +890,33 @@
 
 
 
+
+    {
+        "subject": "You",
+        "category": "感嘆文",
+        "en": "Why would you (do)!",
+        "ja": "なんで～するの！（あきれ）",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "category": "感嘆文",
+        "en": "How could you (do)!",
+        "ja": "どうして～できるの！ひどい...（悲しみ）",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "category": "感嘆文",
+        "en": "How dare you (do)!",
+        "ja": "どうして～するんだよ！なんてことを...（怒り）",
+        "next": "do"
+    },
+
+
+
+
+
     {
         "subject": "We",
         "category": "命令文",
