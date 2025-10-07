@@ -275,6 +275,13 @@
     {
         "subject": "I",
         "category": "平叙文",
+        "en": "I might not (do)",
+        "ja": "～しないかもしれない",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "category": "平叙文",
         "en": "I might've (done)",
         "ja": "～したかもしれない",
         "next": "done"
