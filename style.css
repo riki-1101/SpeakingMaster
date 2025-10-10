@@ -520,3 +520,25 @@ input[type="radio"]:checked + label {
 
 
 
+
+
+
+
+#verb-list {
+    margin: 0;
+}
+#verb-list li {
+    margin: 1em 0;
+    padding: 1em;
+    border: 1px solid #aaa;
+    border-radius: 5px;
+    cursor: pointer;
+    background: whitesmoke;
+    font-size: 1.7em;
+    font-weight: bold;
+}
+#verb-list li:hover {
+    background: wheat;
+}
+
+

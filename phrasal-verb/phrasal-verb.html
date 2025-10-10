@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Phrasal Verb</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+    <header id="header"></header>
+    <main>
+        <h1>Phrasal Verb</h1>
+        <ul id="phrase-list"></ul>
+    </main>
+    <footer id="footer"></footer>
+    <script src="../js/header.js"></script>
+    <script src="../js/footer.js"></script>
+    <script src="../js/script.js"></script>
+    <script>
+        const ul = document.getElementById("phrase-list");
+        const selectedVerb = localStorage.getItem("selectedVerb");
+        fetch(`./json/${selectedVerb}.json`)
+            .then(res => res.json())
+            .then(data => {
+                function renderList() {
+                    ul.innerHTML = ''; // 一旦クリア
+                    data.forEach(phrase => {
+                        const li = document.createElement('li');
+                        li.classList.add('phrase');
+                        li.innerHTML = `
+                            ${phrase.en}
+                            <span class="play-sound" style="float:right; cursor:pointer;">🔊</span>
+                        `;
+                        ul.appendChild(li);
+
+                        // クリック
+                        li.addEventListener("click", (event) => {
+                            if (event.target.classList.contains('play-sound'))
+                                return; // 🔊クリック時はスキップ
+                            localStorage.setItem("PhraseEx", JSON.stringify(phrase.ex));
+                            window.location.href = "phrasal-verb-ex.html";
+                        });
+
+                        // 🔊 音声マーククリック → 読み上げ
+                        li.querySelector('.play-sound').addEventListener('click', function () {
+                            const textToSpeak = phrase.en.replace(/(\(.*?\)|\[.*?\])/g, '').trim();
+                            const utterance = new SpeechSynthesisUtterance(textToSpeak);
+                            utterance.lang = localStorage.getItem("selectedCountry") || "en-US";
+                            speechSynthesis.speak(utterance);
+                        });
+                    });
+                }
+
+                renderList(); // 初期表示
+            })
+            .catch(err => console.error(`json の読み込みに失敗しました:`, err));
+    </script>
+</body>
+</html>
