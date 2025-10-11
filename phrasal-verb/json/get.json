@@ -1,203 +1,150 @@
 [
     {
-        "en": "get along with (sb)",
-        "ex": [
-            {
-                "en": "get along with my classmates",
-                "ja": "クラスメートと仲良くする"
-            },
-            {
-                "en": "get along with my boss",
-                "ja": "上司とうまくやっていく"
-            }
-        ]
+        "en": "get along with my classmates",
+        "ja": "クラスメートと仲良くする"
     },
     {
-        "en": "get away",
-        "ex": [
-            {
-                "en": "get away for the weekend",
-                "ja": "週末にどこかへ出かける"
-            },
-            {
-                "en": "get away from the city",
-                "ja": "都会から離れる"
-            },
-            {
-                "en": "get away from danger",
-                "ja": "危険から逃れる"
-            }
-        ]
+        "en": "get along with my boss",
+        "ja": "上司とうまくやっていく"
+    },
+
+    {
+        "en": "get away for the weekend",
+        "ja": "週末にどこかへ出かける"
     },
     {
-        "en": "get back",
-        "ex": [
-            {
-                "en": "get back home",
-                "ja": "家に戻る"
-            },
-            {
-                "en": "get back to work",
-                "ja": "仕事に戻る"
-            },
-            {
-                "en": "get back the money",
-                "ja": "お金を取り戻す"
-            }
-        ]
+        "en": "get away from the city",
+        "ja": "都会から離れる"
     },
     {
-        "en": "get by",
-        "ex": [
-            {
-                "en": "get by with a little money",
-                "ja": "少しのお金でなんとかやっていく"
-            },
-            {
-                "en": "get by in English",
-                "ja": "英語でなんとかやっていく"
-            }
-        ]
+        "en": "get away from danger",
+        "ja": "危険から逃れる"
+    },
+
+    {
+        "en": "get back home",
+        "ja": "家に戻る"
     },
     {
-        "en": "get in",
-        "ex": [
-            {
-                "en": "get in the car",
-                "ja": "車に乗る"
-            },
-            {
-                "en": "get in the house",
-                "ja": "家に入る"
-            },
-            {
-                "en": "get in trouble",
-                "ja": "トラブルに巻き込まれる"
-            }
-        ]
+        "en": "get back to work",
+        "ja": "仕事に戻る"
     },
     {
-        "en": "get off",
-        "ex": [
-            {
-                "en": "get off the bus",
-                "ja": "バスを降りる"
-            },
-            {
-                "en": "get off work",
-                "ja": "仕事を終える／退勤する"
-            }
-        ]
+        "en": "get back the money",
+        "ja": "お金を取り戻す"
+    },
+
+    {
+        "en": "get by with a little money",
+        "ja": "少しのお金でなんとかやっていく"
     },
     {
-        "en": "get on",
-        "ex": [
-            {
-                "en": "get on the train",
-                "ja": "電車に乗る"
-            },
-            {
-                "en": "get on the bus",
-                "ja": "バスに乗る"
-            },
-            {
-                "en": "get on well with others",
-                "ja": "他人とうまくやっていく"
-            }
-        ]
+        "en": "get by in English",
+        "ja": "英語でなんとかやっていく"
+    },
+
+    {
+        "en": "get in the car",
+        "ja": "車に乗る"
     },
     {
-        "en": "get out",
-        "ex": [
-            {
-                "en": "get out of the room",
-                "ja": "部屋から出る"
-            },
-            {
-                "en": "get out of the car",
-                "ja": "車から降りる"
-            },
-            {
-                "en": "get out of trouble",
-                "ja": "トラブルから抜け出す"
-            }
-        ]
+        "en": "get in the house",
+        "ja": "家に入る"
     },
     {
-        "en": "get over",
-        "ex": [
-            {
-                "en": "get over the breakup",
-                "ja": "失恋を乗り越える"
-            },
-            {
-                "en": "get over the shock",
-                "ja": "ショックを乗り越える"
-            },
-            {
-                "en": "get over the flu",
-                "ja": "インフルエンザを治す"
-            }
-        ]
+        "en": "get in trouble",
+        "ja": "トラブルに巻き込まれる"
+    },
+
+    {
+        "en": "get off the bus",
+        "ja": "バスを降りる"
     },
     {
-        "en": "get rid of",
-        "ex": [
-            {
-                "en": "get rid of the old clothes",
-                "ja": "古い服を処分する"
-            },
-            {
-                "en": "get rid of bad habits",
-                "ja": "悪い習慣をやめる"
-            },
-            {
-                "en": "get rid of the smell",
-                "ja": "においを取り除く"
-            }
-        ]
+        "en": "get off work",
+        "ja": "仕事を終える／退勤する"
+    },
+
+    {
+        "en": "get on the train",
+        "ja": "電車に乗る"
     },
     {
-        "en": "get through",
-        "ex": [
-            {
-                "en": "get through to her on the phone",
-                "ja": "彼女と電話がつながる"
-            },
-            {
-                "en": "get through a difficult time",
-                "ja": "つらい時期を乗り越える"
-            },
-            {
-                "en": "get through the exam",
-                "ja": "試験を乗り切る"
-            }
-        ]
+        "en": "get on the bus",
+        "ja": "バスに乗る"
     },
     {
-        "en": "get together",
-        "ex": [
-            {
-                "en": "get together for dinner",
-                "ja": "夕食のために集まる"
-            },
-            {
-                "en": "get together with friends",
-                "ja": "友達と集まる"
-            }
-        ]
+        "en": "get on well with others",
+        "ja": "他人とうまくやっていく"
+    },
+
+    {
+        "en": "get out of the room",
+        "ja": "部屋から出る"
     },
     {
-        "en": "get up",
-        "ex": [
-            {
-                "en": "get up at 7",
-                "ja": "７時に起きる"
-            },
-            {
-                "en": "get up early",
-                "ja": "早く起きる"
-            }
-        ]
+        "en": "get out of the car",
+        "ja": "車から降りる"
+    },
+    {
+        "en": "get out of trouble",
+        "ja": "トラブルから抜け出す"
+    },
+
+    {
+        "en": "get over the breakup",
+        "ja": "失恋を乗り越える"
+    },
+    {
+        "en": "get over the shock",
+        "ja": "ショックを乗り越える"
+    },
+    {
+        "en": "get over the flu",
+        "ja": "インフルエンザを治す"
+    },
+
+    {
+        "en": "get rid of the old clothes",
+        "ja": "古い服を処分する"
+    },
+    {
+        "en": "get rid of bad habits",
+        "ja": "悪い習慣をやめる"
+    },
+    {
+        "en": "get rid of the smell",
+        "ja": "においを取り除く"
+    },
+
+    {
+        "en": "get through to her on the phone",
+        "ja": "彼女と電話がつながる"
+    },
+    {
+        "en": "get through a difficult time",
+        "ja": "つらい時期を乗り越える"
+    },
+    {
+        "en": "get through the exam",
+        "ja": "試験を乗り切る"
+    },
+
+    {
+        "en": "get together for dinner",
+        "ja": "夕食のために集まる"
+    },
+    {
+        "en": "get together with friends",
+        "ja": "友達と集まる"
+    },
+
+    {
+        "en": "get up at 7",
+        "ja": "７時に起きる"
+    },
+    {
+        "en": "get up early",
+        "ja": "早く起きる"
     }
 ]

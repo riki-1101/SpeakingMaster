@@ -10,50 +10,118 @@
     <header id="header"></header>
     <main>
         <h1>Phrasal Verb</h1>
-        <ul id="phrase-list"></ul>
+        <button type="button" name="ja" id="ja-btn">ja</button>
+        <div id="card">
+            <div id="english"></div>
+            <div id="meaning"></div>
+        </div>
+        <div id="back-next">
+            <button type="button" name="back" id="back-btn">＜</button>
+            <button type="button" name="next" id="next-btn">＞</button>
+        </div>
     </main>
     <footer id="footer"></footer>
     <script src="../js/header.js"></script>
     <script src="../js/footer.js"></script>
     <script src="../js/script.js"></script>
     <script>
-        const ul = document.getElementById("phrase-list");
+        const card = document.getElementById("card");
+        const english = document.getElementById("english");
+        const meaning = document.getElementById("meaning");
+        const backBtn = document.getElementById("back-btn");
+        const nextBtn = document.getElementById("next-btn");
+        const jaBtn = document.getElementById("ja-btn");
+
+        let phrases = [];
+        let shuffledPhrases = [];
+        let currentIndex = -1;
+        let current = null;
+
+        // 配列シャッフル
+        function shuffleArray(array) {
+            const newArray = [...array];
+            for (let i = newArray.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [newArray[i], newArray[j]] = [newArray[j], newArray[i]];
+            }
+            return newArray;
+        }
+
+        // 英語を音声再生
+        function speakEnglish(text) {
+            if (!text) return;
+            window.speechSynthesis.cancel(); // 再生中をキャンセル
+            text = text.replace(/(\(.*?\)|\[.*?\])/g, '').trim();
+            const utterance = new SpeechSynthesisUtterance(text);
+            utterance.lang = localStorage.getItem("selectedCountry") || "en-US";
+            utterance.rate = 1.1;
+            window.speechSynthesis.speak(utterance);
+        }
+
+        // --- カード表示 ---
+        function showCard(phrase) {
+            current = phrase;
+            english.textContent = current.en; // 英語のみ表示
+            meaning.style.display = "none";   // 日本語は隠す
+            speakEnglish(current.en);         // 音声再生
+        }
+
+        // --- 次のカード取得 ---
+        function showNewCard() {
+            if (shuffledPhrases.length === 0) {
+                english.textContent = "No cards available";
+                meaning.textContent = "";
+                meaning.style.display = "none";
+                return;
+            }
+            currentIndex++;
+            if (currentIndex >= shuffledPhrases.length) {
+                // 一周したら再シャッフル
+                shuffledPhrases = shuffleArray(phrases); // ← filteredPhrases → phrases に変更
+                currentIndex = 0;
+            }
+            showCard(shuffledPhrases[currentIndex]);
+        }
+
+        // --- JSON読み込み ---
         const selectedVerb = localStorage.getItem("selectedVerb");
         fetch(`./json/${selectedVerb}.json`)
-            .then(res => res.json())
+            .then(response => response.json())
             .then(data => {
-                function renderList() {
-                    ul.innerHTML = ''; // 一旦クリア
-                    data.forEach(phrase => {
-                        const li = document.createElement('li');
-                        li.classList.add('phrase');
-                        li.innerHTML = `
-                            ${phrase.en}
-                            <span class="play-sound" style="float:right; cursor:pointer;">🔊</span>
-                        `;
-                        ul.appendChild(li);
-
-                        // クリック
-                        li.addEventListener("click", (event) => {
-                            if (event.target.classList.contains('play-sound'))
-                                return; // 🔊クリック時はスキップ
-                            localStorage.setItem("PhraseEx", JSON.stringify(phrase.ex));
-                            window.location.href = "phrasal-verb-ex.html";
-                        });
-
-                        // 🔊 音声マーククリック → 読み上げ
-                        li.querySelector('.play-sound').addEventListener('click', function () {
-                            const textToSpeak = phrase.en.replace(/(\(.*?\)|\[.*?\])/g, '').trim();
-                            const utterance = new SpeechSynthesisUtterance(textToSpeak);
-                            utterance.lang = localStorage.getItem("selectedCountry") || "en-US";
-                            speechSynthesis.speak(utterance);
-                        });
-                    });
-                }
-
-                renderList(); // 初期表示
+                phrases = data;
+                shuffledPhrases = shuffleArray(phrases); // ← ここでシャッフルして代入
+                showNewCard(); // ← 最初のカードを表示
             })
-            .catch(err => console.error(`json の読み込みに失敗しました:`, err));
+            .catch(err => {
+                english.textContent = "Error";
+                console.error(err);
+            });
+
+
+        // カードクリックで音声再生
+        card.addEventListener("click", () => {
+            if (!current) return;
+            speakEnglish(current.en);
+        });
+
+        // jaボタン
+        jaBtn.addEventListener("click", () => {
+            if (current && current.ja) {
+                meaning.textContent = current.ja;
+                meaning.style.display = "block";
+            }
+        });
+
+        // Next ボタン
+        nextBtn.addEventListener("click", showNewCard);
+
+        // Back ボタン（履歴管理はしない場合）
+        backBtn.addEventListener("click", () => {
+            if (currentIndex > 0) {
+                currentIndex--;
+                showCard(shuffledPhrases[currentIndex]);
+            }
+        });
     </script>
 </body>
 </html>
