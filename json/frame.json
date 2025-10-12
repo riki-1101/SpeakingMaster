@@ -1224,6 +1224,25 @@
 
 
     {
+        "subject": "There",
+        "category": "疑問文",
+        "en": "Is there (sth)?",
+        "ja": "～がある？（単数）",
+        "next": "sth"
+    },
+    {
+        "subject": "There",
+        "category": "疑問文",
+        "en": "Are there (sths)?",
+        "ja": "～がある？（複数）",
+        "next": "sth"
+    },
+
+
+
+
+
+    {
         "subject": "",
         "category": "疑問文",
         "en": "How come (SV)?",
