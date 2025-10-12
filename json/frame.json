@@ -1227,14 +1227,21 @@
         "subject": "There",
         "category": "疑問文",
         "en": "Is there (sth)?",
-        "ja": "～がある？（単数）",
+        "ja": "～ある？（単数）",
         "next": "sth"
     },
     {
         "subject": "There",
         "category": "疑問文",
-        "en": "Are there (sths)?",
-        "ja": "～がある？（複数）",
+        "en": "Are there any (sths)?",
+        "ja": "何か～ある？（複数）",
+        "next": "sth"
+    },
+    {
+        "subject": "There",
+        "category": "疑問文",
+        "en": "Are there (num) (sths)?",
+        "ja": "〇個～ある？（複数）",
         "next": "sth"
     },
 
