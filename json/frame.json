@@ -1149,6 +1149,81 @@
 
 
     {
+        "subject": "There",
+        "category": "平叙文",
+        "en": "There is (sth)",
+        "ja": "～がある（単数）",
+        "next": "sth"
+    },
+    {
+        "subject": "There",
+        "category": "平叙文",
+        "en": "There are (sths)",
+        "ja": "～がある（複数）",
+        "next": "sth"
+    },
+    {
+        "subject": "There",
+        "category": "平叙文",
+        "en": "There can be (sth)",
+        "ja": "～があるのもあり得る",
+        "next": "sth"
+    },
+    {
+        "subject": "There",
+        "category": "平叙文",
+        "en": "There could be (sth)",
+        "ja": "～がある可能性がある",
+        "next": "sth"
+    },
+    {
+        "subject": "There",
+        "category": "平叙文",
+        "en": "There will be (sth)",
+        "ja": "～があるでしょう",
+        "next": "sth"
+    },
+    {
+        "subject": "There",
+        "category": "平叙文",
+        "en": "There would be (sth)",
+        "ja": "～があるだろうなあ（仮定）",
+        "next": "sth"
+    },
+    {
+        "subject": "There",
+        "category": "平叙文",
+        "en": "There may be (sth)",
+        "ja": "～があるかもしれない",
+        "next": "sth"
+    },
+    {
+        "subject": "There",
+        "category": "平叙文",
+        "en": "There might be (sth)",
+        "ja": "もしかしたら～があるかも",
+        "next": "sth"
+    },
+    {
+        "subject": "There",
+        "category": "平叙文",
+        "en": "There must be (sth)",
+        "ja": "～があるに違いない",
+        "next": "sth"
+    },
+    {
+        "subject": "There",
+        "category": "平叙文",
+        "en": "There should be (sth)",
+        "ja": "～があるはずだ",
+        "next": "sth"
+    },
+
+
+
+
+
+    {
         "subject": "",
         "category": "疑問文",
         "en": "How come (SV)?",
