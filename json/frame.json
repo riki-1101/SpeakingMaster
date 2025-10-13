@@ -220,7 +220,14 @@
         "subject": "I",
         "category": "平叙文",
         "en": "I would often (do)",
-        "ja": "～したものだ",
+        "ja": "よく～したものだ（回想）",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "category": "平叙文",
+        "en": "I used to (do)",
+        "ja": "以前は～したものだ（今はしない）",
         "next": "do"
     },
     {
@@ -706,6 +713,20 @@
         "category": "平叙文",
         "en": "You won't (do)",
         "ja": "～しないだろうね",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "category": "平叙文",
+        "en": "You're supposed (do)",
+        "ja": "～することになっています",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "category": "平叙文",
+        "en": "You're not supposed (do)",
+        "ja": "～してはいけないことになっています",
         "next": "do"
     },
 
@@ -1216,6 +1237,13 @@
         "category": "平叙文",
         "en": "There should be (sth)",
         "ja": "～があるはずだ",
+        "next": "sth"
+    },
+    {
+        "subject": "There",
+        "category": "平叙文",
+        "en": "There used to be (sth)",
+        "ja": "かつて～があった",
         "next": "sth"
     },
 
