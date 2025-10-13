@@ -719,14 +719,14 @@
         "subject": "You",
         "category": "平叙文",
         "en": "You're supposed (do)",
-        "ja": "～することになっています",
+        "ja": "～することになっている",
         "next": "do"
     },
     {
         "subject": "You",
         "category": "平叙文",
         "en": "You're not supposed (do)",
-        "ja": "～してはいけないことになっています",
+        "ja": "～してはいけないことになっている",
         "next": "do"
     },
 
