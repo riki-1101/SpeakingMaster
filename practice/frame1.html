@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Frame</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+    <header id="header"></header>
+    <main class="frame-app">
+        <input type="radio" name="category" id="平叙文" value="平叙文" checked>
+        <label for="平叙文">平叙文</label>
+        <input type="radio" name="category" id="疑問文" value="疑問文">
+        <label for="疑問文">疑問文</label>
+        <input type="radio" name="category" id="命令文" value="命令文">
+        <label for="命令文">命令文</label>
+        <input type="radio" name="category" id="感嘆文" value="感嘆文">
+        <label for="感嘆文">感嘆文</label>
+        
+        <div id="card">
+            <div id="japanese"></div>
+            <div id="english"></div>
+        </div>
+        
+    </main>
+    <footer id="footer"></footer>
+    <script src="../js/header.js"></script>
+    <script src="../js/footer.js"></script>
+    <script src="../js/script.js"></script>
+    <script>
+        let frames = [];
+        let filteredFrames = []; // カテゴリ＋ランダム後の配列
+        let currentIndex = 0;
+        let showingEnglish = false;
+
+        // JSONを読み込み
+        fetch("../json/frame.json")
+            .then(res => res.json())
+            .then(data => {
+                frames = data;
+                applyFilter(); // ← 初期カテゴリでランダム化も実行
+                showJapanese();
+            })
+            .catch(err => console.error("Error loading JSON:", err));
+
+        // HTML要素
+        const englishDiv = document.getElementById("english");
+        const japaneseDiv = document.getElementById("japanese");
+        const main = document.querySelector("main");
+
+        // check / nextボタンを作成
+        const button = document.createElement("button");
+        button.id = "next-btn";
+        button.textContent = "check";
+        main.appendChild(button);
+
+        button.addEventListener("click", handleButtonClick);
+
+        // ラジオボタンでカテゴリ切り替え
+        document.querySelectorAll('input[name="category"]').forEach(radio => {
+            radio.addEventListener("change", () => {
+                applyFilter();   // ← カテゴリ変更時にランダム化も行う
+                showJapanese();
+            });
+        });
+
+        function handleButtonClick() {
+            if (!filteredFrames.length) return;
+
+            if (!showingEnglish) {
+                showEnglish();
+                showingEnglish = true;
+                button.textContent = "next";
+            } else {
+                nextCard();
+            }
+        }
+
+        // カテゴリフィルタ＋ランダムシャッフル
+        function applyFilter() {
+            const selected = document.querySelector('input[name="category"]:checked').value;
+
+            // カテゴリで絞り込み
+            filteredFrames = frames.filter(f => f.category === selected);
+
+            // 配列をシャッフル（Fisher–Yatesアルゴリズム）
+            for (let i = filteredFrames.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [filteredFrames[i], filteredFrames[j]] = [filteredFrames[j], filteredFrames[i]];
+            }
+
+            currentIndex = 0;
+            showingEnglish = false;
+            button.style.display = "inline-block";
+
+            if (filteredFrames.length === 0) {
+                japaneseDiv.textContent = "該当する文がありません。";
+                englishDiv.textContent = "";
+                button.style.display = "none";
+                return;
+            }
+        }
+
+        // 日本語を表示
+        function showJapanese() {
+            if (!filteredFrames.length) return;
+            const frame = filteredFrames[currentIndex];
+            englishDiv.textContent = "";
+            japaneseDiv.textContent = frame.ja;
+            showingEnglish = false;
+            button.textContent = "check";
+        }
+
+        // 英語を表示＋音声再生
+        function showEnglish() {
+            const frame = filteredFrames[currentIndex];
+            englishDiv.textContent = frame.en;
+            speakEnglish(frame.en);
+        }
+
+        // 次のカードへ
+        function nextCard() {
+            currentIndex++;
+            if (currentIndex >= filteredFrames.length) {
+                japaneseDiv.textContent = "That’s all!";
+                englishDiv.textContent = "";
+                button.style.display = "none"; // 元のボタンは非表示
+
+                // 再スタート用ボタンを作る
+                const restartBtn = document.createElement("button");
+                restartBtn.id = "restart-btn";
+                restartBtn.textContent = "Start again"; // 英語で表示
+                main.appendChild(restartBtn);
+
+                restartBtn.addEventListener("click", () => {
+                    // カードを最初から表示
+                    applyFilter(); // フィルタ＋ランダム化
+                    showJapanese();
+
+                    // 再スタートボタンを消す
+                    restartBtn.remove();
+
+                    // check/next ボタンを再表示
+                    button.style.display = "inline-block";
+                });
+
+                return;
+            }
+            showJapanese();
+        }
+
+        // 音声再生関数
+        function speakEnglish(text) {
+            if (!text) return;
+            window.speechSynthesis.cancel(); // 再生中をキャンセル
+            text = text.replace(/(\(.*?\)|\[.*?\])/g, '').trim();
+            const utterance = new SpeechSynthesisUtterance(text);
+            utterance.lang = localStorage.getItem("selectedCountry") || "en-US";
+            utterance.rate = 1.0;
+            window.speechSynthesis.speak(utterance);
+        }
+    </script>
+
+</body>
+</html>

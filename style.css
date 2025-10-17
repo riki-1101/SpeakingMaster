@@ -542,3 +542,34 @@ input[type="radio"]:checked + label {
 }
 
 
+/* フレーム　日本語から英語 */
+.frame-app {
+    text-align: center; /* 配下のインライン・インラインブロック要素を水平中央に */
+}
+/* frame-app内のボタンだけにスタイル */
+.frame-app button {
+    background-color: #4CAF50;
+    color: white;
+    width: 10em;
+    padding: 0.5em;
+    border: none;
+    border-radius: 8px;
+    font-size: 1.5em;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.frame-app button:hover {
+    background-color: #45a049;
+}
+
+.frame-app #restart-btn {
+    background-color: #ff9800; /* オレンジ色 */
+}
+
+.frame-app #restart-btn:hover {
+    background-color: #fb8c00;
+    transform: scale(1.05);
+}
+
+
