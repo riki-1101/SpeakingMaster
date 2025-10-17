@@ -345,8 +345,15 @@
     {
         "subject": "I",
         "category": "平叙文",
+        "en": "I have yet to (do)",
+        "ja": "まだ～していません",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "category": "平叙文",
         "en": "I'm going to (do) [I'm gonna (do)]",
-        "ja": "～する予定である",
+        "ja": "～する予定だ",
         "next": "do"
     },
     {
