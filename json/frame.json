@@ -947,9 +947,23 @@
 
     {
         "subject": "We",
+        "category": "疑問文",
+        "en": "Why don't we (do)?",
+        "ja": "～しようよ",
+        "next": "do"
+    },
+    {
+        "subject": "We",
+        "category": "疑問文",
+        "en": "Shall we (do)?",
+        "ja": "～しませんか？",
+        "next": "do"
+    },
+    {
+        "subject": "We",
         "category": "命令文",
         "en": "Let's (do)",
-        "ja": "～しようよ",
+        "ja": "～しよう",
         "next": "do"
     },
 
@@ -1201,7 +1215,14 @@
         "subject": "There",
         "category": "平叙文",
         "en": "There will be (sth)",
-        "ja": "～があるでしょう",
+        "ja": "～があるだろう",
+        "next": "sth"
+    },
+    {
+        "subject": "There",
+        "category": "平叙文",
+        "en": "There won't be any (sths)",
+        "ja": "～がないだろう",
         "next": "sth"
     },
     {
