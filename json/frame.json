@@ -79,6 +79,13 @@
     {
         "subject": "I",
         "category": "平叙文",
+        "en": "I do nothing but (do)",
+        "ja": "～してばかりいる",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "category": "平叙文",
         "en": "I always (do)",
         "ja": "いつも～する",
         "next": "do"
@@ -340,6 +347,20 @@
         "category": "平叙文",
         "en": "I don't have to (do)",
         "ja": "～しなくてよい（客観的に見て）",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "category": "平叙文",
+        "en": "I have no choice but to (do)",
+        "ja": "～するしかない",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "category": "平叙文",
+        "en": "I had no choice but to (do)",
+        "ja": "～するしかなかった",
         "next": "do"
     },
     {
