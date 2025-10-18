@@ -30,6 +30,27 @@
     {
         "subject": "I",
         "category": "平叙文",
+        "en": "I'm for (sth)",
+        "ja": "～に賛成だ",
+        "next": "sth"
+    },
+    {
+        "subject": "I",
+        "category": "平叙文",
+        "en": "I'm against (sth)",
+        "ja": "～に反対だ",
+        "next": "sth"
+    },
+    {
+        "subject": "I",
+        "category": "平叙文",
+        "en": "I'm into (sth)",
+        "ja": "～にハマっている",
+        "next": "sth"
+    },
+    {
+        "subject": "I",
+        "category": "平叙文",
         "en": "I feel (C)",
         "ja": "～に感じる",
         "next": "c"
@@ -637,6 +658,13 @@
         "en": "You feel (C)",
         "ja": "～に感じているね",
         "next": "c"
+    },
+    {
+        "subject": "You",
+        "category": "平叙文",
+        "en": "You never fail to (do)",
+        "ja": "いつも～してくれるね",
+        "next": "do"
     },
     {
         "subject": "You",
