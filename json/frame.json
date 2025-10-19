@@ -30,6 +30,21 @@
     {
         "subject": "I",
         "category": "平叙文",
+        "en": "I feel (C)",
+        "ja": "～に感じる",
+        "next": "c"
+    },
+    {
+        "subject": "I",
+        "category": "平叙文",
+        "en": "I ended up (C)",
+        "ja": "結局(～状態)になった",
+        "next": "c"
+    },
+
+    {
+        "subject": "I",
+        "category": "平叙文",
         "en": "I'm for (sth)",
         "ja": "～に賛成だ",
         "next": "sth"
@@ -48,20 +63,8 @@
         "ja": "～にハマっている",
         "next": "sth"
     },
-    {
-        "subject": "I",
-        "category": "平叙文",
-        "en": "I feel (C)",
-        "ja": "～に感じる",
-        "next": "c"
-    },
-    {
-        "subject": "I",
-        "category": "平叙文",
-        "en": "I ended up (C)",
-        "ja": "結局(～状態)になった",
-        "next": "c"
-    },
+    
+    
     {
         "subject": "I",
         "category": "平叙文",
@@ -83,6 +86,7 @@
         "ja": "つい最近まで(～状態)でいる",
         "next": "c"
     },
+
     {
         "subject": "I",
         "category": "平叙文",
@@ -188,6 +192,7 @@
         "ja": "すでに～した",
         "next": "did"
     },
+
     {
         "subject": "I",
         "category": "平叙文",
@@ -216,13 +221,7 @@
         "ja": "今までに一度も～していない",
         "next": "done"
     },
-    {
-        "subject": "I",
-        "category": "平叙文",
-        "en": "I've been (C)",
-        "ja": "今までに～状態でいる",
-        "next": "c"
-    },
+
     {
         "subject": "I",
         "category": "平叙文",
@@ -794,14 +793,14 @@
         "subject": "You",
         "category": "疑問文",
         "en": "Are you (C)?",
-        "ja": "今～状態？",
+        "ja": "今(～状態)かな？",
         "next": "c"
     },
     {
         "subject": "You",
         "category": "疑問文",
         "en": "Aren't you (C)?",
-        "ja": "今～状態だよね？",
+        "ja": "今(～状態)だよね？",
         "next": "c"
     },
     {
