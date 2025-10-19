@@ -359,14 +359,14 @@
         "subject": "I",
         "category": "平叙文",
         "en": "I have to (do)",
-        "ja": "～しなければならない（客観的に見て）",
+        "ja": "～しなければならない（客観）",
         "next": "do"
     },
     {
         "subject": "I",
         "category": "平叙文",
         "en": "I don't have to (do)",
-        "ja": "～しなくてよい（客観的に見て）",
+        "ja": "～しなくてよい（客観）",
         "next": "do"
     },
     {
@@ -560,7 +560,7 @@
         "subject": "I",
         "category": "疑問文",
         "en": "Why am I (C)?",
-        "ja": "なんで～状態なんだろう？（自分へのツッコミ）",
+        "ja": "なんで(～状態)なんだろう？（自分へのツッコミ）",
         "next": "c"
     },
     {
@@ -704,14 +704,14 @@
         "subject": "You",
         "category": "平叙文",
         "en": "You have to (do)",
-        "ja": "～しなければならないよ（客観的に）",
+        "ja": "～しなければならないよ（客観）",
         "next": "do"
     },
     {
         "subject": "You",
         "category": "平叙文",
         "en": "You'll have to (do)",
-        "ja": "～しなければならないだろうね（客観的に）",
+        "ja": "～しなければならないだろうね（客観）",
         "next": "do"
     },
     {
@@ -774,14 +774,14 @@
         "subject": "You",
         "category": "平叙文",
         "en": "You're supposed (do)",
-        "ja": "～することになっている",
+        "ja": "～することになっているよ",
         "next": "do"
     },
     {
         "subject": "You",
         "category": "平叙文",
         "en": "You're not supposed (do)",
-        "ja": "～してはいけないことになっている",
+        "ja": "～してはいけないことになっているよ",
         "next": "do"
     },
 
