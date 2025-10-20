@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Step2</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header id="header"></header>
+    <main id="home">
+        <section>
+            <ul>
+                <li><a href="phrasal-verb/phrasal-verb-select.html">Phrasal Verb</a></li>
+            </ul>
+        </section>
+        <section>
+            <ul id="main-list">
+                <li id="frame.html">Frame</li>
+                <li id="to.html">to</li>
+                <li id="verb.html">Verb</li>
+                <li id="antecedent.html">Antecedent</li>
+                <li id="initial.html">Initial  Phrase</li>
+                <li id="additional-phrase.html">Additional Phrase</li>
+                <li id="BtoF.html">Block to Frame</li>
+            </ul>
+        </section>
+        <div id="mode">
+            <div>
+                <p id="mode-name"></p>
+                <ul>
+                    <li>List</li>
+                    <li>Practice</li>
+                </ul>
+            </div>
+        </div>
+    </main>
+    <footer id="footer"></footer>
+    <script src="js/header.js"></script>
+    <script src="js/footer.js"></script>
+    <script src="js/script.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const listItems = document.querySelectorAll('#main-list li'); // メインリストのみ
+            const modePopup = document.getElementById('mode');
+            const modeName = document.getElementById('mode-name');
+            const modeList = document.querySelectorAll('#mode ul li');
+
+            let targetFile = '';
+
+            listItems.forEach(item => {
+                item.addEventListener('click', () => {
+                    targetFile = item.id.trim();               // 遷移するファイル名
+                    modeName.textContent = item.textContent;  // 選択したliの中身を表示
+                    modePopup.style.display = 'flex';         // ポップアップ表示
+                    console.log('選択:', targetFile);
+                });
+            });
+
+            modeList.forEach(mode => {
+                mode.addEventListener('click', () => {
+                    if (!targetFile) return;
+                    const modeNameText = mode.textContent.toLowerCase(); // list / practice
+                    console.log('遷移先:', `${modeNameText}/${targetFile}`);
+                    window.location.href = `${modeNameText}/${targetFile}`;
+                });
+            });
+
+            modePopup.addEventListener('click', (e) => {
+                if (e.target === modePopup) {
+                    modePopup.style.display = 'none';
+                }
+            });
+        });
+    </script>
+</body>
+</html>
