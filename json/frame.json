@@ -801,7 +801,7 @@
     {
         "subject": "You",
         "category": "平叙文",
-        "en": "You're supposed (do)",
+        "en": "You're supposed to (do)",
         "ja": "～することになっているよ",
         "next": "do"
     },
@@ -1058,49 +1058,49 @@
         "subject": "It",
         "category": "平叙文",
         "en": "It's (C)",
-        "ja": "～だ",
+        "ja": "それは～だ",
         "next": "c"
     },
     {
         "subject": "It",
         "category": "平叙文",
         "en": "It was (C)",
-        "ja": "～だった",
+        "ja": "それは～だった",
         "next": "c"
     },
     {
         "subject": "It",
         "category": "平叙文",
         "en": "It seems (C)",
-        "ja": "～に思える",
+        "ja": "それは～に思える",
         "next": "c"
     },
     {
         "subject": "It",
         "category": "平叙文",
         "en": "It looks (C)",
-        "ja": "～に見える",
+        "ja": "それは～に見える",
         "next": "c"
     },
     {
         "subject": "It",
         "category": "平叙文",
         "en": "It appears (C)",
-        "ja": "～に見受けられる",
+        "ja": "それは～に見受けられる",
         "next": "c"
     },
     {
         "subject": "It",
         "category": "平叙文",
         "en": "It sounds (C)",
-        "ja": "～に聞こえる",
+        "ja": "それは～に聞こえる",
         "next": "c"
     },
     {
         "subject": "It",
         "category": "平叙文",
         "en": "It feels (C)",
-        "ja": "～に感じる",
+        "ja": "それは～に感じる",
         "next": "c"
     },
     {
