@@ -400,6 +400,20 @@
     {
         "subject": "I",
         "category": "平叙文",
+        "en": "I need to (do)",
+        "ja": "～する必要がある",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "category": "平叙文",
+        "en": "I needed to (do)",
+        "ja": "～する必要があった",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "category": "平叙文",
         "en": "I'm going to (do) [I'm gonna (do)]",
         "ja": "～する予定だ",
         "next": "do"
@@ -458,6 +472,41 @@
         "category": "平叙文",
         "en": "I've got to (do) [I gotta (do)]",
         "ja": "～しなきゃ",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "category": "平叙文",
+        "en": "I want to (do)",
+        "ja": "～したい",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "category": "平叙文",
+        "en": "I hope to (do)",
+        "ja": "～できるといいな",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "category": "平叙文",
+        "en": "I was hoping to (do)",
+        "ja": "～したいと思っていました",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "category": "平叙文",
+        "en": "I've been hoping to (do)",
+        "ja": "ずっと～したいと思っていました",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "category": "平叙文",
+        "en": "I meant to (do)",
+        "ja": "～するつもりだったんだけどな",
         "next": "do"
     },
 
