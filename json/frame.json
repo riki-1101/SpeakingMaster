@@ -1427,6 +1427,13 @@
         "ja": "かつて～があった",
         "next": "sth"
     },
+    {
+        "subject": "There",
+        "category": "平叙文",
+        "en": "There is nothing like (sth)",
+        "ja": "～に勝るものはない",
+        "next": "sth"
+    },
 
 
 
