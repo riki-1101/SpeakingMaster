@@ -911,8 +911,22 @@
     {
         "subject": "You",
         "category": "疑問文",
+        "en": "Didn't you (do)?",
+        "ja": "～したよね？",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "category": "疑問文",
         "en": "Have you (done)?",
         "ja": "今までに～している？",
+        "next": "done"
+    },
+    {
+        "subject": "You",
+        "category": "疑問文",
+        "en": "Haven't you (done)?",
+        "ja": "今までに～しているよね？",
         "next": "done"
     },
     {
@@ -1011,6 +1025,13 @@
         "category": "疑問文",
         "en": "Could you (do)?",
         "ja": "～してくれる？",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "category": "疑問文",
+        "en": "Will you (do)?",
+        "ja": "～するつもり？",
         "next": "do"
     },
     {
@@ -1432,6 +1453,19 @@
         "ja": "〇個～ある？（複数）",
         "next": "sth"
     },
+
+
+
+
+
+    {
+        "subject": "",
+        "category": "疑問文",
+        "en": "Who (V)?",
+        "ja": "誰が～なの？",
+        "next": "v"
+    },
+
 
 
 
