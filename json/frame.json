@@ -24,7 +24,14 @@
         "subject": "I",
         "category": "平叙文",
         "en": "I was being (C)",
-        "ja": "一時的に(～状態)だった",
+        "ja": "一時的に～な態度だった",
+        "next": "c"
+    },
+    {
+        "subject": "I",
+        "category": "平叙文",
+        "en": "I'm just (C)",
+        "ja": "今ちょっと(～状態な)だけだよ",
         "next": "c"
     },
     {
@@ -254,7 +261,7 @@
         "subject": "I",
         "category": "平叙文",
         "en": "I used to (do)",
-        "ja": "以前は～したものだ（今はしない）",
+        "ja": "以前は～したものだが、今はしてない",
         "next": "do"
     },
     {
@@ -497,7 +504,7 @@
         "subject": "I",
         "category": "疑問文",
         "en": "May I (do)?",
-        "ja": "～してもよろしいですか？（フォーマル）",
+        "ja": "～してもよろしいですか？",
         "next": "do"
     },
     {
@@ -746,7 +753,7 @@
         "subject": "You",
         "category": "平叙文",
         "en": "You don't have to (do)",
-        "ja": "～しなくていいよ（客観的に）",
+        "ja": "～しなくていいよ",
         "next": "do"
     },
     {
@@ -980,7 +987,7 @@
         "subject": "You",
         "category": "命令文",
         "en": "Don't be (C)",
-        "ja": "～状態にならないで",
+        "ja": "(～状態)にならないで",
         "next": "c"
     },
     {
@@ -1006,21 +1013,21 @@
         "subject": "You",
         "category": "感嘆文",
         "en": "Why would you (do)!",
-        "ja": "なんで～するの！（あきれ）",
+        "ja": "なんで～するの！（呆れ）",
         "next": "do"
     },
     {
         "subject": "You",
         "category": "感嘆文",
         "en": "How could you (do)!",
-        "ja": "どうして～できるの！ひどい...（悲しみ）",
+        "ja": "どうして～できるの！（悲しみ）",
         "next": "do"
     },
     {
         "subject": "You",
         "category": "感嘆文",
         "en": "How dare you (do)!",
-        "ja": "どうして～するんだよ！なんてことを...（怒り）",
+        "ja": "どうして～するんだよ！（怒り）",
         "next": "do"
     },
 
