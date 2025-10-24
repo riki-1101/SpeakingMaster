@@ -1292,6 +1292,62 @@
         "ja": "必ず～するだろう",
         "next": "do"
     },
+    {
+        "subject": "It",
+        "category": "平叙文",
+        "en": "It's like (sth)",
+        "ja": "～みたいだ",
+        "next": "sth"
+    },
+    {
+        "subject": "It",
+        "category": "平叙文",
+        "en": "It's up to (sth)",
+        "ja": "～次第だ",
+        "next": "sth"
+    },
+    {
+        "subject": "It",
+        "category": "平叙文",
+        "en": "It's for (sth)",
+        "ja": "～のためのものだ",
+        "next": "sth"
+    },
+    {
+        "subject": "It",
+        "category": "平叙文",
+        "en": "It's because of (sth)",
+        "ja": "～のせいだ",
+        "next": "sth"
+    },
+    {
+        "subject": "It",
+        "category": "平叙文",
+        "en": "It's on account of (sth)",
+        "ja": "～が理由である（文語的）",
+        "next": "sth"
+    },
+    {
+        "subject": "It",
+        "category": "平叙文",
+        "en": "It's from (sth)（感覚的）",
+        "ja": "～からだ",
+        "next": "sth"
+    },
+    {
+        "subject": "It",
+        "category": "平叙文",
+        "en": "It's due to (sth)",
+        "ja": "～が原因である（説明的）",
+        "next": "sth"
+    },
+    {
+        "subject": "It",
+        "category": "平叙文",
+        "en": "It's thanks to (sth)",
+        "ja": "～のおかげだ",
+        "next": "sth"
+    },
 
 
 
