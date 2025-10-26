@@ -146,6 +146,13 @@
     {
         "subject": "I",
         "category": "平叙文",
+        "en": "I hardly (do)",
+        "ja": "ほとんど～しない",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "category": "平叙文",
         "en": "I rarely (do)",
         "ja": "めったに～しない",
         "next": "do"
