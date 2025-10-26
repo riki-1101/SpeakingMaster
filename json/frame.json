@@ -1402,7 +1402,7 @@
     {
         "subject": "There",
         "category": "平叙文",
-        "en": "There is (sth)",
+        "en": "There's (sth)",
         "ja": "～がある（単数）",
         "next": "sth"
     },
@@ -1411,6 +1411,20 @@
         "category": "平叙文",
         "en": "There are (sths)",
         "ja": "～がある（複数）",
+        "next": "sth"
+    },
+    {
+        "subject": "There",
+        "category": "平叙文",
+        "en": "There is no (U-sth)",
+        "ja": "～がない（不可算）",
+        "next": "sth"
+    },
+    {
+        "subject": "There",
+        "category": "平叙文",
+        "en": "There are no (C-sth)",
+        "ja": "～がない（可算）",
         "next": "sth"
     },
     {
