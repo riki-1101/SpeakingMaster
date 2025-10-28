@@ -871,7 +871,7 @@
     {
         "subject": "You",
         "category": "平叙文",
-        "en": "You're not supposed (do)",
+        "en": "You're not supposed to (do)",
         "ja": "～してはいけないことになっているよ",
         "next": "do"
     },
@@ -1337,8 +1337,8 @@
     {
         "subject": "It",
         "category": "平叙文",
-        "en": "It's from (sth)（感覚的）",
-        "ja": "～からだ",
+        "en": "It's from (sth)",
+        "ja": "～からだ（感覚的）",
         "next": "sth"
     },
     {
