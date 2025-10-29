@@ -6,7 +6,7 @@
     <title>Frame</title>
     <link rel="stylesheet" href="../style.css">
 </head>
-<body>
+<body id="step1">
     <header id="header"></header>
     <main class="frame-app">
         <input type="radio" name="category" id="平叙文" value="平叙文" checked>
@@ -18,10 +18,14 @@
         <input type="radio" name="category" id="感嘆文" value="感嘆文">
         <label for="感嘆文">感嘆文</label>
         
+        <button type="button" name="ja" id="ja-btn">ja</button>
+
         <div id="card">
-            <div id="japanese"></div>
             <div id="english"></div>
+            <div id="japanese"></div>
         </div>
+
+        <ul id="ex-list"></ul>
     </main>
     <footer id="footer"></footer>
     <script src="../js/header.js"></script>
