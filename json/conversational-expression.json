@@ -1,0 +1,267 @@
+[
+    {
+        "category": "返答",
+        "en": "Absolutely.",
+        "ja": "まったくその通り。"
+    },
+    {
+        "category": "返答",
+        "en": "Cool!",
+        "ja": "おお、いいね！すごいじゃん！"
+    },
+    {
+        "category": "返答",
+        "en": "Either is fine.",
+        "ja": "どっちでもいいよ。"
+    },
+    {
+        "category": "返答",
+        "en": "Exactly.",
+        "ja": "まさに。"
+    },
+    {
+        "category": "返答",
+        "en": "Fair enough.",
+        "ja": "それも一理あるね。納得したよ。"
+    },
+    {
+        "category": "返答",
+        "en": "For sure.",
+        "ja": "絶対そう。"
+    },
+    {
+        "category": "返答",
+        "en": "Get out of here.",
+        "ja": "うそでしょ！信じられない！"
+    },
+    {
+        "category": "返答",
+        "en": "Go ahead.",
+        "ja": "どうぞ。"
+    },
+    {
+        "category": "返答",
+        "en": "Good for you.",
+        "ja": "よかったね、おめでとう。"
+    },
+    {
+        "category": "返答",
+        "en": "Gotcha.",
+        "ja": "了解、わかったよ。"
+    },
+    {
+        "category": "返答",
+        "en": "I didn't know that.",
+        "ja": "知らなかったよ。"
+    },
+    {
+        "category": "返答",
+        "en": "I don't see why not.",
+        "ja": "問題ないと思うよ。"
+    },
+    {
+        "category": "返答",
+        "en": "I get your point.",
+        "ja": "言いたいことはわかるよ。"
+    },
+    {
+        "category": "返答",
+        "en": "I hear you.",
+        "ja": "わかるよ～。"
+    },
+    {
+        "category": "返答",
+        "en": "I know how you feel.",
+        "ja": "その気持ちわかるよ。"
+    },
+    {
+        "category": "返答",
+        "en": "I see.",
+        "ja": "なるほど。わかりました。"
+    },
+    {
+        "category": "返答",
+        "en": "I see what you mean.",
+        "ja": "言いたいことはわかるよ。"
+    },
+    {
+        "category": "返答",
+        "en": "I see what you're saying.",
+        "ja": "言っていることはわかるよ。"
+    },
+    {
+        "category": "返答",
+        "en": "I'd appreciate it.",
+        "ja": "ありがたいです。"
+    },
+    {
+        "category": "返答",
+        "en": "I'd be happy to.",
+        "ja": "喜んで。"
+    },
+    {
+        "category": "返答",
+        "en": "I'd love to.",
+        "ja": "喜んで。"
+    },
+    {
+        "category": "返答",
+        "en": "I'd rather not.",
+        "ja": "遠慮します。"
+    },
+    {
+        "category": "返答",
+        "en": "I'll go ask him.",
+        "ja": "彼に聞いてくるよ。"
+    },
+    {
+        "category": "返答",
+        "en": "I'll leave it up to you.",
+        "ja": "君に任せるよ。"
+    },
+    {
+        "category": "返答",
+        "en": "I'll let you know later.",
+        "ja": "後で伝えるよ。"
+    },
+    {
+        "category": "返答",
+        "en": "I'm not sure about that.",
+        "ja": "それについてはよくわかりません。"
+    },
+    {
+        "category": "返答",
+        "en": "I'm with you.",
+        "ja": "同感です。"
+    },
+    {
+        "category": "返答",
+        "en": "Interesting.",
+        "ja": "面白いね。"
+    },
+    {
+        "category": "返答",
+        "en": "It couldn't be better.",
+        "ja": "これ以上ないくらい最高だ。"
+    },
+    {
+        "category": "返答",
+        "en": "It couldn't have been better.",
+        "ja": "これ以上ないくらい最高だったよ。"
+    },  
+    {
+        "category": "返答",
+        "en": "It depends on the weather.",
+        "ja": "お天気によります。"
+    },
+    {
+        "category": "返答",
+        "en": "It's fine.",
+        "ja": "けっこうです。"
+    },
+    {
+        "category": "返答",
+        "en": "It's OK.",
+        "ja": "大丈夫だよ。"
+    },
+    {
+        "category": "返答",
+        "en": "It's up to you.",
+        "ja": "君次第だよ。任せるよ。"
+    },
+    {
+        "category": "返答",
+        "en": "Let me check with my boss.",
+        "ja": "上司に確認させてください。"
+    },
+    {
+        "category": "返答",
+        "en": "No kidding!",
+        "ja": "冗談でしょ！"
+    },
+    {
+        "category": "返答",
+        "en": "No way!",
+        "ja": "嫌だよ！"
+    },
+    {
+        "category": "返答",
+        "en": "Really?",
+        "ja": "ほんとに？"
+    },
+    {
+        "category": "返答",
+        "en": "Right.",
+        "ja": "そうだね。"
+    },
+    {
+        "category": "返答",
+        "en": "Seriously?",
+        "ja": "まじで？"
+    },
+    {
+        "category": "返答",
+        "en": "Thanks.",
+        "ja": "ありがとう。"
+    },
+    {
+        "category": "返答",
+        "en": "That makes sense.",
+        "ja": "なるほど、納得したよ。"
+    },
+    {
+        "category": "返答",
+        "en": "That would be appreciated.",
+        "ja": "そうしてもらえるとありがたいです。"
+    },
+    {
+        "category": "返答",
+        "en": "That'll be a great help.",
+        "ja": "そうしてもらえるととても助かります。"
+    },
+    {
+        "category": "返答",
+        "en": "That's a fair point.",
+        "ja": "確かにそうだね。"
+    },
+    {
+        "category": "返答",
+        "en": "That's crazy.",
+        "ja": "やばいね。"
+    },
+    {
+        "category": "返答",
+        "en": "That's news to me.",
+        "ja": "それは知らなかったよ。"
+    },
+    {
+        "category": "返答",
+        "en": "That's surprising.",
+        "ja": "それは意外だね。"
+    },
+    {
+        "category": "返答",
+        "en": "That's true.",
+        "ja": "確かにそうだね。"
+    },
+    {
+        "category": "返答",
+        "en": "Totally.",
+        "ja": "ほんとにそう。"
+    },
+    {
+        "category": "返答",
+        "en": "True that.",
+        "ja": "それな。"
+    },
+    {
+        "category": "返答",
+        "en": "What great news!",
+        "ja": "素晴らしい知らせだね！"
+    },
+    {
+        "category": "返答",
+        "en": "You're kidding!",
+        "ja": "冗談でしょ！"
+    }
+]
