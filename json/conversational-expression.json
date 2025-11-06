@@ -6,8 +6,38 @@
     },
     {
         "category": "返答",
+        "en": "Anything will do.",
+        "ja": "何でもいいですよ。"
+    },
+    {
+        "category": "返答",
+        "en": "By all means.",
+        "ja": "もちろん、どうぞ。"
+    },
+    {
+        "category": "返答",
+        "en": "Calm down.",
+        "ja": "落ち着いて。"
+    },
+    {
+        "category": "返答",
+        "en": "Certainly.",
+        "ja": "かしこまりました。"
+    },
+    {
+        "category": "返答",
+        "en": "Congratulations!",
+        "ja": "よく頑張ったね、おめでとう！"
+    },
+    {
+        "category": "返答",
         "en": "Cool!",
         "ja": "おお、いいね！すごいじゃん！"
+    },
+    {
+        "category": "返答",
+        "en": "Don't worry.",
+        "ja": "心配しないで。"
     },
     {
         "category": "返答",
@@ -46,6 +76,11 @@
     },
     {
         "category": "返答",
+        "en": "Good luck!",
+        "ja": "頑張って！"
+    },
+    {
+        "category": "返答",
         "en": "Gotcha.",
         "ja": "了解、わかったよ。"
     },
@@ -68,6 +103,16 @@
         "category": "返答",
         "en": "I hear you.",
         "ja": "わかるよ～。"
+    },
+    {
+        "category": "返答",
+        "en": "I have no idea.",
+        "ja": "分かりません。"
+    },
+    {
+        "category": "返答",
+        "en": "I have to go now.",
+        "ja": "もう行かないといけない。"
     },
     {
         "category": "返答",
@@ -126,8 +171,18 @@
     },
     {
         "category": "返答",
+        "en": "I'm just looking.",
+        "ja": "見ているだけです。"
+    },
+    {
+        "category": "返答",
         "en": "I'm not sure about that.",
         "ja": "それについてはよくわかりません。"
+    },
+    {
+        "category": "返答",
+        "en": "I'm sorry to hear that.",
+        "ja": "それはお気の毒ですね"
     },
     {
         "category": "返答",
@@ -171,8 +226,18 @@
     },
     {
         "category": "返答",
+        "en": "Just a minute.",
+        "ja": "ちょっと待ってね。"
+    },
+    {
+        "category": "返答",
         "en": "Let me check with my boss.",
         "ja": "上司に確認させてください。"
+    },
+    {
+        "category": "返答",
+        "en": "My pleasure.",
+        "ja": "どういたしまして。"
     },
     {
         "category": "返答",
@@ -181,8 +246,28 @@
     },
     {
         "category": "返答",
+        "en": "No problem.",
+        "ja": "問題ないよ。"
+    },
+    {
+        "category": "返答",
         "en": "No way!",
         "ja": "嫌だよ！"
+    },
+    {
+        "category": "返答",
+        "en": "Not really.",
+        "ja": "あまりそうじゃないかな。"
+    },
+    {
+        "category": "返答",
+        "en": "Nothing special.",
+        "ja": "特に何も。"
+    },
+    {
+        "category": "返答",
+        "en": "Of course.",
+        "ja": "もちろん。"
     },
     {
         "category": "返答",
@@ -201,8 +286,18 @@
     },
     {
         "category": "返答",
+        "en": "So what?",
+        "ja": "だから何？"
+    },
+    {
+        "category": "返答",
         "en": "Thanks.",
         "ja": "ありがとう。"
+    },
+    {
+        "category": "返答",
+        "en": "Thanks anyway.",
+        "ja": "でもありがとう。"
     },
     {
         "category": "返答",
@@ -263,5 +358,100 @@
         "category": "返答",
         "en": "You're kidding!",
         "ja": "冗談でしょ！"
+    },
+
+
+
+
+
+    {
+        "category": "質問",
+        "en": "Anything else?",
+        "ja": "他にありますか？"
+    },
+    {
+        "category": "質問",
+        "en": "Can I try it on?",
+        "ja": "試着してもいいですか？"
+    },
+    {
+        "category": "質問",
+        "en": "May I ask you a favor?",
+        "ja": "お願いがあるんだけど？"
+    },
+
+
+
+
+
+
+    {
+        "category": "発信",
+        "en": "Guess what!",
+        "ja": "ねえねえ聞いて！"
+    },
+    {
+        "category": "発信",
+        "en": "I'm home!",
+        "ja": "ただいま！（姿が見えないとき）"
+    },
+    {
+        "category": "発信",
+        "en": "It’s been a while.",
+        "ja": "久しぶりだね。"
+    },
+
+
+
+
+    {
+        "category": "電話",
+        "en": "Hold on, please.",
+        "ja": "そのまま切らずにお待ちください。"
+    },
+    {
+        "category": "電話",
+        "en": "May I leave a message?.",
+        "ja": "伝言をお願いできますか？"
+    },
+    {
+        "category": "電話",
+        "en": "May I speak to (sb)?.",
+        "ja": "～さんはいますか？"
+    },
+    {
+        "category": "電話",
+        "en": "May I take a message?.",
+        "ja": "ご伝言を承りましょうか？"
+    },
+
+
+
+
+
+    {
+        "category": "その他",
+        "en": "Have a good day.",
+        "ja": "良い一日を。"
+    },
+    {
+        "category": "その他",
+        "en": "Please make yourself at home.",
+        "ja": "楽にしてくださいね。"
+    },
+    {
+        "category": "その他",
+        "en": "Take care.",
+        "ja": "お気をつけて。"
+    },
+    {
+        "category": "その他",
+        "en": "Take it easy.",
+        "ja": "気楽にね。"
+    },
+    {
+        "category": "その他",
+        "en": "Take your time.",
+        "ja": "どうぞごゆっくり。"
     }
 ]
