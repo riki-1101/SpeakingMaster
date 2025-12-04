@@ -51,6 +51,11 @@
     },
     {
         "category": "When?",
+        "en": "at the earliest",
+        "ja": "最も早くて"
+    },
+    {
+        "category": "When?",
         "en": "at the same time",
         "ja": "同時に"
     },
@@ -131,6 +136,11 @@
     },
     {
         "category": "When?",
+        "en": "for the time being",
+        "ja": "当面の間"
+    },
+    {
+        "category": "When?",
         "en": "immediately",
         "ja": "ただちに"
     },
@@ -148,6 +158,11 @@
         "category": "When?",
         "en": "in the meantime",
         "ja": "その間に"
+    },
+    {
+        "category": "When?",
+        "en": "in years to come",
+        "ja": "今後数年間に"
     },
     {
         "category": "When?",
@@ -183,6 +198,11 @@
         "category": "When?",
         "en": "soon",
         "ja": "すぐに"
+    },
+    {
+        "category": "When?",
+        "en": "starting next month",
+        "ja": "来月より"
     },
     {
         "category": "When?",
@@ -716,6 +736,11 @@
         "category": "What for?",
         "en": "lest he be late for the meeting",
         "ja": "会議に遅れないように（仮定法現在・古風）"
+    },
+    {
+        "category": "What for?",
+        "en": "on a quest for inspiration",
+        "ja": "インスピレーションを探し求めて"
     },
     {
         "category": "What for?",
@@ -1259,6 +1284,11 @@
     },
     {
         "category": "Connectors",
+        "en": "in such cases",
+        "ja": "そのような場合には"
+    },
+    {
+        "category": "Connectors",
         "en": "in summary",
         "ja": "要約すると"
     },
@@ -1271,6 +1301,11 @@
         "category": "Connectors",
         "en": "in that she can speak English",
         "ja": "彼女は英語が話せるという点で"
+    },
+    {
+        "category": "Connectors",
+        "en": "in this case",
+        "ja": "この場合"
     },
     {
         "category": "Connectors",
@@ -1371,6 +1406,11 @@
         "category": "Connectors",
         "en": "to make matters worse",
         "ja": "さらに悪いことには"
+    },
+    {
+        "category": "Connectors",
+        "en": "to name a few",
+        "ja": "いくつか挙げると"
     },
     {
         "category": "Connectors",
