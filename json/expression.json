@@ -758,6 +758,12 @@
     {
         "tense": "過去",
         "category": "You",
+        "en": "You shouldn't (do)",
+        "ja": "～しない方がいいよ"
+    },
+    {
+        "tense": "過去",
+        "category": "You",
         "en": "You might want to (do)",
         "ja": "～した方がいいかもよ"
     },
@@ -812,7 +818,7 @@
     {
         "tense": "過去",
         "category": "You",
-        "en": "All you  have to do is (do)",
+        "en": "All you have to do is (do)",
         "ja": "～しさえすればいいよ"
     },
     {
