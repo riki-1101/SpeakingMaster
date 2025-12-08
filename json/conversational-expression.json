@@ -306,6 +306,11 @@
     },
     {
         "category": "返答",
+        "en": "That works out fine.",
+        "ja": "それで大丈夫だよ。OKだよ。"
+    },
+    {
+        "category": "返答",
         "en": "That would be appreciated.",
         "ja": "そうしてもらえるとありがたいです。"
     },
