@@ -281,6 +281,13 @@
     {
         "subject": "I",
         "category": "平叙文",
+        "en": "I'd (do)",
+        "ja": "～するだろう",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "category": "平叙文",
         "en": "I would probably (do)",
         "ja": "多分～するよ",
         "next": "do"
@@ -859,6 +866,13 @@
         "category": "平叙文",
         "en": "You should (do)",
         "ja": "～したほうがいいよ",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "category": "平叙文",
+        "en": "You shouldn't (do)",
+        "ja": "～しないほうがいいよ",
         "next": "do"
     },
     {
