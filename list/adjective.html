@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Adjective</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+    <header id="header"></header>
+    <main>
+        <h1>Adjective</h1>
+        <div id="radio">
+            <input type="radio" name="category" id="天気" value="天気" checked>
+            <label for="天気">天気</label>
+            <input type="radio" name="category" id="感情" value="感情">
+            <label for="感情">感情</label>
+            <input type="radio" name="category" id="状況・環境" value="状況・環境">
+            <label for="状況・環境">状況・環境</label>
+            <input type="radio" name="category" id="程度" value="程度">
+            <label for="程度">程度</label>
+            <input type="radio" name="category" id="構文" value="構文">
+            <label for="構文">構文</label>
+        </div>
+        <ul id="phrase-list"></ul>
+        <div id="popup">
+            <div class="modal-content">
+                <p id="en"></p>
+                <p id="ja"></p>
+                <ul id="example"></ul>
+            </div>
+        </div>
+    </main>
+    <footer id="footer"></footer>
+    <script src="../js/header.js"></script>
+    <script src="../js/footer.js"></script>
+    <script src="../js/script.js"></script>
+    <script src="../js/scan.js"></script>
+</body>
+</html>

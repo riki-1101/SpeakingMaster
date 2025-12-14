@@ -1,0 +1,480 @@
+[
+    {
+        "category": "天気",
+        "en": "cloudy",
+        "ja": "曇った"
+    },
+    {
+        "category": "天気",
+        "en": "cool",
+        "ja": "涼しい"
+    },
+    {
+        "category": "天気",
+        "en": "drizzling",
+        "ja": "小雨が降っている"
+    },
+    {
+        "category": "天気",
+        "en": "dry",
+        "ja": "乾燥している"
+    },
+    {
+        "category": "天気",
+        "en": "foggy",
+        "ja": "霧の"
+    },
+    {
+        "category": "天気",
+        "en": "freezing",
+        "ja": "凍えるように寒い"
+    },
+    {
+        "category": "天気",
+        "en": "hot",
+        "ja": "暑い"
+    },
+    {
+        "category": "天気",
+        "en": "humid",
+        "ja": "湿気が多い"
+    },
+    {
+        "category": "天気",
+        "en": "lightning",
+        "ja": "雷が鳴っている"
+    },
+    {
+        "category": "天気",
+        "en": "overcast",
+        "ja": "どんよりしている"
+    },
+    {
+        "category": "天気",
+        "en": "rainy",
+        "ja": "雨の"
+    },
+    {
+        "category": "天気",
+        "en": "scorching",
+        "ja": "焼けるように暑い"
+    },
+    {
+        "category": "天気",
+        "en": "snowy",
+        "ja": "雪の"
+    },
+    {
+        "category": "天気",
+        "en": "stormy",
+        "ja": "嵐の"
+    },
+    {
+        "category": "天気",
+        "en": "sunny",
+        "ja": "晴れの"
+    },
+    {
+        "category": "天気",
+        "en": "thundering",
+        "ja": "雷が鳴っている"
+    },
+    {
+        "category": "天気",
+        "en": "warm",
+        "ja": "暖かい"
+    },
+    {
+        "category": "天気",
+        "en": "windy",
+        "ja": "風の強い"
+    },
+    {
+        "category": "天気",
+        "en": "pleasant",
+        "ja": "心地よい天気"
+    },
+    {
+        "category": "天気",
+        "en": "cold",
+        "ja": "寒い"
+    },
+
+
+
+
+
+    {
+        "category": "時間・スケジュール",
+        "en": "busy",
+        "ja": "忙しい"
+    },
+    {
+        "category": "時間・スケジュール",
+        "en": "canceled",
+        "ja": "キャンセルされた"
+    },
+    {
+        "category": "時間・スケジュール",
+        "en": "closed",
+        "ja": "閉まっている"
+    },
+    {
+        "category": "時間・スケジュール",
+        "en": "early",
+        "ja": "早い"
+    },
+    {
+        "category": "時間・スケジュール",
+        "en": "free",
+        "ja": "暇だ"
+    },
+    {
+        "category": "時間・スケジュール",
+        "en": "late",
+        "ja": "遅い"
+    },
+    {
+        "category": "時間・スケジュール",
+        "en": "next",
+        "ja": "次の"
+    },
+    {
+        "category": "時間・スケジュール",
+        "en": "open",
+        "ja": "開いている"
+    },
+    {
+        "category": "時間・スケジュール",
+        "en": "past",
+        "ja": "過ぎた"
+    },
+    {
+        "category": "時間・スケジュール",
+        "en": "scheduled",
+        "ja": "予定されている"
+    },
+    {
+        "category": "時間・スケジュール",
+        "en": "too late",
+        "ja": "もう遅い"
+    },
+    {
+        "category": "時間・スケジュール",
+        "en": "too soon",
+        "ja": "まだ早すぎる"
+    },
+
+
+
+
+
+    {
+        "category": "感情",
+        "en": "amazing",
+        "ja": "驚くべき"
+    },
+    {
+        "category": "感情",
+        "en": "boring",
+        "ja": "退屈だ"
+    },
+    {
+        "category": "感情",
+        "en": "disappointing",
+        "ja": "がっかりだ"
+    },
+    {
+        "category": "感情",
+        "en": "exciting",
+        "ja": "わくわくする"
+    },
+    {
+        "category": "感情",
+        "en": "fun",
+        "ja": "楽しい"
+    },
+    {
+        "category": "感情",
+        "en": "funny",
+        "ja": "面白い／おかしい"
+    },
+    {
+        "category": "感情",
+        "en": "good",
+        "ja": "良い"
+    },
+    {
+        "category": "感情",
+        "en": "interesting",
+        "ja": "面白い"
+    },
+    {
+        "category": "感情",
+        "en": "inspiring",
+        "ja": "感動する"
+    },
+    {
+        "category": "感情",
+        "en": "nice",
+        "ja": "素敵だ"
+    },
+    {
+        "category": "感情",
+        "en": "relaxing",
+        "ja": "くつろげる"
+    },
+    {
+        "category": "感情",
+        "en": "satisfying",
+        "ja": "満足だ"
+    },
+    {
+        "category": "感情",
+        "en": "stressful",
+        "ja": "ストレスだ"
+    },
+    {
+        "category": "感情",
+        "en": "surprising",
+        "ja": "驚きだ"
+    },
+    {
+        "category": "感情",
+        "en": "terrible",
+        "ja": "ひどい"
+    },
+    {
+        "category": "感情",
+        "en": "encouraging",
+        "ja": "励みになる"
+    },
+    {
+        "category": "感情",
+        "en": "confusing",
+        "ja": "混乱する"
+    },
+
+
+
+
+
+    {
+        "category": "状況・環境",
+        "en": "clean",
+        "ja": "きれいだ"
+    },
+    {
+        "category": "状況・環境",
+        "en": "crowded",
+        "ja": "混んでいる"
+    },
+    {
+        "category": "状況・環境",
+        "en": "dangerous",
+        "ja": "危険だ"
+    },
+    {
+        "category": "状況・環境",
+        "en": "difficult",
+        "ja": "難しい"
+    },
+    {
+        "category": "状況・環境",
+        "en": "easy",
+        "ja": "簡単だ"
+    },
+    {
+        "category": "状況・環境",
+        "en": "full",
+        "ja": "満員だ／いっぱいだ"
+    },
+    {
+        "category": "状況・環境",
+        "en": "important",
+        "ja": "重要だ"
+    },
+    {
+        "category": "状況・環境",
+        "en": "impossible",
+        "ja": "不可能だ"
+    },
+    {
+        "category": "状況・環境",
+        "en": "minor",
+        "ja": "軽い／小さな問題だ"
+    },
+    {
+        "category": "状況・環境",
+        "en": "necessary",
+        "ja": "必要だ"
+    },
+    {
+        "category": "状況・環境",
+        "en": "normal",
+        "ja": "普通だ"
+    },
+    {
+        "category": "状況・環境",
+        "en": "safe",
+        "ja": "安全だ"
+    },
+    {
+        "category": "状況・環境",
+        "en": "serious",
+        "ja": "深刻だ"
+    },
+    {
+        "category": "状況・環境",
+        "en": "unusual",
+        "ja": "珍しい／普通でない"
+    },
+    {
+        "category": "状況・環境",
+        "en": "messy",
+        "ja": "散らかっている"
+    },
+    {
+        "category": "状況・環境",
+        "en": "loud",
+        "ja": "うるさい"
+    },
+    {
+        "category": "状況・環境",
+        "en": "quiet",
+        "ja": "静かだ"
+    },
+    
+
+
+
+
+    {
+        "category": "程度",
+        "en": "big",
+        "ja": "大きい"
+    },
+    {
+        "category": "程度",
+        "en": "close",
+        "ja": "近い"
+    },
+    {
+        "category": "程度",
+        "en": "expensive",
+        "ja": "高い"
+    },
+    {
+        "category": "程度",
+        "en": "fast",
+        "ja": "速い"
+    },
+    {
+        "category": "程度",
+        "en": "far",
+        "ja": "遠い"
+    },
+    {
+        "category": "程度",
+        "en": "heavy",
+        "ja": "重い"
+    },
+    {
+        "category": "程度",
+        "en": "high",
+        "ja": "高い"
+    },
+    {
+        "category": "程度",
+        "en": "light",
+        "ja": "軽い"
+    },
+    {
+        "category": "程度",
+        "en": "long",
+        "ja": "長い"
+    },
+    {
+        "category": "程度",
+        "en": "low",
+        "ja": "低い"
+    },
+    {
+        "category": "程度",
+        "en": "short",
+        "ja": "短い"
+    },
+    {
+        "category": "程度",
+        "en": "slow",
+        "ja": "遅い"
+    },
+    {
+        "category": "程度",
+        "en": "small",
+        "ja": "小さい"
+    },
+    {
+        "category": "程度",
+        "en": "strong",
+        "ja": "強い"
+    },
+    {
+        "category": "程度",
+        "en": "weak",
+        "ja": "弱い"
+    },
+    {
+        "category": "程度",
+        "en": "dirty",
+        "ja": "汚い"
+    },
+    {
+        "category": "程度",
+        "en": "healthy",
+        "ja": "健康的だ"
+    },
+    {
+        "category": "程度",
+        "en": "unhealthy",
+        "ja": "不健康だ"
+    },
+
+
+
+    {
+        "category": "構文",
+        "en": "opposed to (doing)",
+        "ja": "～するのに反対である"
+    },
+    {
+        "category": "構文",
+        "en": "worth (doing)",
+        "ja": "～する価値がある"
+    },
+    {
+        "category": "構文",
+        "en": "used to (doing)",
+        "ja": "～するのに慣れている"
+    },
+    {
+        "category": "構文",
+        "en": "too (adj) to (do)",
+        "ja": "～するには(adj)すぎる"
+    },
+    {
+        "category": "構文",
+        "en": "(adj) enough to (do)",
+        "ja": "～するほど十分(adj)"
+    },
+    {
+        "category": "構文",
+        "en": "so (adj) as to (do)",
+        "ja": "～するほど(adj)だ"
+    },
+    {
+        "category": "構文",
+        "en": "so (adj) that (SV)",
+        "ja": "とても(adj)なので(SV)"
+    }
+]
