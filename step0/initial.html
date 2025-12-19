@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Frame</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+    <header id="header"></header>
+    <main class="frame-app">
+        <input type="radio" name="category" id="認識" value="認識" checked>
+        <label for="認識">認識</label>
+        <input type="radio" name="category" id="意見" value="意見">
+        <label for="意見">意見</label>
+        <input type="radio" name="category" id="感情" value="感情">
+        <label for="感情">感情</label>
+        <input type="radio" name="category" id="発言" value="発言">
+        <label for="発言">発言</label>
+        <input type="radio" name="category" id="評価" value="評価">
+        <label for="評価">評価</label>
+
+        <div id="card">
+            <div id="english"></div>
+            <div id="japanese"></div>
+        </div>
+
+        <div class="controls">
+            <label>
+                表示間隔：
+                <select id="intervalSelect">
+                    <option value="3000">short</option>
+                    <option value="4000">medium</option>
+                    <option value="5000">long</option>
+                </select>
+            </label>
+            <button type="button" id="PlayPause">▶</button>
+            <button type="button" name="ja" id="ja-btn">ja</button>
+        </div>
+    </main>
+    <footer id="footer"></footer>
+    <script src="../js/header.js"></script>
+    <script src="../js/footer.js"></script>
+    <script src="../js/script.js"></script>
+    <script src="../js/step0.js"></script>
+</body>
+</html>

@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Phrasal Verb Replay</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+    <header id="header"></header>
+    <main class="frame-app">
+        <div id="card">
+            <div id="english"></div>
+            <div id="japanese"></div>
+        </div>
+
+        <div class="controls">
+            <label>
+                表示間隔：
+                <select id="intervalSelect">
+                    <option value="3000">short</option>
+                    <option value="4000">medium</option>
+                    <option value="5000">long</option>
+                </select>
+            </label>
+
+            <button type="button" id="PlayPause">▶</button>
+        </div>
+    </main>
+    <footer id="footer"></footer>
+    <script src="../js/header.js"></script>
+    <script src="../js/footer.js"></script>
+    <script src="../js/script.js"></script>
+    <script>
+        const englishDiv = document.getElementById("english");
+        const japaneseDiv = document.getElementById("japanese");
+        const playPauseButton = document.getElementById("PlayPause");
+        const intervalSelect = document.getElementById("intervalSelect");
+
+        let data = [];
+        let timer = null;
+        let index = 0;
+        let isPlaying = false;
+
+        /* JSON読み込み */
+        fetch("json/get.json")
+            .then(response => response.json())
+            .then(json => {
+                data = json;
+            })
+            .catch(error => {
+                console.error("JSONの読み込みに失敗しました", error);
+            });
+
+        playPauseButton.addEventListener("click", () => {
+            if (data.length === 0) return;
+
+            if (!isPlaying) {
+                startPlayback();
+            } else {
+                pausePlayback();
+            }
+        });
+
+        function startPlayback() {
+            isPlaying = true;
+            playPauseButton.textContent = "⏸";
+
+            const interval = Number(intervalSelect.value);
+
+            // 初回 or 再開時に表示
+            showCard(index);
+
+            timer = setInterval(() => {
+                index++;
+                if (index >= data.length) {
+                    stopPlayback();
+                    return;
+                }
+                showCard(index);
+            }, interval);
+        }
+
+        function pausePlayback() {
+            isPlaying = false;
+            playPauseButton.textContent = "▶";
+
+            clearInterval(timer);
+            timer = null;
+
+            // 音声も止める
+            speechSynthesis.cancel();
+        }
+
+        function stopPlayback() {
+            pausePlayback();
+            index = 0;
+        }
+
+        function showCard(i) {
+            const phrase = data[i];
+            englishDiv.textContent = phrase.en;
+            japaneseDiv.textContent = phrase.ja;
+            speakEnglish(phrase.en);
+        }
+
+        function speakEnglish(text) {
+            speechSynthesis.cancel();
+
+            const utterance = new SpeechSynthesisUtterance(text);
+            utterance.lang = localStorage.getItem("selectedCountry") || "en-US";
+            utterance.rate = 1.0;
+
+            speechSynthesis.speak(utterance);
+        }
+    </script>
+</body>
+</html>
