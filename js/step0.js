@@ -99,6 +99,7 @@ function showCard(i) {
 
 function speakEnglish(text) {
     speechSynthesis.cancel();
+    text = text.replace(/(\(.*?\)|\[.*?\])/g, '').trim();
     const utterance = new SpeechSynthesisUtterance(text);
     utterance.lang = localStorage.getItem("selectedCountry") || "en-US";
     utterance.rate = 1.0;
