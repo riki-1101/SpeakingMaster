@@ -43,7 +43,8 @@
         let isPlaying = false;
 
         /* JSON読み込み */
-        fetch("json/get.json")
+        const verb = localStorage.getItem("selectedVerb");
+        fetch(`json/${verb}.json`)
             .then(response => response.json())
             .then(json => {
                 data = json;

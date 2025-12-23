@@ -9,6 +9,24 @@
     },
 
     {
+        "en": "get ahead in life",
+        "ja": "人生で成功する"
+    },
+
+    {
+        "en": "get around the city",
+        "ja": "街を歩き回る"
+    },
+    {
+        "en": "get around the problem",
+        "ja": "問題をうまく回避する"
+    },
+
+    {
+        "en": "get away",
+        "ja": "逃げる"
+    },
+    {
         "en": "get away for the weekend",
         "ja": "週末にどこかへ出かける"
     },
@@ -20,6 +38,14 @@
         "en": "get away from danger",
         "ja": "危険から逃れる"
     },
+    {
+        "en": "get away to the countryside",
+        "ja": "田舎へ出かける"
+    },
+    {
+        "en": "get away with cheating",
+        "ja": "カンニングをしてばれずに済む"
+    },
 
     {
         "en": "get back home",
@@ -28,6 +54,10 @@
     {
         "en": "get back to work",
         "ja": "仕事に戻る"
+    },
+    {
+        "en": "get back to you",
+        "ja": "あとで連絡する"
     },
     {
         "en": "get back the money",
@@ -39,8 +69,8 @@
         "ja": "少しのお金でなんとかやっていく"
     },
     {
-        "en": "get by in English",
-        "ja": "英語でなんとかやっていく"
+        "en": "get by with basic English",
+        "ja": "基本的な英語でなんとかやっていく"
     },
 
     {
@@ -54,6 +84,11 @@
     {
         "en": "get in trouble",
         "ja": "トラブルに巻き込まれる"
+    },
+
+    {
+        "en": "get into the habit",
+        "ja": "習慣になる"
     },
 
     {
@@ -78,6 +113,19 @@
         "ja": "他人とうまくやっていく"
     },
 
+    {
+        "en": "get on in life",
+        "ja": "出世する"
+    },
+
+    {
+        "en": "get out of bed",
+        "ja": "ベッドから起きる、布団から出る"
+    },
+    {
+        "en": "get out of hand",
+        "ja": "手に負えなくなる"
+    },
     {
         "en": "get out of the room",
         "ja": "部屋から出る"
@@ -128,6 +176,10 @@
     {
         "en": "get through the exam",
         "ja": "試験を乗り切る"
+    },
+    {
+        "en": "get through the work",
+        "ja": "仕事を終える"
     },
 
     {
