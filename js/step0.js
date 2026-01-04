@@ -1,6 +1,6 @@
 const englishDiv = document.getElementById("english");
 const japaneseDiv = document.getElementById("japanese");
-const playPauseButton = document.getElementById("PlayPause");
+const playPause = document.getElementById("PlayPause");
 const intervalSelect = document.getElementById("intervalSelect");
 
 let allData = [];     // JSON全部
@@ -21,65 +21,66 @@ fetch(`../json/${fileName}.json`)
         console.error("JSONの読み込みに失敗しました", error);
     });
 
-
 const categoryRadios = document.querySelectorAll('input[name="category"]');
 categoryRadios.forEach(radio => {
     radio.addEventListener("change", () => {
         stopPlayback();        // 再生中なら止める
+        playPause.checked = false;
         filterByCategory();    // データを絞り直す
     });
 });
 
-
-playPauseButton.addEventListener("click", () => {
-    if (data.length === 0) return;
-
-    if (!isPlaying) {
-        startPlayback();
+playPause.addEventListener("change", () => {
+    if (data.length === 0) {
+        playPause.checked = false;
+        return;
     }
-    else {
+    if (playPause.checked) {
+        startPlayback();
+    } else {
         pausePlayback();
     }
 });
-
 
 function filterByCategory() {
     const selected = document.querySelector('input[name="category"]:checked').value;
     data = allData.filter(item => item.category === selected);
     index = 0;
-    if (data.length > 0) {
-        showCard(index);
-    }
-    else {
-        englishDiv.textContent = "";
-        japaneseDiv.textContent = "";
-    }
+    englishDiv.textContent = "";
+    japaneseDiv.textContent = "";
 }
 
+playPause.addEventListener("change", () => {
+    if (data.length === 0) {
+        playPause.checked = false;
+        return;
+    }
+    if (playPause.checked) {
+        startPlayback();
+    } else {
+        pausePlayback();
+    }
+});
 
-// 開始動作
 function startPlayback() {
+    if (isPlaying) return;
     isPlaying = true;
-    playPauseButton.textContent = "⏸";
     const interval = Number(intervalSelect.value);
-
-    // 初回 or 再開時に表示
-    showCard(index);
-
+    showCard(index);  // 初回 or 再開時に表示
     timer = setInterval(() => {
         index++;
         if (index >= data.length) {
             stopPlayback();
+            playPause.checked = false; // 最後まで行ったらOFF
             return;
         }
         showCard(index);
     }, interval);
 }
 
-// 停止動作
 function pausePlayback() {
+    if (!isPlaying) return;
     isPlaying = false;
-    playPauseButton.textContent = "▶";
     clearInterval(timer);
     timer = null;
     speechSynthesis.cancel();  // 音声も止める
@@ -92,8 +93,11 @@ function stopPlayback() {
 
 function showCard(i) {
     const phrase = data[i];
-    englishDiv.textContent = phrase.en;
-    japaneseDiv.textContent = phrase.ja;
-    speakEnglish(phrase.en);
+    englishDiv.textContent = phrase.en;         // 英語を表示
+    japaneseDiv.textContent = "";               // 日本語を隠す
+    speakEnglish(phrase.en);                    // 音声再生
+    const delay = Number(delaySelect.value);    // 日本語を表示
+    jaTimer = setTimeout(() => {
+        japaneseDiv.textContent = phrase.ja;
+    }, delay);
 }
-

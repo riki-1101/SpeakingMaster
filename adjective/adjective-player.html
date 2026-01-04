@@ -33,7 +33,7 @@
             </label>
         </div>
         <label class="video_play_pause">
-            <input type="checkbox" id="PlayPause">
+            <input type="checkbox" id="PlayPause" aria-label="再生 / 一時停止">
             <span></span>
         </label>
     </main>
@@ -103,14 +103,14 @@
         }
 
         function showCard(i) {
-        const phrase = data[i];
-        englishDiv.textContent = phrase.en;         // 英語を表示
-        japaneseDiv.textContent = "";               // 日本語を隠す
-        speakEnglish(phrase.en);                    // 音声再生
-        const delay = Number(delaySelect.value);    // 日本語を表示
-        jaTimer = setTimeout(() => {
-            japaneseDiv.textContent = phrase.ja;
-        }, delay);
+            const phrase = data[i];
+            englishDiv.textContent = phrase.en;         // 英語を表示
+            japaneseDiv.textContent = "";               // 日本語を隠す
+            speakEnglish(phrase.en);                    // 音声再生
+            const delay = Number(delaySelect.value);    // 日本語を表示
+            jaTimer = setTimeout(() => {
+                japaneseDiv.textContent = phrase.ja;
+            }, delay);
         }
     </script>
 </body>

@@ -29,14 +29,24 @@
             <label>
                 表示間隔：
                 <select id="intervalSelect">
-                    <option value="3000">short</option>
-                    <option value="4000">medium</option>
-                    <option value="5000">long</option>
+                    <option value="2000">short</option>
+                    <option value="3000" selected>medium</option>
+                    <option value="4000">long</option>
                 </select>
             </label>
-            <button type="button" id="PlayPause">▶</button>
-            <button type="button" name="ja" id="ja-btn">ja</button>
+            <label>
+                日本語表示まで：
+                <select id="delaySelect">
+                    <option value="2000" selected>2s</option>
+                    <option value="3000">3s</option>
+                    <option value="4000">4s</option>
+                </select>
+            </label>
         </div>
+        <label class="video_play_pause">
+            <input type="checkbox" id="PlayPause" aria-label="再生 / 一時停止">
+            <span></span>
+        </label>
     </main>
     <footer id="footer"></footer>
     <script src="../js/header.js"></script>
