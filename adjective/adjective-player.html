@@ -31,9 +31,11 @@
                     <option value="4000">4s</option>
                 </select>
             </label>
-
-            <button type="button" id="PlayPause">▶</button>
         </div>
+        <label class="video_play_pause">
+            <input type="checkbox" id="PlayPause">
+            <span></span>
+        </label>
     </main>
     <footer id="footer"></footer>
     <script src="../js/header.js"></script>
@@ -42,7 +44,7 @@
     <script>
         const englishDiv = document.getElementById("english");
         const japaneseDiv = document.getElementById("japanese");
-        const playPauseButton = document.getElementById("PlayPause");
+        const playPause = document.getElementById("PlayPause");
         const intervalSelect = document.getElementById("intervalSelect");
 
         let data = [];
@@ -59,10 +61,12 @@
                 console.error("JSONの読み込みに失敗しました", error);
             });
 
-        playPauseButton.addEventListener("click", () => {
-            if (data.length === 0) return;
-
-            if (!isPlaying) {
+        playPause.addEventListener("change", () => {
+            if (data.length === 0) {
+                playPause.checked = false;
+                return;
+            }
+            if (playPause.checked) {
                 startPlayback();
             } else {
                 pausePlayback();
@@ -70,14 +74,15 @@
         });
 
         function startPlayback() {
+            if (isPlaying) return;
             isPlaying = true;
-            playPauseButton.textContent = "⏸";
             const interval = Number(intervalSelect.value);
             showCard(index);  // 初回 or 再開時に表示
             timer = setInterval(() => {
                 index++;
                 if (index >= data.length) {
                     stopPlayback();
+                    playPause.checked = false; // 最後まで行ったらOFF
                     return;
                 }
                 showCard(index);
@@ -85,8 +90,8 @@
         }
 
         function pausePlayback() {
+            if (!isPlaying) return;
             isPlaying = false;
-            playPauseButton.textContent = "▶";
             clearInterval(timer);
             timer = null;
             speechSynthesis.cancel();  // 音声も止める
