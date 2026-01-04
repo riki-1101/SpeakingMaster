@@ -23,6 +23,14 @@
                     <option value="4000">long</option>
                 </select>
             </label>
+            <label>
+                日本語表示まで：
+                <select id="delaySelect">
+                    <option value="2000" selected>2s</option>
+                    <option value="3000">3s</option>
+                    <option value="4000">4s</option>
+                </select>
+            </label>
 
             <button type="button" id="PlayPause">▶</button>
         </div>
@@ -42,7 +50,6 @@
         let index = 0;
         let isPlaying = false;
 
-        /* JSON読み込み */
         fetch(`adjective.json`)
             .then(response => response.json())
             .then(json => {
@@ -91,10 +98,14 @@
         }
 
         function showCard(i) {
-            const phrase = data[i];
-            englishDiv.textContent = phrase.en;
+        const phrase = data[i];
+        englishDiv.textContent = phrase.en;         // 英語を表示
+        japaneseDiv.textContent = "";               // 日本語を隠す
+        speakEnglish(phrase.en);                    // 音声再生
+        const delay = Number(delaySelect.value);    // 日本語を表示
+        jaTimer = setTimeout(() => {
             japaneseDiv.textContent = phrase.ja;
-            speakEnglish(phrase.en);
+        }, delay);
         }
     </script>
 </body>
