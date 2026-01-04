@@ -484,7 +484,7 @@ input[type="radio"]:checked + label {
     left: 0;
     right: 0;
     font-weight: bold;
-    font-size: 2.3em;
+    font-size: 2.2em;
 }
 #card #japanese {
     position: absolute;

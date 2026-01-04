@@ -1,7 +1,6 @@
 const englishDiv = document.getElementById("english");
 const japaneseDiv = document.getElementById("japanese");
 const playPause = document.getElementById("PlayPause");
-const intervalSelect = document.getElementById("intervalSelect");
 
 let allData = [];     // JSON全部
 let data = [];        // フィルタ後（再生に使う）
@@ -65,7 +64,6 @@ playPause.addEventListener("change", () => {
 function startPlayback() {
     if (isPlaying) return;
     isPlaying = true;
-    const interval = Number(intervalSelect.value);
     showCard(index);  // 初回 or 再開時に表示
     timer = setInterval(() => {
         index++;
@@ -75,7 +73,7 @@ function startPlayback() {
             return;
         }
         showCard(index);
-    }, interval);
+    }, 3000);  // 単語間隔：3s
 }
 
 function pausePlayback() {

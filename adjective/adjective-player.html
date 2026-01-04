@@ -16,19 +16,11 @@
 
         <div class="controls">
             <label>
-                表示間隔：
-                <select id="intervalSelect">
-                    <option value="2000">short</option>
-                    <option value="3000" selected>medium</option>
-                    <option value="4000">long</option>
-                </select>
-            </label>
-            <label>
                 日本語表示まで：
                 <select id="delaySelect">
+                    <option value="0">0s</option>
                     <option value="2000" selected>2s</option>
                     <option value="3000">3s</option>
-                    <option value="4000">4s</option>
                 </select>
             </label>
         </div>
@@ -45,7 +37,6 @@
         const englishDiv = document.getElementById("english");
         const japaneseDiv = document.getElementById("japanese");
         const playPause = document.getElementById("PlayPause");
-        const intervalSelect = document.getElementById("intervalSelect");
 
         let data = [];
         let timer = null;
@@ -76,7 +67,6 @@
         function startPlayback() {
             if (isPlaying) return;
             isPlaying = true;
-            const interval = Number(intervalSelect.value);
             showCard(index);  // 初回 or 再開時に表示
             timer = setInterval(() => {
                 index++;
@@ -86,7 +76,7 @@
                     return;
                 }
                 showCard(index);
-            }, interval);
+            }, 3000);  // 単語間隔：3s
         }
 
         function pausePlayback() {
