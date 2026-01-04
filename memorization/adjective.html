@@ -43,7 +43,7 @@
         let index = 0;
         let isPlaying = false;
 
-        fetch(`adjective.json`)
+        fetch(`../json/adjective.json`)
             .then(response => response.json())
             .then(json => {
                 data = json;

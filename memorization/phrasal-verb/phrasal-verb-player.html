@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Phrasal Verb Replay</title>
-    <link rel="stylesheet" href="../style.css">
+    <title>Phrasal Verb Player</title>
+    <link rel="stylesheet" href="../../style.css">
 </head>
 <body>
     <header id="header"></header>
@@ -16,26 +16,27 @@
 
         <div class="controls">
             <label>
-                表示間隔：
-                <select id="intervalSelect">
-                    <option value="3000">short</option>
-                    <option value="4000">medium</option>
-                    <option value="5000">long</option>
+                日本語表示まで：
+                <select id="delaySelect">
+                    <option value="0">0s</option>
+                    <option value="2000" selected>2s</option>
+                    <option value="3000">3s</option>
                 </select>
             </label>
-
-            <button type="button" id="PlayPause">▶</button>
         </div>
+        <label class="video_play_pause">
+            <input type="checkbox" id="PlayPause" aria-label="再生 / 一時停止">
+            <span></span>
+        </label>
     </main>
     <footer id="footer"></footer>
-    <script src="../js/header.js"></script>
-    <script src="../js/footer.js"></script>
-    <script src="../js/script.js"></script>
+    <script src="../../js/header.js"></script>
+    <script src="../../js/footer.js"></script>
+    <script src="../../js/script.js"></script>
     <script>
         const englishDiv = document.getElementById("english");
         const japaneseDiv = document.getElementById("japanese");
-        const playPauseButton = document.getElementById("PlayPause");
-        const intervalSelect = document.getElementById("intervalSelect");
+        const playPause = document.getElementById("PlayPause");
 
         let data = [];
         let timer = null;
@@ -53,10 +54,12 @@
                 console.error("JSONの読み込みに失敗しました", error);
             });
 
-        playPauseButton.addEventListener("click", () => {
-            if (data.length === 0) return;
-
-            if (!isPlaying) {
+        playPause.addEventListener("change", () => {
+            if (data.length === 0) {
+                playPause.checked = false;
+                return;
+            }
+            if (playPause.checked) {
                 startPlayback();
             } else {
                 pausePlayback();
@@ -64,33 +67,26 @@
         });
 
         function startPlayback() {
+            if (isPlaying) return;
             isPlaying = true;
-            playPauseButton.textContent = "⏸";
-
-            const interval = Number(intervalSelect.value);
-
-            // 初回 or 再開時に表示
-            showCard(index);
-
+            showCard(index);  // 初回 or 再開時に表示
             timer = setInterval(() => {
                 index++;
                 if (index >= data.length) {
                     stopPlayback();
+                    playPause.checked = false; // 最後まで行ったらOFF
                     return;
                 }
                 showCard(index);
-            }, interval);
+            }, 3000);  // 単語間隔：3s
         }
 
         function pausePlayback() {
+            if (!isPlaying) return;
             isPlaying = false;
-            playPauseButton.textContent = "▶";
-
             clearInterval(timer);
             timer = null;
-
-            // 音声も止める
-            speechSynthesis.cancel();
+            speechSynthesis.cancel();  // 音声も止める
         }
 
         function stopPlayback() {
@@ -100,19 +96,13 @@
 
         function showCard(i) {
             const phrase = data[i];
-            englishDiv.textContent = phrase.en;
-            japaneseDiv.textContent = phrase.ja;
-            speakEnglish(phrase.en);
-        }
-
-        function speakEnglish(text) {
-            speechSynthesis.cancel();
-
-            const utterance = new SpeechSynthesisUtterance(text);
-            utterance.lang = localStorage.getItem("selectedCountry") || "en-US";
-            utterance.rate = 1.0;
-
-            speechSynthesis.speak(utterance);
+            englishDiv.textContent = phrase.en;         // 英語を表示
+            japaneseDiv.textContent = "";               // 日本語を隠す
+            speakEnglish(phrase.en);                    // 音声再生
+            const delay = Number(delaySelect.value);    // 日本語を表示
+            jaTimer = setTimeout(() => {
+                japaneseDiv.textContent = phrase.ja;
+            }, delay);
         }
     </script>
 </body>
