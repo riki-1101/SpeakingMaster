@@ -1,5 +1,9 @@
 [
     {
+        "en": "accessible",
+        "ja": "到達できる、利用できる"
+    },
+    {
         "en": "accurate",
         "ja": "正確な"
     },
@@ -8,12 +12,20 @@
         "ja": "追加の"
     },
     {
+        "en": "administrative",
+        "ja": "管理の"
+    },
+    {
         "en": "advance",
         "ja": "事前の"
     },
     {
         "en": "advanced",
         "ja": "進んだ、先端の"
+    },
+    {
+        "en": "affordable",
+        "ja": "手頃な"
     },
     {
         "en": "aged",
@@ -96,6 +108,10 @@
         "ja": "一般的な、共通の"
     },
     {
+        "en": "competitive",
+        "ja": "競争力のある"
+    },
+    {
         "en": "complete",
         "ja": "完全な"
     },
@@ -106,6 +122,10 @@
     {
         "en": "complicated",
         "ja": "複雑な"
+    },
+    {
+        "en": "complimentary",
+        "ja": "無料の"
     },
     {
         "en": "confident",
@@ -134,6 +154,14 @@
     {
         "en": "current",
         "ja": "現在の"
+    },
+    {
+        "en": "dedicated",
+        "ja": "献身的な"
+    },
+    {
+        "en": "defective",
+        "ja": "欠陥のある"
     },
     {
         "en": "direct",
@@ -196,6 +224,10 @@
         "ja": "素晴らしい"
     },
     {
+        "en": "exceptional",
+        "ja": "並外れた"
+    },
+    {
         "en": "executive",
         "ja": "重役の"
     },
@@ -216,6 +248,14 @@
         "ja": "経験豊富な"
     },
     {
+        "en": "extended",
+        "ja": "長期の"
+    },
+    {
+        "en": "extensive",
+        "ja": "詳細な、幅広い"
+    },
+    {
         "en": "fantastic",
         "ja": "素晴らしい"
     },
@@ -230,6 +270,10 @@
     {
         "en": "financial",
         "ja": "財政的な"
+    },
+    {
+        "en": "flexible",
+        "ja": "柔軟な"
     },
     {
         "en": "former",
@@ -252,6 +296,10 @@
         "ja": "寛大な、気前のよい"
     },
     {
+        "en": "grocery",
+        "ja": "食品雑貨の"
+    },
+    {
         "en": "guided",
         "ja": "ガイド付きの"
     },
@@ -262,6 +310,10 @@
     {
         "en": "historical",
         "ja": "歴史の"
+    },
+    {
+        "en": "household",
+        "ja": "家庭用の"
     },
     {
         "en": "huge",
@@ -286,6 +338,10 @@
     {
         "en": "initial",
         "ja": "最初の"
+    },
+    {
+        "en": "innovative",
+        "ja": "革新的な"
     },
     {
         "en": "intellectual",
@@ -356,6 +412,10 @@
         "ja": "道徳的な"
     },
     {
+        "en": "multiple",
+        "ja": "複数の"
+    },
+    {
         "en": "narrow",
         "ja": "狭い"
     },
@@ -378,6 +438,10 @@
     {
         "en": "nuclear",
         "ja": "原子力の"
+    },
+    {
+        "en": "numerous",
+        "ja": "数多くの"
     },
     {
         "en": "obvious",
@@ -452,6 +516,10 @@
         "ja": "主要な"
     },
     {
+        "en": "prior",
+        "ja": "前の、事前の"
+    },
+    {
         "en": "private",
         "ja": "個人の"
     },
@@ -460,8 +528,24 @@
         "ja": "有望な"
     },
     {
+        "en": "promotional",
+        "ja": "販売促進の"
+    },
+    {
         "en": "proper",
         "ja": "適切な"
+    },
+    {
+        "en": "protective",
+        "ja": "防護用の"
+    },
+    {
+        "en": "qualified",
+        "ja": "資格のある"
+    },
+    {
+        "en": "quarterly",
+        "ja": "年に４回の、四半期の"
     },
     {
         "en": "rapid",
@@ -484,8 +568,20 @@
         "ja": "関連した"
     },
     {
+        "en": "relevant",
+        "ja": "関連した"
+    },
+    {
+        "en": "reliable",
+        "ja": "信頼できる"
+    },
+    {
         "en": "remarkable",
         "ja": "注目すべき"
+    },
+    {
+        "en": "renowned",
+        "ja": "著名な、名高い"
     },
     {
         "en": "rough",
@@ -494,6 +590,10 @@
     {
         "en": "rude",
         "ja": "失礼な"
+    },
+    {
+        "en": "scattered",
+        "ja": "散らばっている"
     },
     {
         "en": "senior",
@@ -540,6 +640,10 @@
         "ja": "馬鹿な"
     },
     {
+        "en": "substantial",
+        "ja": "かなりの、頑丈な"
+    },
+    {
         "en": "successful",
         "ja": "成功した"
     },
@@ -564,6 +668,10 @@
         "ja": "喉が渇いた"
     },
     {
+        "en": "thorough",
+        "ja": "徹底的な"
+    },
+    {
         "en": "tiny",
         "ja": "ごく小さな"
     },
@@ -580,8 +688,16 @@
         "ja": "典型的な"
     },
     {
+        "en": "unattended",
+        "ja": "（担当の）人がいない"
+    },
+    {
         "en": "unique",
         "ja": "唯一の、独自の"
+    },
+    {
+        "en": "unoccupied",
+        "ja": "使われていない"
     },
     {
         "en": "upcoming",
@@ -594,6 +710,10 @@
     {
         "en": "urban",
         "ja": "都会の"
+    },
+    {
+        "en": "valid",
+        "ja": "有効な"
     },
     {
         "en": "valuable",
