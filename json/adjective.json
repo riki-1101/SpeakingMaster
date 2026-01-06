@@ -4,6 +4,10 @@
         "ja": "到達できる、利用できる"
     },
     {
+        "en": "accomplished",
+        "ja": "熟達した"
+    },
+    {
         "en": "accurate",
         "ja": "正確な"
     },
@@ -56,6 +60,10 @@
         "ja": "年に一度の"
     },
     {
+        "en": "anticipated",
+        "ja": "期待された、待ち望まれた"
+    },
+    {
         "en": "appropriate",
         "ja": "適切な"
     },
@@ -88,12 +96,20 @@
         "ja": "冷静な"
     },
     {
+        "en": "characteristic",
+        "ja": "特徴的な"
+    },
+    {
         "en": "chemical",
         "ja": "化学的な"
     },
     {
         "en": "civil",
         "ja": "市民の"
+    },
+    {
+        "en": "combined",
+        "ja": "共同の"
     },
     {
         "en": "comfortable",
@@ -106,6 +122,10 @@
     {
         "en": "common",
         "ja": "一般的な、共通の"
+    },
+    {
+        "en": "comparable",
+        "ja": "同等の"
     },
     {
         "en": "competitive",
@@ -166,6 +186,10 @@
     {
         "en": "direct",
         "ja": "直接の"
+    },
+    {
+        "en": "diverse",
+        "ja": "多種多様な"
     },
     {
         "en": "domestic",
@@ -376,6 +400,10 @@
         "ja": "忠実な"
     },
     {
+        "en": "luxury",
+        "ja": "高級な"
+    },
+    {
         "en": "male",
         "ja": "男性の"
     },
@@ -448,6 +476,10 @@
         "ja": "明らかな"
     },
     {
+        "en": "occupied",
+        "ja": "占有されている"
+    },
+    {
         "en": "original",
         "ja": "元の"
     },
@@ -466,6 +498,10 @@
     {
         "en": "paid",
         "ja": "有給の"
+    },
+    {
+        "en": "partial",
+        "ja": "部分的な"
     },
     {
         "en": "particular",
@@ -506,6 +542,10 @@
     {
         "en": "previous",
         "ja": "前の"
+    },
+    {
+        "en": "primary",
+        "ja": "主な"
     },
     {
         "en": "primitive",
@@ -588,6 +628,10 @@
         "ja": "荒い、大雑把な"
     },
     {
+        "en": "routine",
+        "ja": "日常の"
+    },
+    {
         "en": "rude",
         "ja": "失礼な"
     },
@@ -625,7 +669,7 @@
     },
     {
         "en": "solid",
-        "ja": "強固な、固体の"
+        "ja": "強固な、確かな、固体の"
     },
     {
         "en": "specific",
@@ -656,6 +700,10 @@
         "ja": "適切な"
     },
     {
+        "en": "surrounding",
+        "ja": "周辺の"
+    },
+    {
         "en": "temporary",
         "ja": "一時的な"
     },
@@ -670,6 +718,10 @@
     {
         "en": "thorough",
         "ja": "徹底的な"
+    },
+    {
+        "en": "timely",
+        "ja": "タイミングの良い"
     },
     {
         "en": "tiny",
