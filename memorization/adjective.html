@@ -20,8 +20,10 @@
                 <select id="delaySelect">
                     <option value="0">0s</option>
                     <option value="2000" selected>2s</option>
-                    <option value="3000">3s</option>
                 </select>
+            </label>
+            <label>
+                <input type="checkbox" id="random" aria-label="ランダム">
             </label>
         </div>
         <label class="video_play_pause">
@@ -97,10 +99,9 @@
             englishDiv.textContent = phrase.en;         // 英語を表示
             japaneseDiv.textContent = "";               // 日本語を隠す
             speakEnglish(phrase.en);                    // 音声再生
-            const delay = Number(delaySelect.value);    // 日本語を表示
-            jaTimer = setTimeout(() => {
+            jaTimer = setTimeout(() => {                // 日本語を表示
                 japaneseDiv.textContent = phrase.ja;
-            }, delay);
+            }, Number(delaySelect.value));
         }
     </script>
 </body>

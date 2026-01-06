@@ -18,25 +18,12 @@ document.addEventListener("contextmenu", (e) => {
 // 共通の音声再生関数
 function speakEnglish(text) {
     if (!text) return;
-
-    // カッコ内の補足を削除
     text = text.replace(/(\(.*?\)|\[.*?\])/g, "").trim();
-
-    // 指定言語の音声を探す
-    const voices = speechSynthesis.getVoices();
-    const lang = localStorage.getItem("selectedCountry") || "en-US";
-    const voice = voices.find(v => v.lang === lang) || voices.find(v => v.lang.startsWith("en"));
-
-    // いったん完全に停止
-    speechSynthesis.cancel();
-
-    // cancel直後を避ける
-    setTimeout(() => {
+    speechSynthesis.cancel();   // いったん完全に停止
+    setTimeout(() => {          // cancel直後を避ける
         const utterance = new SpeechSynthesisUtterance(text);
-        utterance.lang = lang;
-        if (voice) utterance.voice = voice;
+        utterance.lang = localStorage.getItem("selectedCountry") || "en-US";;
         utterance.rate = 1.0;
-        utterance.pitch = 1.0;
         speechSynthesis.speak(utterance);
     }, 100); // 50〜150ms で安定
 }
