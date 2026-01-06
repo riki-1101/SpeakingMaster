@@ -192,6 +192,10 @@
         "ja": "正しい、正確な"
     },
     {
+        "en": "crucial",
+        "ja": "非常に重要な"
+    },
+    {
         "en": "current",
         "ja": "現在の"
     },
@@ -208,8 +212,16 @@
         "ja": "微妙な、繊細な"
     },
     {
+        "en": "desirable",
+        "ja": "望ましい"
+    },
+    {
         "en": "direct",
         "ja": "直接の"
+    },
+    {
+        "en": "distinguished",
+        "ja": "傑出した"
     },
     {
         "en": "diverse",
@@ -334,6 +346,10 @@
     {
         "en": "flexible",
         "ja": "柔軟な"
+    },
+    {
+        "en": "fluent",
+        "ja": "流暢な"
     },
     {
         "en": "former",
@@ -548,6 +564,10 @@
         "ja": "占有されている"
     },
     {
+        "en": "ordinary",
+        "ja": "普通の、通常の"
+    },
+    {
         "en": "original",
         "ja": "元の"
     },
@@ -610,6 +630,10 @@
     {
         "en": "practical",
         "ja": "実用的な、実務の"
+    },
+    {
+        "en": "preliminary",
+        "ja": "仮の、本番前の"
     },
     {
         "en": "previous",
@@ -696,6 +720,10 @@
         "ja": "注目すべき"
     },
     {
+        "en": "remote",
+        "ja": "遠く離れた"
+    },
+    {
         "en": "renowned",
         "ja": "著名な、名高い"
     },
@@ -742,6 +770,10 @@
     {
         "en": "significant",
         "ja": "大幅な、重要な"
+    },
+    {
+        "en": "situated",
+        "ja": "位置している"
     },
     {
         "en": "solid",
@@ -850,6 +882,14 @@
     {
         "en": "urban",
         "ja": "都会の"
+    },
+    {
+        "en": "urgent",
+        "ja": "緊急の"
+    },
+    {
+        "en": "vacant",
+        "ja": "空いている"
     },
     {
         "en": "valid",
