@@ -176,6 +176,10 @@
         "ja": "複雑な"
     },
     {
+        "en": "comprehensive",
+        "ja": "総合的な"
+    },
+    {
         "en": "complicated",
         "ja": "複雑な"
     },
@@ -194,6 +198,10 @@
     {
         "en": "confident",
         "ja": "確信している"
+    },
+    {
+        "en": "confidential",
+        "ja": "機密の"
     },
     {
         "en": "conscious",
@@ -228,8 +236,16 @@
         "ja": "正しい、正確な"
     },
     {
+        "en": "courteous",
+        "ja": "礼儀正しい"
+    },
+    {
         "en": "crucial",
         "ja": "非常に重要な"
+    },
+    {
+        "en": "culinary",
+        "ja": "料理の"
     },
     {
         "en": "current",
@@ -272,6 +288,10 @@
         "ja": "期待外れの"
     },
     {
+        "en": "discontinued",
+        "ja": "（製造・販売が）終了した"
+    },
+    {
         "en": "distinguished",
         "ja": "傑出した"
     },
@@ -286,6 +306,10 @@
     {
         "en": "dull",
         "ja": "退屈な、頭が悪い"
+    },
+    {
+        "en": "durable",
+        "ja": "耐久性がある"
     },
     {
         "en": "economic",
@@ -306,6 +330,10 @@
     {
         "en": "electronic",
         "ja": "電子の"
+    },
+    {
+        "en": "emerging",
+        "ja": "新興の"
     },
     {
         "en": "empty",
@@ -424,6 +452,10 @@
         "ja": "基本的な"
     },
     {
+        "en": "furnished",
+        "ja": "家具付きの"
+    },
+    {
         "en": "general",
         "ja": "一般的な"
     },
@@ -516,6 +548,10 @@
         "ja": "親密な"
     },
     {
+        "en": "knowledgeable",
+        "ja": "知識が豊富な"
+    },
+    {
         "en": "latest",
         "ja": "最新の"
     },
@@ -558,6 +594,10 @@
     {
         "en": "male",
         "ja": "男性の"
+    },
+    {
+        "en": "managerial",
+        "ja": "管理職の"
     },
     {
         "en": "mature",
@@ -614,6 +654,10 @@
     {
         "en": "multiple",
         "ja": "複数の"
+    },
+    {
+        "en": "municipal",
+        "ja": "市の"
     },
     {
         "en": "narrow",
@@ -696,6 +740,10 @@
         "ja": "永続的な、常設の"
     },
     {
+        "en": "personalized",
+        "ja": "個人に合わせた"
+    },
+    {
         "en": "physical",
         "ja": "身体の"
     },
@@ -730,6 +778,10 @@
     {
         "en": "preliminary",
         "ja": "仮の、本番前の"
+    },
+    {
+        "en": "premier",
+        "ja": "最高の、第一位の"
     },
     {
         "en": "previous",
@@ -828,6 +880,10 @@
         "ja": "著名な、名高い"
     },
     {
+        "en": "reverse",
+        "ja": "逆の"
+    },
+    {
         "en": "rough",
         "ja": "荒い、大雑把な"
     },
@@ -882,6 +938,10 @@
     {
         "en": "sophisticated",
         "ja": "洗練された"
+    },
+    {
+        "en": "spacious",
+        "ja": "広々とした"
     },
     {
         "en": "specific",
@@ -1026,6 +1086,10 @@
     {
         "en": "vivid",
         "ja": "鮮やかな"
+    },
+    {
+        "en": "voluntary",
+        "ja": "自主的な"
     },
     {
         "en": "",
