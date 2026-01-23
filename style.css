@@ -435,12 +435,11 @@ footer {
 }
 
 /* 元のラジオボタンを隠す */
-input[type="radio"] {
+.category input[type="radio"] {
     display: none;
 }
-
 /* ラベルをボタン風に */
-input[type="radio"] + label {
+.category input[type="radio"] + label {
     display: inline-block;
     padding: 4px 8px;
     margin: 4px;
@@ -452,15 +451,13 @@ input[type="radio"] + label {
     transition: all 0.2s;
     font-size: 1.3em;
 }
-
 /* ホバー時 */
-input[type="radio"] + label:hover {
+.category input[type="radio"] + label:hover {
     background-color: #007bff;
     color: #fff;
 }
-
 /* 選択中 */
-input[type="radio"]:checked + label {
+.category input[type="radio"]:checked + label {
     background-color: #007bff;
     color: #fff;
 }
@@ -536,6 +533,106 @@ input[type="radio"]:checked + label {
 .video_play_pause > input:checked + span::after {
     left: 60%;
 }
+
+
+/* ===== モーダル全体 ===== */
+.modal {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.55);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+  animation: fadeIn 0.3s ease;
+}
+
+/* ===== モーダル本体 ===== */
+.modal-content {
+  background: #ffffff;
+  width: min(90%, 360px);
+  padding: 24px 28px;
+  border-radius: 14px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+  text-align: center;
+  animation: slideUp 0.35s ease;
+}
+
+/* ===== タイトル ===== */
+.modal-content h2 {
+  font-size: 1.2rem;
+  margin-bottom: 16px;
+  color: #333;
+  font-weight: 600;
+}
+
+/* ===== ラジオボタン ===== */
+.modal-content label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 10px 0;
+  font-size: 0.95rem;
+  color: #444;
+  cursor: pointer;
+}
+
+/* ===== select ===== */
+.modal-content select {
+  width: 100%;
+  margin-top: 10px;
+  padding: 6px 8px;
+  font-size: 0.95rem;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+/* ===== 時間指定エリア ===== */
+#timeOption {
+  margin-top: 12px;
+}
+
+/* ===== スタートボタン ===== */
+#startBtn {
+  margin-top: 18px;
+  width: 100%;
+  padding: 10px 0;
+  font-size: 1rem;
+  border-radius: 10px;
+  border: none;
+  background: #4f7df3;
+  color: white;
+  cursor: pointer;
+  transition: background 0.2s ease, transform 0.1s ease;
+}
+#startBtn:hover {
+  background: #3f6ae0;
+}
+#startBtn:active {
+  transform: translateY(1px);
+}
+#startBtn:disabled {
+  background: #aaa;
+  cursor: not-allowed;
+}
+
+/* ===== アニメーション ===== */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+
 
 #ja-btn {
     margin: 15px;

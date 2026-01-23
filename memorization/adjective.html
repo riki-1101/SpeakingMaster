@@ -22,63 +22,131 @@
                     <option value="2000" selected>2s</option>
                 </select>
             </label>
-            <label>
-                <input type="checkbox" id="random" aria-label="ランダム">
-            </label>
         </div>
         <label class="video_play_pause">
             <input type="checkbox" id="PlayPause" aria-label="再生 / 一時停止">
             <span></span>
         </label>
+        
+        <div id="timeModal" class="modal">
+            <div class="modal-content">
+                <h2>学習モードを選んでください</h2>
+                <label>
+                    <input type="radio" name="mode" value="full" checked>
+                    フル再生
+                </label><br>
+                <label>
+                    <input type="radio" name="mode" value="shuffle">
+                    フル再生（ランダム）
+                </label><br>
+                <label>
+                    <input type="radio" name="mode" value="time">
+                    時間指定（ランダム）
+                </label>
+                <div id="timeOption">
+                    <select id="timeSelect" aria-label="時間指定">
+                        <option value="60">1:00</option>
+                        <option value="120">2:00</option>
+                        <option value="180">3:00</option>
+                        <option value="240">4:00</option>
+                        <option value="300">5:00</option>
+                    </select>
+                </div>
+
+                <button id="startBtn">スタート</button>
+            </div>
+        </div>
     </main>
     <footer id="footer"></footer>
     <script src="../js/header.js"></script>
     <script src="../js/footer.js"></script>
     <script src="../js/script.js"></script>
     <script>
+        window.addEventListener("load", () => {
+            modal.style.display = "flex";
+        });
+
+        const modal = document.getElementById("timeModal");
+        const startBtn = document.getElementById("startBtn");
+        const timeSelect = document.getElementById("timeSelect");
+
+        // ★ 再生モード（radio button）
+        const modeRadios = document.querySelectorAll('input[name="mode"]');
+
         const englishDiv = document.getElementById("english");
         const japaneseDiv = document.getElementById("japanese");
         const playPause = document.getElementById("PlayPause");
 
-        let data = [];
+        let originalData = []; // ← JSONの元データ
+        let data = [];         // ← 実際に再生するデータ
         let timer = null;
         let index = 0;
         let isPlaying = false;
 
+        startBtn.disabled = true;
+
+        /* ---------- JSON 読み込み ---------- */
         fetch(`../json/adjective.json`)
-            .then(response => response.json())
+            .then(res => res.json())
             .then(json => {
-                data = json;
-            })
-            .catch(error => {
-                console.error("JSONの読み込みに失敗しました", error);
+                originalData = json;
+                startBtn.disabled = false;
             });
 
+        /* ---------- スタートボタン ---------- */
+        startBtn.addEventListener("click", () => {
+            const mode = document.querySelector('input[name="mode"]:checked').value;
+
+            if (mode === "full") {
+                // 順にフル再生
+                data = [...originalData];
+
+            } else if (mode === "shuffle") {
+                // シャッフルフル再生
+                data = shuffle([...originalData]);
+
+            } else if (mode === "time") {
+                // 時間指定ランダム再生
+                const seconds = Number(timeSelect.value);
+                const wordCount = Math.floor(seconds / 3);
+                data = shuffle([...originalData]).slice(0, wordCount);
+            }
+
+            index = 0;
+            modal.style.display = "none";
+        });
+
+        /* ---------- シャッフル ---------- */
+        function shuffle(array) {
+            return array
+                .map(v => ({ v, r: Math.random() }))
+                .sort((a, b) => a.r - b.r)
+                .map(obj => obj.v);
+        }
+
+        /* ---------- 再生 / 停止 ---------- */
         playPause.addEventListener("change", () => {
             if (data.length === 0) {
                 playPause.checked = false;
                 return;
             }
-            if (playPause.checked) {
-                startPlayback();
-            } else {
-                pausePlayback();
-            }
+            playPause.checked ? startPlayback() : pausePlayback();
         });
 
         function startPlayback() {
             if (isPlaying) return;
             isPlaying = true;
-            showCard(index);  // 初回 or 再開時に表示
+            showCard(index);
+
             timer = setInterval(() => {
                 index++;
                 if (index >= data.length) {
                     stopPlayback();
-                    playPause.checked = false; // 最後まで行ったらOFF
+                    playPause.checked = false;
                     return;
                 }
                 showCard(index);
-            }, 3000);  // 単語間隔：3s
+            }, 3000);
         }
 
         function pausePlayback() {
@@ -86,7 +154,7 @@
             isPlaying = false;
             clearInterval(timer);
             timer = null;
-            speechSynthesis.cancel();  // 音声も止める
+            speechSynthesis.cancel();
         }
 
         function stopPlayback() {
@@ -94,15 +162,18 @@
             index = 0;
         }
 
+        /* ---------- 表示 ---------- */
         function showCard(i) {
             const phrase = data[i];
-            englishDiv.textContent = phrase.en;         // 英語を表示
-            japaneseDiv.textContent = "";               // 日本語を隠す
-            speakEnglish(phrase.en);                    // 音声再生
-            jaTimer = setTimeout(() => {                // 日本語を表示
+            englishDiv.textContent = phrase.en;
+            japaneseDiv.textContent = "";
+            speakEnglish(phrase.en);
+
+            setTimeout(() => {
                 japaneseDiv.textContent = phrase.ja;
             }, Number(delaySelect.value));
         }
+
     </script>
 </body>
 </html>
