@@ -4,6 +4,10 @@
         "ja": "到達できる、利用できる"
     },
     {
+        "en": "acclaimed",
+        "ja": "絶賛されている"
+    },
+    {
         "en": "accomplished",
         "ja": "熟達した"
     },
@@ -18,6 +22,10 @@
     {
         "en": "adequate",
         "ja": "十分な、適切な"
+    },
+    {
+        "en": "adjacent",
+        "ja": "隣接した"
     },
     {
         "en": "administrative",
@@ -84,6 +92,10 @@
         "ja": "人工の"
     },
     {
+        "en": "authentic",
+        "ja": "本物の"
+    },
+    {
         "en": "automobile",
         "ja": "自動車の"
     },
@@ -126,6 +138,10 @@
     {
         "en": "casual",
         "ja": "気楽な"
+    },
+    {
+        "en": "certified",
+        "ja": "資格を持った、公認の"
     },
     {
         "en": "challenging",
@@ -266,6 +282,10 @@
     {
         "en": "dependable",
         "ja": "信頼できる"
+    },
+    {
+        "en": "designated",
+        "ja": "指定された、指名された"
     },
     {
         "en": "desirable",
@@ -444,8 +464,16 @@
         "ja": "前の"
     },
     {
+        "en": "fragile",
+        "ja": "壊れやすい"
+    },
+    {
         "en": "frequent",
         "ja": "頻繁な"
+    },
+    {
+        "en": "functional",
+        "ja": "機能を果たせる、機能的な"
     },
     {
         "en": "fundamental",
@@ -500,6 +528,10 @@
         "ja": "理想的な"
     },
     {
+        "en": "inclement",
+        "ja": "荒れ模様の"
+    },
+    {
         "en": "independent",
         "ja": "独立した"
     },
@@ -510,6 +542,10 @@
     {
         "en": "informal",
         "ja": "非公式の、カジュアルな"
+    },
+    {
+        "en": "informative",
+        "ja": "有益な"
     },
     {
         "en": "initial",
@@ -540,12 +576,20 @@
         "ja": "意図された"
     },
     {
+        "en": "intensive",
+        "ja": "集中的な"
+    },
+    {
         "en": "internal",
         "ja": "内部の"
     },
     {
         "en": "intimate",
         "ja": "親密な"
+    },
+    {
+        "en": "introductory",
+        "ja": "入門の"
     },
     {
         "en": "knowledgeable",
@@ -566,6 +610,10 @@
     {
         "en": "legal",
         "ja": "法律の、合法の"
+    },
+    {
+        "en": "lengthy",
+        "ja": "長期にわたる"
     },
     {
         "en": "limited",
@@ -664,6 +712,10 @@
         "ja": "狭い"
     },
     {
+        "en": "nationwide",
+        "ja": "全国的な"
+    },
+    {
         "en": "native",
         "ja": "母国の"
     },
@@ -684,6 +736,10 @@
         "ja": "高貴な"
     },
     {
+        "en": "notable",
+        "ja": "注目すべき"
+    },
+    {
         "en": "nuclear",
         "ja": "原子力の"
     },
@@ -700,12 +756,20 @@
         "ja": "占有されている"
     },
     {
+        "en": "ongoing",
+        "ja": "進行中の"
+    },
+    {
         "en": "ordinary",
         "ja": "普通の、通常の"
     },
     {
         "en": "original",
         "ja": "元の"
+    },
+    {
+        "en": "outdated",
+        "ja": "時代遅れの"
     },
     {
         "en": "overall",
@@ -782,6 +846,10 @@
     {
         "en": "premier",
         "ja": "最高の、第一位の"
+    },
+    {
+        "en": "prestigious",
+        "ja": "権威のある"
     },
     {
         "en": "previous",
@@ -880,8 +948,16 @@
         "ja": "著名な、名高い"
     },
     {
+        "en": "resistant",
+        "ja": "耐久性のある"
+    },
+    {
         "en": "reverse",
         "ja": "逆の"
+    },
+    {
+        "en": "rigorous",
+        "ja": "厳格な"
     },
     {
         "en": "rough",
@@ -898,6 +974,10 @@
     {
         "en": "scattered",
         "ja": "散らばっている"
+    },
+    {
+        "en": "scenic",
+        "ja": "眺めがいい"
     },
     {
         "en": "senior",
@@ -948,6 +1028,10 @@
         "ja": "具体的な、特定の"
     },
     {
+        "en": "spectacular",
+        "ja": "壮観な"
+    },
+    {
         "en": "stable",
         "ja": "安定した"
     },
@@ -980,12 +1064,20 @@
         "ja": "適切な"
     },
     {
+        "en": "superb",
+        "ja": "素晴らしい"
+    },
+    {
         "en": "surrounding",
         "ja": "周辺の"
     },
     {
         "en": "temporary",
         "ja": "一時的な"
+    },
+    {
+        "en": "tentative",
+        "ja": "仮の"
     },
     {
         "en": "terrible",
