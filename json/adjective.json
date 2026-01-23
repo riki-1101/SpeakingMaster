@@ -272,6 +272,10 @@
         "ja": "正しい、正確な"
     },
     {
+        "en": "countless",
+        "ja": "無数の"
+    },
+    {
         "en": "courteous",
         "ja": "礼儀正しい"
     },
@@ -936,8 +940,12 @@
         "ja": "適切な"
     },
     {
-        "en": "prspective",
+        "en": "prospective",
         "ja": "見込みのある、将来の"
+    },
+    {
+        "en": "prosperous",
+        "ja": "繁栄している"
     },
     {
         "en": "protective",
