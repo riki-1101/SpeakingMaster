@@ -156,6 +156,10 @@
         "ja": "気楽な"
     },
     {
+        "en": "certain",
+        "ja": "確かな、ある決まった"
+    },
+    {
         "en": "certified",
         "ja": "資格を持った、公認の"
     },
@@ -201,7 +205,7 @@
     },
     {
         "en": "complete",
-        "ja": "完全な"
+        "ja": "完全な、完了した"
     },
     {
         "en": "complex",
@@ -224,6 +228,10 @@
         "ja": "集中的な"
     },
     {
+        "en": "concise",
+        "ja": "簡潔な"
+    },
+    {
         "en": "concrete",
         "ja": "具体的な"
     },
@@ -234,6 +242,10 @@
     {
         "en": "confidential",
         "ja": "機密の"
+    },
+    {
+        "en": "congested",
+        "ja": "渋滞した"
     },
     {
         "en": "conscious",
@@ -280,6 +292,10 @@
         "ja": "礼儀正しい"
     },
     {
+        "en": "critical",
+        "ja": "批判的な、非常に重要な"
+    },
+    {
         "en": "crucial",
         "ja": "非常に重要な"
     },
@@ -320,6 +336,10 @@
         "ja": "必死の"
     },
     {
+        "en": "dietary",
+        "ja": "食事の"
+    },
+    {
         "en": "diligent",
         "ja": "勤勉な"
     },
@@ -350,6 +370,10 @@
     {
         "en": "dominant",
         "ja": "支配的な、圧倒的な"
+    },
+    {
+        "en": "due",
+        "ja": "期限の"
     },
     {
         "en": "dull",
@@ -450,6 +474,10 @@
     {
         "en": "experienced",
         "ja": "経験豊富な"
+    },
+    {
+        "en": "express",
+        "ja": "急ぎの、明白な"
     },
     {
         "en": "extended",
@@ -604,6 +632,10 @@
         "ja": "やる気が出るような"
     },
     {
+        "en": "integral",
+        "ja": "不可欠の"
+    },
+    {
         "en": "intellectual",
         "ja": "知的な"
     },
@@ -636,12 +668,20 @@
         "ja": "知識が豊富な"
     },
     {
+        "en": "last",
+        "ja": "一番最近の"
+    },
+    {
         "en": "latest",
         "ja": "最新の"
     },
     {
         "en": "lazy",
         "ja": "怠惰な"
+    },
+    {
+        "en": "lead",
+        "ja": "主な、先頭の"
     },
     {
         "en": "leading",
@@ -718,6 +758,10 @@
     {
         "en": "miserable",
         "ja": "惨めな"
+    },
+    {
+        "en": "misleading",
+        "ja": "誤解を招く恐れのある"
     },
     {
         "en": "mobile",
@@ -816,6 +860,14 @@
         "ja": "時代遅れの"
     },
     {
+        "en": "outgoing",
+        "ja": "社交的な、退職する"
+    },
+    {
+        "en": "outstanding",
+        "ja": "抜きんでた、未払いの"
+    },
+    {
         "en": "overall",
         "ja": "全体の"
     },
@@ -850,6 +902,10 @@
     {
         "en": "personalized",
         "ja": "個人に合わせた"
+    },
+    {
+        "en": "persuasive",
+        "ja": "説得力のある"
     },
     {
         "en": "physical",
@@ -896,6 +952,10 @@
         "ja": "最高の、第一位の"
     },
     {
+        "en": "present",
+        "ja": "現在の"
+    },
+    {
         "en": "prestigious",
         "ja": "権威のある"
     },
@@ -926,6 +986,10 @@
     {
         "en": "private",
         "ja": "個人の"
+    },
+    {
+        "en": "professional",
+        "ja": "専門的な、職業上の、プロらしい"
     },
     {
         "en": "promising",
@@ -1036,12 +1100,16 @@
         "ja": "眺めがいい"
     },
     {
+        "en": "secure",
+        "ja": "安全な"
+    },
+    {
         "en": "senior",
         "ja": "上級の、先輩の"
     },
     {
         "en": "sensitive",
-        "ja": "敏感な"
+        "ja": "敏感な、デリケートな"
     },
     {
         "en": "separate",
@@ -1058,6 +1126,10 @@
     {
         "en": "sharp",
         "ja": "急激な、鋭い"
+    },
+    {
+        "en": "signature",
+        "ja": "特徴的な"
     },
     {
         "en": "significant",
@@ -1096,6 +1168,10 @@
         "ja": "着実な、一定の"
     },
     {
+        "en": "steep",
+        "ja": "急勾配の、法外な"
+    },
+    {
         "en": "strict",
         "ja": "厳しい"
     },
@@ -1130,6 +1206,10 @@
     {
         "en": "surrounding",
         "ja": "周辺の"
+    },
+    {
+        "en": "synthetic",
+        "ja": "合成の"
     },
     {
         "en": "temporary",
@@ -1170,6 +1250,10 @@
     {
         "en": "traditional",
         "ja": "伝統的な、従来の"
+    },
+    {
+        "en": "transparent",
+        "ja": "透明の"
     },
     {
         "en": "typical",
