@@ -1,0 +1,416 @@
+[
+    {
+        "subject": "I",
+        "en": "Am I (C)?",
+        "ja": "私(～状態)？",
+        "next": "c"
+    },
+    {
+        "subject": "I",
+        "en": "Do I look (C)?",
+        "ja": "私～に見える？",
+        "next": "c"
+    },
+    {
+        "subject": "I",
+        "en": "Do I seem (C)?",
+        "ja": "私～に思える？",
+        "next": "c"
+    },
+    {
+        "subject": "I",
+        "en": "Did I (do)?",
+        "ja": "私～したっけ？",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "Can I (do)?",
+        "ja": "～してもいい？",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "May I (do)?",
+        "ja": "～してもよろしいですか？",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "Should I (do)?",
+        "ja": "～した方がいい？",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "Shall I (do)?",
+        "ja": "～しましょうか？",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "Must I (do)?",
+        "ja": "～しないといけませんか？",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "Will I ever (do)?",
+        "ja": "いつか～するのかな？",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "Will I be able to (do)?",
+        "ja": "～できるかな？",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "Will I ever be able to (do)?",
+        "ja": "いつか～できるようになるのかな？",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "Do I have to (do)?",
+        "ja": "～しないといけない？",
+        "next": "do"
+    },
+     {
+        "subject": "I",
+        "en": "Do I need to (do)?",
+        "ja": "～する必要はある？",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "When can I (do)?",
+        "ja": "いつ～できる？",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "When should I (do)?",
+        "ja": "いつ～した方がいい？",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "Where can I (do)?",
+        "ja": "どこで～できる？",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "Where should I (do)?",
+        "ja": "どこで～した方がいい？",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "Why am I (C)?",
+        "ja": "なんで私(～状態)なんだろう？",
+        "next": "c"
+    },
+    {
+        "subject": "I",
+        "en": "Why didn't I (do)?",
+        "ja": "なんで私～しなかったんだろう？",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "Why can't I (do)?",
+        "ja": "なんで私～できないの？",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "Why do I have to (do)?",
+        "ja": "なんで～しなきゃいけないの？",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "How do I (do)?",
+        "ja": "どうやって～するの？",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "How can I (do)?",
+        "ja": "どうやって～できる？",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "How should I (do)?",
+        "ja": "どうやって～した方がいい？",
+        "next": "do"
+    },
+    {
+        "subject": "I",
+        "en": "What if I (do)?",
+        "ja": "もし私が～したらどうする？",
+        "next": "do"
+    },
+
+
+
+
+
+    {
+        "subject": "You",
+        "en": "Are you (C)?",
+        "ja": "あなた今(～状態)かな？",
+        "next": "c"
+    },
+    {
+        "subject": "You",
+        "en": "Aren't you (C)?",
+        "ja": "あなた今(～状態)だよね？",
+        "next": "c"
+    },
+    {
+        "subject": "You",
+        "en": "Do you (do)?",
+        "ja": "普段～する？",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "en": "Don't you (do)?",
+        "ja": "普段～するよね？",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "en": "Did you (do)?",
+        "ja": "～した？",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "en": "Didn't you (do)?",
+        "ja": "～したよね？",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "en": "Have you (done)?",
+        "ja": "今までに～している？",
+        "next": "done"
+    },
+    {
+        "subject": "You",
+        "en": "Haven't you (done)?",
+        "ja": "今までに～しているよね？",
+        "next": "done"
+    },
+    {
+        "subject": "You",
+        "en": "What do you say to (doing)?",
+        "ja": "～するのはどう？",
+        "next": "doing"
+    },
+    {
+        "subject": "You",
+        "en": "What made you (do)?",
+        "ja": "どういうきっかけで～したの？",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "en": "When did you (do)?",
+        "ja": "いつ～したの？",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "en": "When will you (do)?",
+        "ja": "いつ～するつもり？",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "en": "Where did you (do)?",
+        "ja": "どこで～したの？",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "en": "Where will you (do)?",
+        "ja": "どこで～するつもり？",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "en": "Why don't you (do)?",
+        "ja": "～するのはどう？",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "en": "Why did you (do)?",
+        "ja": "どうして～したの？",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "en": "Why didn't you (do)?",
+        "ja": "なんで～してくれなかったの？",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "en": "Why not (do)?",
+        "ja": "～したら？",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "en": "How did you (do)?",
+        "ja": "どうやって～したの？",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "en": "Can you (do)?",
+        "ja": "～できる？",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "en": "Can't you (do)?",
+        "ja": "～できるよね？",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "en": "Could you (do)?",
+        "ja": "～してくれる？",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "en": "Will you (do)?",
+        "ja": "～するつもり？",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "en": "Won't you (do)?",
+        "ja": "～するつもりだよね？",
+        "next": "do"
+    },
+    {
+        "subject": "You",
+        "en": "Would you (do)?",
+        "ja": "～してもらえる？",
+        "next": "do"
+    },
+
+
+
+
+
+    {
+        "subject": "We",
+        "en": "Why don't we (do)?",
+        "ja": "～しようよ",
+        "next": "do"
+    },
+    {
+        "subject": "We",
+        "en": "Shall we (do)?",
+        "ja": "～しませんか？",
+        "next": "do"
+    },
+
+
+
+
+
+    {
+        "subject": "It",
+        "en": "Is it (C)?",
+        "ja": "～か？",
+        "next": "c"
+    },
+    {
+        "subject": "It",
+        "en": "Isn't it (C)?",
+        "ja": "～だよね？",
+        "next": "c"
+    },
+    {
+        "subject": "It",
+        "en": "Was it (C)?",
+        "ja": "～だった？",
+        "next": "c"
+    },
+    {
+        "subject": "It",
+        "en": "Wasn't it (C)?",
+        "ja": "～だったよね？",
+        "next": "c"
+    },
+    {
+        "subject": "It",
+        "en": "Would it be (C)?",
+        "ja": "～でしょうか？",
+        "next": "c"
+    },
+    {
+        "subject": "It",
+        "en": "Would it have been (C)?",
+        "ja": "～だったでしょうか？",
+        "next": "c"
+    },
+
+
+
+
+
+    {
+        "subject": "There",
+        "en": "Is there (sth)?",
+        "ja": "～ある？（単数）",
+        "next": "sth"
+    },
+    {
+        "subject": "There",
+        "en": "Are there any (sths)?",
+        "ja": "何か～ある？（複数）",
+        "next": "sth"
+    },
+    {
+        "subject": "There",
+        "en": "Are there (num) (sths)?",
+        "ja": "〇個～ある？（複数）",
+        "next": "sth"
+    },
+
+
+
+
+
+    {
+        "subject": "",
+        "en": "Who (V)?",
+        "ja": "誰が～なの？",
+        "next": "v"
+    },
+
+
+
+
+
+    {
+        "subject": "",
+        "en": "How come (SV)?",
+        "ja": "なんで～なの？",
+        "next": "sv"
+    }
+]
