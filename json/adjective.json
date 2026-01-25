@@ -1,5 +1,9 @@
 [
     {
+        "en": "abridged",
+        "ja": "要約された"
+    },
+    {
         "en": "abundant",
         "ja": "豊富な"
     },
@@ -138,6 +142,10 @@
     {
         "en": "bitter",
         "ja": "苦い"
+    },
+    {
+        "en": "breathtaking",
+        "ja": "息をのむほどの"
     },
     {
         "en": "brief",
@@ -476,6 +484,10 @@
         "ja": "経験豊富な"
     },
     {
+        "en": "explicit",
+        "ja": "明白な"
+    },
+    {
         "en": "express",
         "ja": "急ぎの、明白な"
     },
@@ -662,6 +674,10 @@
     {
         "en": "introductory",
         "ja": "入門の"
+    },
+    {
+        "en": "keynote",
+        "ja": "基調となる"
     },
     {
         "en": "knowledgeable",
@@ -1140,6 +1156,10 @@
         "ja": "位置している"
     },
     {
+        "en": "skeptical",
+        "ja": "懐疑的な、疑い深い"
+    },
+    {
         "en": "solid",
         "ja": "強固な、確かな、固体の"
     },
@@ -1180,6 +1200,10 @@
         "ja": "馬鹿な"
     },
     {
+        "en": "subsequent",
+        "ja": "その次の、その後の"
+    },
+    {
         "en": "substantial",
         "ja": "かなりの、頑丈な"
     },
@@ -1206,6 +1230,10 @@
     {
         "en": "surrounding",
         "ja": "周辺の"
+    },
+    {
+        "en": "sustainable",
+        "ja": "持続可能な"
     },
     {
         "en": "synthetic",
