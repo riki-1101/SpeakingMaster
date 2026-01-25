@@ -6,7 +6,7 @@ const modal = document.getElementById("timeModal");
 const startBtn = document.getElementById("startBtn");
 const timeSelect = document.getElementById("timeSelect");
 
-// ★ 再生モード（radio button）
+// 再生モード（radio button）
 const modeRadios = document.querySelectorAll('input[name="mode"]');
 
 const englishDiv = document.getElementById("english");

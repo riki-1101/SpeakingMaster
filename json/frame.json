@@ -1079,6 +1079,20 @@
     {
         "subject": "You",
         "category": "疑問文",
+        "en": "Will you be (C)?",
+        "ja": "(～状態)になりそう？",
+        "next": "c"
+    },
+    {
+        "subject": "You",
+        "category": "疑問文",
+        "en": "Would you be (C)?",
+        "ja": "(～状態)になりますか？",
+        "next": "c"
+    },
+    {
+        "subject": "You",
+        "category": "疑問文",
         "en": "Will you (do)?",
         "ja": "～するつもり？",
         "next": "do"

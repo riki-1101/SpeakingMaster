@@ -294,6 +294,18 @@
     },
     {
         "subject": "You",
+        "en": "Will you be (C)?",
+        "ja": "(～状態)になりそう？",
+        "next": "c"
+    },
+    {
+        "subject": "You",
+        "en": "Would you be (C)?",
+        "ja": "(～状態)になりますか？",
+        "next": "c"
+    },
+    {
+        "subject": "You",
         "en": "Will you (do)?",
         "ja": "～するつもり？",
         "next": "do"

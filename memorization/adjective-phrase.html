@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Adjective Phrases</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+    <header id="header"></header>
+    <main class="frame-app">
+        <div id="card">
+            <div id="english"></div>
+            <div id="japanese"></div>
+        </div>
+
+        <div class="controls">
+            <label>
+                日本語表示まで：
+                <select id="delaySelect">
+                    <option value="0">0s</option>
+                    <option value="2000" selected>2s</option>
+                </select>
+            </label>
+        </div>
+        <label class="video_play_pause">
+            <input type="checkbox" id="PlayPause" aria-label="再生 / 一時停止">
+            <span></span>
+        </label>
+
+        <div id="timeModal" class="modal">
+            <div class="modal-content">
+                <h2>学習モードを選んでください</h2>
+                <label>
+                    <input type="radio" name="mode" value="full" checked>
+                    フル再生
+                </label><br>
+                <label>
+                    <input type="radio" name="mode" value="shuffle">
+                    フル再生（ランダム）
+                </label><br>
+                <label>
+                    <input type="radio" name="mode" value="time">
+                    時間指定（ランダム）
+                </label>
+                <div id="timeOption">
+                    <select id="timeSelect" aria-label="時間指定">
+                        <option value="60">1:00</option>
+                        <option value="120">2:00</option>
+                        <option value="180">3:00</option>
+                        <option value="240">4:00</option>
+                        <option value="300">5:00</option>
+                    </select>
+                </div>
+
+                <button id="startBtn">スタート</button>
+            </div>
+        </div>
+    </main>
+    <footer id="footer"></footer>
+    <script src="../js/header.js"></script>
+    <script src="../js/footer.js"></script>
+    <script src="../js/script.js"></script>
+    <script src="../js/memorization.js"></script>
+</body>
+</html>
