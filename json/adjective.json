@@ -48,6 +48,14 @@
         "ja": "進んだ、先端の"
     },
     {
+        "en": "adverse",
+        "ja": "よくない、不利な"
+    },
+    {
+        "en": "affiliated",
+        "ja": "提携した"
+    },
+    {
         "en": "affordable",
         "ja": "手頃な"
     },
@@ -124,6 +132,10 @@
         "ja": "手に入る、利用できる"
     },
     {
+        "en": "avid",
+        "ja": "熱心な"
+    },
+    {
         "en": "awful",
         "ja": "ひどい"
     },
@@ -142,6 +154,10 @@
     {
         "en": "bitter",
         "ja": "苦い"
+    },
+    {
+        "en": "botanical",
+        "ja": "植物の"
     },
     {
         "en": "breathtaking",
@@ -322,6 +338,10 @@
     {
         "en": "defective",
         "ja": "欠陥のある"
+    },
+    {
+        "en": "definitive",
+        "ja": "決定版の"
     },
     {
         "en": "delicate",
@@ -516,6 +536,10 @@
         "ja": "一番好きな、お気に入りの"
     },
     {
+        "en": "feasible",
+        "ja": "実現可能な"
+    },
+    {
         "en": "fellow",
         "ja": "仲間の"
     },
@@ -604,6 +628,10 @@
         "ja": "理想的な"
     },
     {
+        "en": "inaugural",
+        "ja": "最初の"
+    },
+    {
         "en": "inclement",
         "ja": "荒れ模様の"
     },
@@ -642,6 +670,10 @@
     {
         "en": "inspiring",
         "ja": "やる気が出るような"
+    },
+    {
+        "en": "intact",
+        "ja": "傷がない"
     },
     {
         "en": "integral",
@@ -912,6 +944,10 @@
         "ja": "受動的な、消極的な"
     },
     {
+        "en": "perishable",
+        "ja": "傷みやすい"
+    },
+    {
         "en": "permanent",
         "ja": "永続的な、常設の"
     },
@@ -1054,6 +1090,10 @@
     {
         "en": "recent",
         "ja": "最近の"
+    },
+    {
+        "en": "redeemable",
+        "ja": "交換可能な"
     },
     {
         "en": "refreshing",
@@ -1200,6 +1240,10 @@
         "ja": "馬鹿な"
     },
     {
+        "en": "sturdy",
+        "ja": "頑丈な"
+    },
+    {
         "en": "subsequent",
         "ja": "その次の、その後の"
     },
@@ -1288,6 +1332,10 @@
         "ja": "典型的な"
     },
     {
+        "en": "unanimous",
+        "ja": "満場一致の"
+    },
+    {
         "en": "unattended",
         "ja": "（担当の）人がいない"
     },
@@ -1306,6 +1354,10 @@
     {
         "en": "unoccupied",
         "ja": "使われていない"
+    },
+    {
+        "en": "unprecedented",
+        "ja": "前例のない"
     },
     {
         "en": "upcoming",
