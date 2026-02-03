@@ -4,6 +4,10 @@
         "ja": "～に慣れている"
     },
     {
+        "en": "ashamed of (sth)",
+        "ja": "～が恥ずかしい"
+    },
+    {
         "en": "anxious about (sth)",
         "ja": "～を心配している"
     },
@@ -80,6 +84,10 @@
         "ja": "～から独立している"
     },
     {
+        "en": "indifferent to (sth)",
+        "ja": "～に無関心な"
+    },
+    {
         "en": "instrumental in (sth)",
         "ja": "～で重要な役割を果たす"
     },
@@ -88,8 +96,16 @@
         "ja": "～に関わっている"
     },
     {
+        "en": "isolated from (sth)",
+        "ja": "～から孤立している"
+    },
+    {
         "en": "keen on (sth)",
         "ja": "～に熱中している"
+    },
+    {
+        "en": "loyal to (sth)",
+        "ja": "～に忠実な"
     },
     {
         "en": "native to (sth)",
