@@ -13,20 +13,8 @@
     },
     {
         "subject": "I",
-        "en": "I was (C)",
-        "ja": "(～状態)だった",
-        "next": "c"
-    },
-    {
-        "subject": "I",
         "en": "I'm being (C)",
         "ja": "一時的に～な態度でいる",
-        "next": "c"
-    },
-    {
-        "subject": "I",
-        "en": "I was being (C)",
-        "ja": "一時的に～な態度だった",
         "next": "c"
     },
     {
@@ -35,19 +23,6 @@
         "ja": "今ちょっと(～状態な)だけだよ",
         "next": "c"
     },
-    {
-        "subject": "I",
-        "en": "I feel (C)",
-        "ja": "～に感じる",
-        "next": "c"
-    },
-    {
-        "subject": "I",
-        "en": "I ended up (C)",
-        "ja": "結局(～状態)になった",
-        "next": "c"
-    },
-
     {
         "subject": "I",
         "en": "I'm for (sth)",
@@ -66,7 +41,35 @@
         "ja": "～にハマっている",
         "next": "sth"
     },
+
+
+    {
+        "subject": "I",
+        "en": "I was (C)",
+        "ja": "(～状態)だった",
+        "next": "c"
+    },
+    {
+        "subject": "I",
+        "en": "I was being (C)",
+        "ja": "一時的に～な態度だった",
+        "next": "c"
+    },
     
+
+    {
+        "subject": "I",
+        "en": "I feel (C)",
+        "ja": "～に感じる",
+        "next": "c"
+    },
+    {
+        "subject": "I",
+        "en": "I ended up (C)",
+        "ja": "結局(～状態)になった",
+        "next": "c"
+    },
+
     
     {
         "subject": "I",
@@ -86,6 +89,7 @@
         "ja": "つい最近まで(～状態)でいる",
         "next": "c"
     },
+
 
     {
         "subject": "I",
@@ -159,6 +163,8 @@
         "ja": "まだ～する",
         "next": "do"
     },
+
+
     {
         "subject": "I",
         "en": "I (did)",
@@ -184,6 +190,7 @@
         "next": "did"
     },
 
+
     {
         "subject": "I",
         "en": "I've (done)",
@@ -206,14 +213,9 @@
         "subject": "I",
         "en": "I've never (done)",
         "ja": "今までに一度も～していない",
-        "next": "done",
-        "ex": [
-            {
-                "en": "I've never heard of it.",
-                "ja": "今までそれを聞いたことがない。"
-            }
-        ]
+        "next": "done"
     },
+
 
     {
         "subject": "I",
@@ -223,10 +225,26 @@
     },
     {
         "subject": "I",
+        "en": "I'll try to (do)",
+        "ja": "～してみるよ",
+        "next": "do"
+    },
+
+
+    {
+        "subject": "I",
         "en": "I won't (do)",
         "ja": "～しないよ",
         "next": "do"
     },
+    {
+        "subject": "I",
+        "en": "I won't be able to (do)",
+        "ja": "～できないよ",
+        "next": "do"
+    },
+
+
     {
         "subject": "I",
         "en": "I'd (do)",
@@ -247,12 +265,6 @@
     },
     {
         "subject": "I",
-        "en": "I used to (do)",
-        "ja": "以前は～したものだが、今はしてない",
-        "next": "do"
-    },
-    {
-        "subject": "I",
         "en": "I'd like to (do)",
         "ja": "～したいのですが",
         "next": "do"
@@ -269,6 +281,8 @@
         "ja": "～する意志があったのに（していない）",
         "next": "done"
     },
+
+
     {
         "subject": "I",
         "en": "I should (do)",
@@ -287,6 +301,8 @@
         "ja": "～しなきゃよかった",
         "next": "done"
     },
+
+
     {
         "subject": "I",
         "en": "I might (do)",
@@ -305,6 +321,8 @@
         "ja": "～したかもしれない",
         "next": "done"
     },
+
+
     {
         "subject": "I",
         "en": "I can (do)",
@@ -335,6 +353,8 @@
         "ja": "～できなかったかも（できた）",
         "next": "done"
     },
+
+
     {
         "subject": "I",
         "en": "I have to (do)",
@@ -365,6 +385,8 @@
         "ja": "まだ～していません",
         "next": "do"
     },
+
+
     {
         "subject": "I",
         "en": "I need to (do)",
@@ -377,6 +399,16 @@
         "ja": "～する必要があった",
         "next": "do"
     },
+
+
+    {
+        "subject": "I",
+        "en": "I used to (do)",
+        "ja": "以前は～したものだが、今はしてない",
+        "next": "do"
+    },
+
+    
     {
         "subject": "I",
         "en": "I'm going to (do) [I'm gonna (do)]",
