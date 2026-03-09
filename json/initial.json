@@ -12,17 +12,6 @@
     },
     {
         "category": "認識",
-        "en": "I knew",
-        "ja": "～と知っていた",
-        "ex": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
-    },
-    {
-        "category": "認識",
         "en": "I understand",
         "ja": "～と理解している",
         "ex": [
@@ -307,12 +296,89 @@
     },
     {
         "category": "意見",
+        "en": "I stand by that",
+        "ja": "～だぞ！",
+        "ex": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "意見",
+        "en": "I feel",
+        "ja": "～と感じる",
+        "ex": [
+            {
+                "en": "I feel something is wrong.",
+                "ja": "何かが間違っていると感じる。"
+            }
+        ]
+    },
+    {
+        "category": "意見",
+        "en": "I feel like",
+        "ja": "なんか～な気がする",
+        "ex": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "意見",
         "en": "I'd say",
         "ja": "私の考えでは～だと思うよ",
         "ex": [
             {
                 "en": "",
                 "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "意見",
+        "en": "I can't help but think",
+        "ja": "どうしても～って考えちゃう",
+        "ex": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "意見",
+        "en": "I wonder if",
+        "ja": "～かなと思う",
+        "ex": [
+            {
+                "en": "I wonder if it's going to rain tomorrow.",
+                "ja": "明日雨が降るのかなあ。"
+            }
+        ]
+    },
+    {
+        "category": "意見",
+        "en": "I wonder whether",
+        "ja": "～かなと思う",
+        "ex": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "意見",
+        "en": "I wish (仮定法)",
+        "ja": "～であればいいのにと思う",
+        "ex": [
+            {
+                "en": "I wish I had more time.",
+                "ja": "もっと時間があればいいのにと思う。"
             }
         ]
     },
@@ -331,6 +397,17 @@
         "category": "意見",
         "en": "I'm certain",
         "ja": "（根拠を持って）～だと確信している",
+        "ex": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "意見",
+        "en": "I'm confident",
+        "ja": "～だと自信がある",
         "ex": [
             {
                 "en": "",
@@ -367,28 +444,6 @@
 
     {
         "category": "感情",
-        "en": "I feel",
-        "ja": "～と感じる",
-        "ex": [
-            {
-                "en": "I feel something is wrong.",
-                "ja": "何かが間違っていると感じる。"
-            }
-        ]
-    },
-    {
-        "category": "感情",
-        "en": "I felt",
-        "ja": "～と感じた",
-        "ex": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
-    },
-    {
-        "category": "感情",
         "en": "I appreciate",
         "ja": "～に感謝する",
         "ex": [
@@ -406,28 +461,6 @@
             {
                 "en": "I regret the event has been canceled.",
                 "ja": "イベントが中止になっているのを残念に思う。"
-            }
-        ]
-    },
-    {
-        "category": "感情",
-        "en": "I wonder if [whether]",
-        "ja": "～かなと思う",
-        "ex": [
-            {
-                "en": "I wonder if it's going to rain tomorrow.",
-                "ja": "明日雨が降るのかなあ。"
-            }
-        ]
-    },
-    {
-        "category": "感情",
-        "en": "I wish (仮定法)",
-        "ja": "～であればいいのにと思う",
-        "ex": [
-            {
-                "en": "I wish I had more time.",
-                "ja": "もっと時間があればいいのにと思う。"
             }
         ]
     },
@@ -479,17 +512,6 @@
         "category": "感情",
         "en": "I'm proud",
         "ja": "～を誇りに思っている",
-        "ex": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
-    },
-    {
-        "category": "感情",
-        "en": "I'm confident",
-        "ja": "～に自信がある",
         "ex": [
             {
                 "en": "",
