@@ -1,0 +1,343 @@
+[
+    {
+        "category": "喜び",
+        "en": "glad",
+        "ja": "嬉しい"
+    },
+    {
+        "category": "喜び",
+        "en": "happy",
+        "ja": "幸せだ"
+    },
+    {
+        "category": "喜び",
+        "en": "lucky",
+        "ja": "運がいい"
+    },
+    {
+        "category": "喜び",
+        "en": "pleased with (sth)",
+        "ja": "～に喜んでいる"
+    },
+    {
+        "category": "喜び",
+        "en": "satisfied with (sth)",
+        "ja": "～に満足している"
+    },
+    {
+        "category": "喜び",
+        "en": "delighted with (sth)",
+        "ja": "～に大喜びである"
+    },
+    {
+        "category": "喜び",
+        "en": "thrilled with (sth)",
+        "ja": "～に大感激している"
+    },
+    {
+        "category": "喜び",
+        "en": "overjoyed at (sth)",
+        "ja": "～に大変喜んでいる"
+    },
+    {
+        "category": "喜び",
+        "en": "proud of (sth)",
+        "ja": "～を誇りに思っている"
+    },
+    {
+        "category": "喜び",
+        "en": "thankful for (sth)",
+        "ja": "～に感謝している"
+    },
+    {
+        "category": "喜び",
+        "en": "looking forward to (sth)",
+        "ja": "～を楽しみにしている"
+    },
+    {
+        "category": "喜び",
+        "en": "excited at (sth)",
+        "ja": "～に興奮している"
+    },
+    {
+        "category": "喜び",
+        "en": "thrilled about (sth)",
+        "ja": "～にとても興奮している"
+    },
+    
+
+
+    
+    
+    {
+        "category": "悲しみ",
+        "en": "heartbroken over (sth)",
+        "ja": "～に悲嘆にくれている"
+    },
+    {
+        "category": "悲しみ",
+        "en": "regretful about (sth)",
+        "ja": "～を後悔している"
+    },
+    {
+        "category": "悲しみ",
+        "en": "sad",
+        "ja": "悲しい"
+    },
+    {
+        "category": "悲しみ",
+        "en": "shocked at (sth)",
+        "ja": "～にショックを受けている"
+    },
+    {
+        "category": "悲しみ",
+        "en": "sorry",
+        "ja": "残念だ"
+    },
+    {
+        "category": "悲しみ",
+        "en": "upset",
+        "ja": "うろたえた"
+    },
+    
+
+
+    {
+        "category": "不安",
+        "en": "afraid of (sth)",
+        "ja": "～を恐れている"
+    },
+    {
+        "category": "不安",
+        "en": "anxious about (sth)",
+        "ja": "～について不安に感じている"
+    },
+    {
+        "category": "不安",
+        "en": "careful about (sth)",
+        "ja": "～に気をつけている"
+    },
+    {
+        "category": "不安",
+        "en": "concerned about (sth)",
+        "ja": "～を気にしている"
+    },
+    {
+        "category": "不安",
+        "en": "frightened of (sth)",
+        "ja": "～に怖がっている"
+    },
+    {
+        "category": "不安",
+        "en": "nervous about (sth)",
+        "ja": "～に緊張している"
+    },
+    {
+        "category": "不安",
+        "en": "panicking about (sth)",
+        "ja": "～でパニックになっている"
+    },
+    {
+        "category": "不安",
+        "en": "scared of (sth)",
+        "ja": "～に怖がっている"
+    },
+    {
+        "category": "不安",
+        "en": "skeptical about (sth)",
+        "ja": "～に懐疑的である"
+    },
+    {
+        "category": "不安",
+        "en": "terrified of (sth)",
+        "ja": "～をひどく恐れている"
+    },
+    {
+        "category": "不安",
+        "en": "uneasy about (sth)",
+        "ja": "～に落ち着かない"
+    },
+    {
+        "category": "不安",
+        "en": "worried about (sth)",
+        "ja": "～を心配している"
+    },
+    {
+        "category": "不安",
+        "en": "worried sick about (sth)",
+        "ja": "～が心配でたまらない"
+    },
+    
+    
+    
+    {
+        "category": "嫌悪",
+        "en": "annoyed with (sth/sb)",
+        "ja": "～にイライラしている"
+    },
+    {
+        "category": "嫌悪",
+        "en": "disappointed at (sth)",
+        "ja": "～にがっかりしている"
+    },
+    {
+        "category": "嫌悪",
+        "en": "dissatisfied with (sth)",
+        "ja": "～に満足していない"
+    },
+    {
+        "category": "嫌悪",
+        "en": "fed up with (sth)",
+        "ja": "～はもうたくさんだ"
+    },
+    {
+        "category": "嫌悪",
+        "en": "frustrated with (sth)",
+        "ja": "～に苛立っている"
+    },
+    {
+        "category": "嫌悪",
+        "en": "opposed to (sth)",
+        "ja": "～に反対している"
+    },
+    {
+        "category": "嫌悪",
+        "en": "sick of (sth)",
+        "ja": "～にはもううんざりだ"
+    },
+    {
+        "category": "嫌悪",
+        "en": "tired of (sth)",
+        "ja": "～にうんざりしている"
+    },
+    {
+        "category": "嫌悪",
+        "en": "unhappy with (sth)",
+        "ja": "～に不満がある"
+    },
+    {
+        "category": "嫌悪",
+        "en": "unwilling to (do)",
+        "ja": "～する気がない"
+    },
+    {
+        "category": "嫌悪",
+        "en": "reluctant to (do)",
+        "ja": "～するのに気が進まない"
+    },
+    
+    
+    
+    {
+        "category": "驚き",
+        "en": "amazed at (sth)",
+        "ja": "～にひどく驚いている"
+    },
+    {
+        "category": "驚き",
+        "en": "astonished at (sth)",
+        "ja": "～に非常に驚いている"
+    },
+    {
+        "category": "驚き",
+        "en": "surprised at (sth)",
+        "ja": "～に驚いている"
+    },
+
+
+
+    {
+        "category": "関心",
+        "en": "into (sth)",
+        "ja": "～にハマっている"
+    },
+    {
+        "category": "関心",
+        "en": "up for (sth)",
+        "ja": "～に乗り気である"
+    },
+    {
+        "category": "関心",
+        "en": "fond of (sth)",
+        "ja": "～が好きである"
+    },
+    {
+        "category": "関心",
+        "en": "interested in (sth)",
+        "ja": "～に興味がある"
+    },
+    {
+        "category": "関心",
+        "en": "familiar with (sth)",
+        "ja": "～に詳しい、精通している"
+    },
+    {
+        "category": "関心",
+        "en": "curious about (sth)",
+        "ja": "～に好奇心がある"
+    },
+    {
+        "category": "関心",
+        "en": "enthusiastic about (sth)",
+        "ja": "～に乗り気である、熱心である"
+    },
+    {
+        "category": "関心",
+        "en": "keen on (sth)",
+        "ja": "～に熱中している"
+    },
+    {
+        "category": "関心",
+        "en": "focused on (sth)",
+        "ja": "～に集中している"
+    },
+    {
+        "category": "関心",
+        "en": "committed to (sth)",
+        "ja": "～に熱心に取り組んでいる"
+    },
+    {
+        "category": "関心",
+        "en": "dedicated to (sth)",
+        "ja": "～に専念している、打ち込んでいる"
+    },
+    {
+        "category": "関心",
+        "en": "devoted to (sth)",
+        "ja": "～に身を捧げている"
+    },
+    {
+        "category": "関心",
+        "en": "indifferent to (sth)",
+        "ja": "～に無関心である"
+    },
+    {
+        "category": "関心",
+        "en": "eager to (do)",
+        "ja": "～したくてたまらない（前向き）"
+    },
+    {
+        "category": "関心",
+        "en": "anxious to (do)",
+        "ja": "～したくてたまらない（焦り気味）"
+    },
+    {
+        "category": "関心",
+        "en": "willing to (do)",
+        "ja": "も構わない（望んではないが）"
+    },
+    
+    
+
+
+
+    { "category": "能力", "en": "used to (sth)", "ja": "～に慣れている" },
+    { "category": "能力", "en": "accustomed to (sth)", "ja": "～に慣れている" },
+    { "category": "能力", "en": "good at (sth)", "ja": "～が得意である" },
+    { "category": "能力", "en": "capable of (sth)", "ja": "～ができる（能力がある）" },
+    { "category": "能力", "en": "skilled at (sth)", "ja": "～に熟練している（技術・実務）" },
+    { "category": "能力", "en": "proficient in (sth)", "ja": "～に堪能である（言語・専門）" },
+
+    { "category": "姿勢", "en": "determined to (do)", "ja": "～するのを決意している" },
+    { "category": "姿勢", "en": "ready to (do)", "ja": "～する用意ができている" }
+]

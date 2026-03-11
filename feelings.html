@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Menu</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header id="header"></header>
+    <main>
+        <div class="menu-radio">
+            <input type="radio" name="category" id="喜び" value="喜び" checked>
+            <label for="喜び">喜び</label>
+            <input type="radio" name="category" id="怒り" value="怒り">
+            <label for="怒り">怒り</label>
+            <input type="radio" name="category" id="悲しみ" value="悲しみ">
+            <label for="悲しみ">悲しみ</label>
+            <input type="radio" name="category" id="不安" value="不安">
+            <label for="不安">不安</label>
+            <input type="radio" name="category" id="嫌悪" value="嫌悪">
+            <label for="嫌悪">嫌悪</label>
+            <input type="radio" name="category" id="驚き" value="驚き">
+            <label for="驚き">驚き</label>
+            <input type="radio" name="category" id="関心" value="関心">
+            <label for="関心">関心</label>
+        </div>
+        <ul class="menu"></ul>
+        <div id="popup" class="popup">
+            <div id="popup-content">
+                <p id="popup-en"></p>
+                <p id="popup-ja"></p>
+                <button id="close">close</button>
+            </div>
+        </div>
+    </main>
+    <footer id="footer"></footer>
+    <script src="js/header.js"></script>
+    <script src="js/footer.js"></script>
+    <script src="js/script.js"></script>
+    <script src="js/list.js"></script>
+</body>
+</html>
