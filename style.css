@@ -171,13 +171,37 @@ footer {
 
 
 
-.menu {
+#list #radio {
     display: flex;
-    flex-wrap: wrap;
+    overflow-x: auto;
+    white-space: nowrap;
 }
-.menu-radio {
+#list #radio input[type="radio"] {
+    display: none;
+}
+#list #radio label {
+    display: inline-block;
+    padding: 0.5em;
+    margin: 0.5em;
+    border: 1px solid #007bff;
+    border-radius: 5px;
+    background: white;
+    color: #007bff;
+    cursor: pointer;
     font-size: medium;
     font-weight: bold;
+}
+#list #radio label:hover {
+    background: #007bff;
+    color: white;
+}
+#list #radio input[type="radio"]:checked + label {
+    background: #007bff;
+    color: white;
+}
+#list .menu {
+    display: flex;
+    flex-wrap: wrap;
 }
 .menu li {
     background-color: whitesmoke;
@@ -189,16 +213,16 @@ footer {
     border-radius: 0.5em;
     cursor: pointer;
 }
-.menu li .en{
+#list .menu li .en{
     font-size: x-large;
     font-weight: bold;
 }
-.menu li .ja{
+#list .menu li .ja{
     font-size: small;
     color: #666;
     margin-top: 0.5em;
 }
-.popup{
+#list .popup{
     position: fixed;
     inset: 0;
     background: rgba(0,0,0,0.5);
@@ -206,17 +230,17 @@ footer {
     align-items: center;
     justify-content: center;
 }
-#popup-content{
+#list #popup-content{
     width: 90%;
     background: white;
     padding: 2em;
     border-radius: 8px;
 }
-#popup-content #popup-en {
+#list #popup-content #popup-en {
     font-size: xx-large;
     font-weight: bold;
 }
-#popup-content #popup-ja {
+#list #popup-content #popup-ja {
     font-size: x-large;
 }
 
