@@ -91,6 +91,11 @@
     },
     {
         "category": "悲しみ",
+        "en": "shocked by (sth)",
+        "ja": "～によってショックを受けている"
+    },
+    {
+        "category": "悲しみ",
         "en": "sorry",
         "ja": "残念だ"
     },
@@ -167,6 +172,24 @@
         "en": "worried sick about (sth)",
         "ja": "～が心配でたまらない"
     },
+
+
+
+    {
+        "category": "恥",
+        "en": "embarrassed",
+        "ja": "恥ずかしい"
+    },
+    {
+        "category": "恥",
+        "en": "humiliated",
+        "ja": "恥をかかされる"
+    },
+    {
+        "category": "恥",
+        "en": "ashamed of (sth)",
+        "ja": "～が恥ずかしい"
+    },
     
     
     
@@ -213,6 +236,11 @@
     {
         "category": "嫌悪",
         "en": "unhappy with (sth)",
+        "ja": "～に不満がある"
+    },
+    {
+        "category": "嫌悪",
+        "en": "upset about (sth)",
         "ja": "～に不満がある"
     },
     {
