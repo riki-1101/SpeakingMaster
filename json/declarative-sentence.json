@@ -80,6 +80,20 @@
     },
     {
         "subject": "I",
+        "en": "I think nothing of (sth)",
+        "ja": "～をなんとも思わない",
+        "next": "do",
+        "category": "普段"
+    },
+    {
+        "subject": "I",
+        "en": "I make it a rule to (do)",
+        "ja": "普段～することにしている",
+        "next": "do",
+        "category": "普段"
+    },
+    {
+        "subject": "I",
         "en": "I always (do)",
         "ja": "いつも～する",
         "next": "do",
@@ -671,8 +685,7 @@
         "subject": "You",
         "en": "You could've (done)",
         "ja": "～しとけよ！（していなかった）",
-        "next": "done",
-        "category": "今まで"
+        "next": "done"
     },
 
 
@@ -849,14 +862,20 @@
     },
     {
         "subject": "It",
+        "en": "It could be (C)",
+        "ja": "～かもしれない",
+        "next": "c"
+    },
+    {
+        "subject": "It",
         "en": "It may be (C)",
-        "ja": "～であるかもしれない",
+        "ja": "～かもしれない",
         "next": "c"
     },
     {
         "subject": "It",
         "en": "It might be (C)",
-        "ja": "～であるかもしれないなぁ",
+        "ja": "～かもしれないなぁ",
         "next": "c"
     },
     {

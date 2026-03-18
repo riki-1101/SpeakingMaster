@@ -441,6 +441,21 @@
 
 
 
+    {
+        "category": "決意",
+        "en": "I'll see to it that",
+        "ja": "～するようにする",
+        "ex": [
+            {
+                "en": "I'll see to it that the report is sent today.",
+                "ja": "報告書が今日送られるように手配します。"
+            }
+        ]
+    },
+
+
+
+
 
     {
         "category": "感情",
