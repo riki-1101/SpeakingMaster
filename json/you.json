@@ -1,0 +1,186 @@
+[
+    {
+        "category": "今",
+        "subject": "You",
+        "en": "You're (C)",
+        "ja": "今(～状態)だね",
+        "next": "c"
+    },
+    {
+        "category": "今",
+        "subject": "You",
+        "en": "You're being (C)",
+        "ja": "今～っぽいよ（いつもと違う）",
+        "next": "c"
+    },
+    {
+        "category": "今",
+        "subject": "You",
+        "en": "You seem (C)",
+        "ja": "あなた～に思えるよ",
+        "next": "c"
+    },
+    {
+        "category": "今",
+        "subject": "You",
+        "en": "You look (C)",
+        "ja": "あなた～に見えるよ",
+        "next": "c"
+    },
+    {
+        "category": "今",
+        "subject": "You",
+        "en": "You sound (C)",
+        "ja": "あなた～に聞こえるよ",
+        "next": "c"
+    },
+    {
+        "category": "今",
+        "subject": "You",
+        "en": "You feel (C)",
+        "ja": "あなた～に感じているね",
+        "next": "c"
+    },
+
+
+
+    {
+        "category": "普段",
+        "subject": "You",
+        "en": "You never fail to (do)",
+        "ja": "あなたはいつも～してくれるね",
+        "next": "do"
+    },
+    
+
+
+    {
+        "category": "これから",
+        "subject": "You",
+        "en": "You can (do)",
+        "ja": "～していいよ",
+        "next": "do"
+    },
+    {
+        "category": "これから",
+        "subject": "You",
+        "en": "You might want to (do)",
+        "ja": "～した方がいいかもよ",
+        "next": "do"
+    },
+    {
+        "category": "これから",
+        "subject": "You",
+        "en": "You must (do)",
+        "ja": "～しなければならないよ",
+        "next": "do"
+    },
+    {
+        "category": "これから",
+        "subject": "You",
+        "en": "You mustn't (do)",
+        "ja": "～してはいけないよ",
+        "next": "do"
+    },
+    {
+        "category": "これから",
+        "subject": "You",
+        "en": "You have to (do)",
+        "ja": "～しなければならないよ（客観）",
+        "next": "do"
+    },
+    {
+        "category": "これから",
+        "subject": "You",
+        "en": "You'll have to (do)",
+        "ja": "～しなければならないだろうね（客観）",
+        "next": "do"
+    },
+    {
+        "category": "これから",
+        "subject": "You",
+        "en": "You don't have to (do)",
+        "ja": "～しなくていいよ",
+        "next": "do"
+    },
+    {
+        "category": "これから",
+        "subject": "You",
+        "en": "You only have to (do)",
+        "ja": "～しさえすればいいよ",
+        "next": "do"
+    },
+    {
+        "category": "これから",
+        "subject": "You",
+        "en": "All you have to do is (do)",
+        "ja": "～しさえすればいいよ",
+        "next": "do"
+    },
+    {
+        "category": "これから",
+        "subject": "You",
+        "en": "You should (do)",
+        "ja": "～したほうがいいよ",
+        "next": "do"
+    },
+    {
+        "category": "これから",
+        "subject": "You",
+        "en": "You shouldn't (do)",
+        "ja": "～しないほうがいいよ",
+        "next": "do"
+    },
+    {
+        "category": "これから",
+        "subject": "You",
+        "en": "You had better (do)",
+        "ja": "～しなさいよ",
+        "next": "do"
+    },
+    {
+        "category": "これから",
+        "subject": "You",
+        "en": "You had better not (do)",
+        "ja": "～するな",
+        "next": "do"
+    },
+    {
+        "category": "これから",
+        "subject": "You",
+        "en": "You'll (do)",
+        "ja": "～するだろうね",
+        "next": "do"
+    },
+    {
+        "category": "これから",
+        "subject": "You",
+        "en": "You won't (do)",
+        "ja": "～しないだろうね",
+        "next": "do"
+    },
+    {
+        "category": "これから",
+        "subject": "You",
+        "en": "You're supposed to (do)",
+        "ja": "～することになっているよ",
+        "next": "do"
+    },
+    {
+        "category": "これから",
+        "subject": "You",
+        "en": "You're not supposed to (do)",
+        "ja": "～してはいけないことになっているよ",
+        "next": "do"
+    },
+
+
+
+    {
+        "category": "今まで",
+        "subject": "You",
+        "en": "You could've (done)",
+        "ja": "～しとけよ！（していなかった）",
+        "next": "done"
+    }
+]

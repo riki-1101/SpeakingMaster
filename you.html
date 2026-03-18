@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>You</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header id="header"></header>
+    <main id="list">
+        <div id="radio">
+            <input type="radio" name="category" id="今" value="今" checked>
+            <label for="今">今</label>
+            <input type="radio" name="category" id="普段" value="普段">
+            <label for="普段">普段</label>
+            <input type="radio" name="category" id="今まで" value="今まで">
+            <label for="今まで">今まで</label>
+            <input type="radio" name="category" id="これから" value="これから">
+            <label for="これから">これから</label>
+            <input type="radio" name="category" id="過去" value="過去">
+            <label for="過去">過去</label>
+        </div>
+        <ul class="menu"></ul>
+        <div id="popup" class="popup">
+            <div id="popup-content">
+                <p id="popup-en"></p>
+                <p id="popup-ja"></p>
+                <button id="close">close</button>
+            </div>
+        </div>
+    </main>
+    <footer id="footer"></footer>
+    <script src="js/header.js"></script>
+    <script src="js/footer.js"></script>
+    <script src="js/script.js"></script>
+    <script src="js/list.js"></script>
+</body>
+</html>
