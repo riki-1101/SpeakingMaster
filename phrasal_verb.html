@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Phrasal Verbs</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+    <header id="header"></header>
+    <main id="list">
+        <section>
+            <h2>Phrasal Verbs</h2>
+            <ul id="preposition-list">
+                <li id="up">up</li>
+            </ul>
+        </section>
+    </main>
+    <footer id="footer"></footer>
+    <script src="../js/header.js"></script>
+    <script src="../js/footer.js"></script>
+    <script src="../js/script.js"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            const verbList = document.getElementById("preposition-list");
+            verbList.addEventListener("click", (e) => {
+                // li がクリックされたときだけ処理
+                if (e.target.tagName === "LI") {
+                    const prepositionId = e.target.id;
+                    localStorage.setItem("selectedPreposition", prepositionId);  // ローカルストレージに保存
+                    window.location.href = "phrasal_verb/display.html";  // ページ遷移
+                }
+            });
+        });
+    </script>
+</body>
+</html>

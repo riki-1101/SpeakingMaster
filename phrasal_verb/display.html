@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>句動詞</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+    <header id="header"></header>
+    <main id="list">
+        <ul class="menu"></ul>
+        <div id="popup" class="popup">
+            <div id="popup-content">
+                <p id="popup-en"></p>
+                <p id="popup-ja"></p>
+                <button id="close">close</button>
+            </div>
+        </div>
+    </main>
+    <footer id="footer"></footer>
+    <script src="../js/header.js"></script>
+    <script src="../js/footer.js"></script>
+    <script src="../js/script.js"></script>
+    <script>
+        const menu = document.querySelector(".menu");
+        let jsonData = [];
+
+        const preposition = localStorage.getItem("selectedPreposition");
+        const ul = document.getElementById("phrase-list");
+        fetch(`${preposition}.json`)
+        .then(res => res.json())
+        .then(data => {
+            jsonData = data;
+            updateMenu();
+        });
+
+        const popup = document.getElementById("popup");
+        const popupEn = document.getElementById("popup-en");
+        const popupJa = document.getElementById("popup-ja");
+        const closeBtn = document.getElementById("close");
+
+        function updateMenu(){
+            menu.innerHTML = "";
+            jsonData
+            .forEach(item => {
+                const li = document.createElement("li");
+                const en = document.createElement("div");
+                en.className = "en";
+                en.textContent = item.en;
+                const ja = document.createElement("div");
+                ja.className = "ja";
+                ja.textContent = item.ja;
+                li.appendChild(en);
+                li.appendChild(ja);
+                menu.appendChild(li);
+                li.addEventListener("click", () => {
+                    popupEn.textContent = item.en;
+                    popupJa.textContent = item.ja;
+                    popup.style.display = "flex";
+                });
+            });
+        }
+
+        closeBtn.addEventListener("click", () => {
+            popup.style.display = "none";
+        });
+
+        // 背景クリックで閉じる
+        popup.addEventListener("click", (e) => {
+            if (e.target === popup) {
+                popup.style.display = "none";
+            }
+        });
+    </script>
+</body>
+</html>
