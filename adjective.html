@@ -3,14 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Adjective</title>
-    <link rel="stylesheet" href="../style.css">
+    <title>Menu</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header id="header"></header>
-    <main>
-        <h1>Adjective</h1>
-        <div id="radio">
+    <main id="list">
+        <div class="radio">
             <input type="radio" name="category" id="天気" value="天気" checked>
             <label for="天気">天気</label>
             <input type="radio" name="category" id="感情" value="感情">
@@ -24,17 +23,17 @@
         </div>
         <ul id="phrase-list"></ul>
         <div id="popup">
-            <div class="modal-content">
-                <p id="en"></p>
-                <p id="ja"></p>
-                <ul id="example"></ul>
+            <div id="popup-content">
+                <p id="popup-en"></p>
+                <p id="popup-ja"></p>
+                <button id="close">close</button>
             </div>
         </div>
     </main>
     <footer id="footer"></footer>
-    <script src="../js/header.js"></script>
-    <script src="../js/footer.js"></script>
-    <script src="../js/script.js"></script>
-    <script src="../js/scan.js"></script>
+    <script src="js/header.js"></script>
+    <script src="js/footer.js"></script>
+    <script src="js/script.js"></script>
+    <script src="js/list.js"></script>
 </body>
 </html>

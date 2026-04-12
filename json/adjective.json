@@ -1,1558 +1,480 @@
 [
     {
-        "en": "abridged",
-        "ja": "要約された"
+        "category": "天気",
+        "en": "cloudy",
+        "ja": "曇った"
     },
     {
-        "en": "abstract",
-        "ja": "抽象的な"
+        "category": "天気",
+        "en": "cool",
+        "ja": "涼しい"
     },
     {
-        "en": "abundant",
-        "ja": "豊富な"
+        "category": "天気",
+        "en": "drizzling",
+        "ja": "小雨が降っている"
     },
     {
-        "en": "accessible",
-        "ja": "到達できる、利用できる"
+        "category": "天気",
+        "en": "dry",
+        "ja": "乾燥している"
     },
     {
-        "en": "acclaimed",
-        "ja": "絶賛されている"
+        "category": "天気",
+        "en": "foggy",
+        "ja": "霧の"
     },
     {
-        "en": "accomplished",
-        "ja": "熟達した"
+        "category": "天気",
+        "en": "freezing",
+        "ja": "凍えるように寒い"
     },
     {
-        "en": "accurate",
-        "ja": "正確な"
+        "category": "天気",
+        "en": "hot",
+        "ja": "暑い"
     },
     {
-        "en": "additional",
-        "ja": "追加の"
+        "category": "天気",
+        "en": "humid",
+        "ja": "湿気が多い"
     },
     {
-        "en": "adequate",
-        "ja": "十分な、適切な"
+        "category": "天気",
+        "en": "lightning",
+        "ja": "雷が鳴っている"
     },
     {
-        "en": "adjacent",
-        "ja": "隣接した"
+        "category": "天気",
+        "en": "overcast",
+        "ja": "どんよりしている"
     },
     {
-        "en": "administrative",
-        "ja": "管理の"
+        "category": "天気",
+        "en": "rainy",
+        "ja": "雨の"
     },
     {
-        "en": "advance",
-        "ja": "事前の"
+        "category": "天気",
+        "en": "scorching",
+        "ja": "焼けるように暑い"
     },
     {
-        "en": "advanced",
-        "ja": "進んだ、先端の"
+        "category": "天気",
+        "en": "snowy",
+        "ja": "雪の"
     },
     {
-        "en": "adverse",
-        "ja": "よくない、不利な"
+        "category": "天気",
+        "en": "stormy",
+        "ja": "嵐の"
     },
     {
-        "en": "affiliated",
-        "ja": "提携した"
+        "category": "天気",
+        "en": "sunny",
+        "ja": "晴れの"
     },
     {
-        "en": "affordable",
-        "ja": "手頃な"
+        "category": "天気",
+        "en": "thundering",
+        "ja": "雷が鳴っている"
     },
     {
-        "en": "aged",
-        "ja": "年老いた"
+        "category": "天気",
+        "en": "warm",
+        "ja": "暖かい"
     },
     {
-        "en": "aggressive",
-        "ja": "攻撃的な"
+        "category": "天気",
+        "en": "windy",
+        "ja": "風の強い"
     },
     {
-        "en": "agreeable",
-        "ja": "快適な、合意可能な"
+        "category": "天気",
+        "en": "pleasant",
+        "ja": "心地よい天気"
     },
     {
-        "en": "agricultural",
-        "ja": "農業の"
+        "category": "天気",
+        "en": "cold",
+        "ja": "寒い"
+    },
+
+
+
+
+
+    {
+        "category": "時間・スケジュール",
+        "en": "busy",
+        "ja": "忙しい"
     },
     {
-        "en": "alcoholic",
-        "ja": "アルコールの"
+        "category": "時間・スケジュール",
+        "en": "canceled",
+        "ja": "キャンセルされた"
     },
     {
-        "en": "alike",
-        "ja": "似ている"
+        "category": "時間・スケジュール",
+        "en": "closed",
+        "ja": "閉まっている"
     },
     {
-        "en": "alternative",
-        "ja": "代わりの"
+        "category": "時間・スケジュール",
+        "en": "early",
+        "ja": "早い"
     },
     {
+        "category": "時間・スケジュール",
+        "en": "free",
+        "ja": "暇だ"
+    },
+    {
+        "category": "時間・スケジュール",
+        "en": "late",
+        "ja": "遅い"
+    },
+    {
+        "category": "時間・スケジュール",
+        "en": "next",
+        "ja": "次の"
+    },
+    {
+        "category": "時間・スケジュール",
+        "en": "open",
+        "ja": "開いている"
+    },
+    {
+        "category": "時間・スケジュール",
+        "en": "past",
+        "ja": "過ぎた"
+    },
+    {
+        "category": "時間・スケジュール",
+        "en": "scheduled",
+        "ja": "予定されている"
+    },
+    {
+        "category": "時間・スケジュール",
+        "en": "too late",
+        "ja": "もう遅い"
+    },
+    {
+        "category": "時間・スケジュール",
+        "en": "too soon",
+        "ja": "まだ早すぎる"
+    },
+
+
+
+
+
+    {
+        "category": "感情",
         "en": "amazing",
         "ja": "驚くべき"
     },
     {
-        "en": "ambitious",
-        "ja": "意欲的な、野心的な"
+        "category": "感情",
+        "en": "boring",
+        "ja": "退屈だ"
     },
     {
-        "en": "ample",
-        "ja": "十分な"
+        "category": "感情",
+        "en": "disappointing",
+        "ja": "がっかりだ"
     },
     {
-        "en": "ancient",
-        "ja": "古代の"
+        "category": "感情",
+        "en": "exciting",
+        "ja": "わくわくする"
     },
     {
-        "en": "annual",
-        "ja": "年に１度の"
+        "category": "感情",
+        "en": "fun",
+        "ja": "楽しい"
     },
     {
-        "en": "anticipated",
-        "ja": "期待された、待ち望まれた"
+        "category": "感情",
+        "en": "funny",
+        "ja": "面白い／おかしい"
     },
     {
-        "en": "applicable",
-        "ja": "適用される"
+        "category": "感情",
+        "en": "good",
+        "ja": "良い"
     },
     {
-        "en": "appropriate",
-        "ja": "適切な"
+        "category": "感情",
+        "en": "interesting",
+        "ja": "面白い"
     },
     {
-        "en": "artificial",
-        "ja": "人工の"
+        "category": "感情",
+        "en": "inspiring",
+        "ja": "感動する"
     },
     {
-        "en": "assorted",
-        "ja": "詰め合わせの"
+        "category": "感情",
+        "en": "nice",
+        "ja": "素敵だ"
     },
     {
-        "en": "authentic",
-        "ja": "本物の"
+        "category": "感情",
+        "en": "relaxing",
+        "ja": "くつろげる"
     },
     {
-        "en": "automobile",
-        "ja": "自動車の"
+        "category": "感情",
+        "en": "satisfying",
+        "ja": "満足だ"
     },
     {
-        "en": "available",
-        "ja": "手に入る、利用できる"
+        "category": "感情",
+        "en": "stressful",
+        "ja": "ストレスだ"
     },
     {
-        "en": "avid",
-        "ja": "熱心な"
+        "category": "感情",
+        "en": "surprising",
+        "ja": "驚きだ"
     },
     {
-        "en": "awful",
+        "category": "感情",
+        "en": "terrible",
         "ja": "ひどい"
     },
     {
-        "en": "awkward",
-        "ja": "気まずい"
+        "category": "感情",
+        "en": "encouraging",
+        "ja": "励みになる"
     },
     {
-        "en": "bilingual",
-        "ja": "二言語使用の"
+        "category": "感情",
+        "en": "confusing",
+        "ja": "混乱する"
     },
+
+
+
+
+
     {
-        "en": "biological",
-        "ja": "生物的な"
+        "category": "状況・環境",
+        "en": "clean",
+        "ja": "きれいだ"
     },
     {
-        "en": "bitter",
-        "ja": "苦い"
+        "category": "状況・環境",
+        "en": "crowded",
+        "ja": "混んでいる"
     },
     {
-        "en": "botanical",
-        "ja": "植物の"
+        "category": "状況・環境",
+        "en": "dangerous",
+        "ja": "危険だ"
     },
     {
-        "en": "brave",
-        "ja": "勇敢な"
+        "category": "状況・環境",
+        "en": "difficult",
+        "ja": "難しい"
     },
     {
-        "en": "breathtaking",
-        "ja": "息をのむほどの"
+        "category": "状況・環境",
+        "en": "easy",
+        "ja": "簡単だ"
     },
     {
-        "en": "brief",
-        "ja": "手短な"
+        "category": "状況・環境",
+        "en": "full",
+        "ja": "満員だ／いっぱいだ"
     },
     {
-        "en": "brilliant",
-        "ja": "輝かしい、極めて優秀な"
+        "category": "状況・環境",
+        "en": "important",
+        "ja": "重要だ"
     },
     {
-        "en": "calm",
-        "ja": "冷静な"
+        "category": "状況・環境",
+        "en": "impossible",
+        "ja": "不可能だ"
     },
     {
-        "en": "casual",
-        "ja": "気楽な"
-    },
-    {
-        "en": "certain",
-        "ja": "確かな、ある決まった"
-    },
-    {
-        "en": "certified",
-        "ja": "資格を持った、公認の"
-    },
-    {
-        "en": "challenging",
-        "ja": "やりがいのある"
-    },
-    {
-        "en": "characteristic",
-        "ja": "特徴的な"
-    },
-    {
-        "en": "chemical",
-        "ja": "化学的な"
-    },
-    {
-        "en": "civil",
-        "ja": "市民の"
-    },
-    {
-        "en": "combined",
-        "ja": "共同の"
-    },
-    {
-        "en": "comfortable",
-        "ja": "快適な"
-    },
-    {
-        "en": "commercial",
-        "ja": "商業の"
-    },
-    {
-        "en": "common",
-        "ja": "一般的な、共通の"
-    },
-    {
-        "en": "comparable",
-        "ja": "同等の"
-    },
-    {
-        "en": "competitive",
-        "ja": "競争力のある"
-    },
-    {
-        "en": "complete",
-        "ja": "完全な、完了した"
-    },
-    {
-        "en": "complex",
-        "ja": "複雑な"
-    },
-    {
-        "en": "comprehensive",
-        "ja": "総合的な"
-    },
-    {
-        "en": "complicated",
-        "ja": "複雑な"
-    },
-    {
-        "en": "complimentary",
-        "ja": "無料の"
-    },
-    {
-        "en": "concentrated",
-        "ja": "集中的な"
-    },
-    {
-        "en": "concise",
-        "ja": "簡潔な"
-    },
-    {
-        "en": "concrete",
-        "ja": "具体的な"
-    },
-    {
-        "en": "confident",
-        "ja": "確信している"
-    },
-    {
-        "en": "confidential",
-        "ja": "機密の"
-    },
-    {
-        "en": "congested",
-        "ja": "渋滞した"
-    },
-    {
-        "en": "conscious",
-        "ja": "意識している"
-    },
-    {
-        "en": "conservative",
-        "ja": "保守的な"
-    },
-    {
-        "en": "considerable",
-        "ja": "かなりの"
-    },
-    {
-        "en": "consistent",
-        "ja": "一貫した、不変の"
-    },
-    {
-        "en": "contemporary",
-        "ja": "現代の"
-    },
-    {
-        "en": "continuous",
-        "ja": "絶え間ない"
-    },
-    {
-        "en": "controversial",
-        "ja": "議論を招く"
-    },
-    {
-        "en": "convenient",
-        "ja": "便利な、都合のよい"
-    },
-    {
-        "en": "corporate",
-        "ja": "企業の"
-    },
-    {
-        "en": "correct",
-        "ja": "正しい、正確な"
-    },
-    {
-        "en": "countless",
-        "ja": "無数の"
-    },
-    {
-        "en": "courteous",
-        "ja": "礼儀正しい"
-    },
-    {
-        "en": "critical",
-        "ja": "批判的な、非常に重要な"
-    },
-    {
-        "en": "crucial",
-        "ja": "非常に重要な"
-    },
-    {
-        "en": "cruel",
-        "ja": "残酷な"
-    },
-    {
-        "en": "culinary",
-        "ja": "料理の"
-    },
-    {
-        "en": "current",
-        "ja": "現在の"
-    },
-    {
-        "en": "dedicated",
-        "ja": "献身的な"
-    },
-    {
-        "en": "defective",
-        "ja": "欠陥のある"
-    },
-    {
-        "en": "definitive",
-        "ja": "決定版の"
-    },
-    {
-        "en": "delicate",
-        "ja": "微妙な、繊細な"
-    },
-    {
-        "en": "dependable",
-        "ja": "信頼できる"
-    },
-    {
-        "en": "designated",
-        "ja": "指定された、指名された"
-    },
-    {
-        "en": "desirable",
-        "ja": "望ましい"
-    },
-    {
-        "en": "desperate",
-        "ja": "必死の"
-    },
-    {
-        "en": "dietary",
-        "ja": "食事の"
-    },
-    {
-        "en": "diligent",
-        "ja": "勤勉な"
-    },
-    {
-        "en": "direct",
-        "ja": "直接の"
-    },
-    {
-        "en": "disappointing",
-        "ja": "期待外れの"
-    },
-    {
-        "en": "discontinued",
-        "ja": "（製造・販売が）終了した"
-    },
-    {
-        "en": "distinguished",
-        "ja": "傑出した"
-    },
-    {
-        "en": "diverse",
-        "ja": "多種多様な"
-    },
-    {
-        "en": "domestic",
-        "ja": "国内の、家庭の"
-    },
-    {
-        "en": "dominant",
-        "ja": "支配的な、圧倒的な"
-    },
-    {
-        "en": "due",
-        "ja": "期限の"
-    },
-    {
-        "en": "dull",
-        "ja": "退屈な、頭が悪い"
-    },
-    {
-        "en": "duplicate",
-        "ja": "複製の"
-    },
-    {
-        "en": "durable",
-        "ja": "耐久性がある"
-    },
-    {
-        "en": "economic",
-        "ja": "経済の"
-    },
-    {
-        "en": "effective",
-        "ja": "効果的な"
-    },
-    {
-        "en": "efficient",
-        "ja": "効率的な"
-    },
-    {
-        "en": "elderly",
-        "ja": "高齢な"
-    },
-    {
-        "en": "electronic",
-        "ja": "電子の"
-    },
-    {
-        "en": "emerging",
-        "ja": "新興の"
-    },
-    {
-        "en": "empty",
-        "ja": "からの"
-    },
-    {
-        "en": "enjoyable",
-        "ja": "楽しい"
-    },
-    {
-        "en": "entire",
-        "ja": "全体の、完全な"
-    },
-    {
-        "en": "enormous",
-        "ja": "莫大な"
-    },
-    {
-        "en": "essential",
-        "ja": "不可欠な"
-    },
-    {
-        "en": "ethnic",
-        "ja": "民族の"
-    },
-    {
-        "en": "evil",
-        "ja": "悪い"
-    },
-    {
-        "en": "exact",
-        "ja": "正確な"
-    },
-    {
-        "en": "excellent",
-        "ja": "素晴らしい"
-    },
-    {
-        "en": "exceptional",
-        "ja": "並外れた"
-    },
-    {
-        "en": "excessive",
-        "ja": "過度の"
-    },
-    {
-        "en": "executive",
-        "ja": "重役の"
-    },
-    {
-        "en": "exhausted",
-        "ja": "疲れ切っている"
-    },
-    {
-        "en": "existing",
-        "ja": "既存の"
-    },
-    {
-        "en": "expert",
-        "ja": "専門的な"
-    },
-    {
-        "en": "expensive",
-        "ja": "高価な"
-    },
-    {
-        "en": "experienced",
-        "ja": "経験豊富な"
-    },
-    {
-        "en": "explicit",
-        "ja": "明白な"
-    },
-    {
-        "en": "express",
-        "ja": "急ぎの、明白な"
-    },
-    {
-        "en": "extended",
-        "ja": "長期の"
-    },
-    {
-        "en": "extensive",
-        "ja": "詳細な、幅広い"
-    },
-    {
-        "en": "extraordinary",
-        "ja": "並外れた"
-    },
-    {
-        "en": "false",
-        "ja": "間違いの、偽の"
-    },
-    {
-        "en": "fantastic",
-        "ja": "素晴らしい"
-    },
-    {
-        "en": "favorable",
-        "ja": "好意的な"
-    },
-    {
-        "en": "favorite",
-        "ja": "一番好きな、お気に入りの"
-    },
-    {
-        "en": "feasible",
-        "ja": "実現可能な"
-    },
-    {
-        "en": "fellow",
-        "ja": "仲間の"
-    },
-    {
-        "en": "fierce",
-        "ja": "熾烈な"
-    },
-    {
-        "en": "financial",
-        "ja": "財政的な"
-    },
-    {
-        "en": "flexible",
-        "ja": "柔軟な"
-    },
-    {
-        "en": "fluent",
-        "ja": "流暢な"
-    },
-    {
-        "en": "former",
-        "ja": "前の"
-    },
-    {
-        "en": "fragile",
-        "ja": "壊れやすい"
-    },
-    {
-        "en": "frequent",
-        "ja": "頻繁な"
-    },
-    {
-        "en": "functional",
-        "ja": "機能を果たせる、機能的な"
-    },
-    {
-        "en": "fundamental",
-        "ja": "基本的な"
-    },
-    {
-        "en": "furnished",
-        "ja": "家具付きの"
-    },
-    {
-        "en": "general",
-        "ja": "一般的な"
-    },
-    {
-        "en": "generous",
-        "ja": "寛大な、気前のよい"
-    },
-    {
-        "en": "genuine",
-        "ja": "真の、心からの"
-    },
-    {
-        "en": "grocery",
-        "ja": "食品雑貨の"
-    },
-    {
-        "en": "guided",
-        "ja": "ガイド付きの"
-    },
-    {
-        "en": "guilty",
-        "ja": "有罪の"
-    },
-    {
-        "en": "helpful",
-        "ja": "役に立つ"
-    },
-    {
-        "en": "historical",
-        "ja": "歴史の"
-    },
-    {
-        "en": "household",
-        "ja": "家庭用の"
-    },
-    {
-        "en": "huge",
-        "ja": "巨大な"
-    },
-    {
-        "en": "ideal",
-        "ja": "理想的な"
-    },
-    {
-        "en": "immune",
-        "ja": "免疫の"
-    },
-    {
-        "en": "inaugural",
-        "ja": "最初の"
-    },
-    {
-        "en": "inclement",
-        "ja": "荒れ模様の"
-    },
-    {
-        "en": "independent",
-        "ja": "独立した"
-    },
-    {
-        "en": "individual",
-        "ja": "個人の、個々の"
-    },
-    {
-        "en": "inevitable",
-        "ja": "必然的な、避けられない"
-    },
-    {
-        "en": "informal",
-        "ja": "非公式の、カジュアルな"
-    },
-    {
-        "en": "informative",
-        "ja": "有益な"
-    },
-    {
-        "en": "initial",
-        "ja": "最初の"
-    },
-    {
-        "en": "inner",
-        "ja": "内側の"
-    },
-    {
-        "en": "innocent",
-        "ja": "無罪の"
-    },
-    {
-        "en": "innovative",
-        "ja": "革新的な"
-    },
-    {
-        "en": "inspiring",
-        "ja": "やる気が出るような"
-    },
-    {
-        "en": "intact",
-        "ja": "傷がない"
-    },
-    {
-        "en": "integral",
-        "ja": "不可欠の"
-    },
-    {
-        "en": "intellectual",
-        "ja": "知的な"
-    },
-    {
-        "en": "intended",
-        "ja": "意図された"
-    },
-    {
-        "en": "intense",
-        "ja": "強烈な"
-    },
-    {
-        "en": "intensive",
-        "ja": "集中的な"
-    },
-    {
-        "en": "internal",
-        "ja": "内部の"
-    },
-    {
-        "en": "interoffice",
-        "ja": "社内の、オフィス間の"
-    },
-    {
-        "en": "intimate",
-        "ja": "親密な"
-    },
-    {
-        "en": "introductory",
-        "ja": "入門の"
-    },
-    {
-        "en": "isolated",
-        "ja": "孤立している"
-    },
-    {
-        "en": "keynote",
-        "ja": "基調となる"
-    },
-    {
-        "en": "knowledgeable",
-        "ja": "知識が豊富な"
-    },
-    {
-        "en": "last",
-        "ja": "一番最近の"
-    },
-    {
-        "en": "latest",
-        "ja": "最新の"
-    },
-    {
-        "en": "lazy",
-        "ja": "怠惰な"
-    },
-    {
-        "en": "lead",
-        "ja": "主な、先頭の"
-    },
-    {
-        "en": "leading",
-        "ja": "トップの、首位の"
-    },
-    {
-        "en": "legal",
-        "ja": "法律の、合法の"
-    },
-    {
-        "en": "lengthy",
-        "ja": "長期にわたる"
-    },
-    {
-        "en": "limited",
-        "ja": "限られた"
-    },
-    {
-        "en": "linguistic",
-        "ja": "言語の"
-    },
-    {
-        "en": "local",
-        "ja": "地元の"
-    },
-    {
-        "en": "logical",
-        "ja": "妥当な、論理的な"
-    },
-    {
-        "en": "loose",
-        "ja": "ゆるい、たるんだ"
-    },
-    {
-        "en": "loyal",
-        "ja": "忠実な"
-    },
-    {
-        "en": "luxury",
-        "ja": "高級な"
-    },
-    {
-        "en": "male",
-        "ja": "男性の"
-    },
-    {
-        "en": "managerial",
-        "ja": "管理職の"
-    },
-    {
-        "en": "manual",
-        "ja": "手を使う"
-    },
-    {
-        "en": "mature",
-        "ja": "成熟した"
-    },
-    {
-        "en": "mechanical",
-        "ja": "機械の"
-    },
-    {
-        "en": "medical",
-        "ja": "医療の、医学の"
-    },
-    {
-        "en": "mental",
-        "ja": "精神の"
-    },
-    {
-        "en": "military",
-        "ja": "軍事的な"
-    },
-    {
-        "en": "minimum",
-        "ja": "最小限の"
-    },
-    {
+        "category": "状況・環境",
         "en": "minor",
-        "ja": "重要でない、小さな"
+        "ja": "軽い／小さな問題だ"
     },
     {
-        "en": "miserable",
-        "ja": "惨めな"
-    },
-    {
-        "en": "misleading",
-        "ja": "誤解を招く恐れのある"
-    },
-    {
-        "en": "mobile",
-        "ja": "移動式の、流動的な"
-    },
-    {
-        "en": "moderate",
-        "ja": "適度な"
-    },
-    {
-        "en": "modern",
-        "ja": "現代的な"
-    },
-    {
-        "en": "modest",
-        "ja": "控えめな、僅かな"
-    },
-    {
-        "en": "moral",
-        "ja": "道徳的な"
-    },
-    {
-        "en": "multiple",
-        "ja": "複数の"
-    },
-    {
-        "en": "municipal",
-        "ja": "市の"
-    },
-    {
-        "en": "mutual",
-        "ja": "相互の"
-    },
-    {
-        "en": "narrow",
-        "ja": "狭い"
-    },
-    {
-        "en": "nationwide",
-        "ja": "全国的な"
-    },
-    {
-        "en": "native",
-        "ja": "母国の"
-    },
-    {
+        "category": "状況・環境",
         "en": "necessary",
-        "ja": "必要な"
+        "ja": "必要だ"
     },
     {
-        "en": "negative",
-        "ja": "否定的な"
+        "category": "状況・環境",
+        "en": "normal",
+        "ja": "普通だ"
     },
     {
-        "en": "nervous",
-        "ja": "神経質な、不安な"
+        "category": "状況・環境",
+        "en": "safe",
+        "ja": "安全だ"
     },
     {
-        "en": "noble",
-        "ja": "高貴な"
-    },
-    {
-        "en": "notable",
-        "ja": "注目すべき"
-    },
-    {
-        "en": "nuclear",
-        "ja": "原子力の"
-    },
-    {
-        "en": "numerous",
-        "ja": "数多くの"
-    },
-    {
-        "en": "nutritious",
-        "ja": "栄養のある"
-    },
-    {
-        "en": "obvious",
-        "ja": "明らかな"
-    },
-    {
-        "en": "occupied",
-        "ja": "占有されている"
-    },
-    {
-        "en": "odd",
-        "ja": "おかしな、奇妙な"
-    },
-    {
-        "en": "ongoing",
-        "ja": "進行中の"
-    },
-    {
-        "en": "ordinary",
-        "ja": "普通の、通常の"
-    },
-    {
-        "en": "original",
-        "ja": "元の"
-    },
-    {
-        "en": "outdated",
-        "ja": "時代遅れの"
-    },
-    {
-        "en": "outgoing",
-        "ja": "社交的な、退職する"
-    },
-    {
-        "en": "outstanding",
-        "ja": "抜きんでた、未払いの"
-    },
-    {
-        "en": "overall",
-        "ja": "全体の"
-    },
-    {
-        "en": "overnight",
-        "ja": "翌日配送の、一晩の"
-    },
-    {
-        "en": "overseas",
-        "ja": "海外の"
-    },
-    {
-        "en": "paid",
-        "ja": "有給の"
-    },
-    {
-        "en": "pale",
-        "ja": "青白い、青ざめた"
-    },
-    {
-        "en": "partial",
-        "ja": "部分的な"
-    },
-    {
-        "en": "particular",
-        "ja": "特定の"
-    },
-    {
-        "en": "passive",
-        "ja": "受動的な、消極的な"
-    },
-    {
-        "en": "perishable",
-        "ja": "傷みやすい"
-    },
-    {
-        "en": "permanent",
-        "ja": "永続的な、常設の"
-    },
-    {
-        "en": "personalized",
-        "ja": "個人に合わせた"
-    },
-    {
-        "en": "persuasive",
-        "ja": "説得力のある"
-    },
-    {
-        "en": "physical",
-        "ja": "身体の"
-    },
-    {
-        "en": "picturesque",
-        "ja": "絵のように美しい"
-    },
-    {
-        "en": "plain",
-        "ja": "簡素な"
-    },
-    {
-        "en": "pleasant",
-        "ja": "楽しい"
-    },
-    {
-        "en": "polite",
-        "ja": "礼儀正しい"
-    },
-    {
-        "en": "political",
-        "ja": "政治的な"
-    },
-    {
-        "en": "positive",
-        "ja": "肯定的な"
-    },
-    {
-        "en": "potential",
-        "ja": "潜在的な、見込みがある"
-    },
-    {
-        "en": "practical",
-        "ja": "実用的な、実務の"
-    },
-    {
-        "en": "precious",
-        "ja": "貴重な"
-    },
-    {
-        "en": "preliminary",
-        "ja": "仮の、本番前の"
-    },
-    {
-        "en": "premier",
-        "ja": "最高の、第一位の"
-    },
-    {
-        "en": "present",
-        "ja": "現在の"
-    },
-    {
-        "en": "prestigious",
-        "ja": "権威のある"
-    },
-    {
-        "en": "previous",
-        "ja": "前の"
-    },
-    {
-        "en": "primary",
-        "ja": "主な"
-    },
-    {
-        "en": "prime",
-        "ja": "主要な"
-    },
-    {
-        "en": "primitive",
-        "ja": "原始的な"
-    },
-    {
-        "en": "principal",
-        "ja": "主要な"
-    },
-    {
-        "en": "prior",
-        "ja": "前の、事前の"
-    },
-    {
-        "en": "private",
-        "ja": "個人の"
-    },
-    {
-        "en": "professional",
-        "ja": "専門的な、職業上の、プロらしい"
-    },
-    {
-        "en": "profound",
-        "ja": "深い"
-    },
-    {
-        "en": "promising",
-        "ja": "有望な"
-    },
-    {
-        "en": "promotional",
-        "ja": "販売促進の"
-    },
-    {
-        "en": "proper",
-        "ja": "適切な"
-    },
-    {
-        "en": "prospective",
-        "ja": "見込みのある、将来の"
-    },
-    {
-        "en": "prosperous",
-        "ja": "繁栄している"
-    },
-    {
-        "en": "protective",
-        "ja": "防護用の"
-    },
-    {
-        "en": "pure",
-        "ja": "純粋な"
-    },
-    {
-        "en": "qualified",
-        "ja": "資格のある"
-    },
-    {
-        "en": "quarterly",
-        "ja": "年に４回の、四半期の"
-    },
-    {
-        "en": "rapid",
-        "ja": "急速な"
-    },
-    {
-        "en": "rare",
-        "ja": "珍しい"
-    },
-    {
-        "en": "rational",
-        "ja": "理性的な、合理的な"
-    },
-    {
-        "en": "raw",
-        "ja": "生の"
-    },
-    {
-        "en": "reasonable",
-        "ja": "合理的な、手ごろな"
-    },
-    {
-        "en": "recent",
-        "ja": "最近の"
-    },
-    {
-        "en": "redeemable",
-        "ja": "交換可能な"
-    },
-    {
-        "en": "refreshing",
-        "ja": "爽やかな"
-    },
-    {
-        "en": "related",
-        "ja": "関連した"
-    },
-    {
-        "en": "relevant",
-        "ja": "関連した"
-    },
-    {
-        "en": "reliable",
-        "ja": "信頼できる"
-    },
-    {
-        "en": "remarkable",
-        "ja": "注目すべき"
-    },
-    {
-        "en": "remote",
-        "ja": "遠く離れた"
-    },
-    {
-        "en": "renowned",
-        "ja": "著名な、名高い"
-    },
-    {
-        "en": "resistant",
-        "ja": "耐久性のある"
-    },
-    {
-        "en": "reverse",
-        "ja": "逆の"
-    },
-    {
-        "en": "rigorous",
-        "ja": "厳格な"
-    },
-    {
-        "en": "rough",
-        "ja": "荒い、大雑把な"
-    },
-    {
-        "en": "routine",
-        "ja": "日常の"
-    },
-    {
-        "en": "rude",
-        "ja": "失礼な"
-    },
-    {
-        "en": "rural",
-        "ja": "田舎の"
-    },
-    {
-        "en": "scattered",
-        "ja": "散らばっている"
-    },
-    {
-        "en": "scenic",
-        "ja": "眺めがいい"
-    },
-    {
-        "en": "secure",
-        "ja": "安全な"
-    },
-    {
-        "en": "senior",
-        "ja": "上級の、先輩の"
-    },
-    {
-        "en": "sensitive",
-        "ja": "敏感な、デリケートな"
-    },
-    {
-        "en": "separate",
-        "ja": "分かれた、別々の"
-    },
-    {
+        "category": "状況・環境",
         "en": "serious",
-        "ja": "重大な、深刻な"
+        "ja": "深刻だ"
     },
     {
-        "en": "severe",
-        "ja": "厳しい"
+        "category": "状況・環境",
+        "en": "unusual",
+        "ja": "珍しい／普通でない"
     },
     {
-        "en": "sharp",
-        "ja": "急激な、鋭い"
+        "category": "状況・環境",
+        "en": "messy",
+        "ja": "散らかっている"
     },
     {
-        "en": "shy",
-        "ja": "内気な"
+        "category": "状況・環境",
+        "en": "loud",
+        "ja": "うるさい"
     },
     {
-        "en": "signature",
-        "ja": "特徴的な"
+        "category": "状況・環境",
+        "en": "quiet",
+        "ja": "静かだ"
     },
+    
+
+
+
+
     {
-        "en": "significant",
-        "ja": "大幅な、重要な"
+        "category": "程度",
+        "en": "big",
+        "ja": "大きい"
     },
     {
-        "en": "silly",
-        "ja": "馬鹿な"
+        "category": "程度",
+        "en": "close",
+        "ja": "近い"
     },
     {
-        "en": "situated",
-        "ja": "位置している"
+        "category": "程度",
+        "en": "expensive",
+        "ja": "高い"
     },
     {
-        "en": "skeptical",
-        "ja": "懐疑的な、疑い深い"
+        "category": "程度",
+        "en": "fast",
+        "ja": "速い"
     },
     {
-        "en": "solar",
-        "ja": "太陽の"
+        "category": "程度",
+        "en": "far",
+        "ja": "遠い"
     },
     {
-        "en": "solid",
-        "ja": "強固な、確かな、固体の"
+        "category": "程度",
+        "en": "heavy",
+        "ja": "重い"
     },
     {
-        "en": "sophisticated",
-        "ja": "洗練された"
+        "category": "程度",
+        "en": "high",
+        "ja": "高い"
     },
     {
-        "en": "spacious",
-        "ja": "広々とした"
+        "category": "程度",
+        "en": "light",
+        "ja": "軽い"
     },
     {
-        "en": "specific",
-        "ja": "具体的な、特定の"
+        "category": "程度",
+        "en": "long",
+        "ja": "長い"
     },
     {
-        "en": "spectacular",
-        "ja": "壮観な"
+        "category": "程度",
+        "en": "low",
+        "ja": "低い"
     },
     {
-        "en": "stable",
-        "ja": "安定した"
+        "category": "程度",
+        "en": "short",
+        "ja": "短い"
     },
     {
-        "en": "steady",
-        "ja": "着実な、一定の"
+        "category": "程度",
+        "en": "slow",
+        "ja": "遅い"
     },
     {
-        "en": "steep",
-        "ja": "急勾配の、法外な"
+        "category": "程度",
+        "en": "small",
+        "ja": "小さい"
     },
     {
-        "en": "strict",
-        "ja": "厳しい"
+        "category": "程度",
+        "en": "strong",
+        "ja": "強い"
     },
     {
-        "en": "striking",
-        "ja": "著しい"
+        "category": "程度",
+        "en": "weak",
+        "ja": "弱い"
     },
     {
-        "en": "stupid",
-        "ja": "馬鹿な"
+        "category": "程度",
+        "en": "dirty",
+        "ja": "汚い"
     },
     {
-        "en": "sturdy",
-        "ja": "頑丈な"
+        "category": "程度",
+        "en": "healthy",
+        "ja": "健康的だ"
     },
     {
-        "en": "subsequent",
-        "ja": "その次の、その後の"
+        "category": "程度",
+        "en": "unhealthy",
+        "ja": "不健康だ"
     },
+
+
+
     {
-        "en": "substantial",
-        "ja": "かなりの、頑丈な"
+        "category": "構文",
+        "en": "opposed to (doing)",
+        "ja": "～するのに反対である"
     },
     {
-        "en": "subtle",
-        "ja": "微妙な"
+        "category": "構文",
+        "en": "worth (doing)",
+        "ja": "～する価値がある"
     },
     {
-        "en": "successful",
-        "ja": "成功した"
+        "category": "構文",
+        "en": "used to (doing)",
+        "ja": "～するのに慣れている"
     },
     {
-        "en": "sufficient",
-        "ja": "十分な"
+        "category": "構文",
+        "en": "too (adj) to (do)",
+        "ja": "～するには(adj)すぎる"
     },
     {
-        "en": "suitable",
-        "ja": "適切な"
+        "category": "構文",
+        "en": "(adj) enough to (do)",
+        "ja": "～するほど十分(adj)"
     },
     {
-        "en": "superb",
-        "ja": "素晴らしい"
+        "category": "構文",
+        "en": "so (adj) as to (do)",
+        "ja": "～するほど(adj)だ"
     },
     {
-        "en": "surplus",
-        "ja": "余分な"
-    },
-    {
-        "en": "surrounding",
-        "ja": "周辺の"
-    },
-    {
-        "en": "sustainable",
-        "ja": "持続可能な"
-    },
-    {
-        "en": "synthetic",
-        "ja": "合成の"
-    },
-    {
-        "en": "temporary",
-        "ja": "一時的な"
-    },
-    {
-        "en": "tentative",
-        "ja": "仮の"
-    },
-    {
-        "en": "terrible",
-        "ja": "ひどい、恐ろしい"
-    },
-    {
-        "en": "thirsty",
-        "ja": "喉が渇いた"
-    },
-    {
-        "en": "thorough",
-        "ja": "徹底的な"
-    },
-    {
-        "en": "tight",
-        "ja": "きつい"
-    },
-    {
-        "en": "timely",
-        "ja": "タイミングの良い"
-    },
-    {
-        "en": "tiny",
-        "ja": "ごく小さな"
-    },
-    {
-        "en": "tough",
-        "ja": "たくましい"
-    },
-    {
-        "en": "traditional",
-        "ja": "伝統的な、従来の"
-    },
-    {
-        "en": "transparent",
-        "ja": "透明の"
-    },
-    {
-        "en": "tremendous",
-        "ja": "とてつもない、巨大な"
-    },
-    {
-        "en": "tropical",
-        "ja": "熱帯の"
-    },
-    {
-        "en": "typical",
-        "ja": "典型的な"
-    },
-    {
-        "en": "ultimate",
-        "ja": "究極の"
-    },
-    {
-        "en": "unanimous",
-        "ja": "満場一致の"
-    },
-    {
-        "en": "unattended",
-        "ja": "（担当の）人がいない"
-    },
-    {
-        "en": "underlying",
-        "ja": "根本的な"
-    },
-    {
-        "en": "understaffed",
-        "ja": "人手不足の"
-    },
-    {
-        "en": "unique",
-        "ja": "唯一の、独自の"
-    },
-    {
-        "en": "unoccupied",
-        "ja": "使われていない"
-    },
-    {
-        "en": "unprecedented",
-        "ja": "前例のない"
-    },
-    {
-        "en": "upcoming",
-        "ja": "今度の"
-    },
-    {
-        "en": "upset",
-        "ja": "動揺している"
-    },
-    {
-        "en": "urban",
-        "ja": "都会の"
-    },
-    {
-        "en": "urgent",
-        "ja": "緊急の"
-    },
-    {
-        "en": "vacant",
-        "ja": "空いている"
-    },
-    {
-        "en": "vague",
-        "ja": "漠然とした、はっきりしない"
-    },
-    {
-        "en": "vain",
-        "ja": "無駄な"
-    },
-    {
-        "en": "valid",
-        "ja": "有効な"
-    },
-    {
-        "en": "valuable",
-        "ja": "貴重な"
-    },
-    {
-        "en": "various",
-        "ja": "様々な"
-    },
-    {
-        "en": "vast",
-        "ja": "広大な、莫大な"
-    },
-    {
-        "en": "visible",
-        "ja": "目に見える"
-    },
-    {
-        "en": "vital",
-        "ja": "極めて重要な"
-    },
-    {
-        "en": "vivid",
-        "ja": "鮮やかな"
-    },
-    {
-        "en": "voluntary",
-        "ja": "自主的な"
-    },
-    {
-        "en": "widespread",
-        "ja": "広まっている"
-    },
-    {
-        "en": "",
-        "ja": ""
-    },
-    {
-        "en": "",
-        "ja": ""
+        "category": "構文",
+        "en": "so (adj) that (SV)",
+        "ja": "とても(adj)なので(SV)"
     }
 ]
