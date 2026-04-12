@@ -3,13 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Additional Phrase</title>
-    <link rel="stylesheet" href="../style.css">
+    <title>Declarative Sentence</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header id="header"></header>
-    <main>
-        <h1>Additional Phrase</h1>
+    <main id="list">
         <div id="radio">
             <input type="radio" name="category" id="When?" value="When?" checked>
             <label for="When?">When?</label>
@@ -36,16 +35,17 @@
         </div>
         <ul id="phrase-list"></ul>
         <div id="popup">
-            <div class="modal-content">
-                <p id="en"></p>
-                <p id="ja"></p>
+            <div id="popup-content">
+                <p id="popup-en"></p>
+                <p id="popup-ja"></p>
+                <button id="close">close</button>
             </div>
         </div>
     </main>
     <footer id="footer"></footer>
-    <script src="../js/header.js"></script>
-    <script src="../js/footer.js"></script>
-    <script src="../js/script.js"></script>
-    <script src="../js/scan.js"></script>
+    <script src="js/header.js"></script>
+    <script src="js/footer.js"></script>
+    <script src="js/script.js"></script>
+    <script src="js/list.js"></script>
 </body>
 </html>
