@@ -199,11 +199,11 @@ footer {
     background: #007bff;
     color: white;
 }
-#list .menu {
+#list #phrase-list {
     display: flex;
     flex-wrap: wrap;
 }
-.menu li {
+#phrase-list li {
     background-color: whitesmoke;
     width: 95%;
     padding: 1em;
@@ -213,16 +213,16 @@ footer {
     border-radius: 0.5em;
     cursor: pointer;
 }
-#list .menu li .en{
+#list #phrase-list li .en{
     font-size: x-large;
     font-weight: bold;
 }
-#list .menu li .ja{
+#list #phrase-list li .ja{
     font-size: small;
     color: #666;
     margin-top: 0.5em;
 }
-#list .popup{
+#list #popup{
     position: fixed;
     inset: 0;
     background: rgba(0,0,0,0.5);
@@ -230,41 +230,27 @@ footer {
     align-items: center;
     justify-content: center;
 }
-#list #popup-content{
+#list #popup #popup-content{
     width: 90%;
     background: white;
     padding: 2em;
     border-radius: 8px;
 }
-#list #popup-content #popup-en {
+#list #popup #popup-content #popup-en {
     font-size: xx-large;
     font-weight: bold;
 }
-#list #popup-content #popup-ja {
+#list #popup #popup-content #popup-ja {
     font-size: x-large;
 }
-
-
-
-
-
-#phrase-list {
-    margin: 0;
-}
-#phrase-list .phrase {
-    margin: 1em 0;
-    padding: 1em;
-    border: 1px solid #aaa;
-    border-radius: 5px;
-    cursor: pointer;
-    background: whitesmoke;
-    font-size: 1.7em;
-    font-weight: bold;
-}
-#phrase-list .phrase:hover {
-    background: wheat;
+#list #popup #popup-content #speak-btn {
+    margin: 1em;
+    font-size: large;
 }
 
+
+
+/* 不要 */
 
 #en {
     font-size: 1.7em;

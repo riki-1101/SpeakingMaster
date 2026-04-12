@@ -1,4 +1,3 @@
-const menu = document.querySelector(".menu");
 let jsonData = [];
 
 const fileName = location.pathname.split("/").pop().replace(".html", "");
@@ -7,7 +6,7 @@ fetch(`./json/${fileName}.json`)
 .then(res => res.json())
 .then(data => {
     jsonData = data;
-    updateMenu();
+    updateList();
 });
 
 const popup = document.getElementById("popup");
@@ -15,9 +14,9 @@ const popupEn = document.getElementById("popup-en");
 const popupJa = document.getElementById("popup-ja");
 const closeBtn = document.getElementById("close");
 
-function updateMenu(){
+function updateList(){
     const category = document.querySelector('input[name="category"]:checked').value;
-    menu.innerHTML = "";
+    ul.innerHTML = "";
     jsonData
     .filter(item => item.category === category)
     .forEach(item => {
@@ -30,7 +29,7 @@ function updateMenu(){
         ja.textContent = item.ja;
         li.appendChild(en);
         li.appendChild(ja);
-        menu.appendChild(li);
+        ul.appendChild(li);
         li.addEventListener("click", () => {
             popupEn.textContent = item.en;
             popupJa.textContent = item.ja;
@@ -52,5 +51,5 @@ popup.addEventListener("click", (e) => {
 
 // ラジオ変更
 document.querySelectorAll('input[type="radio"]').forEach(radio => {
-    radio.addEventListener("change", updateMenu);
+    radio.addEventListener("change", updateList);
 });

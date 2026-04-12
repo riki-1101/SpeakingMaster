@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Menu</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header id="header"></header>
+    <main id="list">
+        <div class="radio">
+            <input type="radio" name="category" id="基本" value="基本" checked>
+            <label for="基本">基本</label>
+            <input type="radio" name="category" id="自問" value="自問">
+            <label for="自問">自問</label>
+            <input type="radio" name="category" id="いつ" value="いつ">
+            <label for="いつ">いつ</label>
+            <input type="radio" name="category" id="どこ" value="どこ">
+            <label for="どこ">どこ</label>
+            <input type="radio" name="category" id="なんで" value="なんで">
+            <label for="なんで">なんで</label>
+            <input type="radio" name="category" id="どうやって" value="どうやって">
+            <label for="どうやって">どうやって</label>
+        </div>
+        <ul id="phrase-list"></ul>
+        <div id="popup">
+            <div id="popup-content">
+                <p id="popup-en"></p>
+                <p id="popup-ja"></p>
+                <button id="close">close</button>
+            </div>
+        </div>
+    </main>
+    <footer id="footer"></footer>
+    <script src="js/header.js"></script>
+    <script src="js/footer.js"></script>
+    <script src="js/script.js"></script>
+    <script src="js/list.js"></script>
+</body>
+</html>

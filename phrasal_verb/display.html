@@ -9,11 +9,12 @@
 <body>
     <header id="header"></header>
     <main id="list">
-        <ul class="menu"></ul>
-        <div id="popup" class="popup">
+        <ul id="phrase-list"></ul>
+        <div id="popup">
             <div id="popup-content">
                 <p id="popup-en"></p>
                 <p id="popup-ja"></p>
+                <button id="speak-btn">🔊</button>
                 <button id="close">close</button>
             </div>
         </div>
@@ -23,7 +24,6 @@
     <script src="../js/footer.js"></script>
     <script src="../js/script.js"></script>
     <script>
-        const menu = document.querySelector(".menu");
         let jsonData = [];
 
         const preposition = localStorage.getItem("selectedPreposition");
@@ -32,16 +32,17 @@
         .then(res => res.json())
         .then(data => {
             jsonData = data;
-            updateMenu();
+            updateList();
         });
 
         const popup = document.getElementById("popup");
         const popupEn = document.getElementById("popup-en");
         const popupJa = document.getElementById("popup-ja");
+        const speakBtn = document.getElementById("speak-btn");
         const closeBtn = document.getElementById("close");
 
-        function updateMenu(){
-            menu.innerHTML = "";
+        function updateList(){
+            ul.innerHTML = "";
             jsonData
             .forEach(item => {
                 const li = document.createElement("li");
@@ -53,7 +54,7 @@
                 ja.textContent = item.ja;
                 li.appendChild(en);
                 li.appendChild(ja);
-                menu.appendChild(li);
+                ul.appendChild(li);
                 li.addEventListener("click", () => {
                     popupEn.textContent = item.en;
                     popupJa.textContent = item.ja;
@@ -61,6 +62,10 @@
                 });
             });
         }
+
+        speakBtn.addEventListener("click", () => {
+            speakEnglish(popupEn.textContent);
+        });
 
         closeBtn.addEventListener("click", () => {
             popup.style.display = "none";
