@@ -1,7 +1,35 @@
 [
     {
+        "en": "catch up with (sb)",
+        "ja": "～に追いつく、～と近況を報告し合う"
+    },
+    {
+        "en": "come up with (sth)",
+        "ja": "～を思い付く"
+    },
+    {
+        "en": "cope with (sth)",
+        "ja": "（精神的に）～に対処する"
+    },
+    {
         "en": "deal with (sth)",
-        "ja": "～を扱う"
+        "ja": "（事務的に）～を扱う、対処する"
+    },
+    {
+        "en": "do away with (sth)",
+        "ja": "～を廃止する、～を処分する"
+    },
+    {
+        "en": "find fault with (sb/sth)",
+        "ja": "～のあら探しをする"
+    },
+    {
+        "en": "get along with (sb)",
+        "ja": "～と仲良くやっていく"
+    },
+    {
+        "en": "keep up with (sth)",
+        "ja": "～に遅れずについていく"
     },
     {
         "en": "put up with (sth)",
