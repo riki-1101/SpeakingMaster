@@ -1,11 +1,23 @@
 [
     {
+        "en": "approve of (sth)",
+        "ja": "～を承認する"
+    },
+    {
         "en": "catch sight of (sb/sth)",
         "ja": "～を見かける"
     },
     {
         "en": "get out of (sth)",
         "ja": "～から出る"
+    },
+    {
+        "en": "get rid of (sth)",
+        "ja": "～を取り除く"
+    },
+    {
+        "en": "know of (sth)",
+        "ja": "～について知っている"
     },
     {
         "en": "lose sight of (sb/sth)",
@@ -38,6 +50,10 @@
     {
         "en": "take care of (sb/sth)",
         "ja": "～の世話をする"
+    },
+    {
+        "en": "take control of (sth)",
+        "ja": "～コントロールする"
     },
     {
         "en": "take notice of (sth)",
