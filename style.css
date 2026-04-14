@@ -219,6 +219,9 @@ footer {
     flex-wrap: wrap;
 }
 #phrase-list li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     background-color: whitesmoke;
     width: 95%;
     padding: 1em;
@@ -228,14 +231,24 @@ footer {
     border-radius: 0.5em;
     cursor: pointer;
 }
-#list #phrase-list li .en{
+.text-wrap {
+    display: flex;
+    flex-direction: column;
+}
+#list #phrase-list li .en {
     font-size: x-large;
     font-weight: bold;
 }
-#list #phrase-list li .ja{
+#list #phrase-list li .ja {
     font-size: small;
     color: #666;
     margin-top: 0.5em;
+}
+.speak-btn {
+    font-size: large;
+    background: none;
+    border: none;
+    cursor: pointer;
 }
 #list #popup{
     position: fixed;

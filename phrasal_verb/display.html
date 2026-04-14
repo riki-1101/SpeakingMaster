@@ -52,9 +52,26 @@
                 const ja = document.createElement("div");
                 ja.className = "ja";
                 ja.textContent = item.ja;
-                li.appendChild(en);
-                li.appendChild(ja);
+
+                // 🔊 読み上げボタン
+                const speakBtn = document.createElement("button");
+                speakBtn.textContent = "🔊";
+                speakBtn.className = "speak-btn";
+
+                speakBtn.addEventListener("click", (e) => {
+                    e.stopPropagation(); // ← liクリック（ポップアップ）を防ぐ
+                    speakEnglish(item.en);
+                });
+
+                const textWrap = document.createElement("div");
+                textWrap.className = "text-wrap";
+                textWrap.appendChild(en);
+                textWrap.appendChild(ja);
+                li.appendChild(textWrap);
+                li.appendChild(speakBtn);
+                li.appendChild(speakBtn);
                 ul.appendChild(li);
+
                 li.addEventListener("click", () => {
                     popupEn.textContent = item.en;
                     popupJa.textContent = item.ja;
@@ -77,6 +94,7 @@
                 popup.style.display = "none";
             }
         });
+
     </script>
 </body>
 </html>

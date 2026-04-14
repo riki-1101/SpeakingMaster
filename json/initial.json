@@ -1,7 +1,7 @@
 [
     {
         "category": "認識",
-        "en": "I know",
+        "en": "I know (SV)",
         "ja": "～と知っている",
         "ex": [
             {
@@ -12,7 +12,7 @@
     },
     {
         "category": "認識",
-        "en": "I understand",
+        "en": "I understand (SV)",
         "ja": "～と理解している",
         "ex": [
             {
@@ -23,7 +23,7 @@
     },
     {
         "category": "認識",
-        "en": "I remember",
+        "en": "I remember (SV)",
         "ja": "～を覚えている",
         "ex": [
             {
@@ -34,7 +34,7 @@
     },
     {
         "category": "認識",
-        "en": "I forget",
+        "en": "I forget (SV)",
         "ja": "～を忘れてしまう",
         "ex": [
             {
@@ -49,7 +49,7 @@
     },
     {
         "category": "認識",
-        "en": "I noticed",
+        "en": "I noticed (SV)",
         "ja": "（五感で）～と気づいた",
         "ex": [
             {
@@ -60,7 +60,7 @@
     },
     {
         "category": "認識",
-        "en": "I realized",
+        "en": "I realized (SV)",
         "ja": "（心の中で）～と気づいた",
         "ex": [
             {
@@ -71,7 +71,7 @@
     },
     {
         "category": "認識",
-        "en": "I found",
+        "en": "I found (SV)",
         "ja": "（経験して）～とわかった",
         "ex": [
             {
@@ -82,7 +82,7 @@
     },
     {
         "category": "認識",
-        "en": "I recognize",
+        "en": "I recognize (SV)",
         "ja": "～と認識している",
         "ex": [
             {
@@ -93,7 +93,7 @@
     },
     {
         "category": "認識",
-        "en": "I discovered",
+        "en": "I discovered (SV)",
         "ja": "～を発見した",
         "ex": [
             {
@@ -104,7 +104,7 @@
     },
     {
         "category": "認識",
-        "en": "I heard",
+        "en": "I heard (SV)",
         "ja": "～と聞いた",
         "ex": [
             {
@@ -115,7 +115,7 @@
     },
     {
         "category": "認識",
-        "en": "I'm aware",
+        "en": "I'm aware (SV)",
         "ja": "～と気づいている",
         "ex": [
             {
@@ -126,7 +126,7 @@
     },
     {
         "category": "認識",
-        "en": "It turns out",
+        "en": "It turns out (SV)",
         "ja": "今になって～とわかった",
         "ex": [
             {
@@ -142,7 +142,7 @@
 
     {
         "category": "意見",
-        "en": "I think",
+        "en": "I think (SV)",
         "ja": "（主観的に）～だと思う",
         "ex": [
             {
@@ -153,7 +153,7 @@
     },
     {
         "category": "意見",
-        "en": "I thought",
+        "en": "I thought (SV)",
         "ja": "（主観的に）～だと思った",
         "ex": [
             {
@@ -164,7 +164,7 @@
     },
     {
         "category": "意見",
-        "en": "I believe",
+        "en": "I believe (SV)",
         "ja": "～だと信じる",
         "ex": [
             {
@@ -175,7 +175,7 @@
     },
     {
         "category": "意見",
-        "en": "I assume",
+        "en": "I assume (SV)",
         "ja": "～だと勝手に思い込む",
         "ex": [
             {
@@ -186,7 +186,7 @@
     },
     {
         "category": "意見",
-        "en": "I suppose",
+        "en": "I suppose (SV)",
         "ja": "～だと推測する",
         "ex": [
             {
@@ -197,7 +197,7 @@
     },
     {
         "category": "意見",
-        "en": "I guess",
+        "en": "I guess (SV)",
         "ja": "多分～だと思う",
         "ex": [
             {
@@ -208,7 +208,7 @@
     },
     {
         "category": "意見",
-        "en": "I bet",
+        "en": "I bet (SV)",
         "ja": "絶対～だと思う",
         "ex": [
             {
@@ -219,7 +219,7 @@
     },
     {
         "category": "意見",
-        "en": "I hope",
+        "en": "I hope (SV)",
         "ja": "～だといいな",
         "ex": [
             {
@@ -230,7 +230,7 @@
     },
     {
         "category": "意見",
-        "en": "I expect",
+        "en": "I expect (SV)",
         "ja": "～だと予想する",
         "ex": [
             {
@@ -241,7 +241,7 @@
     },
     {
         "category": "意見",
-        "en": "I imagine",
+        "en": "I imagine (SV)",
         "ja": "～だと想像する",
         "ex": [
             {
@@ -252,7 +252,7 @@
     },
     {
         "category": "意見",
-        "en": "I suspect",
+        "en": "I suspect (SV)",
         "ja": "～だと疑う",
         "ex": [
             {
@@ -263,7 +263,7 @@
     },
     {
         "category": "意見",
-        "en": "I doubt",
+        "en": "I doubt (SV)",
         "ja": "～だとは思えない",
         "ex": [
             {
@@ -274,7 +274,7 @@
     },
     {
         "category": "意見",
-        "en": "I promise",
+        "en": "I promise (SV)",
         "ja": "～だと約束する",
         "ex": [
             {
@@ -285,7 +285,7 @@
     },
     {
         "category": "意見",
-        "en": "I swear",
+        "en": "I swear (SV)",
         "ja": "～だと誓う",
         "ex": [
             {
@@ -296,7 +296,7 @@
     },
     {
         "category": "意見",
-        "en": "I stand by that",
+        "en": "I stand by that (SV)",
         "ja": "～だぞ！",
         "ex": [
             {
@@ -307,7 +307,7 @@
     },
     {
         "category": "意見",
-        "en": "I feel",
+        "en": "I feel (SV)",
         "ja": "～と感じる",
         "ex": [
             {
@@ -318,7 +318,7 @@
     },
     {
         "category": "意見",
-        "en": "I feel like",
+        "en": "I feel like (SV)",
         "ja": "なんか～な気がする",
         "ex": [
             {
@@ -329,7 +329,7 @@
     },
     {
         "category": "意見",
-        "en": "I'd say",
+        "en": "I'd say (SV)",
         "ja": "私の考えでは～だと思うよ",
         "ex": [
             {
@@ -340,7 +340,7 @@
     },
     {
         "category": "意見",
-        "en": "I can't help but think",
+        "en": "I can't help but think (SV)",
         "ja": "どうしても～って考えちゃう",
         "ex": [
             {
@@ -351,7 +351,7 @@
     },
     {
         "category": "意見",
-        "en": "I wonder if",
+        "en": "I wonder if (SV)",
         "ja": "～かなと思う",
         "ex": [
             {
@@ -362,7 +362,7 @@
     },
     {
         "category": "意見",
-        "en": "I wonder whether",
+        "en": "I wonder whether (SV)",
         "ja": "～かなと思う",
         "ex": [
             {
@@ -384,7 +384,7 @@
     },
     {
         "category": "意見",
-        "en": "I'm sure",
+        "en": "I'm sure (SV)",
         "ja": "（直感で）～だと確信している",
         "ex": [
             {
@@ -395,7 +395,7 @@
     },
     {
         "category": "意見",
-        "en": "I'm certain",
+        "en": "I'm certain (SV)",
         "ja": "（根拠を持って）～だと確信している",
         "ex": [
             {
@@ -406,7 +406,7 @@
     },
     {
         "category": "意見",
-        "en": "I'm confident",
+        "en": "I'm confident (SV)",
         "ja": "～だと自信がある",
         "ex": [
             {
@@ -417,7 +417,7 @@
     },
     {
         "category": "意見",
-        "en": "I'm afraid",
+        "en": "I'm afraid (SV)",
         "ja": "残念ながら～だと思う",
         "ex": [
             {
@@ -428,7 +428,7 @@
     },
     {
         "category": "意見",
-        "en": "There is no doubt",
+        "en": "There is no doubt (SV)",
         "ja": "～は間違いない",
         "ex": [
             {
@@ -812,7 +812,7 @@
     {
         "category": "評価",
         "en": "It feels like",
-        "ja": "～のように感じる",
+        "ja": "～のような感じだ",
         "ex": [
             {
                 "en": "It feels like time is flying.",
