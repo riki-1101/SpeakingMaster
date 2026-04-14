@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>句動詞</title>
-    <link rel="stylesheet" href="../style.css">
+    <title>Declarative Sentence</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header id="header"></header>
@@ -14,21 +14,20 @@
             <div id="popup-content">
                 <p id="popup-en"></p>
                 <p id="popup-ja"></p>
-                <button id="speak-btn">🔊</button>
                 <button id="close">close</button>
             </div>
         </div>
     </main>
     <footer id="footer"></footer>
-    <script src="../js/header.js"></script>
-    <script src="../js/footer.js"></script>
-    <script src="../js/script.js"></script>
+    <script src="js/header.js"></script>
+    <script src="js/footer.js"></script>
+    <script src="js/script.js"></script>
     <script>
         let jsonData = [];
 
-        const preposition = localStorage.getItem("selectedPreposition");
+        const fileName = location.pathname.split("/").pop().replace(".html", "");
         const ul = document.getElementById("phrase-list");
-        fetch(`${preposition}.json`)
+        fetch(`./json/${fileName}.json`)
         .then(res => res.json())
         .then(data => {
             jsonData = data;
@@ -79,10 +78,6 @@
                 });
             });
         }
-
-        speakBtn.addEventListener("click", () => {
-            speakEnglish(popupEn.textContent);
-        });
 
         closeBtn.addEventListener("click", () => {
             popup.style.display = "none";
