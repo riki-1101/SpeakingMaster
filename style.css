@@ -174,13 +174,14 @@ footer {
     margin: 0;
 }
 #preposition-list li {
-    margin: 1em 0;
-    padding: 1em;
+    width: 95%;
+    padding: 0.8em;
+    margin: 1em auto;
     border: 1px solid #aaa;
     border-radius: 5px;
     cursor: pointer;
     background: whitesmoke;
-    font-size: 1.5em;
+    font-size: x-large;
     font-weight: bold;
 }
 
@@ -269,7 +270,7 @@ footer {
     font-weight: bold;
 }
 #list #popup #popup-content #popup-ja {
-    font-size: x-large;
+    font-size: large;
 }
 #list #popup #popup-content #speak-btn {
     margin: 1em;
