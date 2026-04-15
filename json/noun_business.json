@@ -1,26 +1,130 @@
 [
     {
+        "en": "ability",
+        "ja": "能力"
+    },
+    {
+        "en": "absence",
+        "ja": "欠席"
+    },
+    {
         "en": "acceptance",
         "ja": "受諾"
+    },
+    {
+        "en": "accomplishment",
+        "ja": "達成"
+    },
+    {
+        "en": "account",
+        "ja": "口座"
     },
     {
         "en": "accounting",
         "ja": "経理"
     },
     {
+        "en": "achievement",
+        "ja": "達成"
+    },
+    {
+        "en": "admission",
+        "ja": "入会"
+    },
+    {
+        "en": "affiliate",
+        "ja": "系列会社"
+    },
+    {
+        "en": "agenda",
+        "ja": "議題"
+    },
+    {
         "en": "alternative",
         "ja": "代替案"
     },
     {
+        "en": "analysis",
+        "ja": "分析"
+    },
+    {
+        "en": "analyst",
+        "ja": "分析者"
+    },
+    {
+        "en": "anniversary",
+        "ja": "記念日"
+    },
+    {
+        "en": "announcement",
+        "ja": "発表"
+    },
+    {
+        "en": "applicant",
+        "ja": "応募者"
+    },
+    {
         "en": "application",
-        "ja": "応募書類"
+        "ja": "申し込み、応募書類"
+    },
+    {
+        "en": "appointment",
+        "ja": "予約、約束"
+    },
+    {
+        "en": "apprenticeship",
+        "ja": "見習い期間"
+    },
+    {
+        "en": "approach",
+        "ja": "手法"
+    },
+    {
+        "en": "archive",
+        "ja": "記録文書"
+    },
+    {
+        "en": "aspect",
+        "ja": "局面"
     },
     {
         "en": "associate",
         "ja": "同僚"
     },
     {
-        "en": "branch office",
+        "en": "attention",
+        "ja": "注意"
+    },
+    {
+        "en": "audience",
+        "ja": "聴衆"
+    },
+    {
+        "en": "auditorium",
+        "ja": "講堂"
+    },
+    {
+        "en": "award",
+        "ja": "賞"
+    },
+    {
+        "en": "behavior",
+        "ja": "態度"
+    },
+    {
+        "en": "benefit",
+        "ja": "利益"
+    },
+    {
+        "en": "bill",
+        "ja": "請求書"
+    },
+    {
+        "en": "board",
+        "ja": "役員会"
+    },
+    {
+        "en": "branch",
         "ja": "支店"
     },
     {
@@ -32,16 +136,152 @@
         "ja": "内訳"
     },
     {
+        "en": "brochure",
+        "ja": "小冊子"
+    },
+    {
+        "en": "budget",
+        "ja": "予算"
+    },
+    {
         "en": "business hours",
         "ja": "営業時間"
+    },
+    {
+        "en": "cafeteria",
+        "ja": "食堂"
+    },
+    {
+        "en": "campaign",
+        "ja": "キャンペーン"
+    },
+    {
+        "en": "candidate",
+        "ja": "志願者"
+    },
+    {
+        "en": "capability",
+        "ja": "能力"
+    },
+    {
+        "en": "cashier",
+        "ja": "レジ係"
+    },
+    {
+        "en": "catering",
+        "ja": "仕出し業"
+    },
+    {
+        "en": "certificate",
+        "ja": "証明書"
+    },
+    {
+        "en": "charge",
+        "ja": "料金"
+    },
+    {
+        "en": "checklist",
+        "ja": "一覧表"
+    },
+    {
+        "en": "checkup",
+        "ja": "健康診断、点検"
+    },
+    {
+        "en": "choice",
+        "ja": "選択"
+    },
+    {
+        "en": "clearance",
+        "ja": "整理"
+    },
+    {
+        "en": "client",
+        "ja": "顧客"
+    },
+    {
+        "en": "colleague",
+        "ja": "同僚"
+    },
+    {
+        "en": "commission",
+        "ja": "手数料"
+    },
+    {
+        "en": "committee",
+        "ja": "委員会"
     },
     {
         "en": "company founder",
         "ja": "会社設立者"
     },
     {
+        "en": "competence",
+        "ja": "能力"
+    },
+    {
+        "en": "competition",
+        "ja": "競争"
+    },
+    {
+        "en": "complaint",
+        "ja": "不満"
+    },
+    {
+        "en": "compliance",
+        "ja": "法令遵守"
+    },
+    {
+        "en": "compliment",
+        "ja": "ほめ言葉"
+    },
+    {
+        "en": "concept",
+        "ja": "概念"
+    },
+    {
+        "en": "concern",
+        "ja": "心配事"
+    },
+    {
+        "en": "condition",
+        "ja": "状態"
+    },
+    {
+        "en": "conference",
+        "ja": "会議"
+    },
+    {
+        "en": "congratulations",
+        "ja": "祝いの言葉"
+    },
+    {
+        "en": "construction",
+        "ja": "建設"
+    },
+    {
+        "en": "consultant",
+        "ja": "コンサルタント"
+    },
+    {
+        "en": "consumer",
+        "ja": "消費者"
+    },
+    {
         "en": "contact information",
         "ja": "連絡先"
+    },
+    {
+        "en": "contract",
+        "ja": "契約"
+    },
+    {
+        "en": "conversation",
+        "ja": "会話"
+    },
+    {
+        "en": "cooperation",
+        "ja": "協力"
     },
     {
         "en": "copy",
@@ -52,27 +292,291 @@
         "ja": "法人客"
     },
     {
+        "en": "correction",
+        "ja": "訂正、修正"
+    },
+    {
+        "en": "cost",
+        "ja": "費用"
+    },
+    {
+        "en": "council",
+        "ja": "議会"
+    },
+    {
+        "en": "coworker",
+        "ja": "仕事仲間"
+    },
+    {
+        "en": "customer",
+        "ja": "顧客"
+    },
+    {
+        "en": "damage",
+        "ja": "損害"
+    },
+    {
+        "en": "deadline",
+        "ja": "締め切り"
+    },
+    {
+        "en": "deal",
+        "ja": "取引"
+    },
+    {
         "en": "dealership",
         "ja": "販売代理店"
+    },
+    {
+        "en": "decision",
+        "ja": "決定"
+    },
+    {
+        "en": "deficit",
+        "ja": "不足額、赤字"
+    },
+    {
+        "en": "degree",
+        "ja": "学位"
+    },
+    {
+        "en": "delay",
+        "ja": "遅れ"
+    },
+    {
+        "en": "delivery",
+        "ja": "配達"
+    },
+    {
+        "en": "delivery date",
+        "ja": "納期、配達日"
+    },
+    {
+        "en": "demand",
+        "ja": "需要"
+    },
+    {
+        "en": "demonstration",
+        "ja": "実演"
+    },
+    {
+        "en": "department",
+        "ja": "部門、部署"
     },
     {
         "en": "department head",
         "ja": "部門長"
     },
     {
+        "en": "destination",
+        "ja": "目的地"
+    },
+    {
+        "en": "device",
+        "ja": "装置"
+    },
+    {
+        "en": "director",
+        "ja": "担当責任者"
+    },
+    {
+        "en": "directory",
+        "ja": "名簿"
+    },
+    {
+        "en": "disapproval",
+        "ja": "不賛成"
+    },
+    {
+        "en": "disclosure",
+        "ja": "公開"
+    },
+    {
+        "en": "document",
+        "ja": "文書"
+    },
+    {
+        "en": "duration",
+        "ja": "期間"
+    },
+    {
+        "en": "eatery",
+        "ja": "食堂"
+    },
+    {
+        "en": "economy",
+        "ja": "経済"
+    },
+    {
+        "en": "efficiency",
+        "ja": "能率"
+    },
+    {
+        "en": "effort",
+        "ja": "努力"
+    },
+    {
         "en": "emcee",
         "ja": "司会進行役"
+    },
+    {
+        "en": "employee",
+        "ja": "従業員"
+    },
+    {
+        "en": "engagement",
+        "ja": "約束"
+    },
+    {
+        "en": "enterprise",
+        "ja": "企業"
+    },
+    {
+        "en": "entrance",
+        "ja": "入り口"
+    },
+    {
+        "en": "entry",
+        "ja": "加入"
+    },
+    {
+        "en": "envelope",
+        "ja": "封筒"
+    },
+    {
+        "en": "environment",
+        "ja": "環境"
+    },
+    {
+        "en": "equipment",
+        "ja": "備品、機器"
+    },
+    {
+        "en": "estimate",
+        "ja": "見積もり"
+    },
+    {
+        "en": "evaluation",
+        "ja": "評価"
+    },
+    {
+        "en": "evidence",
+        "ja": "証拠"
+    },
+    {
+        "en": "example",
+        "ja": "例"
+    },
+    {
+        "en": "executive",
+        "ja": "重役"
+    },
+    {
+        "en": "exit",
+        "ja": "出口"
+    },
+    {
+        "en": "experience",
+        "ja": "経験"
+    },
+    {
+        "en": "expert",
+        "ja": "専門家"
+    },
+    {
+        "en": "expertise",
+        "ja": "専門知識"
+    },
+    {
+        "en": "explanation",
+        "ja": "説明"
+    },
+    {
+        "en": "extension number",
+        "ja": "内線番号"
+    },
+    {
+        "en": "facility",
+        "ja": "施設"
+    },
+    {
+        "en": "fact",
+        "ja": "事実"
+    },
+    {
+        "en": "factor",
+        "ja": "要因"
+    },
+    {
+        "en": "failure",
+        "ja": "失敗"
+    },
+    {
+        "en": "fare",
+        "ja": "運賃"
+    },
+    {
+        "en": "feature",
+        "ja": "特徴"
+    },
+    {
+        "en": "fee",
+        "ja": "料金、謝礼、手数料"
+    },
+    {
+        "en": "feedback",
+        "ja": "フィードバック"
+    },
+    {
+        "en": "fieldwork",
+        "ja": "現地調査"
+    },
+    {
+        "en": "figure",
+        "ja": "図形、数字"
+    },
+    {
+        "en": "flight",
+        "ja": "飛行"
+    },
+    {
+        "en": "floor",
+        "ja": "階"
+    },
+    {
+        "en": "foundation",
+        "ja": "基礎"
     },
     {
         "en": "founder",
         "ja": "創業者"
     },
     {
-        "en": "function",
-        "ja": "行事、会合、催し"
+        "en": "freelance",
+        "ja": "フリーランス"
     },
     {
-        "en": "handouts",
+        "en": "function",
+        "ja": "行事、会合、催し、機能"
+    },
+    {
+        "en": "fund",
+        "ja": "基金"
+    },
+    {
+        "en": "goods",
+        "ja": "商品"
+    },
+    {
+        "en": "growth",
+        "ja": "成長"
+    },
+    {
+        "en": "guarantee",
+        "ja": "保証"
+    },
+    {
+        "en": "handout",
         "ja": "配布物"
     },
     {
@@ -80,20 +584,112 @@
         "ja": "本社"
     },
     {
+        "en": "honor",
+        "ja": "名誉"
+    },
+    {
+        "en": "idea",
+        "ja": "考え"
+    },
+    {
+        "en": "identification",
+        "ja": "身分証明書"
+    },
+    {
+        "en": "impact",
+        "ja": "影響"
+    },
+    {
+        "en": "income",
+        "ja": "収入"
+    },
+    {
+        "en": "increase",
+        "ja": "増加"
+    },
+    {
+        "en": "industry",
+        "ja": "産業"
+    },
+    {
+        "en": "infrastructure",
+        "ja": "社会基盤"
+    },
+    {
         "en": "initiative",
-        "ja": "構想、戦略"
+        "ja": "構想、戦略、主導権"
     },
     {
         "en": "inspection",
-        "ja": "調査"
+        "ja": "調査、視察"
+    },
+    {
+        "en": "installment",
+        "ja": "分割払い"
+    },
+    {
+        "en": "institute",
+        "ja": "機関"
+    },
+    {
+        "en": "insurance",
+        "ja": "保険"
+    },
+    {
+        "en": "internship",
+        "ja": "インターンシップ"
+    },
+    {
+        "en": "interruption",
+        "ja": "中断"
+    },
+    {
+        "en": "interview",
+        "ja": "面接"
+    },
+    {
+        "en": "introduction",
+        "ja": "導入"
     },
     {
         "en": "invention",
         "ja": "考案品"
     },
     {
+        "en": "inventory",
+        "ja": "在庫"
+    },
+    {
+        "en": "invoice",
+        "ja": "請求書"
+    },
+    {
+        "en": "issue",
+        "ja": "問題点"
+    },
+    {
         "en": "janitor",
         "ja": "管理人"
+    },
+    {
+        "en": "key",
+        "ja": "手がかり"
+    },
+    {
+        "en": "keynote",
+        "ja": "基調講演"
+    },
+    {
+        "en": "kickoff",
+        "ja": "開始"
+    },
+    {
+        "en": "knowledge",
+        "ja": "知識"
+    },
+    {
+        "en": "laboratory",
+        "ja": "実験室"
     },
     {
         "en": "landlord",
@@ -104,20 +700,112 @@
         "ja": "新製品"
     },
     {
+        "en": "lobby",
+        "ja": "玄関ホール"
+    },
+    {
+        "en": "location",
+        "ja": "場所"
+    },
+    {
+        "en": "logo",
+        "ja": "ロゴ"
+    },
+    {
         "en": "loyal customer",
         "ja": "常連客"
+    },
+    {
+        "en": "luggage",
+        "ja": "旅行かばん、手荷物"
     },
     {
         "en": "lunchtime",
         "ja": "昼休み"
     },
     {
+        "en": "maintenance",
+        "ja": "整備"
+    },
+    {
+        "en": "management",
+        "ja": "経営"
+    },
+    {
+        "en": "manual",
+        "ja": "説明書"
+    },
+    {
+        "en": "manufacture",
+        "ja": "製造業"
+    },
+    {
+        "en": "manuscript",
+        "ja": "原稿"
+    },
+    {
+        "en": "marketing",
+        "ja": "マーケティング"
+    },
+    {
+        "en": "material",
+        "ja": "材料"
+    },
+    {
+        "en": "means",
+        "ja": "手段"
+    },
+    {
+        "en": "meeting",
+        "ja": "会議"
+    },
+    {
         "en": "mentor",
         "ja": "指導者"
     },
     {
+        "en": "merchandise",
+        "ja": "商品"
+    },
+    {
+        "en": "merger",
+        "ja": "合併"
+    },
+    {
+        "en": "method",
+        "ja": "方法"
+    },
+    {
+        "en": "milestone",
+        "ja": "段階"
+    },
+    {
+        "en": "minutes",
+        "ja": "議事録"
+    },
+    {
         "en": "miscellaneous expense",
         "ja": "雑費"
+    },
+    {
+        "en": "mission",
+        "ja": "任務"
+    },
+    {
+        "en": "monopoly",
+        "ja": "独占"
+    },
+    {
+        "en": "newsletter",
+        "ja": "社内報"
+    },
+    {
+        "en": "novice",
+        "ja": "初心者"
+    },
+    {
+        "en": "objective",
+        "ja": "目的"
     },
     {
         "en": "office hours",
@@ -136,64 +824,388 @@
         "ja": "営業時間"
     },
     {
+        "en": "opportunity",
+        "ja": "機会"
+    },
+    {
+        "en": "organization",
+        "ja": "組織"
+    },
+    {
+        "en": "outcome",
+        "ja": "結果"
+    },
+    {
+        "en": "outlay",
+        "ja": "出資金"
+    },
+    {
+        "en": "outside line",
+        "ja": "外線"
+    },
+    {
+        "en": "overview",
+        "ja": "概要"
+    },
+    {
+        "en": "paid holiday",
+        "ja": "有給休暇"
+    },
+    {
+        "en": "paperwork",
+        "ja": "文書業務"
+    },
+    {
+        "en": "participant",
+        "ja": "参加者"
+    },
+    {
+        "en": "patent",
+        "ja": "特許"
+    },
+    {
+        "en": "payment",
+        "ja": "支払い"
+    },
+    {
+        "en": "personnel",
+        "ja": "人事部"
+    },
+    {
         "en": "perspective",
         "ja": "観点"
+    },
+    {
+        "en": "plan",
+        "ja": "計画"
     },
     {
         "en": "potential client",
         "ja": "見込み客"
     },
     {
+        "en": "prerequisite",
+        "ja": "前提条件"
+    },
+    {
+        "en": "presentation",
+        "ja": "プレゼンテーション"
+    },
+    {
         "en": "presale",
         "ja": "事前販売"
+    },
+    {
+        "en": "priority",
+        "ja": "優先事項"
+    },
+    {
+        "en": "problem",
+        "ja": "問題"
+    },
+    {
+        "en": "procedure",
+        "ja": "手順"
+    },
+    {
+        "en": "proceeds",
+        "ja": "売上高"
+    },
+    {
+        "en": "process",
+        "ja": "過程"
     },
     {
         "en": "product instruction",
         "ja": "製品取扱説明書"
     },
     {
+        "en": "proficiency",
+        "ja": "熟練度"
+    },
+    {
+        "en": "profile",
+        "ja": "プロフィール"
+    },
+    {
+        "en": "profit",
+        "ja": "利益"
+    },
+    {
+        "en": "progress",
+        "ja": "進歩"
+    },
+    {
+        "en": "project",
+        "ja": "プロジェクト"
+    },
+    {
+        "en": "projection",
+        "ja": "予測"
+    },
+    {
+        "en": "proposal",
+        "ja": "提案"
+    },
+    {
+        "en": "prospect",
+        "ja": "見通し"
+    },
+    {
+        "en": "prototype",
+        "ja": "試作品"
+    },
+    {
+        "en": "purpose",
+        "ja": "目的"
+    },
+    {
+        "en": "question",
+        "ja": "質問"
+    },
+    {
+        "en": "questionnaire",
+        "ja": "アンケート"
+    },
+    {
+        "en": "quota",
+        "ja": "ノルマ"
+    },
+    {
+        "en": "receipt",
+        "ja": "領収書"
+    },
+    {
+        "en": "reception",
+        "ja": "受付"
+    },
+    {
+        "en": "recipient",
+        "ja": "受取人"
+    },
+    {
+        "en": "reduction",
+        "ja": "削減"
+    },
+    {
         "en": "refurbishment",
         "ja": "改修、改装"
+    },
+    {
+        "en": "regulation",
+        "ja": "規則"
+    },
+    {
+        "en": "renovation",
+        "ja": "改装"
+    },
+    {
+        "en": "replacement",
+        "ja": "交換"
+    },
+    {
+        "en": "report",
+        "ja": "報告書"
+    },
+    {
+        "en": "representative",
+        "ja": "代表者"
+    },
+    {
+        "en": "reputation",
+        "ja": "評判"
+    },
+    {
+        "en": "request",
+        "ja": "要請"
+    },
+    {
+        "en": "reservation",
+        "ja": "予約"
+    },
+    {
+        "en": "resign",
+        "ja": "辞任、退職"
+    },
+    {
+        "en": "response",
+        "ja": "反響"
+    },
+    {
+        "en": "result",
+        "ja": "結果"
+    },
+    {
+        "en": "revenue",
+        "ja": "収益"
     },
     {
         "en": "revision",
         "ja": "修正"
     },
     {
+        "en": "reward",
+        "ja": "報酬"
+    },
+    {
+        "en": "role",
+        "ja": "役割"
+    },
+    {
         "en": "sales projection",
         "ja": "販売予測"
+    },
+    {
+        "en": "schedule",
+        "ja": "予定"
+    },
+    {
+        "en": "scheme",
+        "ja": "計画"
+    },
+    {
+        "en": "scope",
+        "ja": "範囲"
+    },
+    {
+        "en": "seminar",
+        "ja": "セミナー"
+    },
+    {
+        "en": "shipment",
+        "ja": "発送"
+    },
+    {
+        "en": "shortage",
+        "ja": "不足"
+    },
+    {
+        "en": "signature",
+        "ja": "署名"
+    },
+    {
+        "en": "situation",
+        "ja": "状況"
     },
     {
         "en": "small business",
         "ja": "中小企業"
     },
     {
+        "en": "solution",
+        "ja": "解決策"
+    },
+    {
+        "en": "specialist",
+        "ja": "専門家"
+    },
+    {
+        "en": "specification",
+        "ja": "仕様書"
+    },
+    {
+        "en": "strategy",
+        "ja": "戦略"
+    },
+    {
+        "en": "structure",
+        "ja": "構造"
+    },
+    {
+        "en": "subcontractor",
+        "ja": "下請け会社"
+    },
+    {
+        "en": "suggestion",
+        "ja": "提案"
+    },
+    {
+        "en": "summary",
+        "ja": "要約"
+    },
+    {
+        "en": "supervisor",
+        "ja": "監督者"
+    },
+    {
+        "en": "survey",
+        "ja": "調査"
+    },
+    {
+        "en": "tariff",
+        "ja": "関税、運賃表"
+    },
+    {
+        "en": "topic",
+        "ja": "話題"
+    },
+    {
+        "en": "transaction",
+        "ja": "取引"
+    },
+    {
+        "en": "transportation",
+        "ja": "輸送機関"
+    },
+    {
+        "en": "trend",
+        "ja": "トレンド"
+    },
+    {
+        "en": "uniform",
+        "ja": "制服"
+    },
+    {
+        "en": "urgency",
+        "ja": "緊急"
+    },
+    {
         "en": "vacancy",
         "ja": "欠員"
+    },
+    {
+        "en": "vacation",
+        "ja": "休暇"
+    },
+    {
+        "en": "venue",
+        "ja": "会場"
+    },
+    {
+        "en": "vision",
+        "ja": "未来像、ビジョン"
+    },
+    {
+        "en": "warehouse",
+        "ja": "倉庫"
+    },
+    {
+        "en": "warrant",
+        "ja": "根拠、証明書"
+    },
+    {
+        "en": "warranty",
+        "ja": "保証"
     },
     {
         "en": "work duty",
         "ja": "業務"
     },
     {
-        "en": "",
-        "ja": ""
+        "en": "workflow",
+        "ja": "仕事の流れ"
     },
     {
-        "en": "",
-        "ja": ""
+        "en": "workforce",
+        "ja": "全従業員、労働人口"
     },
     {
-        "en": "",
-        "ja": ""
+        "en": "workplace",
+        "ja": "仕事場"
     },
     {
-        "en": "",
-        "ja": ""
-    },
-    {
-        "en": "",
-        "ja": ""
+        "en": "workshop",
+        "ja": "作業場、研修会"
     },
     {
         "en": "",
