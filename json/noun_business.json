@@ -40,6 +40,14 @@
         "ja": "議題"
     },
     {
+        "en": "agreement",
+        "ja": "妥協"
+    },
+    {
+        "en": "allowance",
+        "ja": "手当"
+    },
+    {
         "en": "alternative",
         "ja": "代替案"
     },
@@ -72,6 +80,10 @@
         "ja": "予約、約束"
     },
     {
+        "en": "appraisal",
+        "ja": "査定"
+    },
+    {
         "en": "apprenticeship",
         "ja": "見習い期間"
     },
@@ -86,6 +98,14 @@
     {
         "en": "aspect",
         "ja": "局面"
+    },
+    {
+        "en": "assessment",
+        "ja": "評価"
+    },
+    {
+        "en": "asset",
+        "ja": "資産、財産"
     },
     {
         "en": "associate",
@@ -104,12 +124,24 @@
         "ja": "講堂"
     },
     {
+        "en": "authority",
+        "ja": "権限"
+    },
+    {
         "en": "award",
         "ja": "賞"
     },
     {
+        "en": "banquet",
+        "ja": "宴会"
+    },
+    {
         "en": "behavior",
         "ja": "態度"
+    },
+    {
+        "en": "belongings",
+        "ja": "所持品"
     },
     {
         "en": "benefit",
@@ -118,6 +150,10 @@
     {
         "en": "bill",
         "ja": "請求書"
+    },
+    {
+        "en": "blueprint",
+        "ja": "設計図"
     },
     {
         "en": "board",
@@ -164,6 +200,10 @@
         "ja": "能力"
     },
     {
+        "en": "cardboard box",
+        "ja": "段ボール箱"
+    },
+    {
         "en": "cashier",
         "ja": "レジ係"
     },
@@ -174,6 +214,10 @@
     {
         "en": "certificate",
         "ja": "証明書"
+    },
+    {
+        "en": "chairman",
+        "ja": "会長"
     },
     {
         "en": "charge",
@@ -190,6 +234,10 @@
     {
         "en": "choice",
         "ja": "選択"
+    },
+    {
+        "en": "claim",
+        "ja": "主張"
     },
     {
         "en": "clearance",
@@ -212,6 +260,10 @@
         "ja": "委員会"
     },
     {
+        "en": "communication",
+        "ja": "コミュニケーション"
+    },
+    {
         "en": "company founder",
         "ja": "会社設立者"
     },
@@ -228,12 +280,20 @@
         "ja": "不満"
     },
     {
+        "en": "completion",
+        "ja": "完了"
+    },
+    {
         "en": "compliance",
         "ja": "法令遵守"
     },
     {
         "en": "compliment",
         "ja": "ほめ言葉"
+    },
+    {
+        "en": "compromise",
+        "ja": "妥協"
     },
     {
         "en": "concept",
@@ -254,6 +314,10 @@
     {
         "en": "congratulations",
         "ja": "祝いの言葉"
+    },
+    {
+        "en": "constraint",
+        "ja": "制約"
     },
     {
         "en": "construction",
@@ -286,6 +350,10 @@
     {
         "en": "copy",
         "ja": "広告文"
+    },
+    {
+        "en": "copyright",
+        "ja": "著作権"
     },
     {
         "en": "corporate client",
@@ -424,6 +492,10 @@
         "ja": "従業員"
     },
     {
+        "en": "endeavor",
+        "ja": "努力"
+    },
+    {
         "en": "engagement",
         "ja": "約束"
     },
@@ -474,6 +546,10 @@
     {
         "en": "exit",
         "ja": "出口"
+    },
+    {
+        "en": "expenditure",
+        "ja": "費用、支出"
     },
     {
         "en": "experience",
@@ -620,6 +696,10 @@
         "ja": "構想、戦略、主導権"
     },
     {
+        "en": "inquiry",
+        "ja": "問い合わせ"
+    },
+    {
         "en": "inspection",
         "ja": "調査、視察"
     },
@@ -672,6 +752,10 @@
         "ja": "管理人"
     },
     {
+        "en": "job opening",
+        "ja": "仕事の空き"
+    },
+    {
         "en": "key",
         "ja": "手がかり"
     },
@@ -700,6 +784,10 @@
         "ja": "新製品"
     },
     {
+        "en": "limitation",
+        "ja": "制約"
+    },
+    {
         "en": "lobby",
         "ja": "玄関ホール"
     },
@@ -718,6 +806,10 @@
     {
         "en": "luggage",
         "ja": "旅行かばん、手荷物"
+    },
+    {
+        "en": "luncheon",
+        "ja": "昼食会"
     },
     {
         "en": "lunchtime",
@@ -844,8 +936,20 @@
         "ja": "外線"
     },
     {
+        "en": "overtime",
+        "ja": "残業"
+    },
+    {
+        "en": "overtimer",
+        "ja": "残業する人"
+    },
+    {
         "en": "overview",
         "ja": "概要"
+    },
+    {
+        "en": "ownership",
+        "ja": "所有権"
     },
     {
         "en": "paid holiday",
@@ -864,8 +968,16 @@
         "ja": "特許"
     },
     {
+        "en": "paycheck",
+        "ja": "給料"
+    },
+    {
         "en": "payment",
         "ja": "支払い"
+    },
+    {
+        "en": "payroll",
+        "ja": "給与管理"
     },
     {
         "en": "personnel",
@@ -880,8 +992,20 @@
         "ja": "計画"
     },
     {
+        "en": "post",
+        "ja": "役職、投稿"
+    },
+    {
         "en": "potential client",
         "ja": "見込み客"
+    },
+    {
+        "en": "precaution",
+        "ja": "予防策"
+    },
+    {
+        "en": "premises",
+        "ja": "敷地"
     },
     {
         "en": "prerequisite",
@@ -920,6 +1044,10 @@
         "ja": "製品取扱説明書"
     },
     {
+        "en": "productivity",
+        "ja": "生産性"
+    },
+    {
         "en": "proficiency",
         "ja": "熟練度"
     },
@@ -942,6 +1070,10 @@
     {
         "en": "projection",
         "ja": "予測"
+    },
+    {
+        "en": "promo",
+        "ja": "宣伝広告"
     },
     {
         "en": "proposal",
@@ -996,6 +1128,10 @@
         "ja": "規則"
     },
     {
+        "en": "renewal",
+        "ja": "更新"
+    },
+    {
         "en": "renovation",
         "ja": "改装"
     },
@@ -1024,8 +1160,8 @@
         "ja": "予約"
     },
     {
-        "en": "resign",
-        "ja": "辞任、退職"
+        "en": "resignation",
+        "ja": "辞任"
     },
     {
         "en": "response",
@@ -1034,6 +1170,10 @@
     {
         "en": "result",
         "ja": "結果"
+    },
+    {
+        "en": "résumé",
+        "ja": "履歴書、概要"
     },
     {
         "en": "revenue",
@@ -1072,6 +1212,10 @@
         "ja": "セミナー"
     },
     {
+        "en": "shareholder",
+        "ja": "株主"
+    },
+    {
         "en": "shipment",
         "ja": "発送"
     },
@@ -1104,6 +1248,10 @@
         "ja": "仕様書"
     },
     {
+        "en": "speculation",
+        "ja": "推測"
+    },
+    {
         "en": "strategy",
         "ja": "戦略"
     },
@@ -1132,8 +1280,20 @@
         "ja": "調査"
     },
     {
+        "en": "table",
+        "ja": "表"
+    },
+    {
         "en": "tariff",
         "ja": "関税、運賃表"
+    },
+    {
+        "en": "tenant",
+        "ja": "賃借人"
+    },
+    {
+        "en": "timeline",
+        "ja": "予定表"
     },
     {
         "en": "topic",
@@ -1160,12 +1320,20 @@
         "ja": "緊急"
     },
     {
+        "en": "utility",
+        "ja": "公共事業"
+    },
+    {
         "en": "vacancy",
         "ja": "欠員"
     },
     {
         "en": "vacation",
         "ja": "休暇"
+    },
+    {
+        "en": "vendor",
+        "ja": "業者"
     },
     {
         "en": "venue",
@@ -1198,6 +1366,10 @@
     {
         "en": "workforce",
         "ja": "全従業員、労働人口"
+    },
+    {
+        "en": "workload",
+        "ja": "仕事量"
     },
     {
         "en": "workplace",
