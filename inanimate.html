@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>無生物主語に対する動詞</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header id="header"></header>
+    <main id="list">
+        <div id="radio">
+            <input type="radio" name="category" id="させる" value="させる" checked>
+            <label for="させる">させる</label>
+            <input type="radio" name="category" id="可能にする" value="可能にする">
+            <label for="可能にする">可能にする</label>
+            <input type="radio" name="category" id="不可能にする" value="不可能にする">
+            <label for="不可能にする">不可能にする</label>
+            <input type="radio" name="category" id="与える" value="与える">
+            <label for="与える">与える</label>
+        </div>
+        <ul id="phrase-list"></ul>
+        <div id="popup">
+            <div id="popup-content">
+                <p id="popup-en"></p>
+                <p id="popup-ja"></p>
+                <button id="close">close</button>
+            </div>
+        </div>
+    </main>
+    <footer id="footer"></footer>
+    <script src="js/header.js"></script>
+    <script src="js/footer.js"></script>
+    <script src="js/script.js"></script>
+    <script src="js/list.js"></script>
+</body>
+</html>

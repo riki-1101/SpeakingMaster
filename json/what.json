@@ -1,0 +1,202 @@
+[
+    {
+        "category": "what to",
+        "en": "what to do",
+        "ja": "何をすべきか"
+    },
+    {
+        "category": "what to",
+        "en": "what to bring",
+        "ja": "何を持ってくるべきか"
+    },
+    {
+        "category": "what to",
+        "en": "what to buy",
+        "ja": "何を買うべきか"
+    },
+    {
+        "category": "what to",
+        "en": "what to eat",
+        "ja": "何を食べるべきか"
+    },
+    {
+        "category": "what to",
+        "en": "what to read",
+        "ja": "何を読むべきか"
+    },
+    {
+        "category": "what to",
+        "en": "what to say",
+        "ja": "何を言うべきか"
+    },
+    {
+        "category": "what to",
+        "en": "what to watch",
+        "ja": "何を見るべきか"
+    },
+    {
+        "category": "what to",
+        "en": "what to wear",
+        "ja": "何を着るべきか"
+    },
+
+
+
+
+
+    {
+        "category": "what I",
+        "en": "what I found",
+        "ja": "見つけたこと"
+    },
+    {
+        "category": "what I",
+        "en": "what I heard",
+        "ja": "聞いたこと"
+    },
+    {
+        "category": "what I",
+        "en": "what I know",
+        "ja": "知っていること"
+    },
+    {
+        "category": "what I",
+        "en": "what I like",
+        "ja": "好きなこと"
+    },
+    {
+        "category": "what I",
+        "en": "what I learned",
+        "ja": "学んだこと"
+    },
+    {
+        "category": "what I",
+        "en": "what I mean",
+        "ja": "意味すること"
+    },
+    {
+        "category": "what I",
+        "en": "what I saw",
+        "ja": "見たこと"
+    },
+    {
+        "category": "what I",
+        "en": "what I think",
+        "ja": "思うこと"
+    },
+    {
+        "category": "what I",
+        "en": "what I told you",
+        "ja": "あなたに言ったこと"
+    },
+    {
+        "category": "what I",
+        "en": "what I have in mind",
+        "ja": ""
+    },
+    {
+        "category": "what I",
+        "en": "what I'm saying",
+        "ja": "言っていること"
+    },
+    {
+        "category": "what I",
+        "en": "what I'm worried about",
+        "ja": "心配なこと"
+    },
+    {
+        "category": "what I",
+        "en": "what I can (do)",
+        "ja": "～できること"
+    },
+    {
+        "category": "what I",
+        "en": "what I should (do)",
+        "ja": "～すべきこと"
+    },
+    {
+        "category": "what I",
+        "en": "what I want to (do)",
+        "ja": "～したいこと"
+    },
+    {
+        "category": "what I",
+        "en": "what I need to (do)",
+        "ja": "～するのが必要なこと"
+    },
+    {
+        "category": "what I",
+        "en": "what I have to (do)",
+        "ja": "～しなければならないこと"
+    },
+    {
+        "category": "what I",
+        "en": "what I'm going to (do)",
+        "ja": "～するつもりなこと"
+    },
+    {
+        "category": "what I",
+        "en": "what I'm trying to (do)",
+        "ja": "～しようとしていること"
+    },
+
+
+
+
+    {
+        "category": "what you",
+        "en": "what you mean",
+        "ja": "あなたが意味すること"
+    },
+    {
+        "category": "what you",
+        "en": "what you need",
+        "ja": "あなたが必要なもの"
+    },
+    {
+        "category": "what you",
+        "en": "what you said",
+        "ja": "あなたが言ったこと"
+    },
+    {
+        "category": "what you",
+        "en": "what you told me",
+        "ja": "あなたが私に伝えたこと"
+    },
+    {
+        "category": "what you",
+        "en": "what you want",
+        "ja": "あなたが欲しいもの"
+    },
+    {
+        "category": "what you",
+        "en": "what you're worried about",
+        "ja": "あなたが心配なこと"
+    },
+
+
+
+
+    
+    {
+        "category": "what V",
+        "en": "what happened",
+        "ja": "何が起きたのか"
+    },
+    {
+        "en": "",
+        "ja": ""
+    },
+    {
+        "en": "",
+        "ja": ""
+    },
+    {
+        "en": "",
+        "ja": ""
+    },
+    {
+        "en": "",
+        "ja": ""
+    }
+]

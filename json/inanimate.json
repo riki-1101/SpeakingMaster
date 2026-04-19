@@ -1,0 +1,106 @@
+[
+    {
+        "category": "させる",
+        "en": "make (sb) (do)",
+        "ja": "(人)に～させる"
+    },
+    {
+        "category": "させる",
+        "en": "give (sb) to (do)",
+        "ja": "(人)に～させる"
+    },
+    {
+        "category": "させる",
+        "en": "cause (sb) to (do)",
+        "ja": "(人)に～させる"
+    },
+    {
+        "category": "させる",
+        "en": "force (sb) to (do)",
+        "ja": "(人)に～させる（無理やり）"
+    },
+    {
+        "category": "させる",
+        "en": "remind (sb) of (sth)",
+        "ja": "(人)に～を思い出させる"
+    },
+
+
+
+
+
+    {
+        "category": "可能にする",
+        "en": "let (sb) (do)",
+        "ja": "(人)が～できるようにする"
+    },
+    {
+        "category": "可能にする",
+        "en": "allow (sb) to (do)",
+        "ja": "(人)が～できるようにする"
+    },
+    {
+        "category": "可能にする",
+        "en": "enable (sb) to (do)",
+        "ja": "(人)が～できるようにする"
+    },
+    {
+        "category": "可能にする",
+        "en": "help (sb) (do)",
+        "ja": "(人)が～できるようにする（助けになる）"
+    },
+
+
+
+
+
+    {
+        "category": "不可能にする",
+        "en": "prevent (sb) from (sth)",
+        "ja": "(人)が～できないようにする（妨げる）"
+    },
+    {
+        "category": "不可能にする",
+        "en": "prohibit (sb) from (sth)",
+        "ja": "(人)が～できないようにする（禁じる）"
+    },
+    {
+        "category": "不可能にする",
+        "en": "keep (sb) from (sth)",
+        "ja": "(人)が～できないようにする（とどめる）"
+    },
+    {
+        "category": "不可能にする",
+        "en": "stop (sb) from (sth)",
+        "ja": "(人)が～できなくする（止める）"
+    },
+
+
+
+
+
+    {
+        "category": "与える",
+        "en": "give (sb) (sth)",
+        "ja": "(人)に～を与える"
+    },
+    {
+        "category": "与える",
+        "en": "teach (sb) (sth)",
+        "ja": "(人)に～を教える"
+    },
+    {
+        "category": "与える",
+        "en": "change (sth/sb)",
+        "ja": "～を変える"
+    },
+    {
+        "category": "与える",
+        "en": "influence (sth/sb)",
+        "ja": "～に影響を与える"
+    },
+    {
+        "en": "",
+        "ja": ""
+    }
+]

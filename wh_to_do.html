@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>WH to do</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header id="header"></header>
+    <main id="list">
+        <div id="radio">
+            <input type="radio" name="category" id="what" value="what" checked>
+            <label for="what">what</label>
+            <input type="radio" name="category" id="where" value="where">
+            <label for="where">where</label>
+            <input type="radio" name="category" id="when" value="when">
+            <label for="when">when</label>
+            <input type="radio" name="category" id="why" value="why">
+            <label for="why">why</label>
+            <input type="radio" name="category" id="how" value="how">
+            <label for="how">how</label>
+        </div>
+        <ul id="phrase-list"></ul>
+        <div id="popup">
+            <div id="popup-content">
+                <p id="popup-en"></p>
+                <p id="popup-ja"></p>
+                <button id="close">close</button>
+            </div>
+        </div>
+    </main>
+    <footer id="footer"></footer>
+    <script src="js/header.js"></script>
+    <script src="js/footer.js"></script>
+    <script src="js/script.js"></script>
+    <script src="js/list.js"></script>
+</body>
+</html>

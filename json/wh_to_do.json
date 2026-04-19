@@ -1,0 +1,102 @@
+[
+    {
+        "category": "what",
+        "en": "what to do",
+        "ja": "何をすべきか"
+    },
+    {
+        "category": "what",
+        "en": "what to bring",
+        "ja": "何を持ってくるべきか"
+    },
+    {
+        "category": "what",
+        "en": "what to buy",
+        "ja": "何を買うべきか"
+    },
+    {
+        "category": "what",
+        "en": "what to eat",
+        "ja": "何を食べるべきか"
+    },
+    {
+        "category": "what",
+        "en": "what to order",
+        "ja": "何を注文するべきか"
+    },
+    {
+        "category": "what",
+        "en": "what to read",
+        "ja": "何を読むべきか"
+    },
+    {
+        "category": "what",
+        "en": "what to say",
+        "ja": "何を言うべきか"
+    },
+    {
+        "category": "what",
+        "en": "what to watch",
+        "ja": "何を見るべきか"
+    },
+    {
+        "category": "what",
+        "en": "what to wear",
+        "ja": "何を着るべきか"
+    },
+
+
+
+
+
+    {
+        "category": "where",
+        "en": "where to buy (sth)",
+        "ja": "どこで～を買うべきか"
+    },
+    {
+        "category": "where",
+        "en": "where to eat (sth)",
+        "ja": "どこで～を食べるべきか"
+    },
+    {
+        "category": "where",
+        "en": "where to go",
+        "ja": "どこに行くべきか"
+    },
+    {
+        "category": "where",
+        "en": "where to park my car",
+        "ja": "どこに車を停めるべきか"
+    },
+    {
+        "category": "where",
+        "en": "where to sit",
+        "ja": "どこに座るべきか"
+    },
+    {
+        "category": "where",
+        "en": "where to start",
+        "ja": "どこから始めるべきか"
+    },
+    {
+        "category": "where",
+        "en": "where to stay",
+        "ja": "どこに泊まるべきか"
+    },
+    {
+        "category": "",
+        "en": "",
+        "ja": ""
+    },
+    {
+        "category": "",
+        "en": "",
+        "ja": ""
+    },
+    {
+        "category": "",
+        "en": "",
+        "ja": ""
+    }
+]
