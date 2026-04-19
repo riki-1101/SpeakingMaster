@@ -6,6 +6,11 @@
     },
     {
         "category": "返答",
+        "en": "All right.",
+        "ja": "わかった。"
+    },
+    {
+        "category": "返答",
         "en": "Anything will do.",
         "ja": "何でもいいですよ。"
     },

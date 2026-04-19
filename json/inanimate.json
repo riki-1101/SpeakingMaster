@@ -36,6 +36,11 @@
     },
     {
         "category": "可能にする",
+        "en": "help (sb) (do)",
+        "ja": "(人)が～できるようにする（助けになる）"
+    },
+    {
+        "category": "可能にする",
         "en": "allow (sb) to (do)",
         "ja": "(人)が～できるようにする"
     },
@@ -46,8 +51,8 @@
     },
     {
         "category": "可能にする",
-        "en": "help (sb) (do)",
-        "ja": "(人)が～できるようにする（助けになる）"
+        "en": "encourage (sb) to (do)",
+        "ja": "(人)に～する気を起こさせる"
     },
 
 
@@ -56,22 +61,22 @@
 
     {
         "category": "不可能にする",
-        "en": "prevent (sb) from (sth)",
+        "en": "prevent (sb) from (doing)",
         "ja": "(人)が～できないようにする（妨げる）"
     },
     {
         "category": "不可能にする",
-        "en": "prohibit (sb) from (sth)",
+        "en": "prohibit (sb) from (doing)",
         "ja": "(人)が～できないようにする（禁じる）"
     },
     {
         "category": "不可能にする",
-        "en": "keep (sb) from (sth)",
+        "en": "keep (sb) from (doing)",
         "ja": "(人)が～できないようにする（とどめる）"
     },
     {
         "category": "不可能にする",
-        "en": "stop (sb) from (sth)",
+        "en": "stop (sb) from (doing)",
         "ja": "(人)が～できなくする（止める）"
     },
 
