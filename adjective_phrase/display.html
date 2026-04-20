@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>形容詞句</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+    <header id="header"></header>
+    <main id="list">
+        <ul id="phrase-list"></ul>
+        <div id="popup">
+            <div id="popup-content">
+                <p id="popup-en"></p>
+                <p id="popup-ja"></p>
+                <button id="speak-btn">🔊</button>
+                <button id="close">close</button>
+            </div>
+        </div>
+    </main>
+    <footer id="footer"></footer>
+    <script src="../js/header.js"></script>
+    <script src="../js/footer.js"></script>
+    <script src="../js/script.js"></script>
+    <script>
+        let jsonData = [];
+
+        const preposition = localStorage.getItem("selectedPreposition");
+        const ul = document.getElementById("phrase-list");
+        fetch(`${preposition}.json`)
+        .then(res => res.json())
+        .then(data => {
+            jsonData = data;
+            updateList();
+        });
+
+        const popup = document.getElementById("popup");
+        const popupEn = document.getElementById("popup-en");
+        const popupJa = document.getElementById("popup-ja");
+        const speakBtn = document.getElementById("speak-btn");
+        const closeBtn = document.getElementById("close");
+
+        function updateList(){
+            ul.innerHTML = "";
+            jsonData
+            .forEach(item => {
+                const li = document.createElement("li");
+                const en = document.createElement("div");
+                en.className = "en";
+                en.textContent = item.en;
+                const ja = document.createElement("div");
+                ja.className = "ja";
+                ja.textContent = item.ja;
+
+                // 🔊 読み上げボタン
+                const speakBtn = document.createElement("button");
+                speakBtn.textContent = "🔊";
+                speakBtn.className = "speak-btn";
+
+                speakBtn.addEventListener("click", (e) => {
+                    e.stopPropagation(); // ← liクリック（ポップアップ）を防ぐ
+                    speakEnglish(item.en);
+                });
+
+                const textWrap = document.createElement("div");
+                textWrap.className = "text-wrap";
+                textWrap.appendChild(en);
+                textWrap.appendChild(ja);
+                li.appendChild(textWrap);
+                li.appendChild(speakBtn);
+                li.appendChild(speakBtn);
+                ul.appendChild(li);
+
+                li.addEventListener("click", () => {
+                    popupEn.textContent = item.en;
+                    popupJa.textContent = item.ja;
+                    popup.style.display = "flex";
+                });
+            });
+        }
+
+        speakBtn.addEventListener("click", () => {
+            speakEnglish(popupEn.textContent);
+        });
+
+        closeBtn.addEventListener("click", () => {
+            popup.style.display = "none";
+        });
+
+        // 背景クリックで閉じる
+        popup.addEventListener("click", (e) => {
+            if (e.target === popup) {
+                popup.style.display = "none";
+            }
+        });
+    </script>
+</body>
+</html>

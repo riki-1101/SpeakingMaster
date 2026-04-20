@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>形容詞句</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header id="header"></header>
+    <main id="list">
+        <section>
+            <h1>形容詞句</h1>
+            <ul id="preposition-list">
+                <li id="about">about</li>
+                <li id="at">at</li>
+                <li id="by">by</li>
+                <li id="for">for</li>
+                <li id="from">from</li>
+                <li id="in">in</li>
+                <li id="into">into</li>
+                <li id="of">of</li>
+                <li id="on">on</li>
+                <li id="to">to</li>
+                <li id="up">up</li>
+                <li id="with">with</li>
+            </ul>
+        </section>
+    </main>
+    <footer id="footer"></footer>
+    <script src="js/header.js"></script>
+    <script src="js/footer.js"></script>
+    <script src="js/script.js"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            const verbList = document.getElementById("preposition-list");
+            verbList.addEventListener("click", (e) => {
+                // li がクリックされたときだけ処理
+                if (e.target.tagName === "LI") {
+                    const prepositionId = e.target.id;
+                    localStorage.setItem("selectedPreposition", prepositionId);  // ローカルストレージに保存
+                    window.location.href = "adjective_phrase/display.html";  // ページ遷移
+                }
+            });
+        });
+    </script>
+</body>
+</html>
