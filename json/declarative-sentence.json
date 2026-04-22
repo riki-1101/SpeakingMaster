@@ -710,6 +710,12 @@
     },
     {
         "subject": "You",
+        "en": "You need to (do)",
+        "ja": "～する必要があるよ（客観）",
+        "next": "do"
+    },
+    {
+        "subject": "You",
         "en": "You have to (do)",
         "ja": "～しなければならないよ（客観）",
         "next": "do"

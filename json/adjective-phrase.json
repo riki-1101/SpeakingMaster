@@ -1,84 +1,122 @@
 [
     {
+        "category": "気持ち",
+        "en": "ashamed of (sth)",
+        "ja": "～が恥ずかしい"
+    },
+    
+    
+    
+    
+
+
+
+    {
+        "category": "人の状況",
         "en": "absent from (sth)",
         "ja": "～を欠席している"
     },
     {
+        "category": "人の状況",
         "en": "absorbed in (sth)",
         "ja": "～に夢中になっている"
     },
     {
+        "category": "人の状況",
         "en": "accustomed to (sth)",
         "ja": "～に慣れている"
     },
     {
+        "category": "人の状況",
         "en": "acquainted with (sth)",
         "ja": "～をよく知っている"
     },
     {
+        "category": "人の状況",
         "en": "acquainted with (sb)",
         "ja": "～と面識がある"
     },
     {
-        "en": "afraid of (sth)",
-        "ja": "～を恐れている"
-    },
-    {
-        "en": "anxious about (sth)",
-        "ja": "～を心配している"
-    },
-    {
-        "en": "ashamed of (sth)",
-        "ja": "～が恥ずかしい"
-    },
-    {
-        "en": "available to (sth)",
-        "ja": "〜に利用できる"
-    },
-    {
+        "category": "人の状況",
         "en": "aware of (sth)",
         "ja": "～に気付いている"
     },
     {
-        "en": "based on (sth)",
-        "ja": "～に基づいている"
-    },
-    {
+        "category": "人の状況",
         "en": "blind to (sth)",
-        "ja": "～に気づかない、盲目である"
+        "ja": "～に盲目である"
     },
     {
-        "en": "bound for (sth)",
-        "ja": "～行きである"
-    },
-    {
-        "en": "capable of (sth)",
-        "ja": "～する能力がある"
-    },
-    {
+        "category": "人の状況",
         "en": "careful about (sth)",
         "ja": "～に気をつけている"
     },
     {
-        "en": "commensurate with (sth)",
-        "ja": "～と釣り合った、～と比例した"
-    },
-    {
+        "category": "人の状況",
         "en": "committed to (sth)",
         "ja": "～に熱心に取り組んでいる"
     },
+
+
+
     {
-        "en": "comparable (to/with)",
-        "ja": "～に匹敵する"
+        "category": "物の状況",
+        "en": "available to (sth)",
+        "ja": "〜に利用できる"
     },
     {
+        "category": "物の状況",
+        "en": "based on (sth)",
+        "ja": "～に基づいている"
+    },
+    {
+        "category": "物の状況",
+        "en": "bound for (sth)",
+        "ja": "～行きである"
+    },
+    {
+        "category": "物の状況",
+        "en": "commensurate with (sth)",
+        "ja": "～と釣り合っている、～と比例している"
+    },
+    {
+        "category": "物の状況",
         "en": "compatible with (sth)",
         "ja": "～と互換性がある"
     },
     {
+        "category": "物の状況",
         "en": "concerned with (sth)",
         "ja": "～に関係している"
     },
+    
+
+
+    {
+        "category": "人・物の状況",
+        "en": "capable of (sth)",
+        "ja": "～する能力がある"
+    },
+    {
+        "category": "人・物の状況",
+        "en": "short of (sth)",
+        "ja": "～が不足している"
+    },
+
+
+    
+    
+
+
+    
+    {
+        "en": "comparable (to/with)",
+        "ja": "～に匹敵する"
+    },
+
+
+
+    
     {
         "en": "consistent with (sth)",
         "ja": "～と一致している、矛盾がない"
@@ -90,10 +128,6 @@
     {
         "en": "crowded with (sth)",
         "ja": "～で混雑している"
-    },
-    {
-        "en": "curious about (sth)",
-        "ja": "～に好奇心を持っている"
     },
     {
         "en": "dependent on (sth)",
@@ -108,10 +142,6 @@
         "ja": "～と異なっている"
     },
     {
-        "en": "enthusiastic about (sth)",
-        "ja": "～に乗り気である、熱心である"
-    },
-    {
         "en": "exempt from (sth)",
         "ja": "～を免除された"
     },
@@ -120,16 +150,8 @@
         "ja": "～によく知られている"
     },
     {
-        "en": "familiar with (sth)",
-        "ja": "～に詳しい、精通している"
-    },
-    {
-        "en": "filled with",
+        "en": "filled with (sth)",
         "ja": "～で満たされている"
-    },
-    {
-        "en": "fond of (sth)",
-        "ja": "～が好きである"
     },
     {
         "en": "free from (sth)",
@@ -152,10 +174,6 @@
         "ja": "～から独立している"
     },
     {
-        "en": "indifferent to (sth)",
-        "ja": "～に無関心な"
-    },
-    {
         "en": "instrumental in (sth)",
         "ja": "～で重要な役割を果たす"
     },
@@ -172,12 +190,8 @@
         "ja": "～から孤立している"
     },
     {
-        "en": "keen on (sth)",
-        "ja": "～に熱中している"
-    },
-    {
         "en": "loyal to (sth)",
-        "ja": "～に忠実な"
+        "ja": "～に忠実である"
     },
     {
         "en": "native to (sth)",
@@ -192,16 +206,12 @@
         "ja": "～特有の、独特の"
     },
     {
-        "en": "pleased with (sth)",
-        "ja": "～に満足している"
-    },
-    {
         "en": "qualified for (sth)",
         "ja": "～に適任である"
     },
     {
         "en": "redeemable for (sth)",
-        "ja": "～と交換可能な"
+        "ja": "～と交換可能である"
     },
     {
         "en": "relevant to (sth)",
@@ -212,24 +222,12 @@
         "ja": "～に責任がある"
     },
     {
-        "en": "satisfied with (sth)",
-        "ja": "～に満足している"
-    },
-    {
         "en": "sensitive to (sth)",
         "ja": "～に敏感である"
     },
     {
-        "en": "short of (sth)",
-        "ja": "～が不足している"
-    },
-    {
         "en": "similar to (sth)",
         "ja": "～に似ている"
-    },
-    {
-        "en": "skeptical about (sth)",
-        "ja": "～に懐疑的な"
     },
     {
         "en": "subject to (sth)",
@@ -239,10 +237,7 @@
         "en": "superior to (sth)",
         "ja": "～より優れている"
     },
-    {
-        "en": "tired of (sth)",
-        "ja": "～にうんざりしている"
-    },
+    
     {
         "en": "true of (sth)",
         "ja": "～に当てはまる"
@@ -250,10 +245,6 @@
     {
         "en": "used to (sth)",
         "ja": "～に慣れている"
-    },
-    {
-        "en": "worried about (sth)",
-        "ja": "～を心配している"
     },
     {
         "en": "",
