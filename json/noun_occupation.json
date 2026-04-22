@@ -36,6 +36,14 @@
         "ja": "化学者"
     },
     {
+        "en": "concierge",
+        "ja": "コンシェルジュ"
+    },
+    {
+        "en": "conductor",
+        "ja": "車掌、指揮者"
+    },
+    {
         "en": "correspondent",
         "ja": "特派員"
     },
@@ -44,8 +52,16 @@
         "ja": "編集者"
     },
     {
+        "en": "flight attendant",
+        "ja": "フライトアテンダント"
+    },
+    {
         "en": "historian",
         "ja": "歴史学者"
+    },
+    {
+        "en": "housekeeping",
+        "ja": "客室係"
     },
     {
         "en": "journalist",
@@ -54,6 +70,18 @@
     {
         "en": "lawyer",
         "ja": "弁護士"
+    },
+    {
+        "en": "librarian",
+        "ja": "図書館員"
+    },
+    {
+        "en": "novelist",
+        "ja": "小説家"
+    },
+    {
+        "en": "operator",
+        "ja": "オペレーター"
     },
     {
         "en": "paralegal",
@@ -70,6 +98,14 @@
     {
         "en": "scientist",
         "ja": "科学者"
+    },
+    {
+        "en": "tour guide",
+        "ja": "ツアーガイド"
+    },
+    {
+        "en": "travel agent",
+        "ja": "旅行業者"
     },
     {
         "en": "",
