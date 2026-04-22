@@ -71,12 +71,6 @@
         "en": "applicant",
         "ja": "応募者"
     },
-
-
-
-
-
-    
     {
         "en": "application",
         "ja": "申し込み、応募書類"
@@ -114,6 +108,10 @@
         "ja": "資産、財産"
     },
     {
+        "en": "assignment",
+        "ja": "業務、課題"
+    },
+    {
         "en": "associate",
         "ja": "同僚"
     },
@@ -140,6 +138,10 @@
     {
         "en": "banquet",
         "ja": "宴会"
+    },
+    {
+        "en": "basement",
+        "ja": "地下"
     },
     {
         "en": "behavior",
@@ -298,6 +300,10 @@
         "ja": "ほめ言葉"
     },
     {
+        "en": "component",
+        "ja": "部品"
+    },
+    {
         "en": "compromise",
         "ja": "妥協"
     },
@@ -322,6 +328,10 @@
         "ja": "祝いの言葉"
     },
     {
+        "en": "consideration",
+        "ja": "考慮"
+    },
+    {
         "en": "constraint",
         "ja": "制約"
     },
@@ -338,12 +348,20 @@
         "ja": "消費者"
     },
     {
+        "en": "consumption",
+        "ja": "消費"
+    },
+    {
         "en": "contact information",
         "ja": "連絡先"
     },
     {
         "en": "contract",
         "ja": "契約"
+    },
+    {
+        "en": "contribution",
+        "ja": "貢献"
     },
     {
         "en": "conversation",
@@ -482,6 +500,10 @@
         "ja": "文書"
     },
     {
+        "en": "donation",
+        "ja": "寄付"
+    },
+    {
         "en": "duration",
         "ja": "期間"
     },
@@ -600,6 +622,10 @@
     {
         "en": "factor",
         "ja": "要因"
+    },
+    {
+        "en": "factory",
+        "ja": "工場"
     },
     {
         "en": "failure",
@@ -762,6 +788,10 @@
         "ja": "在庫"
     },
     {
+        "en": "investigation",
+        "ja": "調査"
+    },
+    {
         "en": "invoice",
         "ja": "請求書"
     },
@@ -800,6 +830,10 @@
     {
         "en": "landlord",
         "ja": "土地所有者"
+    },
+    {
+        "en": "lack",
+        "ja": "不足"
     },
     {
         "en": "latest addition",
@@ -843,7 +877,7 @@
     },
     {
         "en": "management",
-        "ja": "経営"
+        "ja": "経営、経営陣"
     },
     {
         "en": "manual",
@@ -1018,6 +1052,10 @@
         "ja": "観点"
     },
     {
+        "en": "phase",
+        "ja": "段階"
+    },
+    {
         "en": "plan",
         "ja": "計画"
     },
@@ -1071,7 +1109,7 @@
     },
     {
         "en": "process",
-        "ja": "過程"
+        "ja": "過程、工程"
     },
     {
         "en": "product instruction",
@@ -1294,6 +1332,14 @@
         "ja": "推測"
     },
     {
+        "en": "sponsor",
+        "ja": "スポンサー"
+    },
+    {
+        "en": "storage",
+        "ja": "貯蔵、倉庫"
+    },
+    {
         "en": "strategy",
         "ja": "戦略"
     },
@@ -1396,6 +1442,10 @@
     {
         "en": "vision",
         "ja": "未来像、ビジョン"
+    },
+    {
+        "en": "wage",
+        "ja": "賃金"
     },
     {
         "en": "warehouse",
