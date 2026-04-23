@@ -116,6 +116,10 @@
         "ja": "同僚"
     },
     {
+        "en": "attendance",
+        "ja": "出席、出席数"
+    },
+    {
         "en": "attention",
         "ja": "注意"
     },
@@ -540,6 +544,10 @@
         "ja": "約束"
     },
     {
+        "en": "enrollment fee",
+        "ja": "登録料"
+    },
+    {
         "en": "enterprise",
         "ja": "企業"
     },
@@ -860,6 +868,10 @@
         "ja": "常連客"
     },
     {
+        "en": "loyalty card",
+        "ja": "ポイントカード"
+    },
+    {
         "en": "luggage",
         "ja": "旅行かばん、手荷物"
     },
@@ -905,7 +917,7 @@
     },
     {
         "en": "measure",
-        "ja": "措置"
+        "ja": "措置、対策"
     },
     {
         "en": "meeting",
@@ -1021,7 +1033,7 @@
     },
     {
         "en": "paperwork",
-        "ja": "文書業務"
+        "ja": "文書業務、書類作業"
     },
     {
         "en": "participant",
@@ -1105,7 +1117,7 @@
     },
     {
         "en": "proceeds",
-        "ja": "売上高"
+        "ja": "売上高、収益"
     },
     {
         "en": "process",
@@ -1304,6 +1316,10 @@
         "ja": "不足"
     },
     {
+        "en": "shortcoming",
+        "ja": "欠点"
+    },
+    {
         "en": "signature",
         "ja": "署名"
     },
@@ -1336,6 +1352,14 @@
         "ja": "スポンサー"
     },
     {
+        "en": "staircase",
+        "ja": "階段"
+    },
+    {
+        "en": "statistics",
+        "ja": "統計"
+    },
+    {
         "en": "storage",
         "ja": "貯蔵、倉庫"
     },
@@ -1350,6 +1374,10 @@
     {
         "en": "subcontractor",
         "ja": "下請け会社"
+    },
+    {
+        "en": "subsidiary",
+        "ja": "子会社"
     },
     {
         "en": "suggestion",
@@ -1412,6 +1440,10 @@
         "ja": "トレンド"
     },
     {
+        "en": "turnout",
+        "ja": "参加者数"
+    },
+    {
         "en": "uniform",
         "ja": "制服"
     },
@@ -1458,6 +1490,10 @@
     {
         "en": "warranty",
         "ja": "保証"
+    },
+    {
+        "en": "willingness",
+        "ja": "意欲"
     },
     {
         "en": "work duty",

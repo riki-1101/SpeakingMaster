@@ -4,12 +4,28 @@
         "ja": "会計士"
     },
     {
+        "en": "actor",
+        "ja": "俳優"
+    },
+    {
+        "en": "actress",
+        "ja": "女優"
+    },
+    {
+        "en": "ambassador",
+        "ja": "大使"
+    },
+    {
         "en": "announcer",
         "ja": "アナウンサー"
     },
     {
         "en": "anthropologist",
         "ja": "人類学者"
+    },
+    {
+        "en": "architect",
+        "ja": "建築家"
     },
     {
         "en": "attorney",
@@ -32,8 +48,16 @@
         "ja": "大工"
     },
     {
+        "en": "cashier",
+        "ja": "レジ係"
+    },
+    {
         "en": "chemist",
         "ja": "化学者"
+    },
+    {
+        "en": "choreographer",
+        "ja": "振付師"
     },
     {
         "en": "concierge",
@@ -46,6 +70,10 @@
     {
         "en": "correspondent",
         "ja": "特派員"
+    },
+    {
+        "en": "curator",
+        "ja": "学芸員"
     },
     {
         "en": "editor",
@@ -88,6 +116,10 @@
         "ja": "弁護士補助員"
     },
     {
+        "en": "photographer",
+        "ja": "写真家"
+    },
+    {
         "en": "professor",
         "ja": "教授"
     },
@@ -96,8 +128,24 @@
         "ja": "校正者"
     },
     {
+        "en": "receptionist",
+        "ja": "受付"
+    },
+    {
         "en": "scientist",
         "ja": "科学者"
+    },
+    {
+        "en": "secretary",
+        "ja": "秘書"
+    },
+    {
+        "en": "security guard",
+        "ja": "警備員"
+    },
+    {
+        "en": "spokesperson",
+        "ja": "広報担当者"
     },
     {
         "en": "tour guide",
