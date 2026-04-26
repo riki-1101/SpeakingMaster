@@ -41,7 +41,7 @@
     },
     {
         "en": "agreement",
-        "ja": "妥協"
+        "ja": "合意"
     },
     {
         "en": "allowance",
@@ -138,6 +138,14 @@
     {
         "en": "award",
         "ja": "賞"
+    },
+    {
+        "en": "baggage claim",
+        "ja": "手荷物受取所"
+    },
+    {
+        "en": "baggage room",
+        "ja": "手荷物一時預かり所"
     },
     {
         "en": "banquet",
@@ -688,6 +696,10 @@
         "ja": "フリーランス"
     },
     {
+        "en": "front desk",
+        "ja": "受付"
+    },
+    {
         "en": "function",
         "ja": "行事、会合、催し、機能"
     },
@@ -904,6 +916,10 @@
         "ja": "原稿"
     },
     {
+        "en": "market share",
+        "ja": "市場占有率"
+    },
+    {
         "en": "marketing",
         "ja": "マーケティング"
     },
@@ -1082,6 +1098,10 @@
     {
         "en": "potential client",
         "ja": "見込み客"
+    },
+    {
+        "en": "practice session",
+        "ja": "研修会"
     },
     {
         "en": "precaution",
@@ -1426,6 +1446,10 @@
     {
         "en": "topic",
         "ja": "話題"
+    },
+    {
+        "en": "training session",
+        "ja": "研修会"
     },
     {
         "en": "transaction",
