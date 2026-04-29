@@ -80,6 +80,10 @@
         "ja": "申し込み、応募書類"
     },
     {
+        "en": "application form",
+        "ja": "申込用紙"
+    },
+    {
         "en": "appointment",
         "ja": "予約、約束"
     },
@@ -106,6 +110,10 @@
     {
         "en": "aspect",
         "ja": "局面"
+    },
+    {
+        "en": "assembly line",
+        "ja": "組立ライン"
     },
     {
         "en": "assessment",
@@ -154,6 +162,10 @@
     {
         "en": "baggage room",
         "ja": "手荷物一時預かり所"
+    },
+    {
+        "en": "bank account",
+        "ja": "銀行口座"
     },
     {
         "en": "banquet",
@@ -348,6 +360,10 @@
         "ja": "会議"
     },
     {
+        "en": "confirmation number",
+        "ja": "確認番号"
+    },
+    {
         "en": "congratulations",
         "ja": "祝いの言葉"
     },
@@ -382,6 +398,10 @@
     {
         "en": "contract",
         "ja": "契約"
+    },
+    {
+        "en": "contract terms",
+        "ja": "契約条件"
     },
     {
         "en": "contribution",
@@ -432,6 +452,14 @@
         "ja": "顧客"
     },
     {
+        "en": "customer satisfaction",
+        "ja": "顧客満足度"
+    },
+    {
+        "en": "customer survey",
+        "ja": "顧客調査"
+    },
+    {
         "en": "damage",
         "ja": "損害"
     },
@@ -470,6 +498,10 @@
     {
         "en": "delivery date",
         "ja": "納期、配達日"
+    },
+    {
+        "en": "delivery status",
+        "ja": "配送状況"
     },
     {
         "en": "demand",
@@ -556,12 +588,28 @@
         "ja": "努力"
     },
     {
+        "en": "email attachment",
+        "ja": "添付ファイル"
+    },
+    {
         "en": "emcee",
         "ja": "司会進行役"
     },
     {
         "en": "employee",
         "ja": "従業員"
+    },
+    {
+        "en": "employee orientation",
+        "ja": "新入社員研修"
+    },
+    {
+        "en": "employee productivity",
+        "ja": "生産性"
+    },
+    {
+        "en": "employee training",
+        "ja": "従業員研修"
     },
     {
         "en": "endeavor",
@@ -626,6 +674,10 @@
     {
         "en": "exit",
         "ja": "出口"
+    },
+    {
+        "en": "expansion project",
+        "ja": "拡張計画"
     },
     {
         "en": "expenditure",
@@ -861,7 +913,7 @@
     },
     {
         "en": "job opening",
-        "ja": "仕事の空き"
+        "ja": "仕事の空き、求人"
     },
     {
         "en": "key",
@@ -944,6 +996,14 @@
         "ja": "整備"
     },
     {
+        "en": "maintenance fee",
+        "ja": "メンテナンス費"
+    },
+    {
+        "en": "maintenance work",
+        "ja": "保守作業"
+    },
+    {
         "en": "management",
         "ja": "経営、経営陣"
     },
@@ -958,6 +1018,10 @@
     {
         "en": "manuscript",
         "ja": "原稿"
+    },
+    {
+        "en": "market research",
+        "ja": "市場調査"
     },
     {
         "en": "market share",
@@ -1040,6 +1104,10 @@
         "ja": "営業時間"
     },
     {
+        "en": "office supplies",
+        "ja": "事務用品"
+    },
+    {
         "en": "open position",
         "ja": "求人"
     },
@@ -1118,6 +1186,10 @@
     {
         "en": "payroll",
         "ja": "給与管理"
+    },
+    {
+        "en": "performance review",
+        "ja": "人事評価"
     },
     {
         "en": "period",
@@ -1202,6 +1274,18 @@
     {
         "en": "product instruction",
         "ja": "製品取扱説明書"
+    },
+    {
+        "en": "product launch",
+        "ja": "新商品発売"
+    },
+    {
+        "en": "production cost",
+        "ja": "製造コスト"
+    },
+    {
+        "en": "production rate",
+        "ja": "生産率"
     },
     {
         "en": "productivity",
@@ -1348,6 +1432,14 @@
         "ja": "履歴書、概要"
     },
     {
+        "en": "retail outlet",
+        "ja": "小売店"
+    },
+    {
+        "en": "retirement party",
+        "ja": "退職パーティ"
+    },
+    {
         "en": "revenue",
         "ja": "収益"
     },
@@ -1364,8 +1456,16 @@
         "ja": "役割"
     },
     {
+        "en": "safety inspection",
+        "ja": "安全点検"
+    },
+    {
         "en": "sales projection",
         "ja": "販売予測"
+    },
+    {
+        "en": "sales representative",
+        "ja": "営業担当"
     },
     {
         "en": "schedule",
@@ -1380,8 +1480,16 @@
         "ja": "範囲"
     },
     {
+        "en": "security badge",
+        "ja": "社員証"
+    },
+    {
         "en": "seminar",
         "ja": "セミナー"
+    },
+    {
+        "en": "service charge",
+        "ja": "サービス料"
     },
     {
         "en": "shareholder",
@@ -1446,6 +1554,10 @@
     {
         "en": "storage",
         "ja": "貯蔵、倉庫"
+    },
+    {
+        "en": "store manager",
+        "ja": "店長"
     },
     {
         "en": "strategy",
@@ -1524,6 +1636,14 @@
         "ja": "輸送機関"
     },
     {
+        "en": "travel expenses",
+        "ja": "出張費"
+    },
+    {
+        "en": "travel reimbursement",
+        "ja": "出張費払い戻し金"
+    },
+    {
         "en": "trend",
         "ja": "トレンド"
     },
@@ -1586,6 +1706,10 @@
     {
         "en": "work duty",
         "ja": "業務"
+    },
+    {
+        "en": "work environment",
+        "ja": "職場環境"
     },
     {
         "en": "workflow",
