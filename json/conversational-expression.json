@@ -91,6 +91,11 @@
     },
     {
         "category": "返答",
+        "en": "I did.",
+        "ja": "私がしたよ。"
+    },
+    {
+        "category": "返答",
         "en": "I didn't know that.",
         "ja": "知らなかったよ。"
     },
@@ -296,6 +301,11 @@
     },
     {
         "category": "返答",
+        "en": "Sure thing.",
+        "ja": "もちろんです。"
+    },
+    {
+        "category": "返答",
         "en": "Thanks.",
         "ja": "ありがとう。"
     },
@@ -368,6 +378,11 @@
         "category": "返答",
         "en": "You're kidding!",
         "ja": "冗談でしょ！"
+    },
+    {
+        "category": "返答",
+        "en": "You're right.",
+        "ja": "その通りです。"
     },
 
 
@@ -446,6 +461,11 @@
     },
     {
         "category": "その他",
+        "en": "Please help yourself.",
+        "ja": "どうぞご自由にお召し上がりください。"
+    },
+    {
+        "category": "その他",
         "en": "Please make yourself at home.",
         "ja": "楽にしてくださいね。"
     },
@@ -463,5 +483,10 @@
         "category": "その他",
         "en": "Take your time.",
         "ja": "どうぞごゆっくり。"
+    },
+    {
+        "category": "その他",
+        "en": "What are you waiting for?",
+        "ja": "グズグズしてはいられませんよ。"
     }
 ]

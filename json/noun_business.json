@@ -32,6 +32,10 @@
         "ja": "入会"
     },
     {
+        "en": "adoption",
+        "ja": "採択"
+    },
+    {
         "en": "affiliate",
         "ja": "系列会社"
     },
@@ -82,6 +86,10 @@
     {
         "en": "appraisal",
         "ja": "査定"
+    },
+    {
+        "en": "apprentice",
+        "ja": "実習生、見習い"
     },
     {
         "en": "apprenticeship",
@@ -286,6 +294,10 @@
     {
         "en": "company founder",
         "ja": "会社設立者"
+    },
+    {
+        "en": "company outing",
+        "ja": "社員旅行"
     },
     {
         "en": "competence",
@@ -508,6 +520,10 @@
         "ja": "公開"
     },
     {
+        "en": "discussion",
+        "ja": "議論"
+    },
+    {
         "en": "document",
         "ja": "文書"
     },
@@ -526,6 +542,10 @@
     {
         "en": "economy",
         "ja": "経済"
+    },
+    {
+        "en": "effect",
+        "ja": "効果"
     },
     {
         "en": "efficiency",
@@ -550,6 +570,10 @@
     {
         "en": "engagement",
         "ja": "約束"
+    },
+    {
+        "en": "enrollment",
+        "ja": "登録、入会"
     },
     {
         "en": "enrollment fee",
@@ -732,6 +756,10 @@
         "ja": "名誉"
     },
     {
+        "en": "hospitality",
+        "ja": "厚いもてなし"
+    },
+    {
         "en": "idea",
         "ja": "考え"
     },
@@ -754,6 +782,10 @@
     {
         "en": "industry",
         "ja": "産業"
+    },
+    {
+        "en": "information",
+        "ja": "情報"
     },
     {
         "en": "infrastructure",
@@ -782,6 +814,10 @@
     {
         "en": "insurance",
         "ja": "保険"
+    },
+    {
+        "en": "intermission",
+        "ja": "休憩時間"
     },
     {
         "en": "internship",
@@ -856,8 +892,16 @@
         "ja": "不足"
     },
     {
+        "en": "laptop",
+        "ja": "ノートパソコン"
+    },
+    {
         "en": "latest addition",
         "ja": "新製品"
+    },
+    {
+        "en": "layout",
+        "ja": "配置"
     },
     {
         "en": "limitation",
@@ -1012,6 +1056,10 @@
         "ja": "機会"
     },
     {
+        "en": "option",
+        "ja": "選択、選択肢"
+    },
+    {
         "en": "organization",
         "ja": "組織"
     },
@@ -1072,6 +1120,10 @@
         "ja": "給与管理"
     },
     {
+        "en": "period",
+        "ja": "期間"
+    },
+    {
         "en": "personnel",
         "ja": "人事部"
     },
@@ -1090,6 +1142,10 @@
     {
         "en": "policy",
         "ja": "方針"
+    },
+    {
+        "en": "position",
+        "ja": "役職、地位"
     },
     {
         "en": "post",
@@ -1252,6 +1308,10 @@
         "ja": "交換"
     },
     {
+        "en": "reply",
+        "ja": "返事、回答"
+    },
+    {
         "en": "report",
         "ja": "報告書"
     },
@@ -1350,6 +1410,10 @@
     {
         "en": "small business",
         "ja": "中小企業"
+    },
+    {
+        "en": "society",
+        "ja": "社会"
     },
     {
         "en": "solution",
