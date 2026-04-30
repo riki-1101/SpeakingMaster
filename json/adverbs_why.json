@@ -1,0 +1,128 @@
+[
+    {
+        "en": "As (SV)",
+        "ja": "～なので",
+        "ex": [
+            {
+                "en": "As I was tired",
+                "ja": "疲れていたので"
+            }
+        ]
+    },
+    {
+        "en": "because (SV)",
+        "ja": "～なので",
+        "ex": [
+            {
+                "en": "because I was sick",
+                "ja": "体調が悪かったので"
+            }
+        ]
+    },
+    {
+        "en": "because of (sth)",
+        "ja": "～のせいで",
+        "ex": [
+            {
+                "en": "because of the rain",
+                "ja": "雨のせいで"
+            }
+        ]
+    },
+    {
+        "en": "due to (sth)",
+        "ja": "～により",
+        "ex": [
+            {
+                "en": "due to my carelessness",
+                "ja": "私の不注意により"
+            }
+        ]
+    },
+    {
+        "en": "in case (SV)",
+        "ja": "～するといけないから",
+        "ex": [
+            {
+                "en": "in case you miss the meeting",
+                "ja": "会議に遅れるといけないから"
+            }
+        ]
+    },
+    {
+        "en": "now that the (SV)",
+        "ja": "今や～なので",
+        "ex": [
+            {
+                "en": "now that the test is over",
+                "ja": "今や試験が終わったので"
+            }
+        ]
+    },
+    {
+        "en": "on account of (sth)",
+        "ja": "～のために",
+        "ex": [
+            {
+                "en": "on account of the traffic jam",
+                "ja": "渋滞のために"
+            }
+        ]
+    },
+    {
+        "en": "owing to (sth)",
+        "ja": "～のために（フォーマル）",
+        "ex": [
+            {
+                "en": "owing to bad weather",
+                "ja": "悪天候のために"
+            }
+        ]
+    },
+    {
+        "en": "Since (SV)",
+        "ja": "～なので",
+        "ex": [
+            {
+                "en": "Since you are here",
+                "ja": "あなたがここにいるので"
+            }
+        ]
+    },
+    {
+        "en": "thanks to (sth)",
+        "ja": "～のおかげで",
+        "ex": [
+            {
+                "en": "thanks to your hard work",
+                "ja": "あなたの熱心な働きのおかげで"
+            },
+            {
+                "en": "thanks to your support",
+                "ja": "あなたの支援のおかげで"
+            }
+        ]
+    },
+    {
+        "en": "what with (sth) and (sth)",
+        "ja": "～や～のせいで（カジュアル）",
+        "ex": [
+            {
+                "en": "what with the heat and the lack of sleep",
+                "ja": "暑さや寝不足のせいで"
+            },
+            {
+                "en": "what with the rain and heavy traffic",
+                "ja": "雨や渋滞のせいで"
+            }
+        ]
+    },
+    {
+        "en": "",
+        "ja": ""
+    },
+    {
+        "en": "",
+        "ja": ""
+    }
+]

@@ -1,0 +1,184 @@
+[
+    {
+        "en": "by doing so",
+        "ja": "そうすることによって"
+    },
+    {
+        "en": "for fear that (SV)",
+        "ja": "～しないように",
+        "ex": [
+            {
+                "en": "for fear that you will forget",
+                "ja": "あなたが忘れないように"
+            }
+        ]
+    },
+    {
+        "en": "for the benefit of (sb)",
+        "ja": "～のためになるように",
+        "ex": [
+            {
+                "en": "for the benefit of new employees",
+                "ja": "新入社員のためになるように"
+            }
+        ]
+    },
+    {
+        "en": "for the purpose of (sth)",
+        "ja": "～の目的として",
+        "ex": [
+            {
+                "en": "for the purpose of this agreement",
+                "ja": "本契約書の目的として"
+            }
+        ]
+    },
+    {
+        "en": "for the sake of (doing)",
+        "ja": "～するために",
+        "ex": [
+            {
+                "en": "for the sake of gaining international experience",
+                "ja": "国際的な経験を得るために"
+            }
+        ]
+    },
+    {
+        "en": "in an effort to (do)",
+        "ja": "～しようと努力して",
+        "ex": [
+            {
+                "en": "in an effort to meet the deadline",
+                "ja": "締め切りに間に合わせようと努力して"
+            }
+        ]
+    },
+    {
+        "en": "in order for (sth) to (do)",
+        "ja": "～が～するためには",
+        "ex": [
+            {
+                "en": "in order for the machine to work properly",
+                "ja": "その機械が正常に動作するためには"
+            }
+        ]
+    },
+    {
+        "en": "in order not to (do)",
+        "ja": "～しないように",
+        "ex": [
+            {
+                "en": "in order not to miss the train",
+                "ja": "その電車に遅れないように"
+            }
+        ]
+    },
+    {
+        "en": "in order that (SV)",
+        "ja": "～するように",
+        "ex": [
+            {
+                "en": "in order that he can travel abroad",
+                "ja": "彼は海外旅行に行けるように"
+            }
+        ]
+    },
+    {
+        "en": "in order to (do)",
+        "ja": "～するために",
+        "ex": [
+            {
+                "en": "in order to pass the exam",
+                "ja": "試験に合格するために"
+            }
+        ]
+    },
+    {
+        "en": "in search of (sth)",
+        "ja": "～を求めて（探して）",
+        "ex": [
+            {
+                "en": "in search of gold",
+                "ja": "金を求めて"
+            }
+        ]
+    },
+    {
+        "en": "lest (仮定法現在)",
+        "ja": "～しないように（古風）",
+        "ex": [
+            {
+                "en": "lest he be late for the meeting",
+                "ja": "会議に遅れないように"
+            }
+        ]
+    },
+    {
+        "en": "on a quest for (sth)",
+        "ja": "～を探し求めて",
+        "ex": [
+            {
+                "en": "on a quest for inspiration",
+                "ja": "インスピレーションを探し求めて"
+            }
+        ]
+    },
+    {
+        "en": "so as not to (do)",
+        "ja": "～しないように",
+        "ex": [
+            {
+                "en": "so as not to forget the details",
+                "ja": "詳細を忘れないように"
+            }
+        ]
+    },
+    {
+        "en": "so as to (do)",
+        "ja": "～するために",
+        "ex": [
+            {
+                "en": "so as to succeed in the market",
+                "ja": "市場で成功するために"
+            }
+        ]
+    },
+    {
+        "en": "so that I can (do)",
+        "ja": "～するために",
+        "ex": [
+            {
+                "en": "so that I can catch the first train",
+                "ja": "始発に乗るために"
+            }
+        ]
+    },
+    {
+        "en": "with a view to (doing)",
+        "ja": "～するのを見据えて",
+        "ex": [
+            {
+                "en": "with a view to finding a better job",
+                "ja": "より良い仕事を見つけるのを見据えて"
+            }
+        ]
+    },
+    {
+        "en": "with the aim of (doing)",
+        "ja": "～することを目的として",
+        "ex": [
+            {
+                "en": "with the aim of increasing sales",
+                "ja": "売り上げを伸ばすことを目的として"
+            }
+        ]
+    },
+    {
+        "en": "",
+        "ja": ""
+    },
+    {
+        "en": "",
+        "ja": ""
+    }
+]

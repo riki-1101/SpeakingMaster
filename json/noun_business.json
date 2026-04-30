@@ -128,6 +128,10 @@
         "ja": "業務、課題"
     },
     {
+        "en": "assistant",
+        "ja": "アシスタント"
+    },
+    {
         "en": "associate",
         "ja": "同僚"
     },
@@ -380,6 +384,10 @@
         "ja": "建設"
     },
     {
+        "en": "construction company",
+        "ja": "建設会社"
+    },
+    {
         "en": "consultant",
         "ja": "コンサルタント"
     },
@@ -520,6 +528,10 @@
         "ja": "部門長"
     },
     {
+        "en": "description",
+        "ja": "説明書"
+    },
+    {
         "en": "destination",
         "ja": "目的地"
     },
@@ -550,6 +562,10 @@
     {
         "en": "disclosure",
         "ja": "公開"
+    },
+    {
+        "en": "discount",
+        "ja": "割引"
     },
     {
         "en": "discussion",
@@ -610,6 +626,10 @@
     {
         "en": "employee training",
         "ja": "従業員研修"
+    },
+    {
+        "en": "employer",
+        "ja": "雇い主"
     },
     {
         "en": "endeavor",
@@ -824,6 +844,10 @@
         "ja": "影響"
     },
     {
+        "en": "importer",
+        "ja": "輸入元、輸入業者"
+    },
+    {
         "en": "income",
         "ja": "収入"
     },
@@ -898,6 +922,10 @@
     {
         "en": "investigation",
         "ja": "調査"
+    },
+    {
+        "en": "invitation",
+        "ja": "招待状"
     },
     {
         "en": "invoice",
@@ -1261,7 +1289,7 @@
     },
     {
         "en": "procedure",
-        "ja": "手順"
+        "ja": "手順、手続き"
     },
     {
         "en": "proceeds",
@@ -1366,6 +1394,10 @@
     {
         "en": "recipient",
         "ja": "受取人"
+    },
+    {
+        "en": "recognition dinner",
+        "ja": "慰労夕食会"
     },
     {
         "en": "reduction",
@@ -1645,7 +1677,7 @@
     },
     {
         "en": "trend",
-        "ja": "トレンド"
+        "ja": "トレンド、流行"
     },
     {
         "en": "turnout",
@@ -1710,6 +1742,10 @@
     {
         "en": "work environment",
         "ja": "職場環境"
+    },
+    {
+        "en": "work site",
+        "ja": "職場"
     },
     {
         "en": "workflow",
