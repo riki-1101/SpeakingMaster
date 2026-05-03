@@ -36,6 +36,10 @@
         "ja": "採択"
     },
     {
+        "en": "address",
+        "ja": "住所"
+    },
+    {
         "en": "affiliate",
         "ja": "系列会社"
     },
@@ -140,6 +144,10 @@
         "ja": "出席、出席数"
     },
     {
+        "en": "attendee",
+        "ja": "参加者"
+    },
+    {
         "en": "attention",
         "ja": "注意"
     },
@@ -242,6 +250,10 @@
     {
         "en": "capability",
         "ja": "能力"
+    },
+    {
+        "en": "caption",
+        "ja": "説明文"
     },
     {
         "en": "cardboard box",
@@ -448,8 +460,8 @@
         "ja": "議会"
     },
     {
-        "en": "coworker",
-        "ja": "仕事仲間"
+        "en": "co-worker",
+        "ja": "仕事仲間、同僚"
     },
     {
         "en": "credential",
@@ -1224,6 +1236,10 @@
         "ja": "期間"
     },
     {
+        "en": "personal object",
+        "ja": "私物"
+    },
+    {
         "en": "personnel",
         "ja": "人事部"
     },
@@ -1264,6 +1280,10 @@
         "ja": "予防策"
     },
     {
+        "en": "preference",
+        "ja": "優遇"
+    },
+    {
         "en": "premises",
         "ja": "敷地"
     },
@@ -1272,12 +1292,20 @@
         "ja": "前提条件"
     },
     {
+        "en": "presale",
+        "ja": "事前販売"
+    },
+    {
         "en": "presentation",
         "ja": "プレゼンテーション"
     },
     {
-        "en": "presale",
-        "ja": "事前販売"
+        "en": "president",
+        "ja": "社長"
+    },
+    {
+        "en": "president's office",
+        "ja": "社長室"
     },
     {
         "en": "priority",
@@ -1389,7 +1417,15 @@
     },
     {
         "en": "reception",
+        "ja": "受付、歓迎会"
+    },
+    {
+        "en": "reception desk",
         "ja": "受付"
+    },
+    {
+        "en": "receptionist",
+        "ja": "受付係"
     },
     {
         "en": "recipient",
@@ -1402,6 +1438,10 @@
     {
         "en": "reduction",
         "ja": "削減"
+    },
+    {
+        "en": "refund",
+        "ja": "返金"
     },
     {
         "en": "refurbishment",
@@ -1516,6 +1556,10 @@
         "ja": "社員証"
     },
     {
+        "en": "security deposit",
+        "ja": "保証金"
+    },
+    {
         "en": "seminar",
         "ja": "セミナー"
     },
@@ -1564,6 +1608,10 @@
         "ja": "専門家"
     },
     {
+        "en": "specialty",
+        "ja": "専門"
+    },
+    {
         "en": "specification",
         "ja": "仕様書"
     },
@@ -1602,6 +1650,10 @@
     {
         "en": "subcontractor",
         "ja": "下請け会社"
+    },
+    {
+        "en": "submission",
+        "ja": "提出"
     },
     {
         "en": "subsidiary",
