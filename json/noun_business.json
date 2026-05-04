@@ -28,6 +28,10 @@
         "ja": "達成"
     },
     {
+        "en": "address",
+        "ja": "住所"
+    },
+    {
         "en": "admission",
         "ja": "入会"
     },
@@ -36,8 +40,8 @@
         "ja": "採択"
     },
     {
-        "en": "address",
-        "ja": "住所"
+        "en": "advancement",
+        "ja": "昇進"
     },
     {
         "en": "affiliate",
@@ -365,7 +369,7 @@
     },
     {
         "en": "concern",
-        "ja": "心配事"
+        "ja": "心配事、懸念"
     },
     {
         "en": "condition",
@@ -546,6 +550,10 @@
     {
         "en": "destination",
         "ja": "目的地"
+    },
+    {
+        "en": "development",
+        "ja": "発展、開発"
     },
     {
         "en": "device",
@@ -826,6 +834,10 @@
     {
         "en": "guarantee",
         "ja": "保証"
+    },
+    {
+        "en": "hall",
+        "ja": "ホール、会館"
     },
     {
         "en": "handout",
@@ -1264,6 +1276,10 @@
         "ja": "役職、地位"
     },
     {
+        "en": "possibility",
+        "ja": "可能性"
+    },
+    {
         "en": "post",
         "ja": "役職、投稿"
     },
@@ -1452,6 +1468,10 @@
         "ja": "規則"
     },
     {
+        "en": "relation",
+        "ja": "関係"
+    },
+    {
         "en": "renewal",
         "ja": "更新"
     },
@@ -1493,7 +1513,11 @@
     },
     {
         "en": "response",
-        "ja": "反響"
+        "ja": "反響、返答"
+    },
+    {
+        "en": "responsibility",
+        "ja": "責任"
     },
     {
         "en": "result",
