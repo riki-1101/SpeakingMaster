@@ -4,6 +4,10 @@
         "ja": "～を実行する"
     },
     {
+        "en": "check out",
+        "ja": "チェックアウトする"
+    },
+    {
         "en": "figure out (sth)",
         "ja": "～を理解する"
     },
@@ -12,8 +16,20 @@
         "ja": "～に記入する"
     },
     {
+        "en": "find out (sth)",
+        "ja": "～を知る"
+    },
+    {
         "en": "go out",
         "ja": "外出する"
+    },
+    {
+        "en": "lay out (sth)",
+        "ja": "～を並べる"
+    },
+    {
+        "en": "leave out (sth)",
+        "ja": "～を省く"
     },
     {
         "en": "make out (sth)",
@@ -32,6 +48,10 @@
         "ja": "～を印刷する"
     },
     {
+        "en": "put out (sth)",
+        "ja": "（火・明かりなど）を消す"
+    },
+    {
         "en": "sell out (sth)",
         "ja": "～を売り切る"
     },
@@ -46,6 +66,10 @@
     {
         "en": "sort out (sth)",
         "ja": "～を整理する、～を解決する"
+    },
+    {
+        "en": "stand out",
+        "ja": "目立つ"
     },
     {
         "en": "work out (sth)",

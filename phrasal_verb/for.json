@@ -28,8 +28,16 @@
         "ja": "～を選ぶ、～を好む、～を目指す、～をやってみる"
     },
     {
+        "en": "head for (sth)",
+        "ja": "～に向かって進む"
+    },
+    {
         "en": "hope for (sth)",
         "ja": "～を望む"
+    },
+    {
+        "en": "leave for (sth)",
+        "ja": "～に向けて出発する"
     },
     {
         "en": "long for (sth)",
@@ -60,6 +68,10 @@
         "ja": "～として通用する"
     },
     {
+        "en": "reach out for (sth)",
+        "ja": "～を掴もうとして手を伸ばす"
+    },
+    {
         "en": "register for (sth)",
         "ja": "～に登録する"
     },
@@ -70,6 +82,10 @@
     {
         "en": "stand for (sth)",
         "ja": "～を支持する"
+    },
+    {
+        "en": "stand in for (sb)",
+        "ja": "～の代理を務める"
     },
     {
         "en": "",

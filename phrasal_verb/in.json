@@ -4,6 +4,14 @@
         "ja": "～を信じる"
     },
     {
+        "en": "call in (sb)",
+        "ja": "（医者・専門家など）を呼ぶ"
+    },
+    {
+        "en": "check in",
+        "ja": "チェックインする"
+    },
+    {
         "en": "drop in",
         "ja": "立ち寄る "
     },
@@ -12,8 +20,16 @@
         "ja": "～に記入する"
     },
     {
+        "en": "give in (sth)",
+        "ja": "～を提出する"
+    },
+    {
         "en": "hand in (sth)",
         "ja": "～を提出する"
+    },
+    {
+        "en": "major in (sth)",
+        "ja": "～を専攻する"
     },
     {
         "en": "participate in (sth)",
@@ -34,6 +50,10 @@
     {
         "en": "take part in (sth)",
         "ja": "～に参加する"
+    },
+    {
+        "en": "turn in (sth)",
+        "ja": "～を提出する"
     },
     {
         "en": "",

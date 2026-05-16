@@ -1,5 +1,17 @@
 [
     {
+        "en": "bet on (sth)",
+        "ja": "～に賭ける"
+    },
+    {
+        "en": "brush up on (sth)",
+        "ja": "～に磨きをかけ直す"
+    },
+    {
+        "en": "count on (sb/sth)",
+        "ja": "～を頼る、～を当てにする"
+    },
+    {
         "en": "check on (sth)",
         "ja": "～を確認する"
     },
@@ -8,8 +20,20 @@
         "ja": "～を調査する"
     },
     {
+        "en": "disagree on (sth)",
+        "ja": "～について意見が合わない"
+    },
+    {
         "en": "focus on (sth)",
         "ja": "～に集中する"
+    },
+    {
+        "en": "hit on (sth)",
+        "ja": "～を思いつく"
+    },
+    {
+        "en": "keep an eye on (sth)",
+        "ja": "～から目を離さない"
     },
     {
         "en": "land on (sth)",
@@ -30,6 +54,10 @@
     {
         "en": "take on (sth/sb)",
         "ja": "～を引き受ける、～を雇う"
+    },
+    {
+        "en": "turn on (sth)",
+        "ja": "（電気など）をつける、（ガス・水など）を出す"
     },
     {
         "en": "work on (sth)",
