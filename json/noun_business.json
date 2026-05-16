@@ -464,6 +464,10 @@
         "ja": "議会"
     },
     {
+        "en": "co-founder",
+        "ja": "共同創業者"
+    },
+    {
         "en": "co-worker",
         "ja": "仕事仲間、同僚"
     },
@@ -1116,6 +1120,10 @@
         "ja": "方法"
     },
     {
+        "en": "metric",
+        "ja": "指標"
+    },
+    {
         "en": "milestone",
         "ja": "段階"
     },
@@ -1246,6 +1254,10 @@
     {
         "en": "period",
         "ja": "期間"
+    },
+    {
+        "en": "permanent employee",
+        "ja": "正社員"
     },
     {
         "en": "personal object",
@@ -1462,6 +1474,10 @@
     {
         "en": "refurbishment",
         "ja": "改修、改装"
+    },
+    {
+        "en": "registration fee",
+        "ja": "登録費用"
     },
     {
         "en": "regulation",
@@ -1710,6 +1726,10 @@
     {
         "en": "tariff",
         "ja": "関税、運賃表"
+    },
+    {
+        "en": "temporary employee",
+        "ja": "派遣社員"
     },
     {
         "en": "tenant",
