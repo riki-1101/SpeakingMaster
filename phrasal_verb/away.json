@@ -1,5 +1,21 @@
 [
     {
+        "en": "get away",
+        "ja": "逃げる"
+    },
+    {
+        "en": "give away (sth)",
+        "ja": "～を配る、～をばらす"
+    },
+    {
+        "en": "pass away",
+        "ja": "亡くなる"
+    },
+    {
+        "en": "put away (sth)",
+        "ja": "～を片付ける"
+    },
+    {
         "en": "take away (sth)",
         "ja": "～を持ち去る、運び去る"
     },
@@ -10,18 +26,6 @@
     {
         "en": "turn away (sth)",
         "ja": "（顔・目など）をそらす"
-    },
-    {
-        "en": "get away",
-        "ja": "逃げる"
-    },
-    {
-        "en": "give away (sth)",
-        "ja": "～を配る、～をばらす"
-    },
-    {
-        "en": "put away (sth)",
-        "ja": "～を片付ける"
     },
     {
         "en": "",
