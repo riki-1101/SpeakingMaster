@@ -20,8 +20,16 @@
         "ja": "（文書など）を作成する"
     },
     {
+        "en": "dress up",
+        "ja": "正装する"
+    },
+    {
         "en": "eat up (sth)",
         "ja": "～を食べつくす"
+    },
+    {
+        "en": "fill up (sth)",
+        "ja": "～を満たす、いっぱいにする"
     },
     {
         "en": "fold up (sth)",
@@ -34,6 +42,10 @@
     {
         "en": "give up (sth)",
         "ja": "～を諦める"
+    },
+    {
+        "en": "grow up",
+        "ja": "成長する"
     },
     {
         "en": "hang up (sth)",
