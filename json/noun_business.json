@@ -264,12 +264,20 @@
         "ja": "段ボール箱"
     },
     {
+        "en": "cartridge",
+        "ja": "カートリッジ"
+    },
+    {
         "en": "cashier",
         "ja": "レジ係"
     },
     {
         "en": "catering",
         "ja": "仕出し業"
+    },
+    {
+        "en": "cause",
+        "ja": "原因"
     },
     {
         "en": "certificate",
@@ -330,6 +338,10 @@
     {
         "en": "company outing",
         "ja": "社員旅行"
+    },
+    {
+        "en": "company restructuring",
+        "ja": "企業再編"
     },
     {
         "en": "competence",
@@ -406,6 +418,10 @@
     {
         "en": "consultant",
         "ja": "コンサルタント"
+    },
+    {
+        "en": "consultation",
+        "ja": "相談"
     },
     {
         "en": "consumer",
@@ -594,6 +610,10 @@
     {
         "en": "discussion",
         "ja": "議論"
+    },
+    {
+        "en": "distributor",
+        "ja": "販売代理店"
     },
     {
         "en": "document",
@@ -790,6 +810,10 @@
     {
         "en": "figure",
         "ja": "図形、数字"
+    },
+    {
+        "en": "financial plan",
+        "ja": "財務計画"
     },
     {
         "en": "firm",
@@ -1086,6 +1110,10 @@
     {
         "en": "marketing",
         "ja": "マーケティング"
+    },
+    {
+        "en": "marketing section",
+        "ja": "マーケティング部門"
     },
     {
         "en": "material",
@@ -1676,6 +1704,10 @@
         "ja": "統計"
     },
     {
+        "en": "stock",
+        "ja": "在庫"
+    },
+    {
         "en": "storage",
         "ja": "貯蔵、倉庫"
     },
@@ -1714,6 +1746,10 @@
     {
         "en": "supervisor",
         "ja": "監督者"
+    },
+    {
+        "en": "supply room",
+        "ja": "備品室"
     },
     {
         "en": "survey",
