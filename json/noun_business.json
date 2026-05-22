@@ -8,6 +8,10 @@
         "ja": "欠席"
     },
     {
+        "en": "academic credentials",
+        "ja": "学歴"
+    },
+    {
         "en": "acceptance",
         "ja": "受諾"
     },
@@ -48,6 +52,10 @@
         "ja": "系列会社"
     },
     {
+        "en": "affiliated business",
+        "ja": "関連会社"
+    },
+    {
         "en": "agenda",
         "ja": "議題"
     },
@@ -62,6 +70,10 @@
     {
         "en": "alternative",
         "ja": "代替案"
+    },
+    {
+        "en": "amendment",
+        "ja": "修正"
     },
     {
         "en": "analysis",
@@ -153,7 +165,11 @@
     },
     {
         "en": "attention",
-        "ja": "注意"
+        "ja": "注意、注目"
+    },
+    {
+        "en": "attire",
+        "ja": "服装"
     },
     {
         "en": "audience",
@@ -344,6 +360,10 @@
         "ja": "企業再編"
     },
     {
+        "en": "company retreat",
+        "ja": "社員研修旅行"
+    },
+    {
         "en": "competence",
         "ja": "能力"
     },
@@ -400,6 +420,10 @@
         "ja": "祝いの言葉"
     },
     {
+        "en": "connection",
+        "ja": "連絡"
+    },
+    {
         "en": "consideration",
         "ja": "考慮"
     },
@@ -434,6 +458,10 @@
     {
         "en": "contact information",
         "ja": "連絡先"
+    },
+    {
+        "en": "contemplation",
+        "ja": "熟考"
     },
     {
         "en": "contract",
@@ -520,6 +548,10 @@
         "ja": "販売代理店"
     },
     {
+        "en": "debt",
+        "ja": "借金、負債"
+    },
+    {
         "en": "decision",
         "ja": "決定"
     },
@@ -538,6 +570,10 @@
     {
         "en": "delivery",
         "ja": "配達"
+    },
+    {
+        "en": "delivery charge",
+        "ja": "配送料"
     },
     {
         "en": "delivery date",
@@ -828,6 +864,10 @@
         "ja": "階"
     },
     {
+        "en": "fluctuation",
+        "ja": "変動"
+    },
+    {
         "en": "foundation",
         "ja": "基礎"
     },
@@ -948,6 +988,10 @@
         "ja": "休憩時間"
     },
     {
+        "en": "intern",
+        "ja": "見習い"
+    },
+    {
         "en": "internship",
         "ja": "インターンシップ"
     },
@@ -992,6 +1036,10 @@
         "ja": "管理人"
     },
     {
+        "en": "job fair",
+        "ja": "就職説明会"
+    },
+    {
         "en": "job opening",
         "ja": "仕事の空き、求人"
     },
@@ -1034,6 +1082,14 @@
     {
         "en": "layout",
         "ja": "配置"
+    },
+    {
+        "en": "liability",
+        "ja": "法的責任"
+    },
+    {
+        "en": "liaison",
+        "ja": "連絡係"
     },
     {
         "en": "limitation",
@@ -1106,6 +1162,10 @@
     {
         "en": "market share",
         "ja": "市場占有率"
+    },
+    {
+        "en": "marketability",
+        "ja": "マーケット性"
     },
     {
         "en": "marketing",
@@ -1186,6 +1246,10 @@
     {
         "en": "objective",
         "ja": "目的"
+    },
+    {
+        "en": "obligation",
+        "ja": "義務"
     },
     {
         "en": "office hours",
@@ -1448,6 +1512,10 @@
         "ja": "試作品"
     },
     {
+        "en": "publication",
+        "ja": "出版"
+    },
+    {
         "en": "purpose",
         "ja": "目的"
     },
@@ -1492,6 +1560,10 @@
         "ja": "慰労夕食会"
     },
     {
+        "en": "recommendation",
+        "ja": "推薦状"
+    },
+    {
         "en": "reduction",
         "ja": "削減"
     },
@@ -1510,6 +1582,10 @@
     {
         "en": "regulation",
         "ja": "規則"
+    },
+    {
+        "en": "reimbursement",
+        "ja": "払い戻し"
     },
     {
         "en": "relation",
@@ -1573,6 +1649,10 @@
     },
     {
         "en": "retail outlet",
+        "ja": "小売店"
+    },
+    {
+        "en": "retailer",
         "ja": "小売店"
     },
     {
@@ -1721,7 +1801,7 @@
     },
     {
         "en": "structure",
-        "ja": "構造"
+        "ja": "構造、構成"
     },
     {
         "en": "subcontractor",
@@ -1744,6 +1824,10 @@
         "ja": "要約"
     },
     {
+        "en": "superintendent",
+        "ja": "監督者"
+    },
+    {
         "en": "supervisor",
         "ja": "監督者"
     },
@@ -1754,6 +1838,10 @@
     {
         "en": "survey",
         "ja": "調査"
+    },
+    {
+        "en": "synopsis",
+        "ja": "概要"
     },
     {
         "en": "table",
@@ -1772,8 +1860,16 @@
         "ja": "賃借人"
     },
     {
+        "en": "tenure",
+        "ja": "在任期間"
+    },
+    {
         "en": "term",
         "ja": "条件、期間"
+    },
+    {
+        "en": "testimonial",
+        "ja": "推薦文"
     },
     {
         "en": "thought",
@@ -1800,6 +1896,10 @@
         "ja": "取引"
     },
     {
+        "en": "transition",
+        "ja": "移行"
+    },
+    {
         "en": "transportation",
         "ja": "輸送機関"
     },
@@ -1818,6 +1918,10 @@
     {
         "en": "turnout",
         "ja": "参加者数"
+    },
+    {
+        "en": "turnover",
+        "ja": "離職率"
     },
     {
         "en": "uniform",
