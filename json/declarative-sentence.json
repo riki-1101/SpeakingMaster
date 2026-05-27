@@ -3,7 +3,6 @@
         "subject": "I",
         "en": "I'm (C)",
         "ja": "今(～状態)である",
-        "next": "c",
         "category": "今",
         "ex": [
             {
@@ -16,42 +15,18 @@
         "subject": "I",
         "en": "I'm being (C)",
         "ja": "一時的に～な態度でいる",
-        "next": "c",
         "category": "今"
     },
     {
         "subject": "I",
         "en": "I'm just (C)",
         "ja": "今ちょっと(～状態な)だけだよ",
-        "next": "c",
-        "category": "今"
-    },
-    {
-        "subject": "I",
-        "en": "I'm for (sth)",
-        "ja": "～に賛成だ",
-        "next": "sth",
-        "category": "今"
-    },
-    {
-        "subject": "I",
-        "en": "I'm against (sth)",
-        "ja": "～に反対だ",
-        "next": "sth",
-        "category": "今"
-    },
-    {
-        "subject": "I",
-        "en": "I'm into (sth)",
-        "ja": "～にハマっている",
-        "next": "sth",
         "category": "今"
     },
     {
         "subject": "I",
         "en": "I feel (C)",
         "ja": "～に感じる",
-        "next": "c",
         "category": "今"
     },
 
@@ -61,119 +36,102 @@
         "subject": "I",
         "en": "I (do)",
         "ja": "普段～する",
-        "next": "do",
         "category": "普段"
     },
     {
         "subject": "I",
         "en": "I do (do)",
         "ja": "～するんだ！",
-        "next": "do",
         "category": "普段"
     },
     {
         "subject": "I",
         "en": "I do nothing but (do)",
         "ja": "～してばかりいる",
-        "next": "do",
         "category": "普段"
     },
     {
         "subject": "I",
         "en": "I think nothing of (sth)",
         "ja": "～をなんとも思わない",
-        "next": "do",
         "category": "普段"
     },
     {
         "subject": "I",
         "en": "I make it a rule to (do)",
         "ja": "普段～することにしている",
-        "next": "do",
         "category": "普段"
     },
     {
         "subject": "I",
         "en": "I always (do)",
         "ja": "いつも～する",
-        "next": "do",
         "category": "普段"
     },
     {
         "subject": "I",
         "en": "I usually (do)",
         "ja": "たいてい～する",
-        "next": "do",
         "category": "普段"
     },
     {
         "subject": "I",
         "en": "I often (do)",
         "ja": "よく～する",
-        "next": "do",
         "category": "普段"
     },
     {
         "subject": "I",
         "en": "I sometimes (do)",
         "ja": "時々～する",
-        "next": "do",
         "category": "普段"
     },
     {
         "subject": "I",
         "en": "I hardly (do)",
         "ja": "ほとんど～しない",
-        "next": "do",
         "category": "普段"
     },
     {
         "subject": "I",
         "en": "I rarely (do)",
         "ja": "めったに～しない",
-        "next": "do",
         "category": "普段"
     },
     {
         "subject": "I",
         "en": "I never (do)",
         "ja": "決して～しない",
-        "next": "do",
         "category": "普段"
     },
     {
         "subject": "I",
         "en": "I really (do)",
         "ja": "本当に～する",
-        "next": "do",
         "category": "普段"
     },
     {
         "subject": "I",
         "en": "I still (do)",
         "ja": "まだ～する",
-        "next": "do",
         "category": "普段"
     },
     {
         "subject": "I",
         "en": "I can (do)",
         "ja": "～できる（可能性がある）",
-        "next": "do",
         "category": "普段"
     },
     {
         "subject": "I",
         "en": "I can probably (do)",
         "ja": "多分～できる",
-        "next": "do",
         "category": "普段"
     },
     {
         "subject": "I",
         "en": "I can usually (do)",
         "ja": "普段は～できる",
-        "next": "do",
         "category": "普段"
     },
 
@@ -183,140 +141,120 @@
         "subject": "I",
         "en": "I was (C)",
         "ja": "(～状態)だった",
-        "next": "c",
         "category": "過去"
     },
     {
         "subject": "I",
         "en": "I was being (C)",
         "ja": "一時的に～な態度だった",
-        "next": "c",
         "category": "過去"
     },
     {
         "subject": "I",
         "en": "I ended up (C)",
         "ja": "結局(～状態)になった",
-        "next": "c",
         "category": "過去"
     },
     {
         "subject": "I",
         "en": "I (did)",
         "ja": "～した",
-        "next": "did",
         "category": "過去"
     },
     {
         "subject": "I",
         "en": "I did (do)",
         "ja": "～したんだ！",
-        "next": "do",
         "category": "過去"
     },
     {
         "subject": "I",
         "en": "I just (did)",
         "ja": "ちょうど～した",
-        "next": "did",
         "category": "過去"
     },
     {
         "subject": "I",
         "en": "I already (did)",
         "ja": "すでに～した",
-        "next": "did",
         "category": "過去"
     },
     {
         "subject": "I",
         "en": "I was going to (do)",
         "ja": "～する予定だった",
-        "next": "do",
         "category": "過去"
     },
     {
         "subject": "I",
         "en": "I was about to (do)",
         "ja": "まさに～しようとしていた",
-        "next": "do",
         "category": "過去"
     },
     {
         "subject": "I",
         "en": "I was supposed to (do)",
         "ja": "～することになっていた",
-        "next": "do",
         "category": "過去"
     },
     {
         "subject": "I",
         "en": "I couldn't wait to (do)",
         "ja": "～するのが待ちきれなかった",
-        "next": "do",
         "category": "過去"
     },
     {
         "subject": "I",
         "en": "I had no choice but to (do)",
         "ja": "～するしかなかった",
-        "next": "do",
         "category": "過去"
     },
     {
         "subject": "I",
         "en": "I needed to (do)",
         "ja": "～する必要があった",
-        "next": "do",
         "category": "過去"
     },
     {
         "subject": "I",
         "en": "I meant to (do)",
         "ja": "～するつもりだったんだけどな",
-        "next": "do",
         "category": "過去"
     },
     {
         "subject": "I",
         "en": "I managed to (do)",
         "ja": "なんとか～した",
-        "next": "do",
         "category": "過去"
     },
     {
         "subject": "I",
         "en": "I learned to (do)",
         "ja": "～できるようになった",
-        "next": "do",
         "category": "過去"
     },
     {
         "subject": "I",
         "en": "I failed to (do)",
         "ja": "～できなかった",
-        "next": "do",
         "category": "過去"
     },
     {
         "subject": "I",
         "en": "I was hoping to (do)",
         "ja": "～したいと思っていた",
-        "next": "do",
         "category": "過去"
     },
     {
         "subject": "I",
         "en": "I would often (do)",
         "ja": "よく～したものだ（回想）",
-        "next": "do",
         "category": "過去"
     },
     {
         "subject": "I",
         "en": "I used to (do)",
         "ja": "以前は～したものだが、今はしてない",
-        "next": "do",
         "category": "過去"
     },
 
@@ -326,14 +264,12 @@
         "subject": "I",
         "en": "I've been (C)",
         "ja": "今まで(～状態)でいる",
-        "next": "c",
         "category": "今まで"
     },
     {
         "subject": "I",
         "en": "I've still been (C)",
         "ja": "まだ(～状態)でいる",
-        "next": "c",
         "category": "今まで",
         "ex": [
             {
@@ -346,98 +282,84 @@
         "subject": "I",
         "en": "I've just been (C)",
         "ja": "つい最近まで(～状態)でいる",
-        "next": "c",
         "category": "今まで"
     },
     {
         "subject": "I",
         "en": "I've (done)",
         "ja": "今までに～している",
-        "next": "done",
         "category": "今まで"
     },
     {
         "subject": "I",
         "en": "I've just (done)",
         "ja": "ちょうど～したところ",
-        "next": "done",
         "category": "今まで"
     },
     {
         "subject": "I",
         "en": "I've already (done)",
         "ja": "すでに～している",
-        "next": "done",
         "category": "今まで"
     },
     {
         "subject": "I",
         "en": "I've never (done)",
         "ja": "～したことがない",
-        "next": "done",
         "category": "今まで"
     },
     {
         "subject": "I",
-        "en": "I have yet to (do)",
+        "en": "I've yet to (do)",
         "ja": "まだ～していない",
-        "next": "do",
         "category": "今まで"
     },
     {
         "subject": "I",
         "en": "I've been hoping to (do)",
         "ja": "ずっと～したいと思っていた",
-        "next": "do",
         "category": "今まで"
     },
     {
         "subject": "I",
         "en": "I've been meaning to (do)",
         "ja": "ずっと～しようと思っていたんだけど（できていない）",
-        "next": "do",
         "category": "今まで"
     },
     {
         "subject": "I",
         "en": "I should've (done)",
         "ja": "～していればよかった",
-        "next": "done",
         "category": "今まで"
     },
     {
         "subject": "I",
         "en": "I shouldn't have (done)",
         "ja": "～しなきゃよかった",
-        "next": "done",
         "category": "今まで"
     },
     {
         "subject": "I",
         "en": "I might've (done)",
         "ja": "～したかもしれない",
-        "next": "done",
         "category": "今まで"
     },
     {
         "subject": "I",
         "en": "I would've (done)",
         "ja": "～する意志があったのに（していない）",
-        "next": "done",
         "category": "今まで"
     },
     {
         "subject": "I",
         "en": "I could've (done)",
         "ja": "（…だったら）～できたのに（できていない）",
-        "next": "done",
         "category": "今まで"
     },
     {
         "subject": "I",
         "en": "I couldn't have (done)",
         "ja": "（…だったら）～できなかったかも（できた）",
-        "next": "done",
         "category": "今まで"
     },
 
@@ -447,56 +369,48 @@
         "subject": "I",
         "en": "I'll (do)",
         "ja": "～するよ",
-        "next": "do",
         "category": "これから"
     },
     {
         "subject": "I",
         "en": "I'll try to (do)",
         "ja": "～してみるよ",
-        "next": "do",
         "category": "これから"
     },
     {
         "subject": "I",
         "en": "I won't (do)",
         "ja": "～しないよ",
-        "next": "do",
         "category": "これから"
     },
     {
         "subject": "I",
         "en": "I won't be able to (do)",
         "ja": "～できないよ",
-        "next": "do",
         "category": "これから"
     },
     {
         "subject": "I",
         "en": "I would probably (do)",
         "ja": "多分～するよ",
-        "next": "do",
         "category": "これから"
     },
     {
         "subject": "I",
         "en": "I'd (do)",
         "ja": "（…だったら）～するだろうな",
-        "next": "do",
         "category": "これから"
     },
     {
         "subject": "I",
         "en": "I might (do)",
         "ja": "～するかもしれない",
-        "next": "do",
         "category": "これから"
     },
     {
         "subject": "I",
         "en": "I might not (do)",
         "ja": "～しないかもしれない",
-        "next": "do",
         "category": "これから"
     },
     
@@ -506,69 +420,65 @@
         "subject": "I",
         "en": "I should (do)",
         "ja": "～した方がいいな",
-        "next": "do",
         "category": "これから"
     },
     {
         "subject": "I",
         "en": "I shouldn't (do)",
         "ja": "～しない方がいいな",
-        "next": "do",
         "category": "これから"
     },
     {
         "subject": "I",
         "en": "I have to (do)",
         "ja": "～しなければならない（客観）",
-        "next": "do",
         "category": "これから"
     },{
         "subject": "I",
         "en": "I still have to (do)",
         "ja": "まだ～しなければならない",
-        "next": "do",
         "category": "これから"
     },
     {
         "subject": "I",
         "en": "I don't have to (do)",
         "ja": "～しなくてよい",
-        "next": "do",
         "category": "これから"
     },
     {
         "subject": "I",
         "en": "I have no choice but to (do)",
         "ja": "～するしかない",
-        "next": "do",
         "category": "これから"
     },
     {
         "subject": "I",
         "en": "I need to (do)",
         "ja": "～する必要がある",
-        "next": "do",
+        "category": "これから"
+    },
+    {
+        "subject": "I",
+        "en": "I just need to (do)",
+        "ja": "～すればいいだけだ",
         "category": "これから"
     },
     {
         "subject": "I",
         "en": "I've got to (do) [I gotta (do)]",
         "ja": "～しなきゃ",
-        "next": "do",
         "category": "これから"
     },
     {
         "subject": "I",
         "en": "I can't forget to (do)",
         "ja": "～するのを忘れるわけにはいかない",
-        "next": "do",
         "category": "これから"
     },
     {
         "subject": "I",
         "en": "I'm going to (do) [I'm gonna (do)]",
         "ja": "～する予定だ",
-        "next": "do",
         "category": "これから"
     },
     
@@ -576,49 +486,42 @@
         "subject": "I",
         "en": "I'm about to (do)",
         "ja": "今まさに～しようとしている",
-        "next": "do",
         "category": "これから"
     },
     {
         "subject": "I",
         "en": "I'm supposed to (do)",
         "ja": "～することになっている",
-        "next": "do",
         "category": "これから"
     },
     {
         "subject": "I",
         "en": "I want to (do)",
         "ja": "～したい",
-        "next": "do",
         "category": "これから"
     },
     {
         "subject": "I",
         "en": "I hope to (do)",
         "ja": "～できるといいな",
-        "next": "do",
         "category": "これから"
     },
     {
         "subject": "I",
         "en": "I'd like to (do)",
         "ja": "～したいのですが",
-        "next": "do",
         "category": "これから"
     },
     {
         "subject": "I",
         "en": "I'd rather (do)",
         "ja": "むしろ～したい",
-        "next": "do",
         "category": "これから"
     },
     {
         "subject": "I",
         "en": "I can't wait to (do)",
         "ja": "～するのが待ちきれない",
-        "next": "do",
         "category": "これから"
     },
 
@@ -630,38 +533,32 @@
     {
         "subject": "You",
         "en": "You're (C)",
-        "ja": "今(～状態)だね",
-        "next": "c"
+        "ja": "今(～状態)だね"
     },
     {
         "subject": "You",
         "en": "You're being (C)",
-        "ja": "今～っぽいよ（いつもと違う）",
-        "next": "c"
+        "ja": "今～っぽいよ（いつもと違う）"
     },
     {
         "subject": "You",
         "en": "You seem (C)",
-        "ja": "あなた～に思えるよ",
-        "next": "c"
+        "ja": "あなた～に思えるよ"
     },
     {
         "subject": "You",
         "en": "You look (C)",
-        "ja": "あなた～に見えるよ",
-        "next": "c"
+        "ja": "あなた～に見えるよ"
     },
     {
         "subject": "You",
         "en": "You sound (C)",
-        "ja": "あなた～に聞こえるよ",
-        "next": "c"
+        "ja": "あなた～に聞こえるよ"
     },
     {
         "subject": "You",
         "en": "You feel (C)",
-        "ja": "あなた～に感じているね",
-        "next": "c"
+        "ja": "あなた～に感じているね"
     },
 
 
@@ -669,8 +566,7 @@
     {
         "subject": "You",
         "en": "You never fail to (do)",
-        "ja": "あなたはいつも～してくれるね",
-        "next": "do"
+        "ja": "あなたはいつも～してくれるね"
     },
     
 
@@ -678,14 +574,12 @@
     {
         "subject": "You",
         "en": "You can (do)",
-        "ja": "～していいよ",
-        "next": "do"
+        "ja": "～していいよ"
     },
     {
         "subject": "You",
         "en": "You could've (done)",
-        "ja": "～しとけよ！（していなかった）",
-        "next": "done"
+        "ja": "～しとけよ！（していなかった）"
     },
 
 
@@ -693,80 +587,67 @@
     {
         "subject": "You",
         "en": "You might want to (do)",
-        "ja": "～した方がいいかもよ",
-        "next": "do"
+        "ja": "～した方がいいかもよ"
     },
     {
         "subject": "You",
         "en": "You must (do)",
-        "ja": "～しなければならないよ",
-        "next": "do"
+        "ja": "～しなければならないよ"
     },
     {
         "subject": "You",
         "en": "You mustn't (do)",
-        "ja": "～してはいけないよ",
-        "next": "do"
+        "ja": "～してはいけないよ"
     },
     {
         "subject": "You",
         "en": "You need to (do)",
-        "ja": "～する必要があるよ（客観）",
-        "next": "do"
+        "ja": "～する必要があるよ（客観）"
     },
     {
         "subject": "You",
         "en": "You have to (do)",
-        "ja": "～しなければならないよ（客観）",
-        "next": "do"
+        "ja": "～しなければならないよ（客観）"
     },
     {
         "subject": "You",
         "en": "You'll have to (do)",
-        "ja": "～しなければならないだろうね（客観）",
-        "next": "do"
+        "ja": "～しなければならないだろうね（客観）"
     },
     {
         "subject": "You",
         "en": "You don't have to (do)",
-        "ja": "～しなくていいよ",
-        "next": "do"
+        "ja": "～しなくていいよ"
     },
     {
         "subject": "You",
         "en": "You only have to (do)",
-        "ja": "～しさえすればいいよ",
-        "next": "do"
+        "ja": "～しさえすればいいよ"
     },
     {
         "subject": "You",
         "en": "All you have to do is (do)",
-        "ja": "～しさえすればいいよ",
-        "next": "do"
+        "ja": "～しさえすればいいよ"
     },
     {
         "subject": "You",
         "en": "You should (do)",
-        "ja": "～したほうがいいよ",
-        "next": "do"
+        "ja": "～したほうがいいよ"
     },
     {
         "subject": "You",
         "en": "You shouldn't (do)",
-        "ja": "～しないほうがいいよ",
-        "next": "do"
+        "ja": "～しないほうがいいよ"
     },
     {
         "subject": "You",
         "en": "You had better (do)",
-        "ja": "～しなさいよ",
-        "next": "do"
+        "ja": "～しなさいよ"
     },
     {
         "subject": "You",
         "en": "You had better not (do)",
-        "ja": "～するな",
-        "next": "do"
+        "ja": "～するな"
     },
 
 
@@ -774,26 +655,22 @@
     {
         "subject": "You",
         "en": "You'll (do)",
-        "ja": "～するだろうね",
-        "next": "do"
+        "ja": "～するだろうね"
     },
     {
         "subject": "You",
         "en": "You won't (do)",
-        "ja": "～しないだろうね",
-        "next": "do"
+        "ja": "～しないだろうね"
     },
     {
         "subject": "You",
         "en": "You're supposed to (do)",
-        "ja": "～することになっているよ",
-        "next": "do"
+        "ja": "～することになっているよ"
     },
     {
         "subject": "You",
         "en": "You're not supposed to (do)",
-        "ja": "～してはいけないことになっているよ",
-        "next": "do"
+        "ja": "～してはいけないことになっているよ"
     },
 
 
@@ -803,194 +680,122 @@
     {
         "subject": "It",
         "en": "It's (C)",
-        "ja": "それは～だ",
-        "next": "c"
+        "ja": "それは～だ"
     },
     {
         "subject": "It",
         "en": "It was (C)",
-        "ja": "それは～だった",
-        "next": "c"
+        "ja": "それは～だった"
     },
     {
         "subject": "It",
         "en": "It seems (C)",
-        "ja": "それは～に思える",
-        "next": "c"
+        "ja": "それは～に思える"
     },
     {
         "subject": "It",
         "en": "It looks (C)",
-        "ja": "それは～に見える",
-        "next": "c"
+        "ja": "それは～に見える"
     },
     {
         "subject": "It",
         "en": "It appears (C)",
-        "ja": "それは～に見受けられる",
-        "next": "c"
+        "ja": "それは～に見受けられる"
     },
     {
         "subject": "It",
         "en": "It sounds (C)",
-        "ja": "それは～に聞こえる",
-        "next": "c"
+        "ja": "それは～に聞こえる"
     },
     {
         "subject": "It",
         "en": "It feels (C)",
-        "ja": "それは～に感じる",
-        "next": "c"
+        "ja": "それは～に感じる"
     },
     {
         "subject": "It",
         "en": "It smells (C)",
-        "ja": "～のにおいがする",
-        "next": "c"
+        "ja": "～のにおいがする"
     },
     {
         "subject": "It",
         "en": "It tastes (C)",
-        "ja": "～の味がする",
-        "next": "c"
+        "ja": "～の味がする"
     },
     {
         "subject": "It",
         "en": "It makes me feel (C)",
-        "ja": "～な気分にさせる",
-        "next": "c"
+        "ja": "～な気分にさせる"
     },
     {
         "subject": "It",
         "en": "It can be (C)",
-        "ja": "～になり得る",
-        "next": "c"
+        "ja": "～になり得る"
     },
     {
         "subject": "It",
         "en": "It could be (C)",
-        "ja": "～かもしれない",
-        "next": "c"
+        "ja": "～かもしれない"
     },
     {
         "subject": "It",
         "en": "It may be (C)",
-        "ja": "～かもしれない",
-        "next": "c"
+        "ja": "～かもしれない"
     },
     {
         "subject": "It",
         "en": "It might be (C)",
-        "ja": "～かもしれないなぁ",
-        "next": "c"
+        "ja": "～かもしれないなぁ"
     },
     {
         "subject": "It",
         "en": "It must be (C)",
-        "ja": "～であるに違いない",
-        "next": "c"
+        "ja": "～であるに違いない"
     },
     {
         "subject": "It",
         "en": "It must've been (C)",
-        "ja": "～だったに違いない",
-        "next": "c"
+        "ja": "～だったに違いない"
     },
     {
         "subject": "It",
         "en": "It should be (C)",
-        "ja": "～であるはずだ",
-        "next": "c"
+        "ja": "～であるはずだ"
     },
     {
         "subject": "It",
         "en": "It should've been (C)",
-        "ja": "～だったはずだ",
-        "next": "c"
+        "ja": "～だったはずだ"
     },
     {
         "subject": "It",
         "en": "It'll be (C)",
-        "ja": "～であるだろう",
-        "next": "c"
+        "ja": "～であるだろう"
     },
     {
         "subject": "It",
         "en": "It would be (C)",
-        "ja": "～だろうなぁ（仮定）",
-        "next": "c"
+        "ja": "～だろうなぁ（仮定）"
     },
     {
         "subject": "It",
         "en": "It would've been (C)",
-        "ja": "～だっただろう",
-        "next": "c"
+        "ja": "～だっただろう"
     },
     {
         "subject": "It",
         "en": "It'll (do)",
-        "ja": "～するだろう",
-        "next": "do"
+        "ja": "～するだろう"
     },
     {
         "subject": "It",
         "en": "It won't (do)",
-        "ja": "～しないだろう",
-        "next": "do"
+        "ja": "～しないだろう"
     },
     {
         "subject": "It",
         "en": "It's bound to (do)",
-        "ja": "必ず～するだろう",
-        "next": "do"
-    },
-    {
-        "subject": "It",
-        "en": "It's like (sth)",
-        "ja": "～みたいだ",
-        "next": "sth"
-    },
-    {
-        "subject": "It",
-        "en": "It's up to (sth)",
-        "ja": "～次第だ",
-        "next": "sth"
-    },
-    {
-        "subject": "It",
-        "en": "It's for (sth)",
-        "ja": "～のためのものだ",
-        "next": "sth"
-    },
-    {
-        "subject": "It",
-        "en": "It's because of (sth)",
-        "ja": "～のせいだ",
-        "next": "sth"
-    },
-    {
-        "subject": "It",
-        "en": "It's on account of (sth)",
-        "ja": "～が理由である（文語的）",
-        "next": "sth"
-    },
-    {
-        "subject": "It",
-        "en": "It's from (sth)",
-        "ja": "～からだ（感覚的）",
-        "next": "sth"
-    },
-    {
-        "subject": "It",
-        "en": "It's due to (sth)",
-        "ja": "～が原因である（説明的）",
-        "next": "sth"
-    },
-    {
-        "subject": "It",
-        "en": "It's thanks to (sth)",
-        "ja": "～のおかげだ",
-        "next": "sth"
+        "ja": "必ず～するだろう"
     },
 
 
