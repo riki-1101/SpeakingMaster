@@ -29,6 +29,18 @@
         "ja": "～に感じる",
         "category": "今"
     },
+    {
+        "subject": "I",
+        "en": "I want to (do)",
+        "ja": "～したい",
+        "category": "今"
+    },
+    {
+        "subject": "I",
+        "en": "I'd like to (do)",
+        "ja": "～したいのですが",
+        "category": "今"
+    },
 
 
 
