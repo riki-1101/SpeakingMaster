@@ -32,12 +32,16 @@
         "ja": "～の世話をする"
     },
     {
+        "en": "get ready for (sth)",
+        "ja": "～の準備をする"
+    },
+    {
         "en": "go for (sth)",
         "ja": "～を選ぶ、～を好む、～を目指す、～をやってみる"
     },
     {
         "en": "head for (sth)",
-        "ja": "～に向かって進む"
+        "ja": "～に向かう"
     },
     {
         "en": "hope for (sth)",
@@ -69,7 +73,7 @@
     },
     {
         "en": "make up for (sth)",
-        "ja": "～を埋め合わせる"
+        "ja": "～の埋め合わせをする"
     },
     {
         "en": "pass for (sth)",
@@ -80,8 +84,12 @@
         "ja": "～の費用を払う"
     },
     {
+        "en": "prepare for (sth)",
+        "ja": "～の準備をする"
+    },
+    {
         "en": "reach out for (sth)",
-        "ja": "～を掴もうとして手を伸ばす"
+        "ja": "～を掴もうと手を伸ばす"
     },
     {
         "en": "register for (sth)",
@@ -102,6 +110,10 @@
     {
         "en": "wait for (sth)",
         "ja": "～を待つ"
+    },
+    {
+        "en": "watch out for (sth)",
+        "ja": "～に気をつける、用心する"
     },
     {
         "en": "work for (sth)",

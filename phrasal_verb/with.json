@@ -48,12 +48,20 @@
         "ja": "～と連絡をとる"
     },
     {
+        "en": "have nothing to do with (sth)",
+        "ja": "～とは全く関係がない"
+    },
+    {
         "en": "keep in touch with (sb)",
         "ja": "～と連絡を保つ"
     },
     {
         "en": "keep up with (sth)",
         "ja": "～に遅れずについていく"
+    },
+    {
+        "en": "make an appointment with (sth)",
+        "ja": "～の予約を取る"
     },
     {
         "en": "make do with (sth)",
@@ -74,6 +82,10 @@
     {
         "en": "put up with (sth)",
         "ja": "～を我慢する"
+    },
+    {
+        "en": "start with (sth)",
+        "ja": "～から始める"
     },
     {
         "en": "",
