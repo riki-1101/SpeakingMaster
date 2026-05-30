@@ -1,0 +1,904 @@
+[
+    {
+        "en": "according to (sth)",
+        "ja": "～によれば"
+    },
+    {
+        "en": "after a while",
+        "ja": "しばらくして"
+    },
+    {
+        "en": "after all",
+        "ja": "結局"
+    },
+    {
+        "en": "afterwards",
+        "ja": "その後"
+    },
+    {
+        "en": "all day",
+        "ja": "一日中"
+    },
+    {
+        "en": "all the time",
+        "ja": "常に"
+    },
+    {
+        "en": "all things considered",
+        "ja": "すべてを考慮すると"
+    },
+    {
+        "en": "amid (sth)",
+        "ja": "～の真っ最中に"
+    },
+    {
+        "en": "apart from (sth)",
+        "ja": "～を除いて、～は別として"
+    },
+    {
+        "en": "as (sth)",
+        "ja": "～として"
+    },
+    {
+        "en": "as a result",
+        "ja": "結果として"
+    },
+    {
+        "en": "as a token of (sth)",
+        "ja": "～の印として"
+    },
+    {
+        "en": "as always",
+        "ja": "いつものように"
+    },
+    {
+        "en": "as expected",
+        "ja": "予想通りに"
+    },
+    {
+        "en": "as far as I know",
+        "ja": "私の知る限りでは"
+    },
+    {
+        "en": "as for (sth)",
+        "ja": "～に関しては"
+    },
+    {
+        "en": "As is often the case with (sth)",
+        "ja": "～にはよくあることだが"
+    },
+    {
+        "en": "as planned",
+        "ja": "予定通り"
+    },
+    {
+        "en": "as soon as possible",
+        "ja": "できるだけ早く"
+    },
+    {
+        "en": "as usual",
+        "ja": "いつものように"
+    },
+    {
+        "en": "as well",
+        "ja": "～も同様に（文末のみ）"
+    },
+    {
+        "en": "at (sth)",
+        "ja": "（場所）で"
+    },
+    {
+        "en": "at first",
+        "ja": "当初は"
+    },
+    {
+        "en": "at least",
+        "ja": "少なくとも"
+    },
+    {
+        "en": "at no (sth)",
+        "ja": "～なしで"
+    },
+    {
+        "en": "at present",
+        "ja": "現在では"
+    },
+    {
+        "en": "at the earliest",
+        "ja": "最も早くて"
+    },
+    {
+        "en": "at the end of the day",
+        "ja": "結局のところ"
+    },
+    {
+        "en": "at the latest",
+        "ja": "遅くとも"
+    },
+    {
+        "en": "at the moment",
+        "ja": "今のところ"
+    },
+    {
+        "en": "at the same time",
+        "ja": "同時に"
+    },
+    {
+        "en": "at the sight of (sth)",
+        "ja": "～を見たとき"
+    },
+    {
+        "en": "at this point",
+        "ja": "現時点では"
+    },
+    {
+        "en": "back then",
+        "ja": "当時"
+    },
+    {
+        "en": "before (sth)",
+        "ja": "～の前に"
+    },
+    {
+        "en": "by accident",
+        "ja": "偶然に"
+    },
+    {
+        "en": "by chance",
+        "ja": "偶然に"
+    },
+    {
+        "en": "by heart",
+        "ja": "暗記して"
+    },
+    {
+        "en": "by mistake",
+        "ja": "間違って"
+    },
+    {
+        "en": "by nature",
+        "ja": "生まれつき"
+    },
+    {
+        "en": "by the way",
+        "ja": "ところで"
+    },
+    {
+        "en": "by tomorrow",
+        "ja": "明日までに"
+    },
+    {
+        "en": "contrary to (sth)",
+        "ja": "～に反して"
+    },
+    {
+        "en": "during (sth)",
+        "ja": "～の間に"
+    },
+    {
+        "en": "during the day",
+        "ja": "日中"
+    },
+    {
+        "en": "even now",
+        "ja": "今でも"
+    },
+    {
+        "en": "even so",
+        "ja": "それでも"
+    },
+    {
+        "en": "except for (sth)",
+        "ja": "～を除いて"
+    },
+    {
+        "en": "first of all",
+        "ja": "まず第一に"
+    },
+    {
+        "en": "for a while",
+        "ja": "しばらくの間"
+    },
+    {
+        "en": "for ages",
+        "ja": "ずいぶん長い間"
+    },
+    {
+        "en": "for all my experience",
+        "ja": "こんなに経験があるにもかかわらず"
+    },
+    {
+        "en": "for example",
+        "ja": "例えば"
+    },
+    {
+        "en": "for free",
+        "ja": "無料で"
+    },
+    {
+        "en": "for fun",
+        "ja": "遊びで"
+    },
+    {
+        "en": "for good",
+        "ja": "永遠に"
+    },
+    {
+        "en": "for instance",
+        "ja": "例えば"
+    },
+    {
+        "en": "for nothing",
+        "ja": "無料で"
+    },
+    {
+        "en": "for now",
+        "ja": "とりあえず"
+    },
+    {
+        "en": "for some reason",
+        "ja": "なんだか（少しフォーマル）"
+    },
+    {
+        "en": "for the first time",
+        "ja": "初めて"
+    },
+    {
+        "en": "for the time being",
+        "ja": "当面の間"
+    },
+    {
+        "en": "for your information",
+        "ja": "ご参考までに、ちなみに"
+    },
+    {
+        "en": "for 10 years",
+        "ja": "10年間"
+    },
+    {
+        "en": "from now on",
+        "ja": "これからは"
+    },
+    {
+        "en": "from what I can remember",
+        "ja": "覚えている限りで言うと"
+    },
+    {
+        "en": "Going back to (sth)",
+        "ja": "～に戻ると、～に話を戻すと"
+    },
+    {
+        "en": "here and there",
+        "ja": "あちらこちらに"
+    },
+    {
+        "en": "if any",
+        "ja": "もしあれば"
+    },
+    {
+        "en": "if anything",
+        "ja": "どちらかと言えば、むしろ"
+    },
+    {
+        "en": "if necessary",
+        "ja": "必要であれば"
+    },
+    {
+        "en": "if needed",
+        "ja": "必要なら"
+    },
+    {
+        "en": "if possible",
+        "ja": "もし可能なら"
+    },
+    {
+        "en": "if that's all right",
+        "ja": "もし差支えなければ"
+    },
+    {
+        "en": "if that's the case",
+        "ja": "もしそうなら"
+    },
+    {
+        "en": "if we all agree",
+        "ja": "全員一致したなら"
+    },
+    {
+        "en": "if you don't mind",
+        "ja": "もしご迷惑でなければ"
+    },
+    {
+        "en": "if you need any help",
+        "ja": "もし何かお手伝いが必要ならば"
+    },
+    {
+        "en": "if you please",
+        "ja": "よろしければ（古風）"
+    },
+    {
+        "en": "if you want",
+        "ja": "お望みなら、もしよかったら"
+    },
+    {
+        "en": "if you'd like",
+        "ja": "もしよろしければ"
+    },
+    {
+        "en": "in a word",
+        "ja": "一言で言うと"
+    },
+    {
+        "en": "in actuality",
+        "ja": "現実には"
+    },
+    {
+        "en": "in addition",
+        "ja": "加えて"
+    },
+    {
+        "en": "in addition to (sth)",
+        "ja": "～に加えて"
+    },
+    {
+        "en": "in all honesty",
+        "ja": "正直なところ"
+    },
+    {
+        "en": "in appreciation of (sth)",
+        "ja": "～に感謝して"
+    },
+    {
+        "en": "in brief",
+        "ja": "要するに"
+    },
+    {
+        "en": "in case of (sth)",
+        "ja": "～の場合には"
+    },
+    {
+        "en": "in conclusion",
+        "ja": "結論として"
+    },
+    {
+        "en": "in contrast",
+        "ja": "それに比べて"
+    },
+    {
+        "en": "in detail",
+        "ja": "詳細に"
+    },
+    {
+        "en": "in effect",
+        "ja": "事実上"
+    },
+    {
+        "en": "in fact",
+        "ja": "実際のところ"
+    },
+    {
+        "en": "in front of (sth)",
+        "ja": "～の前で"
+    },
+    {
+        "en": "in general",
+        "ja": "一般的に"
+    },
+    {
+        "en": "in honor of (sb)",
+        "ja": "～に敬意を表して"
+    },
+    {
+        "en": "in light of (sth)",
+        "ja": "～を踏まえて"
+    },
+    {
+        "en": "in my opinion",
+        "ja": "私の意見では"
+    },
+    {
+        "en": "in other words",
+        "ja": "言い換えると"
+    },
+    {
+        "en": "in particular",
+        "ja": "特に、とりわけ"
+    },
+    {
+        "en": "in place of (sth)",
+        "ja": "～の代わりに"
+    },
+    {
+        "en": "in practice",
+        "ja": "実際には"
+    },
+    {
+        "en": "in principle",
+        "ja": "原則として"
+    },
+    {
+        "en": "in recognition of (sb)",
+        "ja": "～をたたえて"
+    },
+    {
+        "en": "in response to (sth)",
+        "ja": "～に応えて"
+    },
+    {
+        "en": "in short",
+        "ja": "要するに"
+    },
+    {
+        "en": "in such cases",
+        "ja": "そのような場合には"
+    },
+    {
+        "en": "in summary",
+        "ja": "要約すると"
+    },
+    {
+        "en": "in terms of (sth)",
+        "ja": "～の観点から、～において"
+    },
+    {
+        "en": "in that case",
+        "ja": "その場合には"
+    },
+    {
+        "en": "in the same way",
+        "ja": "同じように"
+    },
+    {
+        "en": "in the short run",
+        "ja": "短期的には"
+    },
+    {
+        "en": "in the long run",
+        "ja": "長い目で見れば"
+    },
+    {
+        "en": "in the meantime",
+        "ja": "その間に"
+    },
+    {
+        "en": "in this case",
+        "ja": "この場合"
+    },
+    {
+        "en": "in years to come",
+        "ja": "今後数年間に"
+    },
+    {
+        "en": "in 10 minutes",
+        "ja": "10分後に"
+    },
+    {
+        "en": "including me",
+        "ja": "私を含めて"
+    },
+    {
+        "en": "instead of (sth)",
+        "ja": "～の代わりに"
+    },
+    {
+        "en": "just in case",
+        "ja": "念のため"
+    },
+    {
+        "en": "just so you know",
+        "ja": "一応言っておきますが"
+    },
+    {
+        "en": "like I said",
+        "ja": "さっきも言ったように"
+    },
+    {
+        "en": "like you said",
+        "ja": "あなたが言ったように"
+    },
+    {
+        "en": "little by little",
+        "ja": "少しずつ"
+    },
+    {
+        "en": "not gonna lie",
+        "ja": "ぶっちゃけ"
+    },
+    {
+        "en": "now and then",
+        "ja": "時々"
+    },
+    {
+        "en": "on behalf of (sth)",
+        "ja": "～を代表して"
+    },
+    {
+        "en": "on budget",
+        "ja": "予算内で"
+    },
+    {
+        "en": "on one hand",
+        "ja": "片方では、一方では"
+    },
+    {
+        "en": "on purpose",
+        "ja": "わざと"
+    },
+    {
+        "en": "on the contrary",
+        "ja": "それどころか"
+    },
+    {
+        "en": "on the other hand",
+        "ja": "一方で"
+    },
+    {
+        "en": "on the part of (sth)",
+        "ja": "～側として"
+    },
+    {
+        "en": "on the spot",
+        "ja": "その場で、即座に"
+    },
+    {
+        "en": "once in a while",
+        "ja": "時々"
+    },
+    {
+        "en": "regardless of (sth)",
+        "ja": "～に関係なく"
+    },
+    {
+        "en": "Should you have any questions",
+        "ja": "万一何かご質問がございましたら"
+    },
+    {
+        "en": "so to speak",
+        "ja": "いわば"
+    },
+    {
+        "en": "step by step",
+        "ja": "一歩ずつ"
+    },
+    {
+        "en": "strange to say",
+        "ja": "奇妙なことに"
+    },
+    {
+        "en": "that is (to say)",
+        "ja": "つまり言い換えると"
+    },
+    {
+        "en": "that said",
+        "ja": "とはいえ"
+    },
+    {
+        "en": "then and there",
+        "ja": "その場で、即座に"
+    },
+    {
+        "en": "these days",
+        "ja": "近頃、この頃"
+    },
+    {
+        "en": "to be brief",
+        "ja": "簡潔に言うと"
+    },
+    {
+        "en": "to be exact",
+        "ja": "正確には"
+    },
+    {
+        "en": "to be frank",
+        "ja": "率直に言うと"
+    },
+    {
+        "en": "to be honest",
+        "ja": "正直に言うと"
+    },
+    {
+        "en": "to be sure",
+        "ja": "確かに"
+    },
+    {
+        "en": "to begin with",
+        "ja": "まず第一に"
+    },
+    {
+        "en": "to make matters worse",
+        "ja": "さらに悪いことには"
+    },
+    {
+        "en": "to name a few",
+        "ja": "いくつか挙げると"
+    },
+    {
+        "en": "to put it simply",
+        "ja": "簡単に言うと"
+    },
+    {
+        "en": "to say the least",
+        "ja": "控え目に言っても"
+    },
+    {
+        "en": "to sum up",
+        "ja": "要するに"
+    },
+    {
+        "en": "to tell you the truth",
+        "ja": "実を言うと"
+    },
+    {
+        "en": "weather permitting",
+        "ja": "天気がよければ"
+    },
+    {
+        "en": "what is more",
+        "ja": "その上"
+    },
+    {
+        "en": "When it comes to (sth)",
+        "ja": "～に関して言えば"
+    },
+    {
+        "en": "wherever you are",
+        "ja": "あなたがどこにいても"
+    },
+    {
+        "en": "whichever you choose",
+        "ja": "どれを選んだとしても"
+    },
+    {
+        "en": "whoever you are",
+        "ja": "あなたが誰であっても"
+    },
+    {
+        "en": "with ease",
+        "ja": "簡単に"
+    },
+    {
+        "en": "with luck",
+        "ja": "運が良ければ"
+    },
+    {
+        "en": "within 48 hours",
+        "ja": "48時間以内に"
+    },
+    {
+        "en": "without (sth)",
+        "ja": "～なしで"
+    },
+    
+    
+    
+    
+    
+    
+    
+
+
+
+    {
+        "en": "On arriving at the station",
+        "ja": "駅に着くとすぐに"
+    },
+    {
+        "en": "over the next few months",
+        "ja": "今後数ヶ月にわたって"
+    },
+    {
+        "en": "since he moved to another city",
+        "ja": "彼が別の都市に引っ越して以来"
+    },
+    {
+        "en": "starting next month",
+        "ja": "来月より"
+    },
+    {
+        "en": "behind the station",
+        "ja": "駅の裏に"
+    },
+    {
+        "en": "near my house",
+        "ja": "家の近くに"
+    },
+    {
+        "en": "opposite the post office",
+        "ja": "郵便局の向かいに"
+    },
+    {
+        "en": "throughout a week",
+        "ja": "一週間の間ずっと"
+    },
+    {
+        "en": "until midnight",
+        "ja": "深夜までずっと"
+    },
+    {
+        "en": "every day",
+        "ja": "毎日"
+    },
+    {
+        "en": "every other day",
+        "ja": "１日おきに"
+    },
+    {
+        "en": "every Sunday",
+        "ja": "毎週日曜日に"
+    },
+    {
+        "en": "every week",
+        "ja": "毎週"
+    },
+    {
+        "en": "twice a week",
+        "ja": "週に２回"
+    },
+    {
+        "en": "even after hearing the bad news",
+        "ja": "悪い知らせを聞いた後でも"
+    },
+    {
+        "en": "even before the game started",
+        "ja": "試合が始まる前でも"
+    },
+
+    
+    {
+        "en": "however difficult the situation is",
+        "ja": "どんなに状況が困難でも"
+    },
+    {
+        "en": "in face of great difficulties",
+        "ja": "多大な困難にもかかわらず"
+    },
+    {
+        "en": "in spite of the rain",
+        "ja": "雨にもかかわらず"
+    },
+    {
+        "en": "no matter how hard it gets",
+        "ja": "どんなに大変になっても"
+    },
+    {
+        "en": "no matter what happens",
+        "ja": "何が起こっても"
+    },
+    {
+        "en": "no matter what suggestions I make",
+        "ja": "何の提案をしても"
+    },
+    {
+        "en": "no matter when you call",
+        "ja": "あなたがいつ電話してきても"
+    },
+    {
+        "en": "no matter where you go",
+        "ja": "あなたがどこへいっても"
+    },
+    {
+        "en": "no matter who calls",
+        "ja": "誰が電話してきても"
+    },
+    {
+        "en": "though it was raining",
+        "ja": "雨が降っていたけれども"
+    },
+    {
+        "en": "whatever problems you have",
+        "ja": "何の問題を抱えていても（文学的な表現）"
+    },
+    {
+        "en": "whether it rains or shines",
+        "ja": "雨が降っても晴れても"
+    },
+    {
+        "en": "whichever route he takes",
+        "ja": "どちらの道を選んだとしても"
+    },
+    
+    
+    {
+        "en": "as long as it doesn't rain",
+        "ja": "雨が降らなければ"
+    },
+    {
+        "en": "assuming everything goes well",
+        "ja": "すべてが上手くいくと仮定して"
+    },
+    {
+        "en": "besides studying",
+        "ja": "勉強に加えて（カジュアル）"
+    },
+    {
+        "en": "considering the time",
+        "ja": "時間を考慮すると"
+    },
+    
+    {
+        "en": "except that it's expensive",
+        "ja": "高価であるということを除いて"
+    },
+    {
+        "en": "given she has a lot of work to do",
+        "ja": "彼女はたくさんの仕事があることを考えると"
+    },
+    {
+        "en": "on condition that you keep it a secret",
+        "ja": "それを秘密にするという条件で"
+    },
+    {
+        "en": "on top of working full-time",
+        "ja": "フルタイムで働くことに加えて（負担の追加）"
+    },
+    {
+        "en": "once I finish this book",
+        "ja": "いったんこの本を読み終えたら"
+    },
+    {
+        "en": "only if it stops raining",
+        "ja": "雨が止んだ場合に限って"
+    },
+    {
+        "en": "provided you're available",
+        "ja": "もし都合がつくならば"
+    },
+    {
+        "en": "providing the weather is good",
+        "ja": "天気が良ければ"
+    },
+    {
+        "en": "suppose he doesn't show up",
+        "ja": "もし彼が現れなかったら"
+    },
+    {
+        "en": "supposing this is true",
+        "ja": "もしこれが本当なら"
+    },
+    {
+        "en": "unless it stops raining",
+        "ja": "雨が止まない限り"
+    },
+    
+    
+    
+    {
+        "en": "anyway",
+        "ja": "とにかく"
+    },
+    {
+        "en": "correspondingly",
+        "ja": "それに応じて"
+    },
+    {
+        "en": "finally",
+        "ja": "ついに、ようやく"
+    },
+    {
+        "en": "furthermore",
+        "ja": "さらには"
+    },
+    {
+        "en": "I mean",
+        "ja": "つまりね...(言い換え)"
+    },
+    {
+        "en": "moreover",
+        "ja": "その上"
+    },
+    {
+        "en": "nevertheless",
+        "ja": "それにもかかわらず"
+    },
+    {
+        "en": "thus",
+        "ja": "それゆえ"
+    },
+    {
+        "en": "among European countries",
+        "ja": "ヨーロッパ諸国の間で"
+    },
+    {
+        "en": "between the two firms",
+        "ja": "2社の間で"
+    }
+]
