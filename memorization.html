@@ -12,35 +12,30 @@
         <h1>暗記カード</h1>
         <section>
             <h2>Words</h2>
-            <ul>
-                <li><a href="memorization/noun_business.html">名詞：ビジネス</a></li>
-                <li><a href="memorization/adverbial_expressions.html">副詞表現</a></li>
-                <li><a href="memorization/adjective.html">Adjectives</a></li>
-                <li><a href="memorization/adjective-phrase.html">Adjective Phrases</a></li>
+            <ul id="list">
+                <li id="noun_business">名詞：ビジネス</li>
+                <li id="adverbial_expressions">副詞表現</li>
+                <li id="adjective">Adjectives</li>
+                <li id="adjective-phrase">Adjective Phrases</li>
             </ul>
         </section>
-        <!--
-        <section>
-            <h2>Frames</h2>
-            <ul>
-                <li><a href="memorization/declarative-sentence.html">Declarative Sentences</a></li>
-                <li><a href="memorization/question-sentence.html">Question Sentences</a></li>
-            </ul>
-        </section>
-        <section>
-            <h2>Grammar</h2>
-            <ul>
-                <li><a href="memorization/initial.html">initial</a></li>
-                <li><a href="memorization/adjective2.html">Adjective2</a></li>
-                <li><a href="memorization/conversational-expression.html">Conversational Expression</a></li>
-                <li><a href="memorization/additional-phrase.html">Additional Phrase</a></li>
-            </ul>
-        </section>
-        -->
     </main>
     <footer id="footer"></footer>
     <script src="js/header.js"></script>
     <script src="js/footer.js"></script>
     <script src="js/script.js"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            const List = document.getElementById("list");
+            List.addEventListener("click", (e) => {
+                // li がクリックされたときだけ処理
+                if (e.target.tagName === "LI") {
+                    const Id = e.target.id;
+                    localStorage.setItem("selectedId_memorization", Id);  // ローカルストレージに保存
+                    window.location.href = "memorization/display.html";  // ページ遷移
+                }
+            });
+        });
+    </script>
 </body>
 </html>
