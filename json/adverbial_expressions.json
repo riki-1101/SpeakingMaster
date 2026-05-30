@@ -152,6 +152,14 @@
         "ja": "～の前に"
     },
     {
+        "en": "behind (sth)",
+        "ja": "～の裏に"
+    },
+    {
+        "en": "besides (sth)",
+        "ja": "～に加えて"
+    },
+    {
         "en": "by accident",
         "ja": "偶然に"
     },
@@ -188,6 +196,10 @@
         "ja": "～に関して"
     },
     {
+        "en": "considering (sth)",
+        "ja": "～を考慮すると"
+    },
+    {
         "en": "contrary to (sth)",
         "ja": "～に反して"
     },
@@ -210,6 +222,10 @@
     {
         "en": "even so",
         "ja": "それでも"
+    },
+    {
+        "en": "every other day",
+        "ja": "１日おきに"
     },
     {
         "en": "except for (sth)",
@@ -412,6 +428,10 @@
         "ja": "事実上"
     },
     {
+        "en": "in face of (sth)",
+        "ja": "～に直面したにもかかわらず"
+    },
+    {
         "en": "in fact",
         "ja": "実際のところ"
     },
@@ -496,6 +516,10 @@
         "ja": "要するに"
     },
     {
+        "en": "in spite of (sth)",
+        "ja": "～にもかかわらず"
+    },
+    {
         "en": "in such cases",
         "ja": "そのような場合には"
     },
@@ -568,6 +592,10 @@
         "ja": "少しずつ"
     },
     {
+        "en": "near (sth)",
+        "ja": "～の近くで"
+    },
+    {
         "en": "not gonna lie",
         "ja": "ぶっちゃけ"
     },
@@ -616,8 +644,16 @@
         "ja": "その場で、即座に"
     },
     {
+        "en": "on top of (sth)",
+        "ja": "～に加えて（負担の追加）"
+    },
+    {
         "en": "once in a while",
         "ja": "時々"
+    },
+    {
+        "en": "opposite (sth)",
+        "ja": "～の向かいに"
     },
     {
         "en": "owing to (sth)",
@@ -650,6 +686,10 @@
     {
         "en": "so to speak",
         "ja": "いわば"
+    },
+    {
+        "en": "starting next month",
+        "ja": "来月より"
     },
     {
         "en": "step by step",
@@ -806,26 +846,6 @@
         "ja": "今後数ヶ月にわたって"
     },
     {
-        "en": "since he moved to another city",
-        "ja": "彼が別の都市に引っ越して以来"
-    },
-    {
-        "en": "starting next month",
-        "ja": "来月より"
-    },
-    {
-        "en": "behind the station",
-        "ja": "駅の裏に"
-    },
-    {
-        "en": "near my house",
-        "ja": "家の近くに"
-    },
-    {
-        "en": "opposite the post office",
-        "ja": "郵便局の向かいに"
-    },
-    {
         "en": "throughout a week",
         "ja": "一週間の間ずっと"
     },
@@ -836,10 +856,6 @@
     {
         "en": "every day",
         "ja": "毎日"
-    },
-    {
-        "en": "every other day",
-        "ja": "１日おきに"
     },
     {
         "en": "every Sunday",
@@ -861,19 +877,9 @@
         "en": "even before the game started",
         "ja": "試合が始まる前でも"
     },
-
-    
     {
         "en": "however difficult the situation is",
         "ja": "どんなに状況が困難でも"
-    },
-    {
-        "en": "in face of great difficulties",
-        "ja": "多大な困難にもかかわらず"
-    },
-    {
-        "en": "in spite of the rain",
-        "ja": "雨にもかかわらず"
     },
     {
         "en": "no matter how hard it gets",
@@ -915,8 +921,6 @@
         "en": "whichever route he takes",
         "ja": "どちらの道を選んだとしても"
     },
-    
-    
     {
         "en": "as long as it doesn't rain",
         "ja": "雨が降らなければ"
@@ -925,15 +929,6 @@
         "en": "assuming everything goes well",
         "ja": "すべてが上手くいくと仮定して"
     },
-    {
-        "en": "besides studying",
-        "ja": "勉強に加えて（カジュアル）"
-    },
-    {
-        "en": "considering the time",
-        "ja": "時間を考慮すると"
-    },
-    
     {
         "en": "except that it's expensive",
         "ja": "高価であるということを除いて"
@@ -947,36 +942,12 @@
         "ja": "それを秘密にするという条件で"
     },
     {
-        "en": "on top of working full-time",
-        "ja": "フルタイムで働くことに加えて（負担の追加）"
-    },
-    {
         "en": "once I finish this book",
         "ja": "いったんこの本を読み終えたら"
     },
     {
         "en": "only if it stops raining",
         "ja": "雨が止んだ場合に限って"
-    },
-    {
-        "en": "provided you're available",
-        "ja": "もし都合がつくならば"
-    },
-    {
-        "en": "providing the weather is good",
-        "ja": "天気が良ければ"
-    },
-    {
-        "en": "suppose he doesn't show up",
-        "ja": "もし彼が現れなかったら"
-    },
-    {
-        "en": "supposing this is true",
-        "ja": "もしこれが本当なら"
-    },
-    {
-        "en": "unless it stops raining",
-        "ja": "雨が止まない限り"
     },
     
     
