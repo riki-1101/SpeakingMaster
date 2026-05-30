@@ -16,12 +16,20 @@
         "ja": "その後"
     },
     {
+        "en": "all at once",
+        "ja": "突然"
+    },
+    {
         "en": "all day",
         "ja": "一日中"
     },
     {
         "en": "all the time",
         "ja": "常に"
+    },
+    {
+        "en": "all the way",
+        "ja": "はるばる、ずっと"
     },
     {
         "en": "all things considered",
@@ -80,6 +88,10 @@
         "ja": "できるだけ早く"
     },
     {
+        "en": "as time goes by",
+        "ja": "時間が経つにつれて"
+    },
+    {
         "en": "as to (sth)",
         "ja": "～については"
     },
@@ -94,6 +106,10 @@
     {
         "en": "at (sth)",
         "ja": "（場所）で"
+    },
+    {
+        "en": "at any rate",
+        "ja": "とにかく、いずれにせよ"
     },
     {
         "en": "at first",
@@ -164,8 +180,16 @@
         "ja": "偶然に"
     },
     {
+        "en": "by all means",
+        "ja": "何としても、必ず"
+    },
+    {
         "en": "by chance",
         "ja": "偶然に"
+    },
+    {
+        "en": "by degrees",
+        "ja": "徐々に"
     },
     {
         "en": "by doing so",
@@ -190,6 +214,14 @@
     {
         "en": "by tomorrow",
         "ja": "明日までに"
+    },
+    {
+        "en": "by turns",
+        "ja": "交替で"
+    },
+    {
+        "en": "by virtue of (sth)",
+        "ja": "～の力で、～のおかげで"
     },
     {
         "en": "concerninng (sth)",
@@ -244,8 +276,8 @@
         "ja": "ずいぶん長い間"
     },
     {
-        "en": "for all my experience",
-        "ja": "こんなに経験があるにもかかわらず"
+        "en": "for all (sth)",
+        "ja": "～という事実があるにもかかわらず"
     },
     {
         "en": "for example",
@@ -277,7 +309,7 @@
     },
     {
         "en": "for some reason",
-        "ja": "なんだか（少しフォーマル）"
+        "ja": "なんだか"
     },
     {
         "en": "for the benefit of (sb)",
@@ -314,6 +346,10 @@
     {
         "en": "from what I can remember",
         "ja": "覚えている限りで言うと"
+    },
+    {
+        "en": "generally speaking",
+        "ja": "一般的に言えば"
     },
     {
         "en": "Going back to (sth)",
@@ -376,12 +412,16 @@
         "ja": "もしよろしければ"
     },
     {
+        "en": "in a sense",
+        "ja": "ある意味で"
+    },
+    {
         "en": "in a word",
         "ja": "一言で言うと"
     },
     {
-        "en": "in an effort to (do)",
-        "ja": "～しようと努力して"
+        "en": "in accordance with (sth)",
+        "ja": "～に従って"
     },
     {
         "en": "in actuality",
@@ -400,6 +440,10 @@
         "ja": "正直なところ"
     },
     {
+        "en": "in an effort to (do)",
+        "ja": "～しようと努力して"
+    },
+    {
         "en": "in appreciation of (sth)",
         "ja": "～に感謝して"
     },
@@ -410,6 +454,10 @@
     {
         "en": "in case of (sth)",
         "ja": "～の場合には"
+    },
+    {
+        "en": "in comparison with (sth)",
+        "ja": "～と比べると"
     },
     {
         "en": "in conclusion",
@@ -428,12 +476,16 @@
         "ja": "事実上"
     },
     {
-        "en": "in face of (sth)",
-        "ja": "～に直面したにもかかわらず"
+        "en": "in exchange for (sth)",
+        "ja": "～と交換に"
     },
     {
         "en": "in fact",
         "ja": "実際のところ"
+    },
+    {
+        "en": "in favor of (sth)",
+        "ja": "～に賛成して"
     },
     {
         "en": "in front of (sth)",
@@ -456,6 +508,10 @@
         "ja": "私の意見では"
     },
     {
+        "en": "in order",
+        "ja": "順番通りに"
+    },
+    {
         "en": "in order for A to (do)",
         "ja": "Aが～するためには"
     },
@@ -474,6 +530,10 @@
     {
         "en": "in particular",
         "ja": "特に、とりわけ"
+    },
+    {
+        "en": "in person",
+        "ja": "対面で"
     },
     {
         "en": "in place of (sth)",
@@ -536,6 +596,10 @@
         "ja": "その場合には"
     },
     {
+        "en": "in the face of (sth)",
+        "ja": "～に直面したにもかかわらず"
+    },
+    {
         "en": "in the same way",
         "ja": "同じように"
     },
@@ -556,6 +620,10 @@
         "ja": "この場合"
     },
     {
+        "en": "in turn",
+        "ja": "順番に"
+    },
+    {
         "en": "in years to come",
         "ja": "今後数年間に"
     },
@@ -570,6 +638,10 @@
     {
         "en": "instead of (sth)",
         "ja": "～の代わりに"
+    },
+    {
+        "en": "judging from (sth)",
+        "ja": "～から判断すると"
     },
     {
         "en": "just in case",
@@ -596,6 +668,10 @@
         "ja": "～の近くで"
     },
     {
+        "en": "needless to say",
+        "ja": "言うまでもなく"
+    },
+    {
         "en": "not gonna lie",
         "ja": "ぶっちゃけ"
     },
@@ -620,12 +696,24 @@
         "ja": "予算内で"
     },
     {
+        "en": "on demand",
+        "ja": "要求があり次第"
+    },
+    {
         "en": "on one hand",
         "ja": "片方では、一方では"
     },
     {
+        "en": "on one's own",
+        "ja": "独力で"
+    },
+    {
         "en": "on purpose",
         "ja": "わざと"
+    },
+    {
+        "en": "on second thought",
+        "ja": "やっぱり考え直してみると"
     },
     {
         "en": "on the contrary",
@@ -644,8 +732,20 @@
         "ja": "その場で、即座に"
     },
     {
+        "en": "on the whole",
+        "ja": "概して、全体的に見ると"
+    },
+    {
+        "en": "on time",
+        "ja": "時間通りに"
+    },
+    {
         "en": "on top of (sth)",
         "ja": "～に加えて（負担の追加）"
+    },
+    {
+        "en": "once and for all",
+        "ja": "きっぱりと、これを最後に"
     },
     {
         "en": "once in a while",
@@ -672,6 +772,10 @@
         "ja": "万一何かご質問がございましたら"
     },
     {
+        "en": "side by side",
+        "ja": "並んで"
+    },
+    {
         "en": "so as not to (do)",
         "ja": "～しないように"
     },
@@ -680,12 +784,20 @@
         "ja": "～するために"
     },
     {
+        "en": "so far",
+        "ja": "これまでは"
+    },
+    {
         "en": "so that I can (do)",
         "ja": "～するために"
     },
     {
         "en": "so to speak",
         "ja": "いわば"
+    },
+    {
+        "en": "sooner or later",
+        "ja": "遅かれ早かれ"
     },
     {
         "en": "starting next month",
@@ -720,6 +832,10 @@
         "ja": "近頃、この頃"
     },
     {
+        "en": "to a great extent",
+        "ja": "だいたいにおいて"
+    },
+    {
         "en": "to be brief",
         "ja": "簡潔に言うと"
     },
@@ -752,12 +868,24 @@
         "ja": "いくつか挙げると"
     },
     {
+        "en": "to one's regret",
+        "ja": "残念なことに"
+    },
+    {
         "en": "to put it simply",
         "ja": "簡単に言うと"
     },
     {
+        "en": "to say nothing of (sth)",
+        "ja": "～は言うまでもなく"
+    },
+    {
         "en": "to say the least",
         "ja": "控え目に言っても"
+    },
+    {
+        "en": "to some extent",
+        "ja": "ある程度"
     },
     {
         "en": "to sum up",
@@ -808,6 +936,10 @@
         "ja": "運が良ければ"
     },
     {
+        "en": "with pleasure",
+        "ja": "喜んで"
+    },
+    {
         "en": "with regard to (sth)",
         "ja": "～に関しては"
     },
@@ -826,170 +958,5 @@
     {
         "en": "without (sth)",
         "ja": "～なしで"
-    },
-    
-    
-    
-    
-    
-    
-    
-
-
-
-    {
-        "en": "On arriving at the station",
-        "ja": "駅に着くとすぐに"
-    },
-    {
-        "en": "over the next few months",
-        "ja": "今後数ヶ月にわたって"
-    },
-    {
-        "en": "throughout a week",
-        "ja": "一週間の間ずっと"
-    },
-    {
-        "en": "until midnight",
-        "ja": "深夜までずっと"
-    },
-    {
-        "en": "every day",
-        "ja": "毎日"
-    },
-    {
-        "en": "every Sunday",
-        "ja": "毎週日曜日に"
-    },
-    {
-        "en": "every week",
-        "ja": "毎週"
-    },
-    {
-        "en": "twice a week",
-        "ja": "週に２回"
-    },
-    {
-        "en": "even after hearing the bad news",
-        "ja": "悪い知らせを聞いた後でも"
-    },
-    {
-        "en": "even before the game started",
-        "ja": "試合が始まる前でも"
-    },
-    {
-        "en": "however difficult the situation is",
-        "ja": "どんなに状況が困難でも"
-    },
-    {
-        "en": "no matter how hard it gets",
-        "ja": "どんなに大変になっても"
-    },
-    {
-        "en": "no matter what happens",
-        "ja": "何が起こっても"
-    },
-    {
-        "en": "no matter what suggestions I make",
-        "ja": "何の提案をしても"
-    },
-    {
-        "en": "no matter when you call",
-        "ja": "あなたがいつ電話してきても"
-    },
-    {
-        "en": "no matter where you go",
-        "ja": "あなたがどこへいっても"
-    },
-    {
-        "en": "no matter who calls",
-        "ja": "誰が電話してきても"
-    },
-    {
-        "en": "though it was raining",
-        "ja": "雨が降っていたけれども"
-    },
-    {
-        "en": "whatever problems you have",
-        "ja": "何の問題を抱えていても（文学的な表現）"
-    },
-    {
-        "en": "whether it rains or shines",
-        "ja": "雨が降っても晴れても"
-    },
-    {
-        "en": "whichever route he takes",
-        "ja": "どちらの道を選んだとしても"
-    },
-    {
-        "en": "as long as it doesn't rain",
-        "ja": "雨が降らなければ"
-    },
-    {
-        "en": "assuming everything goes well",
-        "ja": "すべてが上手くいくと仮定して"
-    },
-    {
-        "en": "except that it's expensive",
-        "ja": "高価であるということを除いて"
-    },
-    {
-        "en": "given she has a lot of work to do",
-        "ja": "彼女はたくさんの仕事があることを考えると"
-    },
-    {
-        "en": "on condition that you keep it a secret",
-        "ja": "それを秘密にするという条件で"
-    },
-    {
-        "en": "once I finish this book",
-        "ja": "いったんこの本を読み終えたら"
-    },
-    {
-        "en": "only if it stops raining",
-        "ja": "雨が止んだ場合に限って"
-    },
-    
-    
-    
-    {
-        "en": "anyway",
-        "ja": "とにかく"
-    },
-    {
-        "en": "correspondingly",
-        "ja": "それに応じて"
-    },
-    {
-        "en": "finally",
-        "ja": "ついに、ようやく"
-    },
-    {
-        "en": "furthermore",
-        "ja": "さらには"
-    },
-    {
-        "en": "I mean",
-        "ja": "つまりね...(言い換え)"
-    },
-    {
-        "en": "moreover",
-        "ja": "その上"
-    },
-    {
-        "en": "nevertheless",
-        "ja": "それにもかかわらず"
-    },
-    {
-        "en": "thus",
-        "ja": "それゆえ"
-    },
-    {
-        "en": "among European countries",
-        "ja": "ヨーロッパ諸国の間で"
-    },
-    {
-        "en": "between the two firms",
-        "ja": "2社の間で"
     }
 ]
