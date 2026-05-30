@@ -20,7 +20,7 @@ function speakEnglish(text) {
     if (!text) return;
 
     // (sth),(sb)を変換
-    text = text.replace(/\(sth\)/gi, "something").replace(/\(sb\)/gi, "someone")
+    // text = text.replace(/\(sth\)/gi, "something").replace(/\(sb\)/gi, "someone")
 
     // (sth),(sb)以外の不要な部分を削除
     text = text.replace(/(\(.*?\)|\[.*?\])/g, "").trim();
