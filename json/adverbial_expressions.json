@@ -72,8 +72,16 @@
         "ja": "予定通り"
     },
     {
+        "en": "as regards (sth)",
+        "ja": "～に関して言うと"
+    },
+    {
         "en": "as soon as possible",
         "ja": "できるだけ早く"
+    },
+    {
+        "en": "as to (sth)",
+        "ja": "～については"
     },
     {
         "en": "as usual",
@@ -136,6 +144,10 @@
         "ja": "当時"
     },
     {
+        "en": "because of (sth)",
+        "ja": "～のせいで"
+    },
+    {
         "en": "before (sth)",
         "ja": "～の前に"
     },
@@ -146,6 +158,10 @@
     {
         "en": "by chance",
         "ja": "偶然に"
+    },
+    {
+        "en": "by doing so",
+        "ja": "そうすることによって"
     },
     {
         "en": "by heart",
@@ -168,8 +184,16 @@
         "ja": "明日までに"
     },
     {
+        "en": "concerninng (sth)",
+        "ja": "～に関して"
+    },
+    {
         "en": "contrary to (sth)",
         "ja": "～に反して"
+    },
+    {
+        "en": "due to (sth)",
+        "ja": "～により"
     },
     {
         "en": "during (sth)",
@@ -240,8 +264,20 @@
         "ja": "なんだか（少しフォーマル）"
     },
     {
+        "en": "for the benefit of (sb)",
+        "ja": "～のためになるように"
+    },
+    {
         "en": "for the first time",
         "ja": "初めて"
+    },
+    {
+        "en": "for the purpose of (sth)",
+        "ja": "～の目的として"
+    },
+    {
+        "en": "for the sake of (doing)",
+        "ja": "～するために"
     },
     {
         "en": "for the time being",
@@ -328,6 +364,10 @@
         "ja": "一言で言うと"
     },
     {
+        "en": "in an effort to (do)",
+        "ja": "～しようと努力して"
+    },
+    {
         "en": "in actuality",
         "ja": "現実には"
     },
@@ -396,6 +436,18 @@
         "ja": "私の意見では"
     },
     {
+        "en": "in order for A to (do)",
+        "ja": "Aが～するためには"
+    },
+    {
+        "en": "in order not to (do)",
+        "ja": "～しないように"
+    },
+    {
+        "en": "in order to (do)",
+        "ja": "～するために"
+    },
+    {
         "en": "in other words",
         "ja": "言い換えると"
     },
@@ -420,8 +472,24 @@
         "ja": "～をたたえて"
     },
     {
+        "en": "in regard to (sth)",
+        "ja": "～に関して言うと"
+    },
+    {
+        "en": "in relation to (sth)",
+        "ja": "～に関連して"
+    },
+    {
+        "en": "in respect of (sth)",
+        "ja": "～に関しては（古風）"
+    },
+    {
         "en": "in response to (sth)",
         "ja": "～に応えて"
+    },
+    {
+        "en": "in search of (sth)",
+        "ja": "～を求めて（探して）"
     },
     {
         "en": "in short",
@@ -508,6 +576,14 @@
         "ja": "時々"
     },
     {
+        "en": "on a quest for (sth)",
+        "ja": "～を探し求めて"
+    },
+    {
+        "en": "on account of (sth)",
+        "ja": "～のために"
+    },
+    {
         "en": "on behalf of (sth)",
         "ja": "～を代表して"
     },
@@ -544,12 +620,32 @@
         "ja": "時々"
     },
     {
+        "en": "owing to (sth)",
+        "ja": "～のために"
+    },
+    {
+        "en": "regarding (sth)",
+        "ja": "～に関して"
+    },
+    {
         "en": "regardless of (sth)",
         "ja": "～に関係なく"
     },
     {
         "en": "Should you have any questions",
         "ja": "万一何かご質問がございましたら"
+    },
+    {
+        "en": "so as not to (do)",
+        "ja": "～しないように"
+    },
+    {
+        "en": "so as to (do)",
+        "ja": "～するために"
+    },
+    {
+        "en": "so that I can (do)",
+        "ja": "～するために"
     },
     {
         "en": "so to speak",
@@ -562,6 +658,10 @@
     {
         "en": "strange to say",
         "ja": "奇妙なことに"
+    },
+    {
+        "en": "thanks to (sth)",
+        "ja": "～のおかげで"
     },
     {
         "en": "that is (to say)",
@@ -636,6 +736,10 @@
         "ja": "その上"
     },
     {
+        "en": "what with A and B",
+        "ja": "～や～のせいで（カジュアル）"
+    },
+    {
         "en": "When it comes to (sth)",
         "ja": "～に関して言えば"
     },
@@ -652,12 +756,28 @@
         "ja": "あなたが誰であっても"
     },
     {
+        "en": "with a view to (doing)",
+        "ja": "～するのを見据えて"
+    },
+    {
         "en": "with ease",
         "ja": "簡単に"
     },
     {
         "en": "with luck",
         "ja": "運が良ければ"
+    },
+    {
+        "en": "with regard to (sth)",
+        "ja": "～に関しては"
+    },
+    {
+        "en": "with respect to (sth)",
+        "ja": "～に関しては"
+    },
+    {
+        "en": "with the aim of (doing)",
+        "ja": "～することを目的として"
     },
     {
         "en": "within 48 hours",
