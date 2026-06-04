@@ -280,46 +280,15 @@ footer {
 
 
 
-/* 出題カード */
+/* 暗記カード */
 .frame-app {
     text-align: center;
 }
 
-#radio {
-    margin: 20px 0;
-}
-
-/* 元のラジオボタンを隠す */
-.category input[type="radio"] {
-    display: none;
-}
-/* ラベルをボタン風に */
-.category input[type="radio"] + label {
-    display: inline-block;
-    padding: 4px 8px;
-    margin: 4px;
-    border: 2px solid #007bff;
-    border-radius: 8px;
-    background-color: #fff;
-    color: #007bff;
-    cursor: pointer;
-    transition: all 0.2s;
-    font-size: 1.3em;
-}
-/* ホバー時 */
-.category input[type="radio"] + label:hover {
-    background-color: #007bff;
-    color: #fff;
-}
-/* 選択中 */
-.category input[type="radio"]:checked + label {
-    background-color: #007bff;
-    color: #fff;
-}
-
+/* カード */
 #card {
     position: relative;
-    width: 95%;
+    width: 100%;
     height: 200px;
     margin: 1em auto;
     padding: 10px;
@@ -337,6 +306,7 @@ footer {
     right: 0;
     font-weight: bold;
     font-size: 2.2em;
+    font-family: Arial, Helvetica, sans-serif;
 }
 #card #japanese {
     position: absolute;
@@ -345,16 +315,23 @@ footer {
     right: 0;
     font-size: 1.5em;
 }
+
+/* 制御ボタン */
+.controls {
+    margin: 2em;
+}
+
+/* 再生ボタン */
 .video_play_pause {
     display: inline-block;
     position: relative;
-    margin: 20px;
+    margin: 0.5em;
     width: 1em;
     height: 1em;
-    border: 0.05em solid currentColor;
+    border: 1px solid currentColor;
     border-radius: 50%;
-    color: #000;
-    font-size: 50px;
+    color: #333;
+    font-size: 70px;
 }
 .video_play_pause > input {
     display: none;
@@ -389,89 +366,72 @@ footer {
     left: 60%;
 }
 
-
-/* ===== モーダル全体 ===== */
+/* モーダル */
 .modal {
-  position: fixed;
-  inset: 0;
-  background: rgba(0, 0, 0, 0.55);
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  z-index: 1000;
-  animation: fadeIn 0.3s ease;
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.55);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+    animation: fadeIn 0.3s ease;
 }
-
-/* ===== モーダル本体 ===== */
 .modal-content {
-  background: #ffffff;
-  width: min(90%, 360px);
-  padding: 24px 28px;
-  border-radius: 14px;
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
-  text-align: center;
-  animation: slideUp 0.35s ease;
+    background: #ffffff;
+    width: min(90%, 360px);
+    padding: 24px 28px;
+    border-radius: 14px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+    text-align: center;
+    animation: slideUp 0.35s ease;
 }
-
-/* ===== タイトル ===== */
 .modal-content h2 {
-  font-size: 1.2rem;
-  margin-bottom: 16px;
-  color: #333;
-  font-weight: 600;
+    font-size: 1.5em;
+    margin-bottom: 1em;
+    color: #333;
+    font-weight: bold;
 }
-
-/* ===== ラジオボタン ===== */
 .modal-content label {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  margin: 10px 0;
-  font-size: 0.95rem;
-  color: #444;
-  cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 10px 0;
+    font-size: 1.5em;
+    color: #444;
+    cursor: pointer;
+}
+.modal-content #timeSelect {
+    width: 100%;
+    margin-top: 10px;
+    padding: 6px 8px;
+    font-size: 1.5em;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+}
+.modal-content #startBtn {
+    margin-top: 18px;
+    width: 100%;
+    padding: 10px 0;
+    font-size: 1rem;
+    border-radius: 10px;
+    border: none;
+    background: #4f7df3;
+    color: white;
+    cursor: pointer;
+}
+.modal-content #startBtn:hover {
+    background: #3f6ae0;
+}
+.modal-content #startBtn:active {
+    transform: translateY(1px);
+}
+.modal-content #startBtn:disabled {
+    background: #aaa;
+    cursor: not-allowed;
 }
 
-/* ===== select ===== */
-.modal-content select {
-  width: 100%;
-  margin-top: 10px;
-  padding: 6px 8px;
-  font-size: 0.95rem;
-  border-radius: 8px;
-  border: 1px solid #ccc;
-}
-
-/* ===== 時間指定エリア ===== */
-#timeOption {
-  margin-top: 12px;
-}
-
-/* ===== スタートボタン ===== */
-#startBtn {
-  margin-top: 18px;
-  width: 100%;
-  padding: 10px 0;
-  font-size: 1rem;
-  border-radius: 10px;
-  border: none;
-  background: #4f7df3;
-  color: white;
-  cursor: pointer;
-  transition: background 0.2s ease, transform 0.1s ease;
-}
-#startBtn:hover {
-  background: #3f6ae0;
-}
-#startBtn:active {
-  transform: translateY(1px);
-}
-#startBtn:disabled {
-  background: #aaa;
-  cursor: not-allowed;
-}
-
-/* ===== アニメーション ===== */
+/* アニメーション */
 @keyframes fadeIn {
   from { opacity: 0; }
   to   { opacity: 1; }
@@ -485,51 +445,4 @@ footer {
     opacity: 1;
     transform: translateY(0);
   }
-}
-
-
-
-#ja-btn {
-    margin: 15px;
-    padding: 10px;
-    font-size: 1.5em;
-    border-radius: 5px;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
-    border: none;
-    background: lightslategray;
-    color: white;
-    cursor: pointer;
-}
-
-#ex-list {
-    background-color: whitesmoke;
-    font-size: 1.3em;
-    text-align: left;
-    width: 95%;
-    margin: 1em auto;
-    padding: 0.8em 1em;
-    border-radius: 5px;
-    height: 150px;
-    overflow-y: auto; /* ← 中だけスクロール */
-}
-
-.next-btn {
-    background-color: #4CAF50;
-    color: white;
-    width: 10em;
-    padding: 0.5em;
-    border: none;
-    border-radius: 5px;
-    font-size: 1.5em;
-    cursor: pointer;
-}
-.next-btn:hover {
-    background-color: #45a049;
-}
-
-.restart-btn {
-    background-color: #ff9800; /* オレンジ色 */
-}
-.restart-btn:hover {
-    background-color: #fb8c00;
 }
