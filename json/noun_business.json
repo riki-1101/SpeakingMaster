@@ -336,6 +336,10 @@
         "ja": "主張"
     },
     {
+        "en": "cleanup",
+        "ja": "清掃"
+    },
+    {
         "en": "clearance",
         "ja": "整理"
     },
@@ -674,6 +678,10 @@
     {
         "en": "donation",
         "ja": "寄付"
+    },
+    {
+        "en": "drawback",
+        "ja": "欠点"
     },
     {
         "en": "duration",
@@ -2010,6 +2018,10 @@
     {
         "en": "turnover",
         "ja": "離職率"
+    },
+    {
+        "en": "uncertainty",
+        "ja": "不確実性"
     },
     {
         "en": "uniform",
