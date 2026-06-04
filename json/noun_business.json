@@ -256,6 +256,10 @@
         "ja": "予算"
     },
     {
+        "en": "budget allocation",
+        "ja": "予算配分"
+    },
+    {
         "en": "business hours",
         "ja": "営業時間"
     },
@@ -576,6 +580,10 @@
         "ja": "遅れ"
     },
     {
+        "en": "deliberation",
+        "ja": "よく考えること"
+    },
+    {
         "en": "delivery",
         "ja": "配達"
     },
@@ -633,7 +641,7 @@
     },
     {
         "en": "director",
-        "ja": "担当責任者"
+        "ja": "担当責任者、取締役、監督"
     },
     {
         "en": "directory",
@@ -788,6 +796,10 @@
         "ja": "拡張計画"
     },
     {
+        "en": "expense",
+        "ja": "費用"
+    },
+    {
         "en": "expenditure",
         "ja": "費用、支出"
     },
@@ -858,6 +870,10 @@
     {
         "en": "financial plan",
         "ja": "財務計画"
+    },
+    {
+        "en": "fire alarm",
+        "ja": "火災報知器"
     },
     {
         "en": "firm",
@@ -932,6 +948,10 @@
         "ja": "厚いもてなし"
     },
     {
+        "en": "hygiene",
+        "ja": "衛生状態、衛生"
+    },
+    {
         "en": "idea",
         "ja": "考え"
     },
@@ -950,6 +970,10 @@
     {
         "en": "income",
         "ja": "収入"
+    },
+    {
+        "en": "inconvenience",
+        "ja": "不都合"
     },
     {
         "en": "increase",
@@ -986,6 +1010,14 @@
     {
         "en": "institute",
         "ja": "機関"
+    },
+    {
+        "en": "instruction",
+        "ja": "指示"
+    },
+    {
+        "en": "instructor",
+        "ja": "インストラクター"
     },
     {
         "en": "insurance",
@@ -1044,6 +1076,10 @@
         "ja": "管理人"
     },
     {
+        "en": "job application",
+        "ja": "求人応募"
+    },
+    {
         "en": "job fair",
         "ja": "就職説明会"
     },
@@ -1078,6 +1114,10 @@
     {
         "en": "lack",
         "ja": "不足"
+    },
+    {
+        "en": "landline phone",
+        "ja": "固定電話"
     },
     {
         "en": "laptop",
@@ -1150,6 +1190,10 @@
     {
         "en": "management",
         "ja": "経営、経営陣"
+    },
+    {
+        "en": "manegerial role",
+        "ja": "管理職"
     },
     {
         "en": "manual",
@@ -1238,6 +1282,10 @@
     {
         "en": "monopoly",
         "ja": "独占"
+    },
+    {
+        "en": "newcomer",
+        "ja": "新人"
     },
     {
         "en": "newsletter",
@@ -1368,6 +1416,10 @@
         "ja": "人事部"
     },
     {
+        "en": "personnel managemnt",
+        "ja": "人事管理"
+    },
+    {
         "en": "perspective",
         "ja": "観点"
     },
@@ -1378,6 +1430,10 @@
     {
         "en": "plan",
         "ja": "計画"
+    },
+    {
+        "en": "plant manager",
+        "ja": "工場長"
     },
     {
         "en": "policy",
@@ -1632,6 +1688,10 @@
         "ja": "要請"
     },
     {
+        "en": "requirement",
+        "ja": "必要品"
+    },
+    {
         "en": "reservation",
         "ja": "予約"
     },
@@ -1680,6 +1740,10 @@
         "ja": "報酬"
     },
     {
+        "en": "risk",
+        "ja": "リスク"
+    },
+    {
         "en": "role",
         "ja": "役割"
     },
@@ -1712,6 +1776,10 @@
         "ja": "秘書"
     },
     {
+        "en": "security",
+        "ja": "警備、安全"
+    },
+    {
         "en": "security badge",
         "ja": "社員証"
     },
@@ -1722,6 +1790,10 @@
     {
         "en": "seminar",
         "ja": "セミナー"
+    },
+    {
+        "en": "server",
+        "ja": "サーバー"
     },
     {
         "en": "service charge",
@@ -1750,6 +1822,10 @@
     {
         "en": "situation",
         "ja": "状況"
+    },
+    {
+        "en": "skill",
+        "ja": "スキル"
     },
     {
         "en": "small business",
@@ -1854,6 +1930,10 @@
     {
         "en": "table",
         "ja": "表"
+    },
+    {
+        "en": "talk",
+        "ja": "講演"
     },
     {
         "en": "tariff",
