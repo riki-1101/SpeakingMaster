@@ -36,6 +36,10 @@
         "ja": "すべてを考慮すると"
     },
     {
+        "en": "along with (sth)",
+        "ja": "～と一緒に"
+    },
+    {
         "en": "amid (sth)",
         "ja": "～の真っ最中に"
     },
@@ -50,6 +54,10 @@
     {
         "en": "as a result",
         "ja": "結果として"
+    },
+    {
+        "en": "as a result of (sth)",
+        "ja": "～の結果として"
     },
     {
         "en": "as a token of (sth)",
@@ -86,6 +94,10 @@
     {
         "en": "as soon as possible",
         "ja": "できるだけ早く"
+    },
+    {
+        "en": "at the beginning of (sth)",
+        "ja": "～の初めに"
     },
     {
         "en": "as time goes by",
@@ -208,6 +220,10 @@
         "ja": "生まれつき"
     },
     {
+        "en": "by the end of (sth)",
+        "ja": "～の終わりまでには"
+    },
+    {
         "en": "by the way",
         "ja": "ところで"
     },
@@ -254,6 +270,10 @@
     {
         "en": "even so",
         "ja": "それでも"
+    },
+    {
+        "en": "every now and then",
+        "ja": "時々"
     },
     {
         "en": "every other day",
@@ -436,12 +456,20 @@
         "ja": "～に加えて"
     },
     {
+        "en": "in advance",
+        "ja": "前もって、事前に"
+    },
+    {
         "en": "in all honesty",
         "ja": "正直なところ"
     },
     {
         "en": "in an effort to (do)",
         "ja": "～しようと努力して"
+    },
+    {
+        "en": "in any case",
+        "ja": "とにかく"
     },
     {
         "en": "in appreciation of (sth)",
@@ -520,6 +548,10 @@
         "ja": "～しないように"
     },
     {
+        "en": "in order of (sth)",
+        "ja": "～の順に"
+    },
+    {
         "en": "in order to (do)",
         "ja": "～するために"
     },
@@ -568,6 +600,10 @@
         "ja": "～に応えて"
     },
     {
+        "en": "in return for (sth)",
+        "ja": "～のお返しに"
+    },
+    {
         "en": "in search of (sth)",
         "ja": "～を求めて（探して）"
     },
@@ -600,14 +636,6 @@
         "ja": "～に直面したにもかかわらず"
     },
     {
-        "en": "in the same way",
-        "ja": "同じように"
-    },
-    {
-        "en": "in the short run",
-        "ja": "短期的には"
-    },
-    {
         "en": "in the long run",
         "ja": "長い目で見れば"
     },
@@ -616,8 +644,28 @@
         "ja": "その間に"
     },
     {
+        "en": "in the middle of (sth)",
+        "ja": "～の真ん中に"
+    },
+    {
+        "en": "in the past",
+        "ja": "これまでに"
+    },
+    {
+        "en": "in the same way",
+        "ja": "同じように"
+    },
+    {
+        "en": "in the short run",
+        "ja": "短期的には"
+    },
+    {
         "en": "in this case",
         "ja": "この場合"
+    },
+    {
+        "en": "in time",
+        "ja": "間に合って"
     },
     {
         "en": "in turn",
@@ -672,6 +720,10 @@
         "ja": "言うまでもなく"
     },
     {
+        "en": "next to (sth)",
+        "ja": "～の隣に"
+    },
+    {
         "en": "not gonna lie",
         "ja": "ぶっちゃけ"
     },
@@ -688,6 +740,10 @@
         "ja": "～のために"
     },
     {
+        "en": "on average",
+        "ja": "平均して"
+    },
+    {
         "en": "on behalf of (sth)",
         "ja": "～を代表して"
     },
@@ -696,8 +752,16 @@
         "ja": "予算内で"
     },
     {
+        "en": "on business",
+        "ja": "仕事で"
+    },
+    {
         "en": "on demand",
         "ja": "要求があり次第"
+    },
+    {
+        "en": "on foot",
+        "ja": "徒歩で"
     },
     {
         "en": "on one hand",
@@ -766,6 +830,10 @@
     {
         "en": "regardless of (sth)",
         "ja": "～に関係なく"
+    },
+    {
+        "en": "right away",
+        "ja": "すぐに"
     },
     {
         "en": "Should you have any questions",
@@ -896,6 +964,10 @@
         "ja": "実を言うと"
     },
     {
+        "en": "together with (sth)",
+        "ja": "～に加えて"
+    },
+    {
         "en": "weather permitting",
         "ja": "天気がよければ"
     },
@@ -958,5 +1030,9 @@
     {
         "en": "without (sth)",
         "ja": "～なしで"
+    },
+    {
+        "en": "without fail",
+        "ja": "必ず"
     }
 ]
