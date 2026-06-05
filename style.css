@@ -239,6 +239,7 @@ footer {
 #list #phrase-list li .en {
     font-size: x-large;
     font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
 }
 #list #phrase-list li .ja {
     font-size: small;
@@ -268,6 +269,7 @@ footer {
 #list #popup #popup-content #popup-en {
     font-size: xx-large;
     font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
 }
 #list #popup #popup-content #popup-ja {
     font-size: large;
