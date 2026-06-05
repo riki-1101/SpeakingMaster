@@ -36,6 +36,10 @@
         "ja": "住所"
     },
     {
+        "en": "administration",
+        "ja": "運営、管理"
+    },
+    {
         "en": "admission",
         "ja": "入会"
     },
@@ -46,6 +50,10 @@
     {
         "en": "advancement",
         "ja": "昇進"
+    },
+    {
+        "en": "advantage",
+        "ja": "有利"
     },
     {
         "en": "affiliate",
@@ -128,8 +136,12 @@
         "ja": "記録文書"
     },
     {
+        "en": "arrangement",
+        "ja": "手配"
+    },
+    {
         "en": "aspect",
-        "ja": "局面"
+        "ja": "局面、側面"
     },
     {
         "en": "assembly line",
@@ -249,7 +261,7 @@
     },
     {
         "en": "brochure",
-        "ja": "小冊子"
+        "ja": "小冊子、パンフレット"
     },
     {
         "en": "budget",
@@ -258,6 +270,10 @@
     {
         "en": "budget allocation",
         "ja": "予算配分"
+    },
+    {
+        "en": "burden",
+        "ja": "重荷"
     },
     {
         "en": "business hours",
@@ -308,6 +324,10 @@
         "ja": "原因"
     },
     {
+        "en": "ceremony",
+        "ja": "儀式"
+    },
+    {
         "en": "certificate",
         "ja": "証明書"
     },
@@ -332,6 +352,10 @@
         "ja": "選択"
     },
     {
+        "en": "circumstance",
+        "ja": "状況"
+    },
+    {
         "en": "claim",
         "ja": "主張"
     },
@@ -348,6 +372,10 @@
         "ja": "顧客"
     },
     {
+        "en": "clue",
+        "ja": "手がかり"
+    },
+    {
         "en": "colleague",
         "ja": "同僚"
     },
@@ -360,8 +388,20 @@
         "ja": "委員会"
     },
     {
+        "en": "commodity",
+        "ja": "商品"
+    },
+    {
         "en": "communication",
         "ja": "コミュニケーション"
+    },
+    {
+        "en": "community",
+        "ja": "地域社会"
+    },
+    {
+        "en": "companion",
+        "ja": "同伴者"
     },
     {
         "en": "company founder",
@@ -428,16 +468,32 @@
         "ja": "会議"
     },
     {
+        "en": "confidence",
+        "ja": "自身、信用"
+    },
+    {
         "en": "confirmation number",
         "ja": "確認番号"
+    },
+    {
+        "en": "conflict",
+        "ja": "争い"
     },
     {
         "en": "congratulations",
         "ja": "祝いの言葉"
     },
     {
+        "en": "congress",
+        "ja": "議会"
+    },
+    {
         "en": "connection",
         "ja": "連絡"
+    },
+    {
+        "en": "conscience",
+        "ja": "良心"
     },
     {
         "en": "consideration",
@@ -488,6 +544,10 @@
         "ja": "契約条件"
     },
     {
+        "en": "contrast",
+        "ja": "対照、対比"
+    },
+    {
         "en": "contribution",
         "ja": "貢献"
     },
@@ -536,6 +596,10 @@
         "ja": "資格、経歴"
     },
     {
+        "en": "credit",
+        "ja": "借り入れ期間、信用"
+    },
+    {
         "en": "cubicle",
         "ja": "個別の作業スペース"
     },
@@ -546,6 +610,10 @@
     {
         "en": "customer satisfaction",
         "ja": "顧客満足度"
+    },
+    {
+        "en": "customer service department",
+        "ja": "お客様サービス部"
     },
     {
         "en": "customer survey",
@@ -574,6 +642,10 @@
     {
         "en": "decision",
         "ja": "決定"
+    },
+    {
+        "en": "defect",
+        "ja": "欠陥"
     },
     {
         "en": "deficit",
@@ -624,12 +696,20 @@
         "ja": "部門長"
     },
     {
+        "en": "deposit",
+        "ja": "手付金"
+    },
+    {
         "en": "description",
         "ja": "説明書"
     },
     {
         "en": "destination",
         "ja": "目的地"
+    },
+    {
+        "en": "detail",
+        "ja": "詳細"
     },
     {
         "en": "development",
@@ -658,6 +738,10 @@
     {
         "en": "disapproval",
         "ja": "不賛成"
+    },
+    {
+        "en": "discipline",
+        "ja": "規律"
     },
     {
         "en": "disclosure",
@@ -712,6 +796,10 @@
         "ja": "努力"
     },
     {
+        "en": "election",
+        "ja": "選挙"
+    },
+    {
         "en": "email attachment",
         "ja": "添付ファイル"
     },
@@ -758,6 +846,10 @@
     {
         "en": "enterprise",
         "ja": "企業"
+    },
+    {
+        "en": "enthusiasm",
+        "ja": "熱意"
     },
     {
         "en": "entrance",
@@ -932,6 +1024,14 @@
         "ja": "商品"
     },
     {
+        "en": "grant",
+        "ja": "助成金、補助金"
+    },
+    {
+        "en": "gratitude",
+        "ja": "感謝"
+    },
+    {
         "en": "growth",
         "ja": "成長"
     },
@@ -1012,6 +1112,10 @@
         "ja": "問い合わせ"
     },
     {
+        "en": "insight",
+        "ja": "洞察"
+    },
+    {
         "en": "inspection",
         "ja": "調査、視察"
     },
@@ -1020,8 +1124,12 @@
         "ja": "分割払い"
     },
     {
-        "en": "institute",
+        "en": "institution",
         "ja": "機関"
+    },
+    {
+        "en": "institute",
+        "ja": "専門機関、研究所"
     },
     {
         "en": "instruction",
@@ -1050,6 +1158,10 @@
     {
         "en": "interruption",
         "ja": "中断"
+    },
+    {
+        "en": "interval",
+        "ja": "間隔"
     },
     {
         "en": "interview",
@@ -1114,6 +1226,10 @@
     {
         "en": "knowledge",
         "ja": "知識"
+    },
+    {
+        "en": "labor",
+        "ja": "労働"
     },
     {
         "en": "laboratory",
@@ -1308,6 +1424,10 @@
         "ja": "お知らせ"
     },
     {
+        "en": "notion",
+        "ja": "考え"
+    },
+    {
         "en": "novice",
         "ja": "初心者"
     },
@@ -1318,6 +1438,14 @@
     {
         "en": "obligation",
         "ja": "義務"
+    },
+    {
+        "en": "obstacle",
+        "ja": "障害"
+    },
+    {
+        "en": "occasion",
+        "ja": "特別な機会、出来事"
     },
     {
         "en": "office hours",
@@ -1358,6 +1486,10 @@
     {
         "en": "outlay",
         "ja": "出資金"
+    },
+    {
+        "en": "outlook",
+        "ja": "見通し"
     },
     {
         "en": "outside line",
@@ -1512,6 +1644,10 @@
         "ja": "優先事項"
     },
     {
+        "en": "privilege",
+        "ja": "特権"
+    },
+    {
         "en": "problem",
         "ja": "問題"
     },
@@ -1526,6 +1662,10 @@
     {
         "en": "process",
         "ja": "過程、工程"
+    },
+    {
+        "en": "product",
+        "ja": "製品"
     },
     {
         "en": "product instruction",
@@ -1600,6 +1740,14 @@
         "ja": "目的"
     },
     {
+        "en": "quality",
+        "ja": "質"
+    },
+    {
+        "en": "quarter",
+        "ja": "４分の１、四半期"
+    },
+    {
         "en": "question",
         "ja": "質問"
     },
@@ -1610,6 +1758,10 @@
     {
         "en": "quota",
         "ja": "ノルマ"
+    },
+    {
+        "en": "rate",
+        "ja": "率"
     },
     {
         "en": "ratio",
@@ -1630,6 +1782,10 @@
     {
         "en": "receptionist",
         "ja": "受付係"
+    },
+    {
+        "en": "recess",
+        "ja": "休憩"
     },
     {
         "en": "recipient",
@@ -1708,12 +1864,20 @@
         "ja": "必要品"
     },
     {
+        "en": "research",
+        "ja": "研究"
+    },
+    {
         "en": "reservation",
         "ja": "予約"
     },
     {
         "en": "resignation",
         "ja": "辞任"
+    },
+    {
+        "en": "resource",
+        "ja": "資源"
     },
     {
         "en": "response",
@@ -1820,6 +1984,10 @@
         "ja": "株主"
     },
     {
+        "en": "shelter",
+        "ja": "避難場所"
+    },
+    {
         "en": "shipment",
         "ja": "発送"
     },
@@ -1842,6 +2010,10 @@
     {
         "en": "skill",
         "ja": "スキル"
+    },
+    {
+        "en": "skyscraper",
+        "ja": "高層ビル"
     },
     {
         "en": "small business",
@@ -1876,6 +2048,10 @@
         "ja": "スポンサー"
     },
     {
+        "en": "staff",
+        "ja": "職員"
+    },
+    {
         "en": "staircase",
         "ja": "階段"
     },
@@ -1885,7 +2061,7 @@
     },
     {
         "en": "stock",
-        "ja": "在庫"
+        "ja": "在庫、株"
     },
     {
         "en": "storage",
@@ -1936,6 +2112,10 @@
         "ja": "備品室"
     },
     {
+        "en": "surplus",
+        "ja": "余剰、黒字"
+    },
+    {
         "en": "survey",
         "ja": "調査"
     },
@@ -1956,6 +2136,14 @@
         "ja": "関税、運賃表"
     },
     {
+        "en": "tax",
+        "ja": "税金"
+    },
+    {
+        "en": "technology",
+        "ja": "技術"
+    },
+    {
         "en": "temporary employee",
         "ja": "派遣社員"
     },
@@ -1974,6 +2162,10 @@
     {
         "en": "testimonial",
         "ja": "推薦文"
+    },
+    {
+        "en": "testimony",
+        "ja": "証言"
     },
     {
         "en": "thought",
@@ -2052,8 +2244,16 @@
         "ja": "休暇"
     },
     {
+        "en": "vehicle",
+        "ja": "乗り物"
+    },
+    {
         "en": "vendor",
         "ja": "業者"
+    },
+    {
+        "en": "venture",
+        "ja": "新事業"
     },
     {
         "en": "venue",
