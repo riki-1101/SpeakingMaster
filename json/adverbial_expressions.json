@@ -52,12 +52,20 @@
         "ja": "～として"
     },
     {
+        "en": "as a matter of fact",
+        "ja": "実のところ"
+    },
+    {
         "en": "as a result",
         "ja": "結果として"
     },
     {
         "en": "as a result of (sth)",
         "ja": "～の結果として"
+    },
+    {
+        "en": "as a rule",
+        "ja": "原則として"
     },
     {
         "en": "as a token of (sth)",
@@ -120,12 +128,32 @@
         "ja": "（場所）で"
     },
     {
+        "en": "at a distance",
+        "ja": "少し離れて"
+    },
+    {
+        "en": "at a time",
+        "ja": "一度に"
+    },
+    {
+        "en": "at all costs",
+        "ja": "どんな犠牲を払っても"
+    },
+    {
+        "en": "at any cost",
+        "ja": "どんな犠牲を払っても"
+    },
+    {
         "en": "at any rate",
         "ja": "とにかく、いずれにせよ"
     },
     {
         "en": "at first",
         "ja": "当初は"
+    },
+    {
+        "en": "at hand",
+        "ja": "手元に"
     },
     {
         "en": "at least",
@@ -136,8 +164,16 @@
         "ja": "～なしで"
     },
     {
+        "en": "at one's earliest convenience",
+        "ja": "～の都合が付き次第"
+    },
+    {
         "en": "at present",
         "ja": "現在では"
+    },
+    {
+        "en": "at random",
+        "ja": "無作為に"
     },
     {
         "en": "at the earliest",
@@ -168,6 +204,14 @@
         "ja": "現時点では"
     },
     {
+        "en": "at times",
+        "ja": "時々"
+    },
+    {
+        "en": "back and forth",
+        "ja": "行ったり来たり"
+    },
+    {
         "en": "back then",
         "ja": "当時"
     },
@@ -180,8 +224,16 @@
         "ja": "～の前に"
     },
     {
+        "en": "before long",
+        "ja": "すぐに"
+    },
+    {
         "en": "behind (sth)",
         "ja": "～の裏に"
+    },
+    {
+        "en": "behind one's back",
+        "ja": "～のいない所で"
     },
     {
         "en": "besides (sth)",
@@ -194,6 +246,10 @@
     {
         "en": "by all means",
         "ja": "何としても、必ず"
+    },
+    {
+        "en": "by and large",
+        "ja": "全般的に"
     },
     {
         "en": "by chance",
@@ -212,6 +268,10 @@
         "ja": "暗記して"
     },
     {
+        "en": "by means of (sth)",
+        "ja": "～によって"
+    },
+    {
         "en": "by mistake",
         "ja": "間違って"
     },
@@ -222,6 +282,10 @@
     {
         "en": "by the end of (sth)",
         "ja": "～の終わりまでには"
+    },
+    {
+        "en": "by the hour",
+        "ja": "時間単位で"
     },
     {
         "en": "by the way",
@@ -288,6 +352,10 @@
         "ja": "まず第一に"
     },
     {
+        "en": "for a change",
+        "ja": "気分転換に"
+    },
+    {
         "en": "for a while",
         "ja": "しばらくの間"
     },
@@ -298,6 +366,10 @@
     {
         "en": "for all (sth)",
         "ja": "～という事実があるにもかかわらず"
+    },
+    {
+        "en": "for certain",
+        "ja": "はっきりと"
     },
     {
         "en": "for example",
@@ -320,6 +392,10 @@
         "ja": "例えば"
     },
     {
+        "en": "for long",
+        "ja": "長い間"
+    },
+    {
         "en": "for nothing",
         "ja": "無料で"
     },
@@ -328,8 +404,16 @@
         "ja": "とりあえず"
     },
     {
+        "en": "for short",
+        "ja": "略して"
+    },
+    {
         "en": "for some reason",
         "ja": "なんだか"
+    },
+    {
+        "en": "for sure",
+        "ja": "間違いなく、確かに"
     },
     {
         "en": "for the benefit of (sb)",
@@ -436,6 +520,10 @@
         "ja": "もしよろしければ"
     },
     {
+        "en": "in a row",
+        "ja": "立て続けに、連続して"
+    },
+    {
         "en": "in a sense",
         "ja": "ある意味で"
     },
@@ -498,6 +586,14 @@
     {
         "en": "in contrast",
         "ja": "それに比べて"
+    },
+    {
+        "en": "in contrast to (sth)",
+        "ja": "～とは対照的に"
+    },
+    {
+        "en": "in depth",
+        "ja": "徹底的に"
     },
     {
         "en": "in detail",
@@ -584,6 +680,14 @@
         "ja": "原則として"
     },
     {
+        "en": "in private",
+        "ja": "内密に、２人きりで"
+    },
+    {
+        "en": "in public",
+        "ja": "人前で、公の場で"
+    },
+    {
         "en": "in recognition of (sb)",
         "ja": "～をたたえて"
     },
@@ -636,8 +740,16 @@
         "ja": "その場合には"
     },
     {
+        "en": "in the distance",
+        "ja": "遠くに"
+    },
+    {
         "en": "in the face of (sth)",
         "ja": "～に直面したにもかかわらず"
+    },
+    {
+        "en": "in the first place",
+        "ja": "そもそも、元々は"
     },
     {
         "en": "in the long run",
@@ -744,6 +856,10 @@
         "ja": "～のために"
     },
     {
+        "en": "on and off",
+        "ja": "時折"
+    },
+    {
         "en": "on average",
         "ja": "平均して"
     },
@@ -778,6 +894,10 @@
     {
         "en": "on purpose",
         "ja": "わざと"
+    },
+    {
+        "en": "on schedule",
+        "ja": "予定通りに"
     },
     {
         "en": "on second thought",
@@ -818,6 +938,14 @@
     {
         "en": "once in a while",
         "ja": "時々"
+    },
+    {
+        "en": "once upon a time",
+        "ja": "昔々"
+    },
+    {
+        "en": "one by one",
+        "ja": "１つずつ"
     },
     {
         "en": "opposite (sth)",
