@@ -60,6 +60,10 @@
         "ja": "振付師"
     },
     {
+        "en": "civil engineer",
+        "ja": "土木技師"
+    },
+    {
         "en": "concierge",
         "ja": "コンシェルジュ"
     },
@@ -72,16 +76,32 @@
         "ja": "特派員"
     },
     {
+        "en": "courier",
+        "ja": "宅配業者"
+    },
+    {
         "en": "curator",
         "ja": "学芸員"
+    },
+    {
+        "en": "dentist",
+        "ja": "歯科医"
     },
     {
         "en": "editor",
         "ja": "編集者"
     },
     {
+        "en": "electrician",
+        "ja": "電気屋"
+    },
+    {
         "en": "flight attendant",
         "ja": "フライトアテンダント"
+    },
+    {
+        "en": "florist",
+        "ja": "花屋"
     },
     {
         "en": "government employee",
@@ -96,6 +116,10 @@
         "ja": "客室係"
     },
     {
+        "en": "investor",
+        "ja": "投資家"
+    },
+    {
         "en": "journalist",
         "ja": "ジャーナリスト"
     },
@@ -106,6 +130,10 @@
     {
         "en": "librarian",
         "ja": "図書館員"
+    },
+    {
+        "en": "mechanic",
+        "ja": "機械工"
     },
     {
         "en": "novelist",
@@ -120,8 +148,20 @@
         "ja": "弁護士補助員"
     },
     {
+        "en": "pharmacist",
+        "ja": "薬剤師"
+    },
+    {
         "en": "photographer",
         "ja": "写真家"
+    },
+    {
+        "en": "plumber",
+        "ja": "配管工"
+    },
+    {
+        "en": "printer",
+        "ja": "印刷業者"
     },
     {
         "en": "professor",
@@ -152,12 +192,24 @@
         "ja": "広報担当者"
     },
     {
+        "en": "surgeon",
+        "ja": "外科医"
+    },
+    {
         "en": "tour guide",
         "ja": "ツアーガイド"
     },
     {
         "en": "travel agent",
         "ja": "旅行業者"
+    },
+    {
+        "en": "veterinarian",
+        "ja": "獣医"
+    },
+    {
+        "en": "welder",
+        "ja": "溶接工"
     },
     {
         "en": "",
