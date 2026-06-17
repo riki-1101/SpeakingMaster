@@ -508,10 +508,6 @@
         "ja": "建設"
     },
     {
-        "en": "construction company",
-        "ja": "建設会社"
-    },
-    {
         "en": "consultant",
         "ja": "コンサルタント"
     },
@@ -1272,6 +1268,10 @@
         "ja": "制約"
     },
     {
+        "en": "limited edition",
+        "ja": "限定版"
+    },
+    {
         "en": "lobby",
         "ja": "玄関ホール"
     },
@@ -1326,10 +1326,6 @@
     {
         "en": "manual",
         "ja": "説明書"
-    },
-    {
-        "en": "manufacture",
-        "ja": "製造業"
     },
     {
         "en": "manuscript",
@@ -1574,6 +1570,10 @@
     {
         "en": "phase",
         "ja": "段階"
+    },
+    {
+        "en": "phenomenon",
+        "ja": "現象"
     },
     {
         "en": "plan",
@@ -1894,14 +1894,6 @@
     {
         "en": "résumé",
         "ja": "履歴書、概要"
-    },
-    {
-        "en": "retail outlet",
-        "ja": "小売店"
-    },
-    {
-        "en": "retailer",
-        "ja": "小売店"
     },
     {
         "en": "retirement party",
@@ -2226,6 +2218,10 @@
     {
         "en": "uniform",
         "ja": "制服"
+    },
+    {
+        "en": "urge",
+        "ja": "野心"
     },
     {
         "en": "urgency",
