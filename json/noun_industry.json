@@ -4,6 +4,10 @@
         "ja": "航空会社"
     },
     {
+        "en": "bakery",
+        "ja": "パン屋"
+    },
+    {
         "en": "car dealership",
         "ja": "自動車販売店"
     },
@@ -14,6 +18,10 @@
     {
         "en": "drug store",
         "ja": "薬局"
+    },
+    {
+        "en": "electric company",
+        "ja": "電力会社"
     },
     {
         "en": "hardware store",
@@ -34,6 +42,10 @@
     {
         "en": "moving company",
         "ja": "引っ越し業者"
+    },
+    {
+        "en": "newspaper company",
+        "ja": "新聞社"
     },
     {
         "en": "nursing home",
@@ -62,6 +74,14 @@
     {
         "en": "travel agency",
         "ja": "旅行代理店"
+    },
+    {
+        "en": "TV station",
+        "ja": "テレビ局"
+    },
+    {
+        "en": "water supplier",
+        "ja": "給水業者"
     },
     {
         "en": "",

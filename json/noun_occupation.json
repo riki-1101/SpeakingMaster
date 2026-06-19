@@ -12,6 +12,10 @@
         "ja": "女優"
     },
     {
+        "en": "administrator",
+        "ja": "経営者"
+    },
+    {
         "en": "ambassador",
         "ja": "大使"
     },
@@ -26,6 +30,10 @@
     {
         "en": "architect",
         "ja": "建築家"
+    },
+    {
+        "en": "athlete",
+        "ja": "運動選手"
     },
     {
         "en": "attorney",
@@ -56,12 +64,20 @@
         "ja": "化学者"
     },
     {
+        "en": "chef",
+        "ja": "料理長"
+    },
+    {
         "en": "choreographer",
         "ja": "振付師"
     },
     {
         "en": "civil engineer",
         "ja": "土木技師"
+    },
+    {
+        "en": "clerk",
+        "ja": "事務員、店員"
     },
     {
         "en": "concierge",
@@ -72,12 +88,28 @@
         "ja": "車掌、指揮者"
     },
     {
+        "en": "consultant",
+        "ja": "コンサルタント"
+    },
+    {
+        "en": "contractor",
+        "ja": "請負業者"
+    },
+    {
         "en": "correspondent",
         "ja": "特派員"
     },
     {
+        "en": "counselor",
+        "ja": "相談員"
+    },
+    {
         "en": "courier",
         "ja": "宅配業者"
+    },
+    {
+        "en": "critic",
+        "ja": "批評家"
     },
     {
         "en": "curator",
@@ -88,12 +120,32 @@
         "ja": "歯科医"
     },
     {
+        "en": "diplomat",
+        "ja": "外交官"
+    },
+    {
+        "en": "distributor",
+        "ja": "卸売業者"
+    },
+    {
         "en": "editor",
         "ja": "編集者"
     },
     {
         "en": "electrician",
-        "ja": "電気屋"
+        "ja": "電気技師"
+    },
+    {
+        "en": "engineer",
+        "ja": "エンジニア、技術者"
+    },
+    {
+        "en": "entrepreneur",
+        "ja": "起業家"
+    },
+    {
+        "en": "executive",
+        "ja": "重役、経営幹部"
     },
     {
         "en": "flight attendant",
@@ -128,12 +180,24 @@
         "ja": "弁護士"
     },
     {
+        "en": "lecturer",
+        "ja": "講師"
+    },
+    {
         "en": "librarian",
         "ja": "図書館員"
     },
     {
+        "en": "mayor",
+        "ja": "市長"
+    },
+    {
         "en": "mechanic",
-        "ja": "機械工"
+        "ja": "機械工、整備士"
+    },
+    {
+        "en": "merchant",
+        "ja": "商店主"
     },
     {
         "en": "novelist",
@@ -156,6 +220,10 @@
         "ja": "写真家"
     },
     {
+        "en": "physician",
+        "ja": "内科医"
+    },
+    {
         "en": "plumber",
         "ja": "配管工"
     },
@@ -173,7 +241,7 @@
     },
     {
         "en": "receptionist",
-        "ja": "受付"
+        "ja": "受付係"
     },
     {
         "en": "scientist",
@@ -192,8 +260,16 @@
         "ja": "広報担当者"
     },
     {
+        "en": "store clerk",
+        "ja": "店員"
+    },
+    {
         "en": "surgeon",
         "ja": "外科医"
+    },
+    {
+        "en": "technician",
+        "ja": "技術者"
     },
     {
         "en": "tour guide",
