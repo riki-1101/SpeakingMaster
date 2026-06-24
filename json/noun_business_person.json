@@ -29,11 +29,15 @@
     },
     {
         "en": "candidate",
-        "ja": "志願者"
+        "ja": "志願者、候補者"
     },
     {
         "en": "chairman",
         "ja": "会長"
+    },
+    {
+        "en": "chief executive officer",
+        "ja": "最高経営責任者（CEO）"
     },
     {
         "en": "client",
@@ -98,6 +102,10 @@
     {
         "en": "executive",
         "ja": "重役"
+    },
+    {
+        "en": "executive assistant",
+        "ja": "役員補佐"
     },
     {
         "en": "expert",
@@ -176,6 +184,14 @@
         "ja": "社長"
     },
     {
+        "en": "project manager",
+        "ja": "プロジェクトマネージャー"
+    },
+    {
+        "en": "prospective client",
+        "ja": "見込みのある顧客"
+    },
+    {
         "en": "receptionist",
         "ja": "受付係"
     },
@@ -189,7 +205,7 @@
     },
     {
         "en": "sales representative",
-        "ja": "営業担当"
+        "ja": "営業担当、販売員"
     },
     {
         "en": "secretary",
@@ -214,6 +230,10 @@
     {
         "en": "store manager",
         "ja": "店長"
+    },
+    {
+        "en": "subordinate",
+        "ja": "部下"
     },
     {
         "en": "superintendent",

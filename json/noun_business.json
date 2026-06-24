@@ -392,6 +392,10 @@
         "ja": "部品"
     },
     {
+        "en": "comprehension",
+        "ja": "理解力"
+    },
+    {
         "en": "compromise",
         "ja": "妥協"
     },
@@ -1016,6 +1020,10 @@
         "ja": "指示"
     },
     {
+        "en": "instructions",
+        "ja": "説明書"
+    },
+    {
         "en": "insurance",
         "ja": "保険"
     },
@@ -1042,6 +1050,10 @@
     {
         "en": "introduction",
         "ja": "導入"
+    },
+    {
+        "en": "intuition",
+        "ja": "直感"
     },
     {
         "en": "invention",
@@ -1186,6 +1198,10 @@
     {
         "en": "manegerial role",
         "ja": "管理職"
+    },
+    {
+        "en": "manner",
+        "ja": "マナー"
     },
     {
         "en": "manual",
@@ -1408,6 +1424,10 @@
         "ja": "観点"
     },
     {
+        "en": "petition",
+        "ja": "嘆願書"
+    },
+    {
         "en": "phase",
         "ja": "段階"
     },
@@ -1424,8 +1444,12 @@
         "ja": "方針"
     },
     {
+        "en": "portfolio",
+        "ja": "ポートフォリオ"
+    },
+    {
         "en": "position",
-        "ja": "役職、地位"
+        "ja": "役職、地位、職位"
     },
     {
         "en": "possibility",
@@ -1478,6 +1502,10 @@
     {
         "en": "privilege",
         "ja": "特権"
+    },
+    {
+        "en": "probation",
+        "ja": "試用期間"
     },
     {
         "en": "problem",
@@ -1592,6 +1620,10 @@
         "ja": "ノルマ"
     },
     {
+        "en": "quote",
+        "ja": "見積もり、引用"
+    },
+    {
         "en": "rate",
         "ja": "率"
     },
@@ -1652,12 +1684,24 @@
         "ja": "関係"
     },
     {
+        "en": "relocation",
+        "ja": "移転"
+    },
+    {
+        "en": "remedy",
+        "ja": "改善策、治療法"
+    },
+    {
         "en": "renewal",
         "ja": "更新"
     },
     {
         "en": "renovation",
         "ja": "改装"
+    },
+    {
+        "en": "rental agreement",
+        "ja": "賃貸契約書"
     },
     {
         "en": "replacement",
@@ -1980,6 +2024,10 @@
         "ja": "トレンド、流行"
     },
     {
+        "en": "trial product",
+        "ja": "試作品"
+    },
+    {
         "en": "turnout",
         "ja": "参加者数"
     },
@@ -2038,6 +2086,14 @@
     {
         "en": "wage",
         "ja": "賃金"
+    },
+    {
+        "en": "waiting area",
+        "ja": "待合所"
+    },
+    {
+        "en": "waiting room",
+        "ja": "待合室"
     },
     {
         "en": "warehouse",
