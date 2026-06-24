@@ -88,20 +88,12 @@
         "ja": "分析"
     },
     {
-        "en": "analyst",
-        "ja": "分析者"
-    },
-    {
         "en": "anniversary",
         "ja": "記念日"
     },
     {
         "en": "announcement",
         "ja": "発表"
-    },
-    {
-        "en": "applicant",
-        "ja": "応募者"
     },
     {
         "en": "application",
@@ -118,10 +110,6 @@
     {
         "en": "appraisal",
         "ja": "査定"
-    },
-    {
-        "en": "apprentice",
-        "ja": "実習生、見習い"
     },
     {
         "en": "apprenticeship",
@@ -160,14 +148,6 @@
         "ja": "業務、課題"
     },
     {
-        "en": "assistant",
-        "ja": "アシスタント"
-    },
-    {
-        "en": "associate",
-        "ja": "同僚"
-    },
-    {
         "en": "assumption",
         "ja": "前提条件"
     },
@@ -176,20 +156,12 @@
         "ja": "出席、出席数"
     },
     {
-        "en": "attendee",
-        "ja": "参加者"
-    },
-    {
         "en": "attention",
         "ja": "注意、注目"
     },
     {
         "en": "attire",
         "ja": "服装"
-    },
-    {
-        "en": "audience",
-        "ja": "聴衆"
     },
     {
         "en": "auditorium",
@@ -288,10 +260,6 @@
         "ja": "キャンペーン"
     },
     {
-        "en": "candidate",
-        "ja": "志願者"
-    },
-    {
         "en": "capability",
         "ja": "能力"
     },
@@ -312,10 +280,6 @@
         "ja": "カートリッジ"
     },
     {
-        "en": "cashier",
-        "ja": "レジ係"
-    },
-    {
         "en": "catering",
         "ja": "仕出し業"
     },
@@ -330,10 +294,6 @@
     {
         "en": "certificate",
         "ja": "証明書"
-    },
-    {
-        "en": "chairman",
-        "ja": "会長"
     },
     {
         "en": "charge",
@@ -368,16 +328,8 @@
         "ja": "整理"
     },
     {
-        "en": "client",
-        "ja": "顧客"
-    },
-    {
         "en": "clue",
         "ja": "手がかり"
-    },
-    {
-        "en": "colleague",
-        "ja": "同僚"
     },
     {
         "en": "commission",
@@ -398,14 +350,6 @@
     {
         "en": "community",
         "ja": "地域社会"
-    },
-    {
-        "en": "companion",
-        "ja": "同伴者"
-    },
-    {
-        "en": "company founder",
-        "ja": "会社設立者"
     },
     {
         "en": "company outing",
@@ -508,16 +452,8 @@
         "ja": "建設"
     },
     {
-        "en": "consultant",
-        "ja": "コンサルタント"
-    },
-    {
         "en": "consultation",
         "ja": "相談"
-    },
-    {
-        "en": "consumer",
-        "ja": "消費者"
     },
     {
         "en": "consumption",
@@ -564,10 +500,6 @@
         "ja": "著作権"
     },
     {
-        "en": "corporate client",
-        "ja": "法人客"
-    },
-    {
         "en": "correction",
         "ja": "訂正、修正"
     },
@@ -580,14 +512,6 @@
         "ja": "議会"
     },
     {
-        "en": "co-founder",
-        "ja": "共同創業者"
-    },
-    {
-        "en": "co-worker",
-        "ja": "仕事仲間、同僚"
-    },
-    {
         "en": "credential",
         "ja": "資格、経歴"
     },
@@ -598,10 +522,6 @@
     {
         "en": "cubicle",
         "ja": "個別の作業スペース"
-    },
-    {
-        "en": "customer",
-        "ja": "顧客"
     },
     {
         "en": "customer satisfaction",
@@ -688,10 +608,6 @@
         "ja": "部門、部署"
     },
     {
-        "en": "department head",
-        "ja": "部門長"
-    },
-    {
         "en": "deposit",
         "ja": "手付金"
     },
@@ -722,10 +638,6 @@
     {
         "en": "direction",
         "ja": "方向、指示"
-    },
-    {
-        "en": "director",
-        "ja": "担当責任者、取締役、監督"
     },
     {
         "en": "directory",
@@ -800,14 +712,6 @@
         "ja": "添付ファイル"
     },
     {
-        "en": "emcee",
-        "ja": "司会進行役"
-    },
-    {
-        "en": "employee",
-        "ja": "従業員"
-    },
-    {
         "en": "employee orientation",
         "ja": "新入社員研修"
     },
@@ -818,10 +722,6 @@
     {
         "en": "employee training",
         "ja": "従業員研修"
-    },
-    {
-        "en": "employer",
-        "ja": "雇い主"
     },
     {
         "en": "endeavor",
@@ -884,10 +784,6 @@
         "ja": "例"
     },
     {
-        "en": "executive",
-        "ja": "重役"
-    },
-    {
         "en": "exit",
         "ja": "出口"
     },
@@ -906,10 +802,6 @@
     {
         "en": "experience",
         "ja": "経験"
-    },
-    {
-        "en": "expert",
-        "ja": "専門家"
     },
     {
         "en": "expertise",
@@ -996,10 +888,6 @@
         "ja": "基礎"
     },
     {
-        "en": "founder",
-        "ja": "創業者"
-    },
-    {
         "en": "freelance",
         "ja": "フリーランス"
     },
@@ -1072,10 +960,6 @@
         "ja": "影響"
     },
     {
-        "en": "importer",
-        "ja": "輸入元、輸入業者"
-    },
-    {
         "en": "income",
         "ja": "収入"
     },
@@ -1132,20 +1016,12 @@
         "ja": "指示"
     },
     {
-        "en": "instructor",
-        "ja": "インストラクター"
-    },
-    {
         "en": "insurance",
         "ja": "保険"
     },
     {
         "en": "intermission",
         "ja": "休憩時間"
-    },
-    {
-        "en": "intern",
-        "ja": "見習い"
     },
     {
         "en": "internship",
@@ -1192,10 +1068,6 @@
         "ja": "問題点"
     },
     {
-        "en": "janitor",
-        "ja": "管理人"
-    },
-    {
         "en": "job application",
         "ja": "求人応募"
     },
@@ -1220,6 +1092,10 @@
         "ja": "開始"
     },
     {
+        "en": "kit",
+        "ja": "道具"
+    },
+    {
         "en": "knowledge",
         "ja": "知識"
     },
@@ -1230,10 +1106,6 @@
     {
         "en": "laboratory",
         "ja": "実験室"
-    },
-    {
-        "en": "landlord",
-        "ja": "土地所有者"
     },
     {
         "en": "lack",
@@ -1260,10 +1132,6 @@
         "ja": "法的責任"
     },
     {
-        "en": "liaison",
-        "ja": "連絡係"
-    },
-    {
         "en": "limitation",
         "ja": "制約"
     },
@@ -1282,10 +1150,6 @@
     {
         "en": "logo",
         "ja": "ロゴ"
-    },
-    {
-        "en": "loyal customer",
-        "ja": "常連客"
     },
     {
         "en": "loyalty card",
@@ -1368,10 +1232,6 @@
         "ja": "会議"
     },
     {
-        "en": "mentor",
-        "ja": "指導者"
-    },
-    {
         "en": "merchandise",
         "ja": "商品"
     },
@@ -1408,10 +1268,6 @@
         "ja": "独占"
     },
     {
-        "en": "newcomer",
-        "ja": "新人"
-    },
-    {
         "en": "newsletter",
         "ja": "社内報"
     },
@@ -1422,10 +1278,6 @@
     {
         "en": "notion",
         "ja": "考え"
-    },
-    {
-        "en": "novice",
-        "ja": "初心者"
     },
     {
         "en": "objective",
@@ -1500,10 +1352,6 @@
         "ja": "残業"
     },
     {
-        "en": "overtimer",
-        "ja": "残業する人"
-    },
-    {
         "en": "overview",
         "ja": "概要"
     },
@@ -1518,10 +1366,6 @@
     {
         "en": "paperwork",
         "ja": "文書業務、書類作業"
-    },
-    {
-        "en": "participant",
-        "ja": "参加者"
     },
     {
         "en": "patent",
@@ -1546,10 +1390,6 @@
     {
         "en": "period",
         "ja": "期間"
-    },
-    {
-        "en": "permanent employee",
-        "ja": "正社員"
     },
     {
         "en": "personal object",
@@ -1580,10 +1420,6 @@
         "ja": "計画"
     },
     {
-        "en": "plant manager",
-        "ja": "工場長"
-    },
-    {
         "en": "policy",
         "ja": "方針"
     },
@@ -1598,10 +1434,6 @@
     {
         "en": "post",
         "ja": "役職、投稿"
-    },
-    {
-        "en": "potential client",
-        "ja": "見込み客"
     },
     {
         "en": "practice session",
@@ -1620,6 +1452,10 @@
         "ja": "敷地"
     },
     {
+        "en": "preparation",
+        "ja": "準備"
+    },
+    {
         "en": "prerequisite",
         "ja": "前提条件"
     },
@@ -1630,10 +1466,6 @@
     {
         "en": "presentation",
         "ja": "プレゼンテーション"
-    },
-    {
-        "en": "president",
-        "ja": "社長"
     },
     {
         "en": "president's office",
@@ -1780,16 +1612,8 @@
         "ja": "受付"
     },
     {
-        "en": "receptionist",
-        "ja": "受付係"
-    },
-    {
         "en": "recess",
         "ja": "休憩"
-    },
-    {
-        "en": "recipient",
-        "ja": "受取人"
     },
     {
         "en": "recognition dinner",
@@ -1846,10 +1670,6 @@
     {
         "en": "report",
         "ja": "報告書"
-    },
-    {
-        "en": "representative",
-        "ja": "代表者"
     },
     {
         "en": "reputation",
@@ -1928,10 +1748,6 @@
         "ja": "販売予測"
     },
     {
-        "en": "sales representative",
-        "ja": "営業担当"
-    },
-    {
         "en": "schedule",
         "ja": "予定"
     },
@@ -1942,10 +1758,6 @@
     {
         "en": "scope",
         "ja": "範囲"
-    },
-    {
-        "en": "secretary",
-        "ja": "秘書"
     },
     {
         "en": "security",
@@ -1970,10 +1782,6 @@
     {
         "en": "service charge",
         "ja": "サービス料"
-    },
-    {
-        "en": "shareholder",
-        "ja": "株主"
     },
     {
         "en": "shelter",
@@ -2020,10 +1828,6 @@
         "ja": "解決策"
     },
     {
-        "en": "specialist",
-        "ja": "専門家"
-    },
-    {
         "en": "specialty",
         "ja": "専門"
     },
@@ -2034,14 +1838,6 @@
     {
         "en": "speculation",
         "ja": "推測"
-    },
-    {
-        "en": "sponsor",
-        "ja": "スポンサー"
-    },
-    {
-        "en": "staff",
-        "ja": "職員"
     },
     {
         "en": "staircase",
@@ -2058,10 +1854,6 @@
     {
         "en": "storage",
         "ja": "貯蔵、倉庫"
-    },
-    {
-        "en": "store manager",
-        "ja": "店長"
     },
     {
         "en": "strategy",
@@ -2090,14 +1882,6 @@
     {
         "en": "summary",
         "ja": "要約"
-    },
-    {
-        "en": "superintendent",
-        "ja": "監督者"
-    },
-    {
-        "en": "supervisor",
-        "ja": "監督者"
     },
     {
         "en": "supply room",
@@ -2134,14 +1918,6 @@
     {
         "en": "technology",
         "ja": "技術"
-    },
-    {
-        "en": "temporary employee",
-        "ja": "派遣社員"
-    },
-    {
-        "en": "tenant",
-        "ja": "賃借人"
     },
     {
         "en": "tenure",

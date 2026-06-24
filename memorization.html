@@ -11,11 +11,17 @@
     <main id="home">
         <h1>暗記カード</h1>
         <section>
-            <h2>Words</h2>
-            <ul id="list">
-                <li id="noun_business">名詞：ビジネス</li>
-                <li id="noun_occupation">名詞：職業</li>
-                <li id="noun_industry">名詞：業種</li>
+            <h2>名詞</h2>
+            <ul class="list">
+                <li id="noun_business">ビジネスで用いられる語</li>
+                <li id="noun_business_person">ビジネスでの人に関する語</li>
+                <li id="noun_occupation">職業</li>
+                <li id="noun_industry">業種</li>
+            </ul>
+        </section>
+        <section>
+            <h2>その他</h2>
+            <ul class="list">
                 <li id="verb_usage_infinitives">動詞の語法：不定詞</li>
                 <li id="adverbial_expressions">副詞表現</li>
                 <li id="adjective">Adjectives</li>
@@ -29,14 +35,15 @@
     <script src="js/script.js"></script>
     <script>
         document.addEventListener("DOMContentLoaded", () => {
-            const List = document.getElementById("list");
-            List.addEventListener("click", (e) => {
-                // li がクリックされたときだけ処理
-                if (e.target.tagName === "LI") {
-                    const Id = e.target.id;
-                    localStorage.setItem("selectedId_memorization", Id);  // ローカルストレージに保存
-                    window.location.href = "memorization/display.html";  // ページ遷移
-                }
+            const lists = document.querySelectorAll(".list");
+            lists.forEach(list => {
+                list.addEventListener("click", (e) => {
+                    if (e.target.tagName === "LI") {
+                        const id = e.target.id;
+                        localStorage.setItem("selectedId_memorization", id);
+                        window.location.href = "memorization/display.html";
+                    }
+                });
             });
         });
     </script>
