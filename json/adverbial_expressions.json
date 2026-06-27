@@ -220,6 +220,10 @@
         "ja": "当時"
     },
     {
+        "en": "back to back",
+        "ja": "背中合わせで"
+    },
+    {
         "en": "because of (sth)",
         "ja": "～のせいで"
     },
@@ -352,6 +356,10 @@
         "ja": "～を除いて"
     },
     {
+        "en": "face to face",
+        "ja": "向かい合って"
+    },
+    {
         "en": "first of all",
         "ja": "まず第一に"
     },
@@ -464,8 +472,16 @@
         "ja": "一般的に言えば"
     },
     {
+        "en": "Given (sth)",
+        "ja": "～を考慮すると、～を踏まえると"
+    },
+    {
         "en": "Going back to (sth)",
         "ja": "～に戻ると、～に話を戻すと"
+    },
+    {
+        "en": "hand in hand",
+        "ja": "手を繋いで"
     },
     {
         "en": "here and there",
@@ -608,6 +624,10 @@
         "ja": "詳細に"
     },
     {
+        "en": "in double file",
+        "ja": "二列で"
+    },
+    {
         "en": "in earnest",
         "ja": "真剣に"
     },
@@ -642,6 +662,10 @@
     {
         "en": "in light of (sth)",
         "ja": "～を踏まえて"
+    },
+    {
+        "en": "in line with (sth)",
+        "ja": "～に沿って、従って"
     },
     {
         "en": "in my opinion",
@@ -730,6 +754,10 @@
     {
         "en": "in short",
         "ja": "要するに"
+    },
+    {
+        "en": "in single file",
+        "ja": "一列で"
     },
     {
         "en": "in spite of (sth)",
