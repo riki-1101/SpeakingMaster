@@ -96,6 +96,14 @@
         "ja": "発表"
     },
     {
+        "en": "annual income report",
+        "ja": "年次収入報告書"
+    },
+    {
+        "en": "annual revenue report",
+        "ja": "年次収入報告書"
+    },
+    {
         "en": "application",
         "ja": "申し込み、応募書類"
     },
@@ -250,6 +258,14 @@
     {
         "en": "business hours",
         "ja": "営業時間"
+    },
+    {
+        "en": "business license",
+        "ja": "事業許可証"
+    },
+    {
+        "en": "business permit",
+        "ja": "事業許可証"
     },
     {
         "en": "cafeteria",
@@ -540,6 +556,10 @@
         "ja": "顧客調査"
     },
     {
+        "en": "customer traffic report",
+        "ja": "入店客数報告書"
+    },
+    {
         "en": "damage",
         "ja": "損害"
     },
@@ -798,6 +818,10 @@
     {
         "en": "expense",
         "ja": "費用"
+    },
+    {
+        "en": "expenses report",
+        "ja": "経費報告書"
     },
     {
         "en": "expenditure",
@@ -1140,6 +1164,14 @@
         "ja": "配置"
     },
     {
+        "en": "lease contract",
+        "ja": "リース契約"
+    },
+    {
+        "en": "leasing permit",
+        "ja": "リースの許可証"
+    },
+    {
         "en": "liability",
         "ja": "法的責任"
     },
@@ -1276,6 +1308,10 @@
         "ja": "雑費"
     },
     {
+        "en": "miscellaneous expense report",
+        "ja": "雑費報告書"
+    },
+    {
         "en": "mission",
         "ja": "任務"
     },
@@ -1410,6 +1446,10 @@
     {
         "en": "personal object",
         "ja": "私物"
+    },
+    {
+        "en": "permit",
+        "ja": "許可証"
     },
     {
         "en": "personnel",
